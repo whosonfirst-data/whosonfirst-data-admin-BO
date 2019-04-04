@@ -1,0 +1,67 @@
+{
+  "id": 1327140241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.35,-16.36667,-68.35,-16.36667",
+    "geom:latitude":-16.36667,
+    "geom:longitude":-68.35,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chunuave",
+    "gn:country_code":"BO",
+    "gn:dem":4135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920203,
+    "gn:latitude":-16.36667,
+    "gn:longitude":-68.35,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Chu\u00f1uave",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421197575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920203
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1fc57abec6e66fe38adbcfb8cecf00bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197575,
+            "locality_id":1327140241,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1327140241,
+    "wof:lastmodified":1536601584,
+    "wof:name":"Chunuave",
+    "wof:parent_id":421197575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.35,
+    -16.36667000000001,
+    -68.35,
+    -16.36667000000001
+],
+  "geometry": {"coordinates":[-68.34999999999999,-16.36667000000001],"type":"Point"}
+}

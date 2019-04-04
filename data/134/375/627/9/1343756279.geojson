@@ -1,0 +1,72 @@
+{
+  "id": 1343756279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.16643,-21.17317,-66.16643,-21.17317",
+    "geom:latitude":-21.17317,
+    "geom:longitude":-66.16643,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Portugalete",
+    "gn:country_code":"BO",
+    "gn:dem":4194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907628,
+    "gn:latitude":-21.17317,
+    "gn:longitude":-66.16643,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Portugalete",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tortugalete Pacheco",
+        "Portugaleti",
+        "Portugalete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907628
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c145d5dc68483d1a230f3f41cbe9c5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":1343756279,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1343756279,
+    "wof:lastmodified":1537587982,
+    "wof:name":"Portugalete",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.16643,
+    -21.17317,
+    -66.16643,
+    -21.17317
+],
+  "geometry": {"coordinates":[-66.16643000000001,-21.17317],"type":"Point"}
+}

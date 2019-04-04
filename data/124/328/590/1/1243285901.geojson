@@ -1,0 +1,72 @@
+{
+  "id": 1243285901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.75,-10.01667,-66.75,-10.01667",
+    "geom:latitude":-10.01667,
+    "geom:longitude":-66.75,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Belen",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923259,
+    "gn:latitude":-10.01667,
+    "gn:longitude":-66.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bel\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belem",
+        "Bel\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923259
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f910f4162a93339c88a664838112738d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008329,
+            "locality_id":1243285901,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1243285901,
+    "wof:lastmodified":1537588145,
+    "wof:name":"Belen",
+    "wof:parent_id":1092008329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.75,
+    -10.01667,
+    -66.75,
+    -10.01667
+],
+  "geometry": {"coordinates":[-66.75,-10.01667],"type":"Point"}
+}

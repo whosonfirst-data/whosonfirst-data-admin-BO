@@ -1,0 +1,71 @@
+{
+  "id": 1310498459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.11813,-18.88677,-66.11813,-18.88677",
+    "geom:latitude":-18.88677,
+    "geom:longitude":-66.11813,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Castillohuma",
+    "gn:country_code":"BO",
+    "gn:dem":3510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921799,
+    "gn:latitude":-18.88677,
+    "gn:longitude":-66.11813,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Castillohuma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Castillo Uma",
+        "Castillohuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921799
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0bcc3958788997feb372efefb6ce7978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008791,
+            "locality_id":1310498459,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1310498459,
+    "wof:lastmodified":1537588125,
+    "wof:name":"Castillohuma",
+    "wof:parent_id":1092008791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.11813000000001,
+    -18.88677,
+    -66.11813000000001,
+    -18.88677
+],
+  "geometry": {"coordinates":[-66.11813000000001,-18.88677],"type":"Point"}
+}

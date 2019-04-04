@@ -1,0 +1,73 @@
+{
+  "id": 1226342667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.75,-15.41667,-67.75,-15.41667",
+    "geom:latitude":-15.41667,
+    "geom:longitude":-67.75,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Isupuri",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913954,
+    "gn:latitude":-15.41667,
+    "gn:longitude":-67.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Isupuri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Isapur",
+        "Isapuri",
+        "Isupuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421187929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913954
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9f9f753237399083ef9e81f683081bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187929,
+            "locality_id":1226342667,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1226342667,
+    "wof:lastmodified":1537588054,
+    "wof:name":"Isupuri",
+    "wof:parent_id":421187929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.75,
+    -15.41667,
+    -67.75,
+    -15.41667
+],
+  "geometry": {"coordinates":[-67.75,-15.41667],"type":"Point"}
+}

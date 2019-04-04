@@ -1,0 +1,67 @@
+{
+  "id": 1327025417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.0,-16.71667,-61.0,-16.71667",
+    "geom:latitude":-16.71667,
+    "geom:longitude":-61.0,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Comunidad Cotoca",
+    "gn:country_code":"BO",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919615,
+    "gn:latitude":-16.71667,
+    "gn:longitude":-61.0,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Comunidad Cotoca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919615
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"562b7d2aa5ebb58e77e0ca229a070a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1327025417,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1327025417,
+    "wof:lastmodified":1536771096,
+    "wof:name":"Comunidad Cotoca",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.0,
+    -16.71667,
+    -61.0,
+    -16.71667
+],
+  "geometry": {"coordinates":[-61.0,-16.71667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327128689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.7,-22.13333,-64.7,-22.13333",
+    "geom:latitude":-22.13333,
+    "geom:longitude":-64.7,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"La Tiendita",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911694,
+    "gn:latitude":-22.13333,
+    "gn:longitude":-64.7,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Tiendita",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiendita",
+        "La Tiendita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421182443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911694
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"20973c76a61f11d959a97eaa4d7810c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182443,
+            "locality_id":1327128689,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1327128689,
+    "wof:lastmodified":1537588028,
+    "wof:name":"La Tiendita",
+    "wof:parent_id":421182443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.7,
+    -22.13333,
+    -64.7,
+    -22.13333
+],
+  "geometry": {"coordinates":[-64.7,-22.13333],"type":"Point"}
+}

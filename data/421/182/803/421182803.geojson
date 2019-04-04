@@ -1,0 +1,75 @@
+{
+  "id": 421182803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.45272,-17.181057,-68.45272,-17.181057",
+    "geom:latitude":-17.181057,
+    "geom:longitude":-68.45272,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Coro Coro",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":5,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":991529,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":55967979,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55967979,
+        "qs:id":991529
+    },
+    "wof:country":"BO",
+    "wof:created":1459009347,
+    "wof:geomhash":"a97bbb1bdfaef9bf767f21c76a55a00a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "localadmin_id":421182803,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":421182803,
+    "wof:lastmodified":1499927555,
+    "wof:name":"Coro Coro",
+    "wof:parent_id":421182439,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.45272,
+    -17.181057,
+    -68.45272,
+    -17.181057
+],
+  "geometry": {"coordinates":[-68.45272,-17.181057],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343262763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.8,-17.01667,-68.8,-17.01667",
+    "geom:latitude":-17.01667,
+    "geom:longitude":-68.8,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Laura",
+    "gn:country_code":"BO",
+    "gn:dem":3834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911665,
+    "gn:latitude":-17.01667,
+    "gn:longitude":-68.8,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Laura",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911665
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9753a9be67a7025c9dc337da9a294f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1343262763,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1343262763,
+    "wof:lastmodified":1537030261,
+    "wof:name":"Laura",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.8,
+    -17.01667,
+    -68.8,
+    -17.01667
+],
+  "geometry": {"coordinates":[-68.8,-17.01667],"type":"Point"}
+}

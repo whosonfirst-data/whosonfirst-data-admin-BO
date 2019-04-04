@@ -1,0 +1,67 @@
+{
+  "id": 1242668199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.33333,-16.43333,-61.33333,-16.43333",
+    "geom:latitude":-16.43333,
+    "geom:longitude":-61.33333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Estancia San Andres",
+    "gn:country_code":"BO",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916316,
+    "gn:latitude":-16.43333,
+    "gn:longitude":-61.33333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia San Andr\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916316
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e14a83c6adbab6f1d61fcc8e6ca71840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1242668199,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1242668199,
+    "wof:lastmodified":1536934089,
+    "wof:name":"Estancia San Andres",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.33333,
+    -16.43333,
+    -61.33333,
+    -16.43333
+],
+  "geometry": {"coordinates":[-61.33333,-16.43333],"type":"Point"}
+}

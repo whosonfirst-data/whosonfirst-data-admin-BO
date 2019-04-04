@@ -1,0 +1,67 @@
+{
+  "id": 1209822877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.02575,-12.79896,-63.02575,-12.79896",
+    "geom:latitude":-12.79896,
+    "geom:longitude":-63.02575,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pescaria",
+    "gn:country_code":"BO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3908082,
+    "gn:latitude":-12.79896,
+    "gn:longitude":-63.02575,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Pescaria",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908082
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5be64b2a58c09298c8d0d7b64701ac41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005711,
+            "locality_id":1209822877,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1209822877,
+    "wof:lastmodified":1536376846,
+    "wof:name":"Pescaria",
+    "wof:parent_id":1092005711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.02575,
+    -12.79896,
+    -63.02575,
+    -12.79896
+],
+  "geometry": {"coordinates":[-63.02575,-12.79896],"type":"Point"}
+}

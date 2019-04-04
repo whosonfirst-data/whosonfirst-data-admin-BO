@@ -1,0 +1,67 @@
+{
+  "id": 1309918757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.17032,-17.46482,-65.17032,-17.46482",
+    "geom:latitude":-17.46482,
+    "geom:longitude":-65.17032,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nuevas Pampas",
+    "gn:country_code":"BO",
+    "gn:dem":2569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6618955,
+    "gn:latitude":-17.46482,
+    "gn:longitude":-65.17032,
+    "gn:modification_date":"2007-10-16",
+    "gn:name":"Nuevas Pampas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618955
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"19dddce60aca4505536305b6dbc6f1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1309918757,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1309918757,
+    "wof:lastmodified":1536768652,
+    "wof:name":"Nuevas Pampas",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.17031999999999,
+    -17.46482,
+    -65.17031999999999,
+    -17.46482
+],
+  "geometry": {"coordinates":[-65.17031999999999,-17.46482],"type":"Point"}
+}

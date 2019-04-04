@@ -1,0 +1,67 @@
+{
+  "id": 1260174955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.40465,-18.91433,-63.40465,-18.91433",
+    "geom:latitude":-18.91433,
+    "geom:longitude":-63.40465,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Puerto Camacho",
+    "gn:country_code":"BO",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907268,
+    "gn:latitude":-18.91433,
+    "gn:longitude":-63.40465,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Puerto Camacho",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907268
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0c6b611cd365934b02cd0ee41fc905c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1260174955,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1260174955,
+    "wof:lastmodified":1536858390,
+    "wof:name":"Puerto Camacho",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.40465,
+    -18.91433,
+    -63.40465,
+    -18.91433
+],
+  "geometry": {"coordinates":[-63.40465,-18.91433],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209338515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.7,-17.26667,-68.7,-17.26667",
+    "geom:latitude":-17.26667,
+    "geom:longitude":-68.7,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kaquesata",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913025,
+    "gn:latitude":-17.26667,
+    "gn:longitude":-68.7,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kaquesata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kakesata",
+        "Kekesala",
+        "Kaquesata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913025
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8c372eb1b81bf3bf70f9708a10b5a7df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209338515
+        }
+    ],
+    "wof:id":1209338515,
+    "wof:lastmodified":1537588043,
+    "wof:name":"Kaquesata",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.7,
+    -17.26667,
+    -68.7,
+    -17.26667
+],
+  "geometry": {"coordinates":[-68.7,-17.26667],"type":"Point"}
+}

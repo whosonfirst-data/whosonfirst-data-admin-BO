@@ -1,0 +1,67 @@
+{
+  "id": 1260197175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.42037,-18.53413,-65.42037,-18.53413",
+    "geom:latitude":-18.53413,
+    "geom:longitude":-65.42037,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Poroina",
+    "gn:country_code":"BO",
+    "gn:dem":2431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472702,
+    "gn:latitude":-18.53413,
+    "gn:longitude":-65.42037,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Poroina",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472702
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c226e96b82c735a5946ae6572db13064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1260197175,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1260197175,
+    "wof:lastmodified":1536828098,
+    "wof:name":"Poroina",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.42036999999999,
+    -18.53413,
+    -65.42036999999999,
+    -18.53413
+],
+  "geometry": {"coordinates":[-65.42036999999999,-18.53413],"type":"Point"}
+}

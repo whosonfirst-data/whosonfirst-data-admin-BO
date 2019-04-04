@@ -1,0 +1,72 @@
+{
+  "id": 1293509933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.8,-17.58333,-62.8,-17.58333",
+    "geom:latitude":-17.58333,
+    "geom:longitude":-62.8,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"San Lorenzo",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905420,
+    "gn:latitude":-17.58333,
+    "gn:longitude":-62.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Lorenzo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad San Lorenzo",
+        "San Lorenzo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421187923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905420
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d112edc10b121878a172a89499f8a240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187923,
+            "locality_id":1293509933,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1293509933,
+    "wof:lastmodified":1537587958,
+    "wof:name":"San Lorenzo",
+    "wof:parent_id":421187923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.8,
+    -17.58333,
+    -62.8,
+    -17.58333
+],
+  "geometry": {"coordinates":[-62.8,-17.58333],"type":"Point"}
+}

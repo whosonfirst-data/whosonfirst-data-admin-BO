@@ -1,0 +1,72 @@
+{
+  "id": 1327015447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.83333,-17.15,-62.83333,-17.15",
+    "geom:latitude":-17.15,
+    "geom:longitude":-62.83333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Banegas",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923356,
+    "gn:latitude":-17.15,
+    "gn:longitude":-62.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Banegas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Banegas",
+        "Banegas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923356
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5764e39dcb0163c1768dc85c3bc44755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010083,
+            "locality_id":1327015447,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1327015447,
+    "wof:lastmodified":1537588146,
+    "wof:name":"Banegas",
+    "wof:parent_id":1092010083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.83333,
+    -17.15,
+    -62.83333,
+    -17.15
+],
+  "geometry": {"coordinates":[-62.83333,-17.15],"type":"Point"}
+}

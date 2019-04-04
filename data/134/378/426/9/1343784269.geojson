@@ -1,0 +1,67 @@
+{
+  "id": 1343784269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.91274,-11.74652,-67.91274,-11.74652",
+    "geom:latitude":-11.74652,
+    "geom:longitude":-67.91274,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Asuncion",
+    "gn:country_code":"BO",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923617,
+    "gn:latitude":-11.74652,
+    "gn:longitude":-67.91274,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Asunci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923617
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e18371440dabc6952b193e0f2e58f4f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008411,
+            "locality_id":1343784269,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1343784269,
+    "wof:lastmodified":1536777229,
+    "wof:name":"Asuncion",
+    "wof:parent_id":1092008411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.91274,
+    -11.74652,
+    -67.91274,
+    -11.74652
+],
+  "geometry": {"coordinates":[-67.91274,-11.74652],"type":"Point"}
+}

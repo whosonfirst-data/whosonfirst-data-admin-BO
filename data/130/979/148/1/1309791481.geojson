@@ -1,0 +1,67 @@
+{
+  "id": 1309791481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.05,-16.3,-60.05,-16.3",
+    "geom:latitude":-16.3,
+    "geom:longitude":-60.05,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Estancia Las Mercedes",
+    "gn:country_code":"BO",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916792,
+    "gn:latitude":-16.3,
+    "gn:longitude":-60.05,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Las Mercedes",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916792
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"84e6f78d767bcc1a3a41fde78006a18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1309791481,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1309791481,
+    "wof:lastmodified":1536951902,
+    "wof:name":"Estancia Las Mercedes",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.05,
+    -16.3,
+    -60.05,
+    -16.3
+],
+  "geometry": {"coordinates":[-60.05,-16.3],"type":"Point"}
+}

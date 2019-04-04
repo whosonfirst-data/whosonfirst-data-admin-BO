@@ -1,0 +1,104 @@
+{
+  "id": 1126093079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.15,-16.48333,-68.15,-16.48333",
+    "geom:latitude":-16.48333,
+    "geom:longitude":-68.15,
+    "gn:gn_country":"BO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-16.48333,
+    "gn:longitude":-68.15,
+    "iso:country":"BO",
+    "lbl:latitude":-16.48333,
+    "lbl:longitude":-68.15,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Challapampa"
+    ],
+    "name:spa_x_preferred":[
+        "Challapampa"
+    ],
+    "name:unk_x_variant":[
+        "Challapampa"
+    ],
+    "qs_pg:aaroncc":"BO",
+    "qs_pg:gn_country":"BO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3921359,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Challapampa",
+    "qs_pg:name_adm0":"Bolivia",
+    "qs_pg:name_adm1":"La Paz",
+    "qs_pg:photos":1802,
+    "qs_pg:photos_1k":365,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1802,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":222199,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424762,
+    "qs_pg:woe_id":334716,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424762,
+    "woe:name_adm0":"Bolivia",
+    "woe:name_adm1":"La Paz",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85669409,
+        102191577,
+        85632623,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921359,
+        "gp:id":334716,
+        "qs:id":222199,
+        "qs_pg:id":222199,
+        "wd:id":"Q255177"
+    },
+    "wof:country":"BO",
+    "wof:created":1497314447,
+    "wof:geomhash":"7aa9d6db06d6842483ecbc58285aae0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":-1,
+            "neighbourhood_id":1126093079,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1126093079,
+    "wof:lastmodified":1534379236,
+    "wof:name":"Challapampa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764361
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.15,
+    -16.48333,
+    -68.15,
+    -16.48333
+],
+  "geometry": {"coordinates":[-68.15000000000001,-16.48333],"type":"Point"}
+}

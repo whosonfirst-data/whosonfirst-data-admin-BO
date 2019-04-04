@@ -1,0 +1,72 @@
+{
+  "id": 1242895033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.66667,-19.4,-65.66667,-19.4",
+    "geom:latitude":-19.4,
+    "geom:longitude":-65.66667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Horcokaquilla",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915145,
+    "gn:latitude":-19.4,
+    "gn:longitude":-65.66667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Horcokaquilla",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Horcakaquilla",
+        "Horcokaquilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915145
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d4b2f6490666dc570fae1760b4b6ec46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177665,
+            "locality_id":1242895033,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1242895033,
+    "wof:lastmodified":1537588069,
+    "wof:name":"Horcokaquilla",
+    "wof:parent_id":421177665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.66667,
+    -19.4,
+    -65.66667,
+    -19.4
+],
+  "geometry": {"coordinates":[-65.66667,-19.4],"type":"Point"}
+}

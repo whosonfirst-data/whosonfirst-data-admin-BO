@@ -1,0 +1,67 @@
+{
+  "id": 1293001609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.08333,-16.9,-69.08333,-16.9",
+    "geom:latitude":-16.9,
+    "geom:longitude":-69.08333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Estancia Alto Caracollo",
+    "gn:country_code":"BO",
+    "gn:dem":3848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917764,
+    "gn:latitude":-16.9,
+    "gn:longitude":-69.08333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Alto Caracollo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917764
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8117bd354c32b169014d5cae52e81a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007213,
+            "locality_id":1293001609,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293001609,
+    "wof:lastmodified":1536989649,
+    "wof:name":"Estancia Alto Caracollo",
+    "wof:parent_id":1092007213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.08333,
+    -16.9,
+    -69.08333,
+    -16.9
+],
+  "geometry": {"coordinates":[-69.08333,-16.9],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 421173847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.23333,-16.5,-68.23333,-16.5",
+    "geom:latitude":-16.5,
+    "geom:longitude":-68.23333,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Comunidad Yunguyo"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3900898,
+    "qs:gn_pop":0,
+    "qs:name":"Yunguyo",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Puno",
+    "qs:photos":185,
+    "qs:photos_1k":37,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":185,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":300834,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418608,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-16.244183,
+    "wd:longitude":-69.092764,
+    "wd:wordcount":93,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3900898,
+        "gp:id":418608,
+        "qs:id":300834,
+        "wd:id":"Q2306609"
+    },
+    "wof:country":"BO",
+    "wof:created":1459009008,
+    "wof:geomhash":"330ceff542ac0d5d65479a304a957e74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":421173847,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":421173847,
+    "wof:lastmodified":1527716259,
+    "wof:name":"Yunguyo",
+    "wof:parent_id":421177667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.23333,
+    -16.5,
+    -68.23333,
+    -16.5
+],
+  "geometry": {"coordinates":[-68.23333,-16.5],"type":"Point"}
+}

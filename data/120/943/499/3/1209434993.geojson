@@ -1,0 +1,66 @@
+{
+  "id": 1209434993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.55,-15.15,-62.55,-15.15",
+    "geom:latitude":-15.15,
+    "geom:longitude":-62.55,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Mocho",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918191,
+    "gn:latitude":-15.15,
+    "gn:longitude":-62.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Mocho",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Macho",
+        "El Mocho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918191
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8a9684db17e82a9028bbbd34c4d59413",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209434993
+        }
+    ],
+    "wof:id":1209434993,
+    "wof:lastmodified":1537588085,
+    "wof:name":"El Mocho",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.55,
+    -15.15,
+    -62.55,
+    -15.15
+],
+  "geometry": {"coordinates":[-62.55,-15.15],"type":"Point"}
+}

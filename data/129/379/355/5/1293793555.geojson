@@ -1,0 +1,67 @@
+{
+  "id": 1293793555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.1557,-18.73842,-65.1557,-18.73842",
+    "geom:latitude":-18.73842,
+    "geom:longitude":-65.1557,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Melonar",
+    "gn:country_code":"BO",
+    "gn:dem":1667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910506,
+    "gn:latitude":-18.73842,
+    "gn:longitude":-65.1557,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Melonar",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910506
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d0ccc24eb9af857b8cfdcad2211996bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1293793555,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1293793555,
+    "wof:lastmodified":1536841778,
+    "wof:name":"Melonar",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.1557,
+    -18.73842,
+    -65.1557,
+    -18.73842
+],
+  "geometry": {"coordinates":[-65.1557,-18.73842],"type":"Point"}
+}

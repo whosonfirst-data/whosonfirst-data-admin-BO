@@ -1,0 +1,73 @@
+{
+  "id": 1209927317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.76667,-17.11667,-65.76667,-17.11667",
+    "geom:latitude":-17.11667,
+    "geom:longitude":-65.76667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Itiripampa",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913885,
+    "gn:latitude":-17.11667,
+    "gn:longitude":-65.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Itiripampa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Itirapampa",
+        "Itimpampa",
+        "Itiripampa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        421172489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913885
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"487f26100782385f09bf71ce5e5d078e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421172489,
+            "locality_id":1209927317,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1209927317,
+    "wof:lastmodified":1537588053,
+    "wof:name":"Itiripampa",
+    "wof:parent_id":421172489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.76666999999999,
+    -17.11667000000001,
+    -65.76666999999999,
+    -17.11667000000001
+],
+  "geometry": {"coordinates":[-65.76666999999999,-17.11667000000001],"type":"Point"}
+}

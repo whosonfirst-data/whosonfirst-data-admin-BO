@@ -1,0 +1,72 @@
+{
+  "id": 1259482425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.96667,-18.35,-66.96667,-18.35",
+    "geom:latitude":-18.35,
+    "geom:longitude":-66.96667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Calacata",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922678,
+    "gn:latitude":-18.35,
+    "gn:longitude":-66.96667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Calacata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calacala",
+        "Calacata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092007991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922678
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"91dc3a068f50fadd82db88ea7cec9db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007991,
+            "locality_id":1259482425,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1259482425,
+    "wof:lastmodified":1537588138,
+    "wof:name":"Calacata",
+    "wof:parent_id":1092007991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.96667,
+    -18.35,
+    -66.96667,
+    -18.35
+],
+  "geometry": {"coordinates":[-66.96666999999999,-18.35],"type":"Point"}
+}

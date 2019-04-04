@@ -1,0 +1,67 @@
+{
+  "id": 1225839585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.32824,-18.3142,-66.32824,-18.3142",
+    "geom:latitude":-18.3142,
+    "geom:longitude":-66.32824,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Colluma",
+    "gn:country_code":"BO",
+    "gn:dem":3661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472700,
+    "gn:latitude":-18.3142,
+    "gn:longitude":-66.32824,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Colluma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472700
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6ee9cd031dc28fd50d761e8820553a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008665,
+            "locality_id":1225839585,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1225839585,
+    "wof:lastmodified":1537021628,
+    "wof:name":"Colluma",
+    "wof:parent_id":1092008665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.32824000000001,
+    -18.3142,
+    -66.32824000000001,
+    -18.3142
+],
+  "geometry": {"coordinates":[-66.32824000000001,-18.3142],"type":"Point"}
+}

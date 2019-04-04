@@ -1,0 +1,67 @@
+{
+  "id": 1259889549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.86249,-20.90311,-64.86249,-20.90311",
+    "geom:latitude":-20.90311,
+    "geom:longitude":-64.86249,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Comunidad Cuisana",
+    "gn:country_code":"BO",
+    "gn:dem":3058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919613,
+    "gn:latitude":-20.90311,
+    "gn:longitude":-64.86249,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Comunidad Cuisana",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919613
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"15333d291b4c84ad6da959d3dec2cd0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006087,
+            "locality_id":1259889549,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1259889549,
+    "wof:lastmodified":1536770806,
+    "wof:name":"Comunidad Cuisana",
+    "wof:parent_id":1092006087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.86249000000001,
+    -20.90311,
+    -64.86249000000001,
+    -20.90311
+],
+  "geometry": {"coordinates":[-64.86249000000001,-20.90311],"type":"Point"}
+}

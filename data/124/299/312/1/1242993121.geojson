@@ -1,0 +1,74 @@
+{
+  "id": 1242993121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.45,-16.31667,-59.45,-16.31667",
+    "geom:latitude":-16.31667,
+    "geom:longitude":-59.45,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ascension",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3444760,
+    "gn:latitude":-16.31667,
+    "gn:longitude":-59.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ascensi\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ascenci\u00f3n",
+        "Ascension de las Petas",
+        "Comunidad Ascenci\u00f3n",
+        "Ascensi\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3444760
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9f66d8772fa75acb7c394d1797811ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009511,
+            "locality_id":1242993121,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1242993121,
+    "wof:lastmodified":1537587902,
+    "wof:name":"Ascension",
+    "wof:parent_id":1092009511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.45,
+    -16.31667,
+    -59.45,
+    -16.31667
+],
+  "geometry": {"coordinates":[-59.45,-16.31667],"type":"Point"}
+}

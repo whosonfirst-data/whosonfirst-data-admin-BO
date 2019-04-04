@@ -1,0 +1,67 @@
+{
+  "id": 1343962209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.15719,-19.52208,-64.15719,-19.52208",
+    "geom:latitude":-19.52208,
+    "geom:longitude":-64.15719,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Astillero",
+    "gn:country_code":"BO",
+    "gn:dem":1824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923625,
+    "gn:latitude":-19.52208,
+    "gn:longitude":-64.15719,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Astillero",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421169227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923625
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5d334c45a5a03d699fecd966e2edd668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169227,
+            "locality_id":1343962209,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1343962209,
+    "wof:lastmodified":1537016691,
+    "wof:name":"Astillero",
+    "wof:parent_id":421169227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.15719,
+    -19.52208,
+    -64.15719,
+    -19.52208
+],
+  "geometry": {"coordinates":[-64.15719,-19.52208],"type":"Point"}
+}

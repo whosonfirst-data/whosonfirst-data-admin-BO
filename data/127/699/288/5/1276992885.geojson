@@ -1,0 +1,68 @@
+{
+  "id": 1276992885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.61575,-13.2652,-64.61575,-13.2652",
+    "geom:latitude":-13.2652,
+    "geom:longitude":-64.61575,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"San Ramon",
+    "gn:country_code":"BO",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11525109,
+    "gn:latitude":-13.2652,
+    "gn:longitude":-64.61575,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"San Ram\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11525109,
+        "wk:page":"San_Ram%C3%B3n,_Beni"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e7bc3fdaead01d6b162ca293e732eaf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005759,
+            "locality_id":1276992885,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1276992885,
+    "wof:lastmodified":1537487972,
+    "wof:name":"San Ramon",
+    "wof:parent_id":1092005759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.61575,
+    -13.2652,
+    -64.61575,
+    -13.2652
+],
+  "geometry": {"coordinates":[-64.61575000000001,-13.2652],"type":"Point"}
+}

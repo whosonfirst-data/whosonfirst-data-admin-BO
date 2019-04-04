@@ -1,0 +1,68 @@
+{
+  "id": 1293589913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.01808,-16.66829,-68.01808,-16.66829",
+    "geom:latitude":-16.66829,
+    "geom:longitude":-68.01808,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mecapaca",
+    "gn:country_code":"BO",
+    "gn:dem":2870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910539,
+    "gn:latitude":-16.66829,
+    "gn:longitude":-68.01808,
+    "gn:modification_date":"2012-08-15",
+    "gn:name":"Mecapaca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910539,
+        "wk:page":"Mecapaca"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e7bae0691aa0e2bc10d48c2dbf543885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":1293589913,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293589913,
+    "wof:lastmodified":1537487896,
+    "wof:name":"Mecapaca",
+    "wof:parent_id":421177667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.01808,
+    -16.66829,
+    -68.01808,
+    -16.66829
+],
+  "geometry": {"coordinates":[-68.01808,-16.66829],"type":"Point"}
+}

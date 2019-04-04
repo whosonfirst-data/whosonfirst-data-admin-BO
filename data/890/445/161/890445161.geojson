@@ -1,0 +1,72 @@
+{
+  "id": 890445161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.43333,-17.73333,-63.43333,-17.73333",
+    "geom:latitude":-17.73333,
+    "geom:longitude":-63.43333,
+    "gn:country":"BO",
+    "gn:fcode":"PPL",
+    "gn:pop":3046,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Estancia Los Negros"
+    ],
+    "qs:name":"Los Negros",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":1439,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421187923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911120,
+        "gp:id":346642,
+        "qs:id":1047167,
+        "wd:id":"Q1767303",
+        "wk:page":"Los Negros"
+    },
+    "wof:country":"BO",
+    "wof:created":1469052499,
+    "wof:geomhash":"d5166260a6fdf7a453cf2d34c0dd8fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187923,
+            "locality_id":890445161,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":890445161,
+    "wof:lastmodified":1527792867,
+    "wof:name":"Los Negros",
+    "wof:parent_id":421187923,
+    "wof:placetype":"locality",
+    "wof:population":3046,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.43333,
+    -17.73333,
+    -63.43333,
+    -17.73333
+],
+  "geometry": {"coordinates":[-63.43333,-17.73333],"type":"Point"}
+}

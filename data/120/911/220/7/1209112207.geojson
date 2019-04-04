@@ -1,0 +1,61 @@
+{
+  "id": 1209112207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.8,-17.76667,-67.8,-17.76667",
+    "geom:latitude":-17.76667,
+    "geom:longitude":-67.8,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Comunidad Ortega",
+    "gn:country_code":"BO",
+    "gn:dem":3743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919500,
+    "gn:latitude":-17.76667,
+    "gn:longitude":-67.8,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Comunidad Ortega",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919500
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0608fa2b335cfd7cbf29af84fa95efdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209112207
+        }
+    ],
+    "wof:id":1209112207,
+    "wof:lastmodified":1536297369,
+    "wof:name":"Comunidad Ortega",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.8,
+    -17.76667,
+    -67.8,
+    -17.76667
+],
+  "geometry": {"coordinates":[-67.8,-17.76667],"type":"Point"}
+}

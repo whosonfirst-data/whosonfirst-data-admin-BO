@@ -1,0 +1,70 @@
+{
+  "id": 1276986601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.29182,-15.6102,-69.29182,-15.6102",
+    "geom:latitude":-15.6102,
+    "geom:longitude":-69.29182,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Estancia Tapariyo",
+    "gn:country_code":"BO",
+    "gn:dem":3848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916156,
+    "gn:latitude":-15.6102,
+    "gn:longitude":-69.29182,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Estancia Tapariyo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Tapariyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916156
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5b3e8538c87eedabacbb8b7778498594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007003,
+            "locality_id":1276986601,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1276986601,
+    "wof:lastmodified":1537588078,
+    "wof:name":"Estancia Tapariyo",
+    "wof:parent_id":1092007003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.29182,
+    -15.6102,
+    -69.29182,
+    -15.6102
+],
+  "geometry": {"coordinates":[-69.29182,-15.6102],"type":"Point"}
+}

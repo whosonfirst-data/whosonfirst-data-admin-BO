@@ -1,0 +1,67 @@
+{
+  "id": 1226466545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.83333,-15.9,-67.83333,-15.9",
+    "geom:latitude":-15.9,
+    "geom:longitude":-67.83333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Huayra Pata",
+    "gn:country_code":"BO",
+    "gn:dem":1303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914589,
+    "gn:latitude":-15.9,
+    "gn:longitude":-67.83333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Huayra Pata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914589
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b01f6fef951056ceced669ac0b4cd82b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":1226466545,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1226466545,
+    "wof:lastmodified":1536613102,
+    "wof:name":"Huayra Pata",
+    "wof:parent_id":421177667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.83333,
+    -15.9,
+    -67.83333,
+    -15.9
+],
+  "geometry": {"coordinates":[-67.83333,-15.9],"type":"Point"}
+}

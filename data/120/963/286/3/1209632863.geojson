@@ -1,0 +1,61 @@
+{
+  "id": 1209632863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.47567,-19.08257,-65.47567,-19.08257",
+    "geom:latitude":-19.08257,
+    "geom:longitude":-65.47567,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chunuchana",
+    "gn:country_code":"BO",
+    "gn:dem":3201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3970066,
+    "gn:latitude":-19.08257,
+    "gn:longitude":-65.47567,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Chunuchana",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3970066
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"db04b4bdd07de3e4008747081382ceee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209632863
+        }
+    ],
+    "wof:id":1209632863,
+    "wof:lastmodified":1536281136,
+    "wof:name":"Chunuchana",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.47567,
+    -19.08257,
+    -65.47567,
+    -19.08257
+],
+  "geometry": {"coordinates":[-65.47566999999999,-19.08257],"type":"Point"}
+}

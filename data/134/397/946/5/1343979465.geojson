@@ -1,0 +1,71 @@
+{
+  "id": 1343979465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.70438,-18.75375,-65.70438,-18.75375",
+    "geom:latitude":-18.75375,
+    "geom:longitude":-65.70438,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Calta Casa",
+    "gn:country_code":"BO",
+    "gn:dem":3921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922510,
+    "gn:latitude":-18.75375,
+    "gn:longitude":-65.70438,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Calta Casa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cana Casa",
+        "Calta Casa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922510
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5952972d63f339a66df3627138c7ab35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008791,
+            "locality_id":1343979465,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1343979465,
+    "wof:lastmodified":1537588136,
+    "wof:name":"Calta Casa",
+    "wof:parent_id":1092008791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.70438,
+    -18.75375,
+    -65.70438,
+    -18.75375
+],
+  "geometry": {"coordinates":[-65.70438,-18.75375],"type":"Point"}
+}

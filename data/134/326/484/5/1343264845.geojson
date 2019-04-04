@@ -1,0 +1,71 @@
+{
+  "id": 1343264845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.95442,-18.05918,-64.95442,-18.05918",
+    "geom:latitude":-18.05918,
+    "geom:longitude":-64.95442,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tipabanado",
+    "gn:country_code":"BO",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902935,
+    "gn:latitude":-18.05918,
+    "gn:longitude":-64.95442,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Tipaba\u00f1ado",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tipa\u00f1ado",
+        "Tipaba\u00f1ado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902935
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"94b69d3feee8e9af403fc02b08fae871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006465,
+            "locality_id":1343264845,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1343264845,
+    "wof:lastmodified":1537587932,
+    "wof:name":"Tipabanado",
+    "wof:parent_id":1092006465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.95442,
+    -18.05918,
+    -64.95442,
+    -18.05918
+],
+  "geometry": {"coordinates":[-64.95442,-18.05918],"type":"Point"}
+}

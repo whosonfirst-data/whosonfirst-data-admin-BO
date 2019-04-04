@@ -1,0 +1,71 @@
+{
+  "id": 1259768915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.45,-17.3,-63.45,-17.3",
+    "geom:latitude":-17.3,
+    "geom:longitude":-63.45,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chimore",
+    "gn:country_code":"BO",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920735,
+    "gn:latitude":-17.3,
+    "gn:longitude":-63.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chimor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chimor\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920735,
+        "wk:page":"Chimor%C3%A9%2C_Santa_Cruz"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"91eabac0d6061837ef00ceb10cbac72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009959,
+            "locality_id":1259768915,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1259768915,
+    "wof:lastmodified":1537588112,
+    "wof:name":"Chimore",
+    "wof:parent_id":1092009959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.45,
+    -17.3,
+    -63.45,
+    -17.3
+],
+  "geometry": {"coordinates":[-63.45,-17.3],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209609761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.99904,-19.69111,-64.99904,-19.69111",
+    "geom:latitude":-19.69111,
+    "geom:longitude":-64.99904,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Marcavi",
+    "gn:country_code":"BO",
+    "gn:dem":3489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910700,
+    "gn:latitude":-19.69111,
+    "gn:longitude":-64.99904,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Marcavi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910700
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"cad178e375eeaeb9976f1d76c8691b64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209609761
+        }
+    ],
+    "wof:id":1209609761,
+    "wof:lastmodified":1536281887,
+    "wof:name":"Marcavi",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.99904000000001,
+    -19.69111,
+    -64.99904000000001,
+    -19.69111
+],
+  "geometry": {"coordinates":[-64.99904000000001,-19.69111],"type":"Point"}
+}

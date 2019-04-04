@@ -1,0 +1,67 @@
+{
+  "id": 1293099375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.78333,-15.61667,-68.78333,-15.61667",
+    "geom:latitude":-15.61667,
+    "geom:longitude":-68.78333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Loma",
+    "gn:country_code":"BO",
+    "gn:dem":1786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911249,
+    "gn:latitude":-15.61667,
+    "gn:longitude":-68.78333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Loma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911249
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7cf45f37efcb8bd439061b01ffc3b093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182437,
+            "locality_id":1293099375,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293099375,
+    "wof:lastmodified":1536848502,
+    "wof:name":"Loma",
+    "wof:parent_id":421182437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.78333,
+    -15.61667,
+    -68.78333,
+    -15.61667
+],
+  "geometry": {"coordinates":[-68.78333000000001,-15.61667],"type":"Point"}
+}

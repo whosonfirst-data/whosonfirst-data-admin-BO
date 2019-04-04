@@ -1,0 +1,67 @@
+{
+  "id": 1242698955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.60824,-18.04281,-66.60824,-18.04281",
+    "geom:latitude":-18.04281,
+    "geom:longitude":-66.60824,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Unuma",
+    "gn:country_code":"BO",
+    "gn:dem":4038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902009,
+    "gn:latitude":-18.04281,
+    "gn:longitude":-66.60824,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Unuma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902009
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f00a759386b911d4242af9cb34b1b9e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006427,
+            "locality_id":1242698955,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1242698955,
+    "wof:lastmodified":1536888602,
+    "wof:name":"Unuma",
+    "wof:parent_id":1092006427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.60824000000001,
+    -18.04281,
+    -66.60824000000001,
+    -18.04281
+],
+  "geometry": {"coordinates":[-66.60824000000001,-18.04281],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209412309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.41667,-20.1,-63.41667,-20.1",
+    "geom:latitude":-20.1,
+    "geom:longitude":-63.41667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pipi",
+    "gn:country_code":"BO",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907889,
+    "gn:latitude":-20.1,
+    "gn:longitude":-63.41667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Pipi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907889
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e0543c11ba383832b1783abbb475854f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209412309
+        }
+    ],
+    "wof:id":1209412309,
+    "wof:lastmodified":1536287799,
+    "wof:name":"Pipi",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.41667,
+    -20.1,
+    -63.41667,
+    -20.1
+],
+  "geometry": {"coordinates":[-63.41667,-20.1],"type":"Point"}
+}

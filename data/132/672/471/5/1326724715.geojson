@@ -1,0 +1,67 @@
+{
+  "id": 1326724715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.0626,-21.539,-63.0626,-21.539",
+    "geom:latitude":-21.539,
+    "geom:longitude":-63.0626,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Yuquirenda",
+    "gn:country_code":"BO",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3900884,
+    "gn:latitude":-21.539,
+    "gn:longitude":-63.0626,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Yuquirenda",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421169235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3900884
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"97ba12ac47bf739e03068af183d5e5d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169235,
+            "locality_id":1326724715,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1326724715,
+    "wof:lastmodified":1536706927,
+    "wof:name":"Yuquirenda",
+    "wof:parent_id":421169235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.0626,
+    -21.539,
+    -63.0626,
+    -21.539
+],
+  "geometry": {"coordinates":[-63.0626,-21.539],"type":"Point"}
+}

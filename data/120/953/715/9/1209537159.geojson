@@ -1,0 +1,61 @@
+{
+  "id": 1209537159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.6,-19.71667,-68.6,-19.71667",
+    "geom:latitude":-19.71667,
+    "geom:longitude":-68.6,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pacalojavire",
+    "gn:country_code":"BO",
+    "gn:dem":4379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909142,
+    "gn:latitude":-19.71667,
+    "gn:longitude":-68.6,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Pacalojavire",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909142
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e9379186c26c0d9ac2fc9966e3102ab5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209537159
+        }
+    ],
+    "wof:id":1209537159,
+    "wof:lastmodified":1536284104,
+    "wof:name":"Pacalojavire",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.6,
+    -19.71667,
+    -68.6,
+    -19.71667
+],
+  "geometry": {"coordinates":[-68.59999999999999,-19.71667],"type":"Point"}
+}

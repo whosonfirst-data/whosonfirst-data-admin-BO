@@ -1,0 +1,75 @@
+{
+  "id": 421179653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.598612,-21.402739,-67.598612,-21.402739",
+    "geom:latitude":-21.402739,
+    "geom:longitude":-67.598612,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Alota",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"Potos\u00ed",
+    "qs:photos":45,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":45,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":463957,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":419870,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421175057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":419870,
+        "qs:id":463957
+    },
+    "wof:country":"BO",
+    "wof:created":1459009228,
+    "wof:geomhash":"2fb1cc01b100ed214b1630e2e4717a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421175057,
+            "locality_id":421179653,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":421179653,
+    "wof:lastmodified":1499929207,
+    "wof:name":"Alota",
+    "wof:parent_id":421175057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.598612,
+    -21.402739,
+    -67.598612,
+    -21.402739
+],
+  "geometry": {"coordinates":[-67.598612,-21.402739],"type":"Point"}
+}

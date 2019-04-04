@@ -1,0 +1,61 @@
+{
+  "id": 1209039799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.7,-16.96667,-68.7,-16.96667",
+    "geom:latitude":-16.96667,
+    "geom:longitude":-68.7,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chucana",
+    "gn:country_code":"BO",
+    "gn:dem":3885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920355,
+    "gn:latitude":-16.96667,
+    "gn:longitude":-68.7,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Chucana",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920355
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ce93c9da55823b88d7c3c03ca9889524",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209039799
+        }
+    ],
+    "wof:id":1209039799,
+    "wof:lastmodified":1536299582,
+    "wof:name":"Chucana",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.7,
+    -16.96667,
+    -68.7,
+    -16.96667
+],
+  "geometry": {"coordinates":[-68.7,-16.96667],"type":"Point"}
+}

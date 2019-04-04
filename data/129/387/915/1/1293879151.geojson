@@ -1,0 +1,67 @@
+{
+  "id": 1293879151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.08333,-16.73333,-61.08333,-16.73333",
+    "geom:latitude":-16.73333,
+    "geom:longitude":-61.08333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Carmen",
+    "gn:country_code":"BO",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921924,
+    "gn:latitude":-16.73333,
+    "gn:longitude":-61.08333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Carmen",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921924
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ecb1612b7711f558f019f10bb3c4647d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1293879151,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1293879151,
+    "wof:lastmodified":1536719998,
+    "wof:name":"Carmen",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.08333,
+    -16.73333,
+    -61.08333,
+    -16.73333
+],
+  "geometry": {"coordinates":[-61.08333,-16.73333],"type":"Point"}
+}

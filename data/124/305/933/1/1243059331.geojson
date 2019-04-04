@@ -1,0 +1,73 @@
+{
+  "id": 1243059331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.45,-18.91667,-65.45,-18.91667",
+    "geom:latitude":-18.91667,
+    "geom:longitude":-65.45,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pisculco",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907830,
+    "gn:latitude":-18.91667,
+    "gn:longitude":-65.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pisculco",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pisculaco",
+        "Pisculacu",
+        "Pisculco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907830
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8f0d9d31a0539c9358e92ab0fb622644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008791,
+            "locality_id":1243059331,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1243059331,
+    "wof:lastmodified":1537587985,
+    "wof:name":"Pisculco",
+    "wof:parent_id":1092008791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.45,
+    -18.91667,
+    -65.45,
+    -18.91667
+],
+  "geometry": {"coordinates":[-65.45,-18.91667],"type":"Point"}
+}

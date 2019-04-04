@@ -1,0 +1,74 @@
+{
+  "id": 1293692783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.19967,-15.36838,-69.19967,-15.36838",
+    "geom:latitude":-15.36838,
+    "geom:longitude":-69.19967,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zona Muro Karka",
+    "gn:country_code":"BO",
+    "gn:dem":4037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909939,
+    "gn:latitude":-15.36838,
+    "gn:longitude":-69.19967,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Zona Muro Karka",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Zona Muro Karka"
+    ],
+    "name:und_x_variant":[
+        "Estancia Moro Karka",
+        "Moro Karka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909939
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1f0ae8d59365996f0ea54becef665065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007003,
+            "locality_id":1293692783,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293692783,
+    "wof:lastmodified":1537588009,
+    "wof:name":"Zona Muro Karka",
+    "wof:parent_id":1092007003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.19967,
+    -15.36838,
+    -69.19967,
+    -15.36838
+],
+  "geometry": {"coordinates":[-69.19967,-15.36838],"type":"Point"}
+}

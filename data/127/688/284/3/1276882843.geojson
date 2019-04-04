@@ -1,0 +1,71 @@
+{
+  "id": 1276882843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.56008,-19.63626,-64.56008,-19.63626",
+    "geom:latitude":-19.63626,
+    "geom:longitude":-64.56008,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Caspicancha",
+    "gn:country_code":"BO",
+    "gn:dem":2697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921821,
+    "gn:latitude":-19.63626,
+    "gn:longitude":-64.56008,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Caspicancha",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Khaspi Cancha",
+        "Caspicancha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921821
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7ddab542df30460b4d4143d6adde6e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005881,
+            "locality_id":1276882843,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1276882843,
+    "wof:lastmodified":1537588125,
+    "wof:name":"Caspicancha",
+    "wof:parent_id":1092005881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.56008,
+    -19.63626,
+    -64.56008,
+    -19.63626
+],
+  "geometry": {"coordinates":[-64.56008,-19.63626],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326851729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.0859,-21.26135,-67.0859,-21.26135",
+    "geom:latitude":-21.26135,
+    "geom:longitude":-67.0859,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ichuloma",
+    "gn:country_code":"BO",
+    "gn:dem":3748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914337,
+    "gn:latitude":-21.26135,
+    "gn:longitude":-67.0859,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Ichuloma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914337
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1aa0f0552074708951f4361537d92a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193357,
+            "locality_id":1326851729,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1326851729,
+    "wof:lastmodified":1537019860,
+    "wof:name":"Ichuloma",
+    "wof:parent_id":421193357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.0859,
+    -21.26135,
+    -67.0859,
+    -21.26135
+],
+  "geometry": {"coordinates":[-67.0859,-21.26135],"type":"Point"}
+}

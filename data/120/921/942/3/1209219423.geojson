@@ -1,0 +1,61 @@
+{
+  "id": 1209219423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.03333,-18.26667,-69.03333,-18.26667",
+    "geom:latitude":-18.26667,
+    "geom:longitude":-69.03333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tambo Quemado",
+    "gn:country_code":"BO",
+    "gn:dem":4679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903531,
+    "gn:latitude":-18.26667,
+    "gn:longitude":-69.03333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Tambo Quemado",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903531
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"20ec34ea1062d9393e73c787aa52f791",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209219423
+        }
+    ],
+    "wof:id":1209219423,
+    "wof:lastmodified":1536294015,
+    "wof:name":"Tambo Quemado",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.03333,
+    -18.26667,
+    -69.03333,
+    -18.26667
+],
+  "geometry": {"coordinates":[-69.03333000000001,-18.26667],"type":"Point"}
+}

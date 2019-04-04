@@ -1,0 +1,68 @@
+{
+  "id": 1327237671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.9528,-16.56162,-67.9528,-16.56162",
+    "geom:latitude":-16.56162,
+    "geom:longitude":-67.9528,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Palca",
+    "gn:country_code":"BO",
+    "gn:dem":3460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908899,
+    "gn:latitude":-16.56162,
+    "gn:longitude":-67.9528,
+    "gn:modification_date":"2012-08-15",
+    "gn:name":"Palca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908899,
+        "wk:page":"Palca%2C_Bolivia"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"181cff1e4b69c02ad43c273e77e58f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":1327237671,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1327237671,
+    "wof:lastmodified":1537487890,
+    "wof:name":"Palca",
+    "wof:parent_id":421177667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.9528,
+    -16.56162,
+    -67.9528,
+    -16.56162
+],
+  "geometry": {"coordinates":[-67.9528,-16.56162],"type":"Point"}
+}

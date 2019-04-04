@@ -1,0 +1,72 @@
+{
+  "id": 1327145923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.93333,-15.16667,-64.93333,-15.16667",
+    "geom:latitude":-15.16667,
+    "geom:longitude":-64.93333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Trinidadcito",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902368,
+    "gn:latitude":-15.16667,
+    "gn:longitude":-64.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Trinidadcito",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trinidadsito",
+        "Trinidadcito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902368
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ad1eba1954a41793f730cbc9da5116f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005805,
+            "locality_id":1327145923,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1327145923,
+    "wof:lastmodified":1537587923,
+    "wof:name":"Trinidadcito",
+    "wof:parent_id":1092005805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.93333,
+    -15.16667,
+    -64.93333,
+    -15.16667
+],
+  "geometry": {"coordinates":[-64.93333,-15.16667],"type":"Point"}
+}

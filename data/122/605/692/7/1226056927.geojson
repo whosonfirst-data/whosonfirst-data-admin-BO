@@ -1,0 +1,67 @@
+{
+  "id": 1226056927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.61667,-19.91667,-64.61667,-19.91667",
+    "geom:latitude":-19.91667,
+    "geom:longitude":-64.61667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Barbechos",
+    "gn:country_code":"BO",
+    "gn:dem":2637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923338,
+    "gn:latitude":-19.91667,
+    "gn:longitude":-64.61667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Barbechos",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923338
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"246e3a0da6ae162ff4600c38518f09e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005881,
+            "locality_id":1226056927,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1226056927,
+    "wof:lastmodified":1536709271,
+    "wof:name":"Barbechos",
+    "wof:parent_id":1092005881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.61667,
+    -19.91667,
+    -64.61667,
+    -19.91667
+],
+  "geometry": {"coordinates":[-64.61667,-19.91667],"type":"Point"}
+}

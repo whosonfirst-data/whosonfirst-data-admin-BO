@@ -1,0 +1,67 @@
+{
+  "id": 1242687397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.23112,-20.35006,-64.23112,-20.35006",
+    "geom:latitude":-20.35006,
+    "geom:longitude":-64.23112,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Guerero",
+    "gn:country_code":"BO",
+    "gn:dem":1389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915336,
+    "gn:latitude":-20.35006,
+    "gn:longitude":-64.23112,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Guerero",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915336
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0620a128964bdec5228e198643c12d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005923,
+            "locality_id":1242687397,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1242687397,
+    "wof:lastmodified":1536905757,
+    "wof:name":"Guerero",
+    "wof:parent_id":1092005923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.23111999999999,
+    -20.35006,
+    -64.23111999999999,
+    -20.35006
+],
+  "geometry": {"coordinates":[-64.23111999999999,-20.35006],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 421192129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.67968,-21.5145,-65.67968,-21.5145",
+    "geom:latitude":-21.5145,
+    "geom:longitude":-65.67968,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3902834,
+    "qs:gn_pop":0,
+    "qs:name":"Tocloca",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"Potos\u00ed",
+    "qs:photos":58,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":58,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165250,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":345039,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902834,
+        "gp:id":345039,
+        "qs:id":1165250
+    },
+    "wof:country":"BO",
+    "wof:created":1459009726,
+    "wof:geomhash":"ce4303c58b94e8448d188034230dc78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":421192129,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":421192129,
+    "wof:lastmodified":1499929209,
+    "wof:name":"Tocloca",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.67968,
+    -21.5145,
+    -65.67968,
+    -21.5145
+],
+  "geometry": {"coordinates":[-65.67968,-21.5145],"type":"Point"}
+}

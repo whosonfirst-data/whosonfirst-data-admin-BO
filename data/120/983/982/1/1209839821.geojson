@@ -1,0 +1,76 @@
+{
+  "id": 1209839821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.02012,-15.8232,-69.02012,-15.8232",
+    "geom:latitude":-15.8232,
+    "geom:longitude":-69.02012,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Queascapa",
+    "gn:country_code":"BO",
+    "gn:dem":3844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912978,
+    "gn:latitude":-15.8232,
+    "gn:longitude":-69.02012,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Queascapa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad Keascapa",
+        "Keascata",
+        "Kescapa",
+        "Keascapa",
+        "Kascapa",
+        "Queascapa",
+        "Kaskapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912978
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"13c318f8fa854b1eaeeb479b60d45aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007003,
+            "locality_id":1209839821,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1209839821,
+    "wof:lastmodified":1537588042,
+    "wof:name":"Queascapa",
+    "wof:parent_id":1092007003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.02011999999999,
+    -15.8232,
+    -69.02011999999999,
+    -15.8232
+],
+  "geometry": {"coordinates":[-69.02011999999999,-15.8232],"type":"Point"}
+}

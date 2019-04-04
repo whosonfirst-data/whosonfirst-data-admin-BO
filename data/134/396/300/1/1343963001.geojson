@@ -1,0 +1,67 @@
+{
+  "id": 1343963001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.88166,-18.30778,-67.88166,-18.30778",
+    "geom:latitude":-18.30778,
+    "geom:longitude":-67.88166,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Estancia Muyu Khara",
+    "gn:country_code":"BO",
+    "gn:dem":3835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916619,
+    "gn:latitude":-18.30778,
+    "gn:longitude":-67.88166,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Muyu Khara",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092007807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916619
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"508a54dbfcea1cb60e383eb310c409ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007807,
+            "locality_id":1343963001,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1343963001,
+    "wof:lastmodified":1537015532,
+    "wof:name":"Estancia Muyu Khara",
+    "wof:parent_id":1092007807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.88166,
+    -18.30778,
+    -67.88166,
+    -18.30778
+],
+  "geometry": {"coordinates":[-67.88166,-18.30778],"type":"Point"}
+}

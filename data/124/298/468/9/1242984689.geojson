@@ -1,0 +1,72 @@
+{
+  "id": 1242984689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.1,-18.93333,-65.1,-18.93333",
+    "geom:latitude":-18.93333,
+    "geom:longitude":-65.1,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Canto Molino",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922188,
+    "gn:latitude":-18.93333,
+    "gn:longitude":-65.1,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Canto Molino",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cantumolino",
+        "Canto Molino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922188
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"83a7b2e3f08555c7db6031b60ba244fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1242984689,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1242984689,
+    "wof:lastmodified":1537588132,
+    "wof:name":"Canto Molino",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.1,
+    -18.93333,
+    -65.1,
+    -18.93333
+],
+  "geometry": {"coordinates":[-65.09999999999999,-18.93333],"type":"Point"}
+}

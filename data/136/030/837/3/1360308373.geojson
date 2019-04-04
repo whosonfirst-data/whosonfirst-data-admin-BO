@@ -1,0 +1,67 @@
+{
+  "id": 1360308373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.1,-19.16667,-67.1,-19.16667",
+    "geom:latitude":-19.16667,
+    "geom:longitude":-67.1,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ukatujo",
+    "gn:country_code":"BO",
+    "gn:dem":3703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902113,
+    "gn:latitude":-19.16667,
+    "gn:longitude":-67.1,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Ukatujo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092007893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902113
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"eba0909ad6d9ad6720a3bf5dc9996dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007893,
+            "locality_id":1360308373,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1360308373,
+    "wof:lastmodified":1536621471,
+    "wof:name":"Ukatujo",
+    "wof:parent_id":1092007893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.1,
+    -19.16667,
+    -67.1,
+    -19.16667
+],
+  "geometry": {"coordinates":[-67.09999999999999,-19.16667],"type":"Point"}
+}

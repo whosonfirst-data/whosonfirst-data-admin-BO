@@ -1,0 +1,67 @@
+{
+  "id": 1242582397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.51456,-18.65292,-68.51456,-18.65292",
+    "geom:latitude":-18.65292,
+    "geom:longitude":-68.51456,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Khara Huamo",
+    "gn:country_code":"BO",
+    "gn:dem":3777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3966482,
+    "gn:latitude":-18.65292,
+    "gn:longitude":-68.51456,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Khara Huamo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092008039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3966482
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"77a30becb4b680c956b30a281352d81e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008039,
+            "locality_id":1242582397,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1242582397,
+    "wof:lastmodified":1537054341,
+    "wof:name":"Khara Huamo",
+    "wof:parent_id":1092008039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.51456,
+    -18.65292,
+    -68.51456,
+    -18.65292
+],
+  "geometry": {"coordinates":[-68.51456,-18.65292],"type":"Point"}
+}

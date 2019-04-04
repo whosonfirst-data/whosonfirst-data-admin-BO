@@ -1,0 +1,67 @@
+{
+  "id": 1259373671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.71667,-17.1,-63.71667,-17.1",
+    "geom:latitude":-17.1,
+    "geom:longitude":-63.71667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Colonia Buen Retiro",
+    "gn:country_code":"BO",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919804,
+    "gn:latitude":-17.1,
+    "gn:longitude":-63.71667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Colonia Buen Retiro",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919804
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"db7815fe0aeb187f9f92191d60360e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009785,
+            "locality_id":1259373671,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1259373671,
+    "wof:lastmodified":1537015702,
+    "wof:name":"Colonia Buen Retiro",
+    "wof:parent_id":1092009785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.71666999999999,
+    -17.1,
+    -63.71666999999999,
+    -17.1
+],
+  "geometry": {"coordinates":[-63.71666999999999,-17.1],"type":"Point"}
+}

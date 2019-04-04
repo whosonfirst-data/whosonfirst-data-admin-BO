@@ -1,0 +1,61 @@
+{
+  "id": 1209524297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.75,-17.45,-66.75,-17.45",
+    "geom:latitude":-17.45,
+    "geom:longitude":-66.75,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Estancia Huaylla Khochi",
+    "gn:country_code":"BO",
+    "gn:dem":3852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917156,
+    "gn:latitude":-17.45,
+    "gn:longitude":-66.75,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Huaylla Khochi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917156
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b29703c2c5fa8070be5ce608cf1c8628",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209524297
+        }
+    ],
+    "wof:id":1209524297,
+    "wof:lastmodified":1536284480,
+    "wof:name":"Estancia Huaylla Khochi",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.75,
+    -17.45,
+    -66.75,
+    -17.45
+],
+  "geometry": {"coordinates":[-66.75,-17.45],"type":"Point"}
+}

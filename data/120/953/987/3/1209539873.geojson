@@ -1,0 +1,66 @@
+{
+  "id": 1209539873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.43333,-16.51667,-68.43333,-16.51667",
+    "geom:latitude":-16.51667,
+    "geom:longitude":-68.43333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Colpahua",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919730,
+    "gn:latitude":-16.51667,
+    "gn:longitude":-68.43333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Colpahua",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colpa Cahua",
+        "Colpahua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919730
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3fa6d4d5f666ddd321afeb560d6ef3a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209539873
+        }
+    ],
+    "wof:id":1209539873,
+    "wof:lastmodified":1537588101,
+    "wof:name":"Colpahua",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.43333,
+    -16.51667,
+    -68.43333,
+    -16.51667
+],
+  "geometry": {"coordinates":[-68.43333,-16.51667],"type":"Point"}
+}

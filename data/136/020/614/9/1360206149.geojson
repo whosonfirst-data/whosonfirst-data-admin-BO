@@ -1,0 +1,72 @@
+{
+  "id": 1360206149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.23333,-20.01667,-68.23333,-20.01667",
+    "geom:latitude":-20.01667,
+    "geom:longitude":-68.23333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sapaya",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904602,
+    "gn:latitude":-20.01667,
+    "gn:longitude":-68.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sapaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sapajo",
+        "Sapaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904602
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0bc5367bfcd630e3dd7822c5d8ad22a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177659,
+            "locality_id":1360206149,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1360206149,
+    "wof:lastmodified":1537587952,
+    "wof:name":"Sapaya",
+    "wof:parent_id":421177659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.23333000000001,
+    -20.01667,
+    -68.23333000000001,
+    -20.01667
+],
+  "geometry": {"coordinates":[-68.23333000000001,-20.01667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310487265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.53333,-17.01667,-61.53333,-17.01667",
+    "geom:latitude":-17.01667,
+    "geom:longitude":-61.53333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Santa Rita",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904812,
+    "gn:latitude":-17.01667,
+    "gn:longitude":-61.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santa Rita",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Pita",
+        "Santa Rita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904812
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b98f57f4b81cc423b23b46a7df588ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1310487265,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1310487265,
+    "wof:lastmodified":1537587954,
+    "wof:name":"Santa Rita",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.53333000000001,
+    -17.01667,
+    -61.53333000000001,
+    -17.01667
+],
+  "geometry": {"coordinates":[-61.53333000000001,-17.01667],"type":"Point"}
+}

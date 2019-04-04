@@ -1,0 +1,67 @@
+{
+  "id": 1326837803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.68333,-15.56667,-64.68333,-15.56667",
+    "geom:latitude":-15.56667,
+    "geom:longitude":-64.68333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Muyurina",
+    "gn:country_code":"BO",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909730,
+    "gn:latitude":-15.56667,
+    "gn:longitude":-64.68333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Muyurina",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909730
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0fa47eb49aff339b1f253d03a7b95f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005805,
+            "locality_id":1326837803,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1326837803,
+    "wof:lastmodified":1537038995,
+    "wof:name":"Muyurina",
+    "wof:parent_id":1092005805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.68333,
+    -15.56667,
+    -64.68333,
+    -15.56667
+],
+  "geometry": {"coordinates":[-64.68333,-15.56667],"type":"Point"}
+}

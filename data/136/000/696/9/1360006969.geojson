@@ -1,0 +1,67 @@
+{
+  "id": 1360006969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.73672,-18.48989,-65.73672,-18.48989",
+    "geom:latitude":-18.48989,
+    "geom:longitude":-65.73672,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"San Marcos",
+    "gn:country_code":"BO",
+    "gn:dem":2899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905352,
+    "gn:latitude":-18.48989,
+    "gn:longitude":-65.73672,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"San Marcos",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905352
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"dfec8a56135ecc04e3530c54b0790e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008737,
+            "locality_id":1360006969,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1360006969,
+    "wof:lastmodified":1537055963,
+    "wof:name":"San Marcos",
+    "wof:parent_id":1092008737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.73671999999999,
+    -18.48989,
+    -65.73671999999999,
+    -18.48989
+],
+  "geometry": {"coordinates":[-65.73671999999999,-18.48989],"type":"Point"}
+}

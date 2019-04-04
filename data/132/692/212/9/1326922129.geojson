@@ -1,0 +1,74 @@
+{
+  "id": 1326922129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.41667,-21.61667,-66.41667,-21.61667",
+    "geom:latitude":-21.61667,
+    "geom:longitude":-66.41667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chaupinarca",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921046,
+    "gn:latitude":-21.61667,
+    "gn:longitude":-66.41667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chaupi\u00f1arca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaupi\u00f1an",
+        "Chaupi\u00f1ac",
+        "Chaupi\u00f1aca",
+        "Chaupi\u00f1arca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921046
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6c5ab92c5f6f173853bbd4b24d265bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193355,
+            "locality_id":1326922129,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1326922129,
+    "wof:lastmodified":1537588116,
+    "wof:name":"Chaupinarca",
+    "wof:parent_id":421193355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.41667,
+    -21.61667000000001,
+    -66.41667,
+    -21.61667000000001
+],
+  "geometry": {"coordinates":[-66.41667,-21.61667000000001],"type":"Point"}
+}

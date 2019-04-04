@@ -1,0 +1,70 @@
+{
+  "id": 1276872913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.6891,-15.458,-68.6891,-15.458",
+    "geom:latitude":-15.458,
+    "geom:longitude":-68.6891,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Charaj",
+    "gn:country_code":"BO",
+    "gn:dem":3145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921119,
+    "gn:latitude":-15.458,
+    "gn:longitude":-68.6891,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Charaj",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Charas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921119
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"33499c7154d0262c38696b2fadddfe3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182437,
+            "locality_id":1276872913,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1276872913,
+    "wof:lastmodified":1537588117,
+    "wof:name":"Charaj",
+    "wof:parent_id":421182437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.6891,
+    -15.458,
+    -68.6891,
+    -15.458
+],
+  "geometry": {"coordinates":[-68.6891,-15.458],"type":"Point"}
+}

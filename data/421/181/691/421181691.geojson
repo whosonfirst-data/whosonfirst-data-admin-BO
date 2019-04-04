@@ -1,0 +1,100 @@
+{
+  "id": 421181691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.45362,-17.17691,-68.45362,-17.17691",
+    "geom:latitude":-17.17691,
+    "geom:longitude":-68.45362,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Coro Coro"
+    ],
+    "name:deu_x_preferred":[
+        "Coro Coro"
+    ],
+    "name:fra_x_preferred":[
+        "Coro Coro"
+    ],
+    "name:que_x_preferred":[
+        "Kuru Kuru"
+    ],
+    "name:swe_x_preferred":[
+        "Corocoro"
+    ],
+    "name:war_x_preferred":[
+        "Coro Coro"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u7f85\u79d1\u7f85"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3919087,
+    "qs:gn_pop":0,
+    "qs:name":"Corocoro",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":11,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":501138,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":346147,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":142,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919087,
+        "gp:id":346147,
+        "qs:id":501138,
+        "wd:id":"Q1353228",
+        "wk:page":"Coro Coro, Bolivia"
+    },
+    "wof:country":"BO",
+    "wof:created":1459009303,
+    "wof:geomhash":"f52b48720179eb4627ab600959f0154f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":421181691,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":421181691,
+    "wof:lastmodified":1527716332,
+    "wof:name":"Corocoro",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.45362,
+    -17.17691,
+    -68.45362,
+    -17.17691
+],
+  "geometry": {"coordinates":[-68.45362,-17.17691],"type":"Point"}
+}

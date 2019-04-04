@@ -1,0 +1,74 @@
+{
+  "id": 1225842547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.45,-9.66667,-65.45,-9.66667",
+    "geom:latitude":-9.66667,
+    "geom:longitude":-65.45,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Manoa",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3661539,
+    "gn:latitude":-9.66667,
+    "gn:longitude":-65.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Manoa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fort\u00edn Manoa",
+        "Manoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85682003,
+        102191577,
+        404562823,
+        85633009,
+        102058923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3661539
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"916b1d5e0d71dd102bd950def8c1a0e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102058923,
+            "localadmin_id":404562823,
+            "locality_id":1225842547,
+            "region_id":85682003
+        }
+    ],
+    "wof:id":1225842547,
+    "wof:lastmodified":1537587902,
+    "wof:name":"Manoa",
+    "wof:parent_id":404562823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.45,
+    -9.66667,
+    -65.45,
+    -9.66667
+],
+  "geometry": {"coordinates":[-65.45,-9.66667],"type":"Point"}
+}

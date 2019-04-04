@@ -1,0 +1,72 @@
+{
+  "id": 1309900261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.50728,-19.42462,-65.50728,-19.42462",
+    "geom:latitude":-19.42462,
+    "geom:longitude":-65.50728,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chumali",
+    "gn:country_code":"BO",
+    "gn:dem":3617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920237,
+    "gn:latitude":-19.42462,
+    "gn:longitude":-65.50728,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Chumali",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calimati",
+        "Calimali",
+        "Chumali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920237
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"af2221a03f6512b0e1f156f68a1e4193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008843,
+            "locality_id":1309900261,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1309900261,
+    "wof:lastmodified":1537588107,
+    "wof:name":"Chumali",
+    "wof:parent_id":1092008843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.50728000000001,
+    -19.42462,
+    -65.50728000000001,
+    -19.42462
+],
+  "geometry": {"coordinates":[-65.50728000000001,-19.42462],"type":"Point"}
+}

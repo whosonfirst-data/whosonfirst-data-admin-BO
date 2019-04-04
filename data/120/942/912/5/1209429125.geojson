@@ -1,0 +1,61 @@
+{
+  "id": 1209429125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.92502,-19.06044,-64.92502,-19.06044",
+    "geom:latitude":-19.06044,
+    "geom:longitude":-64.92502,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Estancia Pujio Pampa",
+    "gn:country_code":"BO",
+    "gn:dem":2906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916407,
+    "gn:latitude":-19.06044,
+    "gn:longitude":-64.92502,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Pujio Pampa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916407
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7bf3d4301974f4cc409c9c74491dd750",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209429125
+        }
+    ],
+    "wof:id":1209429125,
+    "wof:lastmodified":1536287288,
+    "wof:name":"Estancia Pujio Pampa",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.92501999999999,
+    -19.06044,
+    -64.92501999999999,
+    -19.06044
+],
+  "geometry": {"coordinates":[-64.92501999999999,-19.06044],"type":"Point"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 421181695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.01667,-17.61667,-66.01667,-17.61667",
+    "geom:latitude":-17.61667,
+    "geom:longitude":-66.01667,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tarata"
+    ],
+    "name:dan_x_preferred":[
+        "Tarata"
+    ],
+    "name:deu_x_preferred":[
+        "Tarata"
+    ],
+    "name:fra_x_preferred":[
+        "Tarata"
+    ],
+    "name:nld_x_preferred":[
+        "Tarata"
+    ],
+    "name:nor_x_preferred":[
+        "Tarata"
+    ],
+    "name:pol_x_preferred":[
+        "Tarata"
+    ],
+    "name:que_x_preferred":[
+        "T'arata"
+    ],
+    "name:spa_x_preferred":[
+        "Tarata"
+    ],
+    "name:swe_x_preferred":[
+        "Tarata"
+    ],
+    "name:war_x_preferred":[
+        "Tarata"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u62c9\u5854"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3903342,
+    "qs:gn_pop":8043,
+    "qs:name":"Tarata",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"Cochabamba",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":501166,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":346641,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-17.611389,
+    "wd:longitude":-66.023333,
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        421185047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903342,
+        "gp:id":346641,
+        "qs:id":501166,
+        "wd:id":"Q1016289",
+        "wk:page":"Tarata, Cochabamba"
+    },
+    "wof:country":"BO",
+    "wof:created":1459009304,
+    "wof:geomhash":"80af6a708c84767322d7e08cf1e7bb57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421185047,
+            "locality_id":421181695,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":421181695,
+    "wof:lastmodified":1527716324,
+    "wof:name":"Tarata",
+    "wof:parent_id":421185047,
+    "wof:placetype":"locality",
+    "wof:population":8043,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.01667,
+    -17.61667,
+    -66.01667,
+    -17.61667
+],
+  "geometry": {"coordinates":[-66.01667,-17.61667],"type":"Point"}
+}

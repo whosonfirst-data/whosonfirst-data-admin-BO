@@ -1,0 +1,74 @@
+{
+  "id": 1242982345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.95,-14.88333,-64.95,-14.88333",
+    "geom:latitude":-14.88333,
+    "geom:longitude":-64.95,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Puerto Almacen",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907285,
+    "gn:latitude":-14.88333,
+    "gn:longitude":-64.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puerto Almac\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mayor Pedro Vaca Diez",
+        "Villa My Vaca Diez",
+        "Vaca Diez",
+        "Puerto Almac\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        421191613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907285
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9e888cb11dbaadbf735757e4be6548ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421191613,
+            "locality_id":1242982345,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1242982345,
+    "wof:lastmodified":1537587979,
+    "wof:name":"Puerto Almacen",
+    "wof:parent_id":421191613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.95,
+    -14.88333,
+    -64.95,
+    -14.88333
+],
+  "geometry": {"coordinates":[-64.95,-14.88333],"type":"Point"}
+}

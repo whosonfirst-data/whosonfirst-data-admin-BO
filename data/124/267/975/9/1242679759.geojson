@@ -1,0 +1,73 @@
+{
+  "id": 1242679759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.21355,-12.65993,-63.21355,-12.65993",
+    "geom:latitude":-12.65993,
+    "geom:longitude":-63.21355,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Boca",
+    "gn:country_code":"BO",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3923089,
+    "gn:latitude":-12.65993,
+    "gn:longitude":-63.21355,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Boca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bocoa",
+        "Boca Grande",
+        "Bocca",
+        "Boca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923089
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a0fce4ced1512614c780151dd25594b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005711,
+            "locality_id":1242679759,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1242679759,
+    "wof:lastmodified":1537588143,
+    "wof:name":"Boca",
+    "wof:parent_id":1092005711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.21355,
+    -12.65993,
+    -63.21355,
+    -12.65993
+],
+  "geometry": {"coordinates":[-63.21355,-12.65993],"type":"Point"}
+}

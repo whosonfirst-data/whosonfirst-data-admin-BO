@@ -1,0 +1,67 @@
+{
+  "id": 1225947481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.20255,-18.08083,-65.20255,-18.08083",
+    "geom:latitude":-18.08083,
+    "geom:longitude":-65.20255,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Estancia Asna Yacu",
+    "gn:country_code":"BO",
+    "gn:dem":2184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917722,
+    "gn:latitude":-18.08083,
+    "gn:longitude":-65.20255,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Asna Yacu",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917722
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"80e1d42d64d48448c330fe5c43eccf74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006465,
+            "locality_id":1225947481,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1225947481,
+    "wof:lastmodified":1536865483,
+    "wof:name":"Estancia Asna Yacu",
+    "wof:parent_id":1092006465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.20255,
+    -18.08083,
+    -65.20255,
+    -18.08083
+],
+  "geometry": {"coordinates":[-65.20255,-18.08083],"type":"Point"}
+}

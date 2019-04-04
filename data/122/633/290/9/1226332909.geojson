@@ -1,0 +1,72 @@
+{
+  "id": 1226332909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.3,-17.96667,-63.3,-17.96667",
+    "geom:latitude":-17.96667,
+    "geom:longitude":-63.3,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pedro Lorenzo",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908221,
+    "gn:latitude":-17.96667,
+    "gn:longitude":-63.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pedro Lorenzo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lorenzo",
+        "Pedro Lorenzo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421187923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908221
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"bd12ff08e80fff331a935b22014ff74b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187923,
+            "locality_id":1226332909,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1226332909,
+    "wof:lastmodified":1537587989,
+    "wof:name":"Pedro Lorenzo",
+    "wof:parent_id":421187923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.3,
+    -17.96667,
+    -63.3,
+    -17.96667
+],
+  "geometry": {"coordinates":[-63.3,-17.96667],"type":"Point"}
+}

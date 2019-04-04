@@ -1,0 +1,72 @@
+{
+  "id": 1343268039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.6,-15.83333,-67.6,-15.83333",
+    "geom:latitude":-15.83333,
+    "geom:longitude":-67.6,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Taypiplaya",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903216,
+    "gn:latitude":-15.83333,
+    "gn:longitude":-67.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taypiplaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taipiplaya",
+        "Taypiplaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903216
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b464f507b0cde02a047d08c55e414ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007051,
+            "locality_id":1343268039,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1343268039,
+    "wof:lastmodified":1537587935,
+    "wof:name":"Taypiplaya",
+    "wof:parent_id":1092007051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.6,
+    -15.83333,
+    -67.6,
+    -15.83333
+],
+  "geometry": {"coordinates":[-67.59999999999999,-15.83333],"type":"Point"}
+}

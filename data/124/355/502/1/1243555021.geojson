@@ -1,0 +1,72 @@
+{
+  "id": 1243555021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.05,-17.81667,-68.05,-17.81667",
+    "geom:latitude":-17.81667,
+    "geom:longitude":-68.05,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Irpoco",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914077,
+    "gn:latitude":-17.81667,
+    "gn:longitude":-68.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Irpoco",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Irpokho",
+        "Irpoco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092008123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914077
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e0f70ee36492282bd825c954bed12de2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008123,
+            "locality_id":1243555021,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1243555021,
+    "wof:lastmodified":1537588055,
+    "wof:name":"Irpoco",
+    "wof:parent_id":1092008123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.05,
+    -17.81667000000001,
+    -68.05,
+    -17.81667000000001
+],
+  "geometry": {"coordinates":[-68.05,-17.81667000000001],"type":"Point"}
+}

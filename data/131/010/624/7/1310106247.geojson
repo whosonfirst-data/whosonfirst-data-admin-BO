@@ -1,0 +1,67 @@
+{
+  "id": 1310106247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.18333,-17.05,-67.18333,-17.05",
+    "geom:latitude":-17.05,
+    "geom:longitude":-67.18333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Estancia Huara Huarani",
+    "gn:country_code":"BO",
+    "gn:dem":4174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917176,
+    "gn:latitude":-17.05,
+    "gn:longitude":-67.18333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Huara Huarani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917176
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a406c967f2f5db285a93994b7a973151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007257,
+            "locality_id":1310106247,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1310106247,
+    "wof:lastmodified":1536994597,
+    "wof:name":"Estancia Huara Huarani",
+    "wof:parent_id":1092007257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.18333,
+    -17.05,
+    -67.18333,
+    -17.05
+],
+  "geometry": {"coordinates":[-67.18333,-17.05],"type":"Point"}
+}

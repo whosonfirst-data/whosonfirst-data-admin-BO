@@ -1,0 +1,67 @@
+{
+  "id": 1276436685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.45699,-21.51617,-64.45699,-21.51617",
+    "geom:latitude":-21.51617,
+    "geom:longitude":-64.45699,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hoyaditas",
+    "gn:country_code":"BO",
+    "gn:dem":2474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915101,
+    "gn:latitude":-21.51617,
+    "gn:longitude":-64.45699,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Hoyaditas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421169233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915101
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"14c62fbf1af96af8278f6a0970b0bc4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169233,
+            "locality_id":1276436685,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1276436685,
+    "wof:lastmodified":1536639135,
+    "wof:name":"Hoyaditas",
+    "wof:parent_id":421169233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.45699,
+    -21.51617,
+    -64.45699,
+    -21.51617
+],
+  "geometry": {"coordinates":[-64.45699,-21.51617],"type":"Point"}
+}

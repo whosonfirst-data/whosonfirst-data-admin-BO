@@ -1,0 +1,67 @@
+{
+  "id": 1293095635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.75822,-19.93712,-65.75822,-19.93712",
+    "geom:latitude":-19.93712,
+    "geom:longitude":-65.75822,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Comunidad Jatun Mayu",
+    "gn:country_code":"BO",
+    "gn:dem":3266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919577,
+    "gn:latitude":-19.93712,
+    "gn:longitude":-65.75822,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Comunidad Jatun Mayu",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919577
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b0c831d22bef329f4fa42a3bdfd128b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008991,
+            "locality_id":1293095635,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293095635,
+    "wof:lastmodified":1536853918,
+    "wof:name":"Comunidad Jatun Mayu",
+    "wof:parent_id":1092008991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.75822,
+    -19.93712,
+    -65.75822,
+    -19.93712
+],
+  "geometry": {"coordinates":[-65.75821999999999,-19.93712],"type":"Point"}
+}

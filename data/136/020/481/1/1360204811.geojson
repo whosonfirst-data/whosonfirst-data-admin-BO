@@ -1,0 +1,67 @@
+{
+  "id": 1360204811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.91667,-17.16667,-63.91667,-17.16667",
+    "geom:latitude":-17.16667,
+    "geom:longitude":-63.91667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Colonia Japonesa San Juan",
+    "gn:country_code":"BO",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919796,
+    "gn:latitude":-17.16667,
+    "gn:longitude":-63.91667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Colonia Japonesa San Juan",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919796
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3cbd890f29f1b4f1220c671bdf2655ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009785,
+            "locality_id":1360204811,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1360204811,
+    "wof:lastmodified":1536773659,
+    "wof:name":"Colonia Japonesa San Juan",
+    "wof:parent_id":1092009785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.91667,
+    -17.16667,
+    -63.91667,
+    -17.16667
+],
+  "geometry": {"coordinates":[-63.91667,-17.16667],"type":"Point"}
+}

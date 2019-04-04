@@ -1,0 +1,67 @@
+{
+  "id": 1293122345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.6,-21.18333,-65.6,-21.18333",
+    "geom:latitude":-21.18333,
+    "geom:longitude":-65.6,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Maucuilata",
+    "gn:country_code":"BO",
+    "gn:dem":3338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910572,
+    "gn:latitude":-21.18333,
+    "gn:longitude":-65.6,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Maucuilata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910572
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9a7156f7222446270305eeec98d7d206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":1293122345,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293122345,
+    "wof:lastmodified":1536815784,
+    "wof:name":"Maucuilata",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.6,
+    -21.18333,
+    -65.6,
+    -21.18333
+],
+  "geometry": {"coordinates":[-65.59999999999999,-21.18333],"type":"Point"}
+}

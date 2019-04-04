@@ -1,0 +1,73 @@
+{
+  "id": 1259865047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.61667,-18.68333,-63.61667,-18.68333",
+    "geom:latitude":-18.68333,
+    "geom:longitude":-63.61667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Morocos",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909940,
+    "gn:latitude":-18.68333,
+    "gn:longitude":-63.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Morocos",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moroco",
+        "Moroca",
+        "Morocos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909940
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8cc0d7a9213298694d34ae7852039d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1259865047,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1259865047,
+    "wof:lastmodified":1537588009,
+    "wof:name":"Morocos",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.61666999999999,
+    -18.68333,
+    -63.61666999999999,
+    -18.68333
+],
+  "geometry": {"coordinates":[-63.61666999999999,-18.68333],"type":"Point"}
+}

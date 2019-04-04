@@ -1,0 +1,61 @@
+{
+  "id": 1209538381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.61667,-17.81667,-67.61667,-17.81667",
+    "geom:latitude":-17.81667,
+    "geom:longitude":-67.61667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Estancia Calle",
+    "gn:country_code":"BO",
+    "gn:dem":3734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917636,
+    "gn:latitude":-17.81667,
+    "gn:longitude":-67.61667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Calle",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917636
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"df7f7395cce99688871e3a4e7c8d61cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209538381
+        }
+    ],
+    "wof:id":1209538381,
+    "wof:lastmodified":1536284065,
+    "wof:name":"Estancia Calle",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.61667,
+    -17.816670000000006,
+    -67.61667,
+    -17.816670000000006
+],
+  "geometry": {"coordinates":[-67.61667,-17.81667000000001],"type":"Point"}
+}

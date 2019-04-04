@@ -1,0 +1,88 @@
+{
+  "id": 421202987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.31557,-21.2675,-66.31557,-21.2675",
+    "geom:latitude":-21.2675,
+    "geom:longitude":-66.31557,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "San Vicente"
+    ],
+    "name:eng_x_preferred":[
+        "San Vicente"
+    ],
+    "name:ger_x_preferred":[
+        "San Vicente"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3904616,
+    "qs:gn_pop":0,
+    "qs:name":"San Vicente",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"Potos\u00ed",
+    "qs:photos":22,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":22,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":53705,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":346243,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904616,
+        "gp:id":346243,
+        "qs:id":53705,
+        "wd:id":"Q18212380",
+        "wk:page":"San Vicente Canton, Bolivia"
+    },
+    "wof:country":"BO",
+    "wof:created":1459010136,
+    "wof:geomhash":"f4ab8e0f2eb074685fa0ecd560290c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":421202987,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":421202987,
+    "wof:lastmodified":1553816389,
+    "wof:name":"San Vicente",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.31557,
+    -21.2675,
+    -66.31557,
+    -21.2675
+],
+  "geometry": {"coordinates":[-66.31556999999999,-21.2675],"type":"Point"}
+}

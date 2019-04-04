@@ -1,0 +1,71 @@
+{
+  "id": 1310614825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.94584,-19.99338,-63.94584,-19.99338",
+    "geom:latitude":-19.99338,
+    "geom:longitude":-63.94584,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Piramiri",
+    "gn:country_code":"BO",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907878,
+    "gn:latitude":-19.99338,
+    "gn:longitude":-63.94584,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Piramiri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pineimiri",
+        "Piramiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907878
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"84a7ad9072a1c645c145897a0e14d90d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005923,
+            "locality_id":1310614825,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1310614825,
+    "wof:lastmodified":1537587986,
+    "wof:name":"Piramiri",
+    "wof:parent_id":1092005923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.94584,
+    -19.99338,
+    -63.94584,
+    -19.99338
+],
+  "geometry": {"coordinates":[-63.94584,-19.99338],"type":"Point"}
+}

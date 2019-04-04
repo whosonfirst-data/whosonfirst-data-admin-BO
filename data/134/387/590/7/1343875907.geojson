@@ -1,0 +1,71 @@
+{
+  "id": 1343875907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.79937,-19.10939,-64.79937,-19.10939",
+    "geom:latitude":-19.10939,
+    "geom:longitude":-64.79937,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sarufaya",
+    "gn:country_code":"BO",
+    "gn:dem":2556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904569,
+    "gn:latitude":-19.10939,
+    "gn:longitude":-64.79937,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Sarufaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Sarufaya",
+        "Sarufaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421188855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904569
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"504c03707367cbc0db9d7503bfe0b462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421188855,
+            "locality_id":1343875907,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1343875907,
+    "wof:lastmodified":1537587952,
+    "wof:name":"Sarufaya",
+    "wof:parent_id":421188855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.79937,
+    -19.10939,
+    -64.79937,
+    -19.10939
+],
+  "geometry": {"coordinates":[-64.79937,-19.10939],"type":"Point"}
+}

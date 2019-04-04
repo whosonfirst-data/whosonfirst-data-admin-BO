@@ -1,0 +1,79 @@
+{
+  "id": 421199291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.603128,-20.589643,-67.603128,-20.589643",
+    "geom:latitude":-20.589643,
+    "geom:longitude":-67.603128,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Colcha K",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"Potos\u00ed",
+    "qs:photos":26,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":311,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":467874,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":55968050,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55968050,
+        "qs:id":467874,
+        "qs_pg:id":467874
+    },
+    "wof:country":"BO",
+    "wof:created":1459009984,
+    "wof:geomhash":"2dec03c0b84e2d1438d75fee5b55b30c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193357,
+            "localadmin_id":421199291,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":421199291,
+    "wof:lastmodified":1497043201,
+    "wof:name":"Colcha K",
+    "wof:parent_id":421193357,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.603128,
+    -20.589643,
+    -67.603128,
+    -20.589643
+],
+  "geometry": {"coordinates":[-67.603128,-20.589643],"type":"Point"}
+}

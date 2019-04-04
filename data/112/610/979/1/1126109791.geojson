@@ -1,0 +1,100 @@
+{
+  "id": 1126109791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.16667,-16.48333,-68.16667,-16.48333",
+    "geom:latitude":-16.48333,
+    "geom:longitude":-68.16667,
+    "gn:gn_country":"BO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-16.48333,
+    "gn:longitude":-68.16667,
+    "iso:country":"BO",
+    "lbl:latitude":-16.48333,
+    "lbl:longitude":-68.16667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Pura Pura"
+    ],
+    "name:unk_x_variant":[
+        "Pura Pura"
+    ],
+    "qs_pg:aaroncc":"BO",
+    "qs_pg:gn_country":"BO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3907020,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pura Pura",
+    "qs_pg:name_adm0":"Bolivia",
+    "qs_pg:name_adm1":"La Paz",
+    "qs_pg:photos":43,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":43,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":887586,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424762,
+    "qs_pg:woe_id":342835,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424762,
+    "woe:name_adm0":"Bolivia",
+    "woe:name_adm1":"La Paz",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85669409,
+        102191577,
+        85632623,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907020,
+        "gp:id":342835,
+        "qs:id":887586,
+        "qs_pg:id":887586
+    },
+    "wof:country":"BO",
+    "wof:created":1497318004,
+    "wof:geomhash":"6afaf0087a81b3e7701220e44c8e6465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":-1,
+            "neighbourhood_id":1126109791,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1126109791,
+    "wof:lastmodified":1534379235,
+    "wof:name":"Pura Pura",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764371
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.16667,
+    -16.48333,
+    -68.16667,
+    -16.48333
+],
+  "geometry": {"coordinates":[-68.16667,-16.48333],"type":"Point"}
+}

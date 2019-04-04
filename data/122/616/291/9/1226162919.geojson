@@ -1,0 +1,67 @@
+{
+  "id": 1226162919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.61667,-19.68333,-62.61667,-19.68333",
+    "geom:latitude":-19.68333,
+    "geom:longitude":-62.61667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Villa Valdez",
+    "gn:country_code":"BO",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901511,
+    "gn:latitude":-19.68333,
+    "gn:longitude":-62.61667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Villa Valdez",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901511
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0f821a55a0df8835fba35077bc5793b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1226162919,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1226162919,
+    "wof:lastmodified":1537050867,
+    "wof:name":"Villa Valdez",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.61666999999999,
+    -19.68333,
+    -62.61666999999999,
+    -19.68333
+],
+  "geometry": {"coordinates":[-62.61666999999999,-19.68333],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890455425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.12364,-17.75833,-65.12364,-17.75833",
+    "geom:latitude":-17.75833,
+    "geom:longitude":-65.12364,
+    "gn:country":"BO",
+    "gn:fcode":"PPL",
+    "gn:pop":209,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Uyacti Punta",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618541,
+        "gp:id":346111,
+        "qs:id":105125
+    },
+    "wof:country":"BO",
+    "wof:created":1469052947,
+    "wof:geomhash":"25d3f564caef07d7361368142869fa71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":890455425,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":890455425,
+    "wof:lastmodified":1505343663,
+    "wof:name":"Uyacti Punta",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.12364,
+    -17.75833,
+    -65.12364,
+    -17.75833
+],
+  "geometry": {"coordinates":[-65.12363999999999,-17.75833],"type":"Point"}
+}

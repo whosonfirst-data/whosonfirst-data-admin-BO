@@ -1,0 +1,71 @@
+{
+  "id": 1293600615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.74954,-14.85195,-66.74954,-14.85195",
+    "geom:latitude":-14.85195,
+    "geom:longitude":-66.74954,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"San Borja",
+    "gn:country_code":"BO",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11467676,
+    "gn:latitude":-14.85195,
+    "gn:longitude":-66.74954,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Borja",
+    "gn:population":24610,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11467676,
+        "wk:page":"San_Borja,_Bolivia"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"bf719104d8f9959f74bdeb1f6732934f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005669,
+            "locality_id":1293600615,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1293600615,
+    "wof:lastmodified":1537487951,
+    "wof:name":"San Borja",
+    "wof:parent_id":1092005669,
+    "wof:placetype":"locality",
+    "wof:population":24610,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.74954,
+    -14.85195,
+    -66.74954,
+    -14.85195
+],
+  "geometry": {"coordinates":[-66.74954,-14.85195],"type":"Point"}
+}

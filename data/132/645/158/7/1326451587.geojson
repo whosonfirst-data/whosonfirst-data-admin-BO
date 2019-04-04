@@ -1,0 +1,67 @@
+{
+  "id": 1326451587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.5328,-20.2728,-65.5328,-20.2728",
+    "geom:latitude":-20.2728,
+    "geom:longitude":-65.5328,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Estancia Quebrada",
+    "gn:country_code":"BO",
+    "gn:dem":3053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916392,
+    "gn:latitude":-20.2728,
+    "gn:longitude":-65.5328,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Quebrada",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916392
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d3e3c63a8d6fe1e17a53f0090c124fe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1326451587,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1326451587,
+    "wof:lastmodified":1536600120,
+    "wof:name":"Estancia Quebrada",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.5328,
+    -20.2728,
+    -65.5328,
+    -20.2728
+],
+  "geometry": {"coordinates":[-65.53279999999999,-20.2728],"type":"Point"}
+}

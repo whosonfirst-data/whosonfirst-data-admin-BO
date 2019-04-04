@@ -1,0 +1,67 @@
+{
+  "id": 1243281615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.20478,-20.53257,-65.20478,-20.53257",
+    "geom:latitude":-20.53257,
+    "geom:longitude":-65.20478,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Estancia Nequeta Baja",
+    "gn:country_code":"BO",
+    "gn:dem":3088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916609,
+    "gn:latitude":-20.53257,
+    "gn:longitude":-65.20478,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia \u00d1equeta Baja",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916609
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"51d374bf3b2fddb852e76ece45846353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006003,
+            "locality_id":1243281615,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1243281615,
+    "wof:lastmodified":1537041403,
+    "wof:name":"Estancia Nequeta Baja",
+    "wof:parent_id":1092006003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.20478,
+    -20.53257,
+    -65.20478,
+    -20.53257
+],
+  "geometry": {"coordinates":[-65.20478,-20.53257],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209619267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.21303,-18.73132,-65.21303,-18.73132",
+    "geom:latitude":-18.73132,
+    "geom:longitude":-65.21303,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"La Palca",
+    "gn:country_code":"BO",
+    "gn:dem":2069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911945,
+    "gn:latitude":-18.73132,
+    "gn:longitude":-65.21303,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"La Palca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911945
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f4a64128ab28ebc1d8a1b013431779c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209619267
+        }
+    ],
+    "wof:id":1209619267,
+    "wof:lastmodified":1536281577,
+    "wof:name":"La Palca",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.21303,
+    -18.73132,
+    -65.21303,
+    -18.73132
+],
+  "geometry": {"coordinates":[-65.21303,-18.73132],"type":"Point"}
+}

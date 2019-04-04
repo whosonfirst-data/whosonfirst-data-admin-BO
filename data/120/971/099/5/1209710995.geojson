@@ -1,0 +1,72 @@
+{
+  "id": 1209710995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.63333,-13.9,-61.63333,-13.9",
+    "geom:latitude":-13.9,
+    "geom:longitude":-61.63333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Aceite",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3924618,
+    "gn:latitude":-13.9,
+    "gn:longitude":-61.63333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aceite",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Acaita",
+        "Aceite"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3924618
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0eb202eb8b980c5c412ef116773abb08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1209710995,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1209710995,
+    "wof:lastmodified":1537588161,
+    "wof:name":"Aceite",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.63333000000001,
+    -13.9,
+    -61.63333000000001,
+    -13.9
+],
+  "geometry": {"coordinates":[-61.63333000000001,-13.9],"type":"Point"}
+}

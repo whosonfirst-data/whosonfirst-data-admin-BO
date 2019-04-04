@@ -1,0 +1,67 @@
+{
+  "id": 1309800651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.37922,-20.22404,-65.37922,-20.22404",
+    "geom:latitude":-20.22404,
+    "geom:longitude":-65.37922,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Estancia Vargas",
+    "gn:country_code":"BO",
+    "gn:dem":3036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915991,
+    "gn:latitude":-20.22404,
+    "gn:longitude":-65.37922,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Vargas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915991
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f4d9b034e68abc70f2abb43c235d73ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1309800651,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1309800651,
+    "wof:lastmodified":1536939249,
+    "wof:name":"Estancia Vargas",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.37921999999999,
+    -20.22404,
+    -65.37921999999999,
+    -20.22404
+],
+  "geometry": {"coordinates":[-65.37921999999999,-20.22404],"type":"Point"}
+}

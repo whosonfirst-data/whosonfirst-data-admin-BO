@@ -1,0 +1,66 @@
+{
+  "id": 1209535813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.96667,-13.9,-61.96667,-13.9",
+    "geom:latitude":-13.9,
+    "geom:longitude":-61.96667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Puerto Callau",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907270,
+    "gn:latitude":-13.9,
+    "gn:longitude":-61.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puerto Calla\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Callao",
+        "Puerto Calla\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907270
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4eab370bba512aca6f585d7fad4bdf31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209535813
+        }
+    ],
+    "wof:id":1209535813,
+    "wof:lastmodified":1537587979,
+    "wof:name":"Puerto Callau",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.96666999999999,
+    -13.9,
+    -61.96666999999999,
+    -13.9
+],
+  "geometry": {"coordinates":[-61.96666999999999,-13.9],"type":"Point"}
+}

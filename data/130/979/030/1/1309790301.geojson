@@ -1,0 +1,67 @@
+{
+  "id": 1309790301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.70458,-21.59667,-64.70458,-21.59667",
+    "geom:latitude":-21.59667,
+    "geom:longitude":-64.70458,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"San Jacinto",
+    "gn:country_code":"BO",
+    "gn:dem":1827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905623,
+    "gn:latitude":-21.59667,
+    "gn:longitude":-64.70458,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"San Jacinto",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421169233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905623
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"95949229fc97ceb24159513858e4c34f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169233,
+            "locality_id":1309790301,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1309790301,
+    "wof:lastmodified":1536953530,
+    "wof:name":"San Jacinto",
+    "wof:parent_id":421169233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.70458,
+    -21.59667,
+    -64.70458,
+    -21.59667
+],
+  "geometry": {"coordinates":[-64.70458000000001,-21.59667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209316551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.23995,-13.27856,-65.23995,-13.27856",
+    "geom:latitude":-13.27856,
+    "geom:longitude":-65.23995,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Exaltacion",
+    "gn:country_code":"BO",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915822,
+    "gn:latitude":-13.27856,
+    "gn:longitude":-65.23995,
+    "gn:modification_date":"2012-08-15",
+    "gn:name":"Exaltaci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Exaltaci\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915822,
+        "wk:page":"Exaltaci%C3%B3n%2C_Mamore"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"19b385a2fcc4c036caeb899a5758eb4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209316551
+        }
+    ],
+    "wof:id":1209316551,
+    "wof:lastmodified":1537588077,
+    "wof:name":"Exaltacion",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.23995,
+    -13.27856,
+    -65.23995,
+    -13.27856
+],
+  "geometry": {"coordinates":[-65.23994999999999,-13.27856],"type":"Point"}
+}

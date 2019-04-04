@@ -1,0 +1,67 @@
+{
+  "id": 1226351433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.35,-17.25,-66.35,-17.25",
+    "geom:latitude":-17.25,
+    "geom:longitude":-66.35,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Estancia Jankho Khala",
+    "gn:country_code":"BO",
+    "gn:dem":4378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917048,
+    "gn:latitude":-17.25,
+    "gn:longitude":-66.35,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Jankho Khala",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        421197123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917048
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"cc137abe95064baa486cc1e6cf3959d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197123,
+            "locality_id":1226351433,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1226351433,
+    "wof:lastmodified":1536781673,
+    "wof:name":"Estancia Jankho Khala",
+    "wof:parent_id":421197123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.35,
+    -17.25,
+    -66.35,
+    -17.25
+],
+  "geometry": {"coordinates":[-66.34999999999999,-17.25],"type":"Point"}
+}

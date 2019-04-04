@@ -1,0 +1,67 @@
+{
+  "id": 1193263825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.66667,-16.75,-61.66667,-16.75",
+    "geom:latitude":-16.75,
+    "geom:longitude":-61.66667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Estancia Cruz del Norte",
+    "gn:country_code":"BO",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917308,
+    "gn:latitude":-16.75,
+    "gn:longitude":-61.66667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Cruz del Norte",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917308
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0fbf76b26d55bcc946755a3ae697a47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009873,
+            "locality_id":1193263825,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1193263825,
+    "wof:lastmodified":1536378025,
+    "wof:name":"Estancia Cruz del Norte",
+    "wof:parent_id":1092009873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.66667,
+    -16.75,
+    -61.66667,
+    -16.75
+],
+  "geometry": {"coordinates":[-61.66667,-16.75],"type":"Point"}
+}

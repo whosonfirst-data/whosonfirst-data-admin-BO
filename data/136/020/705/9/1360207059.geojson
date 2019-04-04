@@ -1,0 +1,72 @@
+{
+  "id": 1360207059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.85,-18.25,-60.85,-18.25",
+    "geom:latitude":-18.25,
+    "geom:longitude":-60.85,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Los Portigos",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911107,
+    "gn:latitude":-18.25,
+    "gn:longitude":-60.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Portigos",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Porticos",
+        "Los Portigos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911107
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c31678220ee7f5584bee0fff8827d8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009543,
+            "locality_id":1360207059,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1360207059,
+    "wof:lastmodified":1537588021,
+    "wof:name":"Los Portigos",
+    "wof:parent_id":1092009543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.85,
+    -18.25,
+    -60.85,
+    -18.25
+],
+  "geometry": {"coordinates":[-60.85,-18.25],"type":"Point"}
+}

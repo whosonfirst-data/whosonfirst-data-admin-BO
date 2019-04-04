@@ -1,0 +1,67 @@
+{
+  "id": 1226165611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.26667,-17.81667,-68.26667,-17.81667",
+    "geom:latitude":-17.81667,
+    "geom:longitude":-68.26667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Estancia Mollebamba",
+    "gn:country_code":"BO",
+    "gn:dem":3938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916653,
+    "gn:latitude":-17.81667,
+    "gn:longitude":-68.26667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Mollebamba",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092008123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916653
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"60aebe773e4f1753ee2f8266e07edb07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008123,
+            "locality_id":1226165611,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1226165611,
+    "wof:lastmodified":1537047110,
+    "wof:name":"Estancia Mollebamba",
+    "wof:parent_id":1092008123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.26666999999999,
+    -17.81667000000001,
+    -68.26666999999999,
+    -17.81667000000001
+],
+  "geometry": {"coordinates":[-68.26666999999999,-17.81667000000001],"type":"Point"}
+}

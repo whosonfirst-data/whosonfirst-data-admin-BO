@@ -1,0 +1,67 @@
+{
+  "id": 1344254023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.81077,-20.74586,-65.81077,-20.74586",
+    "geom:latitude":-20.74586,
+    "geom:longitude":-65.81077,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Estancia Palca Rio Blanco",
+    "gn:country_code":"BO",
+    "gn:dem":2821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916550,
+    "gn:latitude":-20.74586,
+    "gn:longitude":-65.81077,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Palca R\u00edo Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916550
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9854b5042bb0dd35aa0a9e370b9da2e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1344254023,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1344254023,
+    "wof:lastmodified":1537090339,
+    "wof:name":"Estancia Palca Rio Blanco",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.81076999999999,
+    -20.74586,
+    -65.81076999999999,
+    -20.74586
+],
+  "geometry": {"coordinates":[-65.81076999999999,-20.74586],"type":"Point"}
+}

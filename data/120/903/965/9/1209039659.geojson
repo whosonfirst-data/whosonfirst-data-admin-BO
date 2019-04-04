@@ -1,0 +1,66 @@
+{
+  "id": 1209039659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.68333,-17.28333,-68.68333,-17.28333",
+    "geom:latitude":-17.28333,
+    "geom:longitude":-68.68333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kaquesana",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913026,
+    "gn:latitude":-17.28333,
+    "gn:longitude":-68.68333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kaquesana",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kakesana",
+        "Kaquesana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913026
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5f53f3287ffa370c96233596ea753742",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209039659
+        }
+    ],
+    "wof:id":1209039659,
+    "wof:lastmodified":1537588043,
+    "wof:name":"Kaquesana",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.68333,
+    -17.28333,
+    -68.68333,
+    -17.28333
+],
+  "geometry": {"coordinates":[-68.68333,-17.28333],"type":"Point"}
+}

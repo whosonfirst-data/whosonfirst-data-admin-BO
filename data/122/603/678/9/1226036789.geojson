@@ -1,0 +1,67 @@
+{
+  "id": 1226036789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.25,-20.71667,-66.25,-20.71667",
+    "geom:latitude":-20.71667,
+    "geom:longitude":-66.25,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Llamacasa",
+    "gn:country_code":"BO",
+    "gn:dem":4133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911392,
+    "gn:latitude":-20.71667,
+    "gn:longitude":-66.25,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Llamacasa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911392
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4066ad0c587e2015477a6b2459361360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177657,
+            "locality_id":1226036789,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1226036789,
+    "wof:lastmodified":1536738037,
+    "wof:name":"Llamacasa",
+    "wof:parent_id":421177657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.25,
+    -20.71667,
+    -66.25,
+    -20.71667
+],
+  "geometry": {"coordinates":[-66.25,-20.71667],"type":"Point"}
+}

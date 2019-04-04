@@ -1,0 +1,67 @@
+{
+  "id": 1276755791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.98333,-21.53333,-65.98333,-21.53333",
+    "geom:latitude":-21.53333,
+    "geom:longitude":-65.98333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Torre",
+    "gn:country_code":"BO",
+    "gn:dem":3423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902580,
+    "gn:latitude":-21.53333,
+    "gn:longitude":-65.98333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Torre",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902580
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c5cdcfb8c71a1673f3b4aa7e77cce394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":1276755791,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1276755791,
+    "wof:lastmodified":1536710163,
+    "wof:name":"Torre",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.98333000000001,
+    -21.53333,
+    -65.98333000000001,
+    -21.53333
+],
+  "geometry": {"coordinates":[-65.98333000000001,-21.53333],"type":"Point"}
+}

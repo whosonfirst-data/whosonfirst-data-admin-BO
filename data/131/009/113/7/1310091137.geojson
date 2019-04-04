@@ -1,0 +1,67 @@
+{
+  "id": 1310091137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.71667,-17.75,-66.71667,-17.75",
+    "geom:latitude":-17.75,
+    "geom:longitude":-66.71667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Estancia Chikirio Grande",
+    "gn:country_code":"BO",
+    "gn:dem":4107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917457,
+    "gn:latitude":-17.75,
+    "gn:longitude":-66.71667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Chikirio Grande",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917457
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"51a76e653ac03ed21936da23f3542c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006343,
+            "locality_id":1310091137,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1310091137,
+    "wof:lastmodified":1537016551,
+    "wof:name":"Estancia Chikirio Grande",
+    "wof:parent_id":1092006343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.71667,
+    -17.75,
+    -66.71667,
+    -17.75
+],
+  "geometry": {"coordinates":[-66.71666999999999,-17.75],"type":"Point"}
+}

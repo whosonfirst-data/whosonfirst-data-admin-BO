@@ -1,0 +1,71 @@
+{
+  "id": 1326854621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.4454,-17.59268,-69.4454,-17.59268",
+    "geom:latitude":-17.59268,
+    "geom:longitude":-69.4454,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Charana",
+    "gn:country_code":"BO",
+    "gn:dem":4068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921129,
+    "gn:latitude":-17.59268,
+    "gn:longitude":-69.4454,
+    "gn:modification_date":"2012-08-15",
+    "gn:name":"Chara\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chara\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921129,
+        "wk:page":"Chara%C3%B1a"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"aa02720f22dfcd876a18b5c952875e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1326854621,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1326854621,
+    "wof:lastmodified":1537588117,
+    "wof:name":"Charana",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.4454,
+    -17.59267999999999,
+    -69.4454,
+    -17.59267999999999
+],
+  "geometry": {"coordinates":[-69.44540000000001,-17.59267999999999],"type":"Point"}
+}

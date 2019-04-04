@@ -1,0 +1,67 @@
+{
+  "id": 1309709131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.11468,-20.12165,-66.11468,-20.12165",
+    "geom:latitude":-20.12165,
+    "geom:longitude":-66.11468,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Estancia Panagua",
+    "gn:country_code":"BO",
+    "gn:dem":3342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916532,
+    "gn:latitude":-20.12165,
+    "gn:longitude":-66.11468,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Panagua",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916532
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"db1188bca37476438b453028c50c8152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177657,
+            "locality_id":1309709131,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1309709131,
+    "wof:lastmodified":1537067591,
+    "wof:name":"Estancia Panagua",
+    "wof:parent_id":421177657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.11468,
+    -20.12165,
+    -66.11468,
+    -20.12165
+],
+  "geometry": {"coordinates":[-66.11468000000001,-20.12165],"type":"Point"}
+}

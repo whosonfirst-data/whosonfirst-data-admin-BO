@@ -1,0 +1,73 @@
+{
+  "id": 1209818525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.86929,-18.17147,-64.86929,-18.17147",
+    "geom:latitude":-18.17147,
+    "geom:longitude":-64.86929,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pena Colorada",
+    "gn:country_code":"BO",
+    "gn:dem":1582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908170,
+    "gn:latitude":-18.17147,
+    "gn:longitude":-64.86929,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Pe\u00f1a Colorada",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Pe\u00f1a Colorada",
+        "Pe\u00f1a Calorada",
+        "Pe\u00f1a Colorado",
+        "Pe\u00f1a Colorada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908170
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f18299d25d37277291f8547cf83d0f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006465,
+            "locality_id":1209818525,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1209818525,
+    "wof:lastmodified":1537587988,
+    "wof:name":"Pena Colorada",
+    "wof:parent_id":1092006465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.86929,
+    -18.17147000000001,
+    -64.86929,
+    -18.17147000000001
+],
+  "geometry": {"coordinates":[-64.86929000000001,-18.17147000000001],"type":"Point"}
+}

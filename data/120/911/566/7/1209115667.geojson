@@ -1,0 +1,61 @@
+{
+  "id": 1209115667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.08333,-20.88333,-63.08333,-20.88333",
+    "geom:latitude":-20.88333,
+    "geom:longitude":-63.08333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Campo Grande",
+    "gn:country_code":"BO",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922357,
+    "gn:latitude":-20.88333,
+    "gn:longitude":-63.08333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Campo Grande",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922357
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a5559ce3f86fc75d85220f8170162b8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209115667
+        }
+    ],
+    "wof:id":1209115667,
+    "wof:lastmodified":1536297262,
+    "wof:name":"Campo Grande",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.08333,
+    -20.88333,
+    -63.08333,
+    -20.88333
+],
+  "geometry": {"coordinates":[-63.08333,-20.88333],"type":"Point"}
+}

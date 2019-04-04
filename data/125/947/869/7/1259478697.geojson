@@ -1,0 +1,72 @@
+{
+  "id": 1259478697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.23129,-20.23657,-63.23129,-20.23657",
+    "geom:latitude":-20.23657,
+    "geom:longitude":-63.23129,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ururigua",
+    "gn:country_code":"BO",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901944,
+    "gn:latitude":-20.23657,
+    "gn:longitude":-63.23129,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Ururigua",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ururique",
+        "Ururigui",
+        "Ururigua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901944
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"eb37ccdbba3a39e87820cee05cff83e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1259478697,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1259478697,
+    "wof:lastmodified":1537587917,
+    "wof:name":"Ururigua",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.23129,
+    -20.23657,
+    -63.23129,
+    -20.23657
+],
+  "geometry": {"coordinates":[-63.23129,-20.23657],"type":"Point"}
+}

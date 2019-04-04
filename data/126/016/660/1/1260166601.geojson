@@ -1,0 +1,73 @@
+{
+  "id": 1260166601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.26667,-17.41667,-63.26667,-17.41667",
+    "geom:latitude":-17.41667,
+    "geom:longitude":-63.26667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"S. C. Aguilera",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904487,
+    "gn:latitude":-17.41667,
+    "gn:longitude":-63.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S. C. Aguilera",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aguilera",
+        "S. G. Aguilera",
+        "S. C. Aguilera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904487
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d55853f5d81bd68f9fae445b6da0867b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009899,
+            "locality_id":1260166601,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1260166601,
+    "wof:lastmodified":1537587951,
+    "wof:name":"S. C. Aguilera",
+    "wof:parent_id":1092009899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.26667,
+    -17.41667,
+    -63.26667,
+    -17.41667
+],
+  "geometry": {"coordinates":[-63.26667,-17.41667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209332339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.61775,-20.30685,-64.61775,-20.30685",
+    "geom:latitude":-20.30685,
+    "geom:longitude":-64.61775,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Saca Willque",
+    "gn:country_code":"BO",
+    "gn:dem":1937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906166,
+    "gn:latitude":-20.30685,
+    "gn:longitude":-64.61775,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Saca Willque",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906166
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"30eec2bf8f7968e8a0464c225059a91e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209332339
+        }
+    ],
+    "wof:id":1209332339,
+    "wof:lastmodified":1536290334,
+    "wof:name":"Saca Willque",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.61775,
+    -20.30685,
+    -64.61775,
+    -20.30685
+],
+  "geometry": {"coordinates":[-64.61775,-20.30685],"type":"Point"}
+}

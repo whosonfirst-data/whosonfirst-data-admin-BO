@@ -1,0 +1,67 @@
+{
+  "id": 1293693139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.35308,-14.87323,-68.35308,-14.87323",
+    "geom:latitude":-14.87323,
+    "geom:longitude":-68.35308,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pachague",
+    "gn:country_code":"BO",
+    "gn:dem":1740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909112,
+    "gn:latitude":-14.87323,
+    "gn:longitude":-68.35308,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Pachague",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421187093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909112
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d2d1bcb5eaf1a74407226097aaa08251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187093,
+            "locality_id":1293693139,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293693139,
+    "wof:lastmodified":1536987003,
+    "wof:name":"Pachague",
+    "wof:parent_id":421187093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.35308,
+    -14.87323,
+    -68.35308,
+    -14.87323
+],
+  "geometry": {"coordinates":[-68.35308000000001,-14.87323],"type":"Point"}
+}

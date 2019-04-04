@@ -1,0 +1,73 @@
+{
+  "id": 1193268923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.36667,-20.06667,-63.36667,-20.06667",
+    "geom:latitude":-20.06667,
+    "geom:longitude":-63.36667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Huateovi",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914711,
+    "gn:latitude":-20.06667,
+    "gn:longitude":-63.36667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Huateovi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huateobi",
+        "Haateosi",
+        "Huateovi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914711
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3e1c1805840ff9151b225675524b5f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1193268923,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1193268923,
+    "wof:lastmodified":1537588063,
+    "wof:name":"Huateovi",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.36666999999999,
+    -20.06667,
+    -63.36666999999999,
+    -20.06667
+],
+  "geometry": {"coordinates":[-63.36666999999999,-20.06667],"type":"Point"}
+}

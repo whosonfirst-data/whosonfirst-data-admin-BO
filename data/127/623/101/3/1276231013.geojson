@@ -1,0 +1,67 @@
+{
+  "id": 1276231013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.11667,-17.01667,-66.11667,-17.01667",
+    "geom:latitude":-17.01667,
+    "geom:longitude":-66.11667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Estancia Torreni",
+    "gn:country_code":"BO",
+    "gn:dem":3439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916059,
+    "gn:latitude":-17.01667,
+    "gn:longitude":-66.11667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Torreni",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        421172489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916059
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1990cba800a96136a3bd244ca7084862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421172489,
+            "locality_id":1276231013,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1276231013,
+    "wof:lastmodified":1536916440,
+    "wof:name":"Estancia Torreni",
+    "wof:parent_id":421172489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.11667,
+    -17.01667,
+    -66.11667,
+    -17.01667
+],
+  "geometry": {"coordinates":[-66.11667,-17.01667],"type":"Point"}
+}

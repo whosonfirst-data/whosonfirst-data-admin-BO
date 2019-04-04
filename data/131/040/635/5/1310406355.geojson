@@ -1,0 +1,72 @@
+{
+  "id": 1310406355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.35,-16.48333,-67.35,-16.48333",
+    "geom:latitude":-16.48333,
+    "geom:longitude":-67.35,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Huara",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914821,
+    "gn:latitude":-16.48333,
+    "gn:longitude":-67.35,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Huara",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huera",
+        "Huara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421168083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914821
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6cfed34925f067a07562bdfc975513af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421168083,
+            "locality_id":1310406355,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1310406355,
+    "wof:lastmodified":1537588065,
+    "wof:name":"Huara",
+    "wof:parent_id":421168083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.35,
+    -16.48333,
+    -67.35,
+    -16.48333
+],
+  "geometry": {"coordinates":[-67.34999999999999,-16.48333],"type":"Point"}
+}

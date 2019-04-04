@@ -1,0 +1,71 @@
+{
+  "id": 1260000913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.18499,-21.73162,-67.18499,-21.73162",
+    "geom:latitude":-21.73162,
+    "geom:longitude":-67.18499,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Todos Santos",
+    "gn:country_code":"BO",
+    "gn:dem":4037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902793,
+    "gn:latitude":-21.73162,
+    "gn:longitude":-67.18499,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Todos Santos",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Todo Santos",
+        "Todos Santos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421175057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902793
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"684bd7f86b83d726130d12ab5d0846de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421175057,
+            "locality_id":1260000913,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1260000913,
+    "wof:lastmodified":1537587930,
+    "wof:name":"Todos Santos",
+    "wof:parent_id":421175057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.18499,
+    -21.73162,
+    -67.18499,
+    -21.73162
+],
+  "geometry": {"coordinates":[-67.18499,-21.73162],"type":"Point"}
+}

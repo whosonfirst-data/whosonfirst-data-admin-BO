@@ -1,0 +1,67 @@
+{
+  "id": 1226336813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.68333,-20.4,-68.68333,-20.4",
+    "geom:latitude":-20.4,
+    "geom:longitude":-68.68333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pampa Anta",
+    "gn:country_code":"BO",
+    "gn:dem":3791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908688,
+    "gn:latitude":-20.4,
+    "gn:longitude":-68.68333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Pampa Anta",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908688
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5a28079931a672b8d4127cded68ae52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177659,
+            "locality_id":1226336813,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1226336813,
+    "wof:lastmodified":1536802369,
+    "wof:name":"Pampa Anta",
+    "wof:parent_id":421177659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.68333,
+    -20.4,
+    -68.68333,
+    -20.4
+],
+  "geometry": {"coordinates":[-68.68333,-20.4],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309900373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.74763,-19.68657,-65.74763,-19.68657",
+    "geom:latitude":-19.68657,
+    "geom:longitude":-65.74763,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Alcatambo",
+    "gn:country_code":"BO",
+    "gn:dem":4193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3924298,
+    "gn:latitude":-19.68657,
+    "gn:longitude":-65.74763,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Alcatambo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alcotambo",
+        "Alcatambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3924298
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a631107fb172dc853578e495d59099c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177665,
+            "locality_id":1309900373,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1309900373,
+    "wof:lastmodified":1537588156,
+    "wof:name":"Alcatambo",
+    "wof:parent_id":421177665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.74763,
+    -19.68657,
+    -65.74763,
+    -19.68657
+],
+  "geometry": {"coordinates":[-65.74763,-19.68657],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344076951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.13149,-15.08851,-61.13149,-15.08851",
+    "geom:latitude":-15.08851,
+    "geom:longitude":-61.13149,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Noria",
+    "gn:country_code":"BO",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911961,
+    "gn:latitude":-15.08851,
+    "gn:longitude":-61.13149,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"La Noria",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911961
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c3fa06d16288a8fd21ab2d79a7ec1e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1344076951,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1344076951,
+    "wof:lastmodified":1536850762,
+    "wof:name":"La Noria",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.13149,
+    -15.08851,
+    -61.13149,
+    -15.08851
+],
+  "geometry": {"coordinates":[-61.13149,-15.08851],"type":"Point"}
+}

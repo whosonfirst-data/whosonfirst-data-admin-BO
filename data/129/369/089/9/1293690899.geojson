@@ -1,0 +1,71 @@
+{
+  "id": 1293690899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.17327,-18.80926,-65.17327,-18.80926",
+    "geom:latitude":-18.80926,
+    "geom:longitude":-65.17327,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Naranjos",
+    "gn:country_code":"BO",
+    "gn:dem":2765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909661,
+    "gn:latitude":-18.80926,
+    "gn:longitude":-65.17327,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Naranjos",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naranjal",
+        "Naranjos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909661
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"919f4d83220c1fc2513aba0620c04c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1293690899,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1293690899,
+    "wof:lastmodified":1537588005,
+    "wof:name":"Naranjos",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.17327,
+    -18.80926,
+    -65.17327,
+    -18.80926
+],
+  "geometry": {"coordinates":[-65.17327,-18.80926],"type":"Point"}
+}

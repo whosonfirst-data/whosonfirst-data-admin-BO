@@ -1,0 +1,67 @@
+{
+  "id": 1226333973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.86667,-20.16667,-66.86667,-20.16667",
+    "geom:latitude":-20.16667,
+    "geom:longitude":-66.86667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chacala",
+    "gn:country_code":"BO",
+    "gn:dem":3843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921574,
+    "gn:latitude":-20.16667,
+    "gn:longitude":-66.86667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Chacala",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921574
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"05d60a39d89142a78ef405b409db1183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177657,
+            "locality_id":1226333973,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1226333973,
+    "wof:lastmodified":1536806265,
+    "wof:name":"Chacala",
+    "wof:parent_id":421177657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.86667,
+    -20.16667,
+    -66.86667,
+    -20.16667
+],
+  "geometry": {"coordinates":[-66.86667,-20.16667],"type":"Point"}
+}

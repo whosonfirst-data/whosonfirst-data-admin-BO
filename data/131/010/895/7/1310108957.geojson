@@ -1,0 +1,72 @@
+{
+  "id": 1310108957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.18333,-17.73333,-66.18333,-17.73333",
+    "geom:latitude":-17.73333,
+    "geom:longitude":-66.18333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pacpaya",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909061,
+    "gn:latitude":-17.73333,
+    "gn:longitude":-66.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pacpaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Padcaya",
+        "Pacpaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909061
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b74117f4dd461d7e797e2365141329c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006497,
+            "locality_id":1310108957,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1310108957,
+    "wof:lastmodified":1537587998,
+    "wof:name":"Pacpaya",
+    "wof:parent_id":1092006497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.18333,
+    -17.73333,
+    -66.18333,
+    -17.73333
+],
+  "geometry": {"coordinates":[-66.18333,-17.73333],"type":"Point"}
+}

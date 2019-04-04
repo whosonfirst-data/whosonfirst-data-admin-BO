@@ -1,0 +1,72 @@
+{
+  "id": 1259807861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.58333,-17.26667,-68.58333,-17.26667",
+    "geom:latitude":-17.26667,
+    "geom:longitude":-68.58333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Huaylla Pata",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914649,
+    "gn:latitude":-17.26667,
+    "gn:longitude":-68.58333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Huaylla Pata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Huaylla Pata",
+        "Huaylla Pata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914649
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c6963870a23ffe92ae9733ec91a4de42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1259807861,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1259807861,
+    "wof:lastmodified":1537588062,
+    "wof:name":"Huaylla Pata",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.58333,
+    -17.26667,
+    -68.58333,
+    -17.26667
+],
+  "geometry": {"coordinates":[-68.58333,-17.26667],"type":"Point"}
+}

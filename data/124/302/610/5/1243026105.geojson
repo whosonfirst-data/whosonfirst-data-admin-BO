@@ -1,0 +1,72 @@
+{
+  "id": 1243026105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.36667,-10.76667,-65.36667,-10.76667",
+    "geom:latitude":-10.76667,
+    "geom:longitude":-65.36667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Guajara Acu",
+    "gn:cc2":"BR",
+    "gn:country_code":"BO",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3925076,
+    "gn:latitude":-10.76667,
+    "gn:longitude":-65.36667,
+    "gn:modification_date":"2018-07-24",
+    "gn:name":"Guajar\u00e1 A\u00e7u",
+    "gn:population":0,
+    "gn:timezone":"America/Porto_Velho",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guajar\u00e1-Assu",
+        "Guajar\u00e1 A\u00e7u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3925076
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2e036df842bbfb4f1acef542700e7718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005877,
+            "locality_id":1243026105,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1243026105,
+    "wof:lastmodified":1537588162,
+    "wof:name":"Guajara Acu",
+    "wof:parent_id":1092005877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.36667,
+    -10.76667,
+    -65.36667,
+    -10.76667
+],
+  "geometry": {"coordinates":[-65.36667,-10.76667],"type":"Point"}
+}

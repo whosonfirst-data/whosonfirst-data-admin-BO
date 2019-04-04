@@ -1,0 +1,61 @@
+{
+  "id": 1209308885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.73953,-20.99674,-65.73953,-20.99674",
+    "geom:latitude":-20.99674,
+    "geom:longitude":-65.73953,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Estancia Cruce",
+    "gn:country_code":"BO",
+    "gn:dem":3060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917311,
+    "gn:latitude":-20.99674,
+    "gn:longitude":-65.73953,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Cruce",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917311
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"004a3535e32a9abd154466d7576dc3da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209308885
+        }
+    ],
+    "wof:id":1209308885,
+    "wof:lastmodified":1536291099,
+    "wof:name":"Estancia Cruce",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.73953,
+    -20.99674,
+    -65.73953,
+    -20.99674
+],
+  "geometry": {"coordinates":[-65.73953,-20.99674],"type":"Point"}
+}

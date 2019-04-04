@@ -1,0 +1,72 @@
+{
+  "id": 1276119663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.11667,-13.88333,-65.11667,-13.88333",
+    "geom:latitude":-13.88333,
+    "geom:longitude":-65.11667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"San Antonio de Rivera",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905815,
+    "gn:latitude":-13.88333,
+    "gn:longitude":-65.11667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Antonio de Rivera",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Antonio",
+        "San Antonio de Rivera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905815
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3f435e845a1a6955980734d856dd0812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005759,
+            "locality_id":1276119663,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1276119663,
+    "wof:lastmodified":1537587961,
+    "wof:name":"San Antonio de Rivera",
+    "wof:parent_id":1092005759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.11667,
+    -13.88333,
+    -65.11667,
+    -13.88333
+],
+  "geometry": {"coordinates":[-65.11667,-13.88333],"type":"Point"}
+}

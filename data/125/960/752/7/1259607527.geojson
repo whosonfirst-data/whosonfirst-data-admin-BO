@@ -1,0 +1,73 @@
+{
+  "id": 1259607527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25888,-15.64866,-69.25888,-15.64866",
+    "geom:latitude":-15.64866,
+    "geom:longitude":-69.25888,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Villa Futani",
+    "gn:country_code":"BO",
+    "gn:dem":3821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916395,
+    "gn:latitude":-15.64866,
+    "gn:longitude":-69.25888,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Villa Futani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Futani"
+    ],
+    "name:spa_x_variant":[
+        "Estancia Putani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916395
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2e332021da4a60a757422756c94f1493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007659,
+            "locality_id":1259607527,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1259607527,
+    "wof:lastmodified":1537588078,
+    "wof:name":"Villa Futani",
+    "wof:parent_id":1092007659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25888,
+    -15.64866,
+    -69.25888,
+    -15.64866
+],
+  "geometry": {"coordinates":[-69.25888,-15.64866],"type":"Point"}
+}

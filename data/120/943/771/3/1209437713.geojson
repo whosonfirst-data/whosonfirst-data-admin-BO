@@ -1,0 +1,66 @@
+{
+  "id": 1209437713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.53333,-17.85,-68.53333,-17.85",
+    "geom:latitude":-17.85,
+    "geom:longitude":-68.53333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pichagas",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908010,
+    "gn:latitude":-17.85,
+    "gn:longitude":-68.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pichagas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pichacas",
+        "Pichagas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908010
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5451a50b71d7db42b0c2a74587dcd241",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209437713
+        }
+    ],
+    "wof:id":1209437713,
+    "wof:lastmodified":1537587987,
+    "wof:name":"Pichagas",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.53333,
+    -17.85,
+    -68.53333,
+    -17.85
+],
+  "geometry": {"coordinates":[-68.53333000000001,-17.85],"type":"Point"}
+}

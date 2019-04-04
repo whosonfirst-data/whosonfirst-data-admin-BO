@@ -1,0 +1,71 @@
+{
+  "id": 1260268625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.59592,-14.72972,-61.59592,-14.72972",
+    "geom:latitude":-14.72972,
+    "geom:longitude":-61.59592,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Pensamiento",
+    "gn:country_code":"BO",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918137,
+    "gn:latitude":-14.72972,
+    "gn:longitude":-61.59592,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"El Pensamiento",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pensamiento",
+        "El Pensamiento"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918137
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"52d68b36dc9319ce538b803474794ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009873,
+            "locality_id":1260268625,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1260268625,
+    "wof:lastmodified":1537588084,
+    "wof:name":"El Pensamiento",
+    "wof:parent_id":1092009873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.59591999999999,
+    -14.72972,
+    -61.59591999999999,
+    -14.72972
+],
+  "geometry": {"coordinates":[-61.59591999999999,-14.72972],"type":"Point"}
+}

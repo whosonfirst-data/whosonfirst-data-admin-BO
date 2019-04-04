@@ -1,0 +1,70 @@
+{
+  "id": 1259375507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.76403,-11.14253,-67.76403,-11.14253",
+    "geom:latitude":-11.14253,
+    "geom:longitude":-67.76403,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Benton",
+    "gn:country_code":"BO",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504636,
+    "gn:latitude":-11.14253,
+    "gn:longitude":-67.76403,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Benton",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Benton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504636
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ed4bb4ae8b66e6018e53b20c654810d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008461,
+            "locality_id":1259375507,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1259375507,
+    "wof:lastmodified":1537588186,
+    "wof:name":"Benton",
+    "wof:parent_id":1092008461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.76403,
+    -11.14253,
+    -67.76403,
+    -11.14253
+],
+  "geometry": {"coordinates":[-67.76403000000001,-11.14253],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327145953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.95,-15.73333,-66.95,-15.73333",
+    "geom:latitude":-15.73333,
+    "geom:longitude":-66.95,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Campamento Senda Barbara",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922385,
+    "gn:latitude":-15.73333,
+    "gn:longitude":-66.95,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Campamento Senda B\u00e1rbara",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campamento Santa Barbara",
+        "Campamento Senda B\u00e1rbara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421168083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922385
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"61749294e1fb3bb0678c7b9e112e15e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421168083,
+            "locality_id":1327145953,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1327145953,
+    "wof:lastmodified":1537588134,
+    "wof:name":"Campamento Senda Barbara",
+    "wof:parent_id":421168083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.95,
+    -15.73333,
+    -66.95,
+    -15.73333
+],
+  "geometry": {"coordinates":[-66.95,-15.73333],"type":"Point"}
+}

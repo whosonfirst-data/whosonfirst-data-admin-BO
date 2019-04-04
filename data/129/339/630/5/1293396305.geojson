@@ -1,0 +1,72 @@
+{
+  "id": 1293396305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.21667,-17.65,-69.21667,-17.65",
+    "geom:latitude":-17.65,
+    "geom:longitude":-69.21667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Taypi Uma",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903214,
+    "gn:latitude":-17.65,
+    "gn:longitude":-69.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taypi Uma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Taypi Uma",
+        "Taypi Uma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903214
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"90f6db47079cfa35d426417e8c0feb87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1293396305,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293396305,
+    "wof:lastmodified":1537587935,
+    "wof:name":"Taypi Uma",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.21667,
+    -17.65,
+    -69.21667,
+    -17.65
+],
+  "geometry": {"coordinates":[-69.21666999999999,-17.65],"type":"Point"}
+}

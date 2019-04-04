@@ -1,0 +1,79 @@
+{
+  "id": 421202657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.8483845,-14.191501,-66.8483845,-14.191501",
+    "geom:latitude":-14.191501,
+    "geom:longitude":-66.848384,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Rosa",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"El Beni",
+    "qs:photos":94,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":189,
+    "qs:photos_sr":3,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":225260,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":55967923,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55967923,
+        "qs:id":225260,
+        "qs_pg:id":225260
+    },
+    "wof:country":"BO",
+    "wof:created":1459010125,
+    "wof:geomhash":"152803ae095cf8b97e60f17e06c1f785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005669,
+            "localadmin_id":421202657,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":421202657,
+    "wof:lastmodified":1497048966,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":1092005669,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.8483845,
+    -14.191501,
+    -66.8483845,
+    -14.191501
+],
+  "geometry": {"coordinates":[-66.84838449999999,-14.191501],"type":"Point"}
+}

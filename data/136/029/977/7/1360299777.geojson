@@ -1,0 +1,72 @@
+{
+  "id": 1360299777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.78333,-18.56667,-64.78333,-18.56667",
+    "geom:latitude":-18.56667,
+    "geom:longitude":-64.78333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Saipina",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906126,
+    "gn:latitude":-18.56667,
+    "gn:longitude":-64.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Saipina",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salpina",
+        "Saipina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906126
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"486f967aa634c56d646f7fcfda56aad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006241,
+            "locality_id":1360299777,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1360299777,
+    "wof:lastmodified":1537587964,
+    "wof:name":"Saipina",
+    "wof:parent_id":1092006241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.78333,
+    -18.56667,
+    -64.78333,
+    -18.56667
+],
+  "geometry": {"coordinates":[-64.78333000000001,-18.56667],"type":"Point"}
+}

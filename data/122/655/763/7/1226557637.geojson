@@ -1,0 +1,71 @@
+{
+  "id": 1226557637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.21789,-18.78081,-65.21789,-18.78081",
+    "geom:latitude":-18.78081,
+    "geom:longitude":-65.21789,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Luje",
+    "gn:country_code":"BO",
+    "gn:dem":2279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911045,
+    "gn:latitude":-18.78081,
+    "gn:longitude":-65.21789,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Luje",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loje",
+        "Luje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911045
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"eaf02135d29351bb9e141d68f672471a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1226557637,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1226557637,
+    "wof:lastmodified":1537588021,
+    "wof:name":"Luje",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.21789,
+    -18.78081,
+    -65.21789,
+    -18.78081
+],
+  "geometry": {"coordinates":[-65.21789,-18.78081],"type":"Point"}
+}

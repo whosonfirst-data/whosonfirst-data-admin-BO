@@ -1,0 +1,70 @@
+{
+  "id": 1326520869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.281,-16.92276,-63.281,-16.92276",
+    "geom:latitude":-16.92276,
+    "geom:longitude":-63.281,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Trono",
+    "gn:country_code":"BO",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8521806,
+    "gn:latitude":-16.92276,
+    "gn:longitude":-63.281,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"El Trono",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad El Torno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8521806
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8332e11d57f19c151281761ac0cfac7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009899,
+            "locality_id":1326520869,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1326520869,
+    "wof:lastmodified":1537588162,
+    "wof:name":"El Trono",
+    "wof:parent_id":1092009899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.28100000000001,
+    -16.92276,
+    -63.28100000000001,
+    -16.92276
+],
+  "geometry": {"coordinates":[-63.28100000000001,-16.92276],"type":"Point"}
+}

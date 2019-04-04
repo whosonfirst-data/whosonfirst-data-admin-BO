@@ -1,0 +1,72 @@
+{
+  "id": 1343770791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.33333,-18.06667,-65.33333,-18.06667",
+    "geom:latitude":-18.06667,
+    "geom:longitude":-65.33333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Llinquitura",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911324,
+    "gn:latitude":-18.06667,
+    "gn:longitude":-65.33333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Llinquitura",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Llinquituro",
+        "Llinquitura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911324
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4884c92b56f9219d3e57cb73810a4cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006697,
+            "locality_id":1343770791,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1343770791,
+    "wof:lastmodified":1537588023,
+    "wof:name":"Llinquitura",
+    "wof:parent_id":1092006697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.33333,
+    -18.06667,
+    -65.33333,
+    -18.06667
+],
+  "geometry": {"coordinates":[-65.33333,-18.06667],"type":"Point"}
+}

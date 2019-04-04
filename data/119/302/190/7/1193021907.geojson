@@ -1,0 +1,67 @@
+{
+  "id": 1193021907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.25,-16.63333,-67.25,-16.63333",
+    "geom:latitude":-16.63333,
+    "geom:longitude":-67.25,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Circuata",
+    "gn:country_code":"BO",
+    "gn:dem":1497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920032,
+    "gn:latitude":-16.63333,
+    "gn:longitude":-67.25,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Circuata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920032
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a38234875aab5d57243e08b02abfe02f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007257,
+            "locality_id":1193021907,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1193021907,
+    "wof:lastmodified":1536372299,
+    "wof:name":"Circuata",
+    "wof:parent_id":1092007257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.25,
+    -16.63332999999999,
+    -67.25,
+    -16.63332999999999
+],
+  "geometry": {"coordinates":[-67.25,-16.63332999999999],"type":"Point"}
+}

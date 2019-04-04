@@ -1,0 +1,71 @@
+{
+  "id": 1259697831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.23575,-19.30415,-64.23575,-19.30415",
+    "geom:latitude":-19.30415,
+    "geom:longitude":-64.23575,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tako Tako",
+    "gn:country_code":"BO",
+    "gn:dem":1941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903627,
+    "gn:latitude":-19.30415,
+    "gn:longitude":-64.23575,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Tako Tako",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tackotacko",
+        "Tako Tako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421169227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903627
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e2e10f69dcd6cccdb8acc8ef365edd5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169227,
+            "locality_id":1259697831,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1259697831,
+    "wof:lastmodified":1537587940,
+    "wof:name":"Tako Tako",
+    "wof:parent_id":421169227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.23575,
+    -19.30415,
+    -64.23575,
+    -19.30415
+],
+  "geometry": {"coordinates":[-64.23575,-19.30415],"type":"Point"}
+}

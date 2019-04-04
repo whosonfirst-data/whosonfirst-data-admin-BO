@@ -1,0 +1,67 @@
+{
+  "id": 1209711093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.33333,-17.33333,-63.33333,-17.33333",
+    "geom:latitude":-17.33333,
+    "geom:longitude":-63.33333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Patuju",
+    "gn:country_code":"BO",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918144,
+    "gn:latitude":-17.33333,
+    "gn:longitude":-63.33333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"El Patuj\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918144
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a97ea5e06efde7fa96519fb9e65c504c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009959,
+            "locality_id":1209711093,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1209711093,
+    "wof:lastmodified":1536390660,
+    "wof:name":"El Patuju",
+    "wof:parent_id":1092009959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.33333,
+    -17.33333,
+    -63.33333,
+    -17.33333
+],
+  "geometry": {"coordinates":[-63.33333,-17.33333],"type":"Point"}
+}

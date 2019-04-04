@@ -1,0 +1,68 @@
+{
+  "id": 890451499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.06267,-17.77263,-65.06267,-17.77263",
+    "geom:latitude":-17.77263,
+    "geom:longitude":-65.06267,
+    "gn:country":"BO",
+    "gn:fcode":"PPL",
+    "gn:pop":122,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Cayarani",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":175,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921712,
+        "gp:id":335859,
+        "qs:id":96722,
+        "wk:page":"Cayarani District"
+    },
+    "wof:country":"BO",
+    "wof:created":1469052781,
+    "wof:geomhash":"82532160d899f25dd57f19717d16577d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":890451499,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":890451499,
+    "wof:lastmodified":1527792937,
+    "wof:name":"Cayarani",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:population":122,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.06267,
+    -17.77263,
+    -65.06267,
+    -17.77263
+],
+  "geometry": {"coordinates":[-65.06267,-17.77263],"type":"Point"}
+}

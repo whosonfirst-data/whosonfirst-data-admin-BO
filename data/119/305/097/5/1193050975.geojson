@@ -1,0 +1,74 @@
+{
+  "id": 1193050975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.6,-17.61667,-68.6,-17.61667",
+    "geom:latitude":-17.61667,
+    "geom:longitude":-68.6,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Antipina",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923864,
+    "gn:latitude":-17.61667,
+    "gn:longitude":-68.6,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Antipi\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antiipi\u00f1a",
+        "Antijipi\u00f1a",
+        "Antilpi\u00f1a",
+        "Antipi\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923864
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"14208c27fc39757a82c68357aaeff0f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1193050975,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1193050975,
+    "wof:lastmodified":1537588152,
+    "wof:name":"Antipina",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.6,
+    -17.61667000000001,
+    -68.6,
+    -17.61667000000001
+],
+  "geometry": {"coordinates":[-68.59999999999999,-17.61667000000001],"type":"Point"}
+}

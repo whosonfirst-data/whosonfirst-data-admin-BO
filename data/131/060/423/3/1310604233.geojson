@@ -1,0 +1,67 @@
+{
+  "id": 1310604233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.76667,-17.6,-65.76667,-17.6",
+    "geom:latitude":-17.6,
+    "geom:longitude":-65.76667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ciaco",
+    "gn:country_code":"BO",
+    "gn:dem":2760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920071,
+    "gn:latitude":-17.6,
+    "gn:longitude":-65.76667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Ciaco",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920071
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c6633d10c3df48be8dc0873d4abe1d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006291,
+            "locality_id":1310604233,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1310604233,
+    "wof:lastmodified":1536775115,
+    "wof:name":"Ciaco",
+    "wof:parent_id":1092006291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.76666999999999,
+    -17.6,
+    -65.76666999999999,
+    -17.6
+],
+  "geometry": {"coordinates":[-65.76666999999999,-17.6],"type":"Point"}
+}

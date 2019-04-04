@@ -1,0 +1,71 @@
+{
+  "id": 1344261003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.4473,-20.4609,-64.4473,-20.4609",
+    "geom:latitude":-20.4609,
+    "geom:longitude":-64.4473,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pacay",
+    "gn:country_code":"BO",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909121,
+    "gn:latitude":-20.4609,
+    "gn:longitude":-64.4473,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Pacay",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pacaya",
+        "Pacay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909121
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"31e2f76ea8a99105fbce8302eb7163c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006003,
+            "locality_id":1344261003,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1344261003,
+    "wof:lastmodified":1537587999,
+    "wof:name":"Pacay",
+    "wof:parent_id":1092006003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.4473,
+    -20.4609,
+    -64.4473,
+    -20.4609
+],
+  "geometry": {"coordinates":[-64.4473,-20.4609],"type":"Point"}
+}

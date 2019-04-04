@@ -1,0 +1,73 @@
+{
+  "id": 1310106353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.11667,-16.53333,-68.11667,-16.53333",
+    "geom:latitude":-16.53333,
+    "geom:longitude":-68.11667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Obrajes",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909428,
+    "gn:latitude":-16.53333,
+    "gn:longitude":-68.11667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Obrajes",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Villa de la Alianza",
+        "Villa Obrajes",
+        "Obrajes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909428
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"eec1ca101b6862d642c51d42cb790aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":1310106353,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1310106353,
+    "wof:lastmodified":1537588002,
+    "wof:name":"Obrajes",
+    "wof:parent_id":421177667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.11667,
+    -16.53333,
+    -68.11667,
+    -16.53333
+],
+  "geometry": {"coordinates":[-68.11667,-16.53333],"type":"Point"}
+}

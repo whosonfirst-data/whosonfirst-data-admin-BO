@@ -1,0 +1,67 @@
+{
+  "id": 1293313823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.7005,-20.26927,-65.7005,-20.26927",
+    "geom:latitude":-20.26927,
+    "geom:longitude":-65.7005,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Estancia Utan Palca",
+    "gn:country_code":"BO",
+    "gn:dem":2756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915997,
+    "gn:latitude":-20.26927,
+    "gn:longitude":-65.7005,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Utan Palca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915997
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8bcff4b4af4d7e8c13d569da958d833b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1293313823,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293313823,
+    "wof:lastmodified":1537035922,
+    "wof:name":"Estancia Utan Palca",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.7005,
+    -20.26927,
+    -65.7005,
+    -20.26927
+],
+  "geometry": {"coordinates":[-65.70050000000001,-20.26927],"type":"Point"}
+}

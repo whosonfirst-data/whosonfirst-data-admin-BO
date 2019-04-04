@@ -1,0 +1,73 @@
+{
+  "id": 1276237895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.56667,-18.61667,-65.56667,-18.61667",
+    "geom:latitude":-18.61667,
+    "geom:longitude":-65.56667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Huycoma",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914410,
+    "gn:latitude":-18.61667,
+    "gn:longitude":-65.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Huycoma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huaicoma",
+        "Huaycoma",
+        "Huycoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914410
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8962e339b6c96d48aa0f2c8895088ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008791,
+            "locality_id":1276237895,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1276237895,
+    "wof:lastmodified":1537588060,
+    "wof:name":"Huycoma",
+    "wof:parent_id":1092008791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.56667,
+    -18.61667000000001,
+    -65.56667,
+    -18.61667000000001
+],
+  "geometry": {"coordinates":[-65.56667,-18.61667000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343380969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.23333,-18.13333,-64.23333,-18.13333",
+    "geom:latitude":-18.13333,
+    "geom:longitude":-64.23333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Saltos",
+    "gn:country_code":"BO",
+    "gn:dem":1560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905969,
+    "gn:latitude":-18.13333,
+    "gn:longitude":-64.23333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Saltos",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905969
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a9c8994e3e33a46451a0b6cae9964f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009661,
+            "locality_id":1343380969,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1343380969,
+    "wof:lastmodified":1536859593,
+    "wof:name":"Saltos",
+    "wof:parent_id":1092009661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.23333000000001,
+    -18.13333,
+    -64.23333000000001,
+    -18.13333
+],
+  "geometry": {"coordinates":[-64.23333000000001,-18.13333],"type":"Point"}
+}

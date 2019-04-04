@@ -1,0 +1,68 @@
+{
+  "id": 1277061937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.67478,-19.65086,-63.67478,-19.65086",
+    "geom:latitude":-19.65086,
+    "geom:longitude":-63.67478,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lagunillas",
+    "gn:country_code":"BO",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912150,
+    "gn:latitude":-19.65086,
+    "gn:longitude":-63.67478,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Lagunillas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912150,
+        "wk:page":"Lagunillas%2C_Santa_Cruz"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d71bdf82b676adf42ab2026bb4df4489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1277061937,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1277061937,
+    "wof:lastmodified":1537487903,
+    "wof:name":"Lagunillas",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.67478000000001,
+    -19.65086,
+    -63.67478000000001,
+    -19.65086
+],
+  "geometry": {"coordinates":[-63.67478000000001,-19.65086],"type":"Point"}
+}

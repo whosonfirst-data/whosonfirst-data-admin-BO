@@ -1,0 +1,67 @@
+{
+  "id": 1243286159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.65,-16.58333,-60.65,-16.58333",
+    "geom:latitude":-16.58333,
+    "geom:longitude":-60.65,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Estancia San Fermin",
+    "gn:country_code":"BO",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916305,
+    "gn:latitude":-16.58333,
+    "gn:longitude":-60.65,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia San Ferm\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916305
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ec1ce942f8518306504b90db27a35309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1243286159,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1243286159,
+    "wof:lastmodified":1537035115,
+    "wof:name":"Estancia San Fermin",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.65,
+    -16.58333,
+    -60.65,
+    -16.58333
+],
+  "geometry": {"coordinates":[-60.65,-16.58333],"type":"Point"}
+}

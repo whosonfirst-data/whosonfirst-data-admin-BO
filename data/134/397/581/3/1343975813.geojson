@@ -1,0 +1,71 @@
+{
+  "id": 1343975813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.24526,-18.85166,-65.24526,-18.85166",
+    "geom:latitude":-18.85166,
+    "geom:longitude":-65.24526,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Guadalupe",
+    "gn:country_code":"BO",
+    "gn:dem":2225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915484,
+    "gn:latitude":-18.85166,
+    "gn:longitude":-65.24526,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Guadalupe",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guadalupe (2)",
+        "Guadalupe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915484
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b97bdb49745059ef2141d0803985d89e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1343975813,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1343975813,
+    "wof:lastmodified":1537588073,
+    "wof:name":"Guadalupe",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.24526,
+    -18.85166,
+    -65.24526,
+    -18.85166
+],
+  "geometry": {"coordinates":[-65.24526,-18.85166],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242577841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.61667,-15.96667,-67.61667,-15.96667",
+    "geom:latitude":-15.96667,
+    "geom:longitude":-67.61667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"La Cueva",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912302,
+    "gn:latitude":-15.96667,
+    "gn:longitude":-67.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Cueva",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cueva",
+        "La Cueva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912302
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"df22a9db1abeaa5df0ce718b091e4e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007051,
+            "locality_id":1242577841,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1242577841,
+    "wof:lastmodified":1537588036,
+    "wof:name":"La Cueva",
+    "wof:parent_id":1092007051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.61667,
+    -15.96667,
+    -67.61667,
+    -15.96667
+],
+  "geometry": {"coordinates":[-67.61667,-15.96667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343669251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.46667,-14.23333,-66.46667,-14.23333",
+    "geom:latitude":-14.23333,
+    "geom:longitude":-66.46667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pascana Alta Gracia",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908409,
+    "gn:latitude":-14.23333,
+    "gn:longitude":-66.46667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pascana Alta Gracia",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paso Alta Gracia",
+        "Pascana Alta Gracia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908409
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4cd1de9da1ce0155c5047d2f6d8ae8ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005669,
+            "locality_id":1343669251,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1343669251,
+    "wof:lastmodified":1537587991,
+    "wof:name":"Pascana Alta Gracia",
+    "wof:parent_id":1092005669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.46667,
+    -14.23333,
+    -66.46667,
+    -14.23333
+],
+  "geometry": {"coordinates":[-66.46666999999999,-14.23333],"type":"Point"}
+}

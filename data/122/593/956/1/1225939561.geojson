@@ -1,0 +1,70 @@
+{
+  "id": 1225939561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.41067,-11.64959,-68.41067,-11.64959",
+    "geom:latitude":-11.64959,
+    "geom:longitude":-68.41067,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Chaco",
+    "gn:country_code":"BO",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11503705,
+    "gn:latitude":-11.64959,
+    "gn:longitude":-68.41067,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"El Chaco",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Chaco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11503705
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"287480641016d6b676eb4b5fa2528e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008461,
+            "locality_id":1225939561,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1225939561,
+    "wof:lastmodified":1537588175,
+    "wof:name":"El Chaco",
+    "wof:parent_id":1092008461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.41067,
+    -11.64959,
+    -68.41067,
+    -11.64959
+],
+  "geometry": {"coordinates":[-68.41067,-11.64959],"type":"Point"}
+}

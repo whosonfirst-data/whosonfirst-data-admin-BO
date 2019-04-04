@@ -1,0 +1,61 @@
+{
+  "id": 1209512815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.4,-10.38333,-65.4,-10.38333",
+    "geom:latitude":-10.38333,
+    "geom:longitude":-65.4,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Villa Bella",
+    "gn:country_code":"BO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901588,
+    "gn:latitude":-10.38333,
+    "gn:longitude":-65.4,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Villa Bella",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901588
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"251856c97ff73bf6ab4f3d7e2bf20dbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209512815
+        }
+    ],
+    "wof:id":1209512815,
+    "wof:lastmodified":1536284828,
+    "wof:name":"Villa Bella",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.4,
+    -10.38333,
+    -65.4,
+    -10.38333
+],
+  "geometry": {"coordinates":[-65.40000000000001,-10.38333],"type":"Point"}
+}

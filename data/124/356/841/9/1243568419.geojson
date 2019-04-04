@@ -1,0 +1,67 @@
+{
+  "id": 1243568419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.38049,-19.28459,-64.38049,-19.28459",
+    "geom:latitude":-19.28459,
+    "geom:longitude":-64.38049,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sillani",
+    "gn:country_code":"BO",
+    "gn:dem":2193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904284,
+    "gn:latitude":-19.28459,
+    "gn:longitude":-64.38049,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Sillani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421169227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904284
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"17c001f9bb85b2d8eddb7426c1bc0f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169227,
+            "locality_id":1243568419,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1243568419,
+    "wof:lastmodified":1536627949,
+    "wof:name":"Sillani",
+    "wof:parent_id":421169227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.38049000000001,
+    -19.28459,
+    -64.38049000000001,
+    -19.28459
+],
+  "geometry": {"coordinates":[-64.38049000000001,-19.28459],"type":"Point"}
+}

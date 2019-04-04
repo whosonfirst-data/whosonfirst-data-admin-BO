@@ -1,0 +1,67 @@
+{
+  "id": 1327453975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.31667,-19.55,-58.31667,-19.55",
+    "geom:latitude":-19.55,
+    "geom:longitude":-58.31667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Campamento Humaita",
+    "gn:country_code":"BO",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3444712,
+    "gn:latitude":-19.55,
+    "gn:longitude":-58.31667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Campamento Humaita",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421183095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3444712
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"caa642ad97147c1051d97fb895ebd17c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421183095,
+            "locality_id":1327453975,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1327453975,
+    "wof:lastmodified":1536649417,
+    "wof:name":"Campamento Humaita",
+    "wof:parent_id":421183095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.31667,
+    -19.55,
+    -58.31667,
+    -19.55
+],
+  "geometry": {"coordinates":[-58.31667,-19.55],"type":"Point"}
+}

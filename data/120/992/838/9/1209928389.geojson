@@ -1,0 +1,67 @@
+{
+  "id": 1209928389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.33327,-19.19532,-65.33327,-19.19532",
+    "geom:latitude":-19.19532,
+    "geom:longitude":-65.33327,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Misca",
+    "gn:country_code":"BO",
+    "gn:dem":2766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910324,
+    "gn:latitude":-19.19532,
+    "gn:longitude":-65.33327,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Misca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910324
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b60dbc3cb93fde413db9692def9bb4ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1209928389,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1209928389,
+    "wof:lastmodified":1536393843,
+    "wof:name":"Misca",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.33327,
+    -19.19532,
+    -65.33327,
+    -19.19532
+],
+  "geometry": {"coordinates":[-65.33327,-19.19532],"type":"Point"}
+}

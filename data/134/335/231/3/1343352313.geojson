@@ -1,0 +1,72 @@
+{
+  "id": 1343352313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.56667,-18.38333,-58.56667,-18.38333",
+    "geom:latitude":-18.38333,
+    "geom:longitude":-58.56667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Encrucijada",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3444587,
+    "gn:latitude":-18.38333,
+    "gn:longitude":-58.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Encrucijada",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Encrucijada",
+        "Encrucijada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421183095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3444587
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"efa6e38a8fa37ac869016f2c27fc67b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421183095,
+            "locality_id":1343352313,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1343352313,
+    "wof:lastmodified":1537587900,
+    "wof:name":"Encrucijada",
+    "wof:parent_id":421183095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.56667,
+    -18.38333,
+    -58.56667,
+    -18.38333
+],
+  "geometry": {"coordinates":[-58.56667,-18.38333],"type":"Point"}
+}

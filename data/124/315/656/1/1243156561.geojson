@@ -1,0 +1,67 @@
+{
+  "id": 1243156561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.91667,-21.36667,-63.91667,-21.36667",
+    "geom:latitude":-21.36667,
+    "geom:longitude":-63.91667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Lago Seco",
+    "gn:country_code":"BO",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912212,
+    "gn:latitude":-21.36667,
+    "gn:longitude":-63.91667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Lago Seco",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        1092010191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912212
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e0fdfa5fecee22b11fa0e78ebc580081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010191,
+            "locality_id":1243156561,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1243156561,
+    "wof:lastmodified":1536726899,
+    "wof:name":"Lago Seco",
+    "wof:parent_id":1092010191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.91667,
+    -21.36667000000001,
+    -63.91667,
+    -21.36667000000001
+],
+  "geometry": {"coordinates":[-63.91667,-21.36667000000001],"type":"Point"}
+}

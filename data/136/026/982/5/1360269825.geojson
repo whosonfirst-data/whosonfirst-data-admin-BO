@@ -1,0 +1,71 @@
+{
+  "id": 1360269825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.94062,-21.80076,-63.94062,-21.80076",
+    "geom:latitude":-21.80076,
+    "geom:longitude":-63.94062,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Iniguazo",
+    "gn:country_code":"BO",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914157,
+    "gn:latitude":-21.80076,
+    "gn:longitude":-63.94062,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"I\u00f1iguazo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iniguazu",
+        "I\u00f1iguazo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421169235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914157
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"507717f9f4b6fd1869002d7859c0861f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169235,
+            "locality_id":1360269825,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1360269825,
+    "wof:lastmodified":1537588056,
+    "wof:name":"Iniguazo",
+    "wof:parent_id":421169235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.94062,
+    -21.80076,
+    -63.94062,
+    -21.80076
+],
+  "geometry": {"coordinates":[-63.94062,-21.80076],"type":"Point"}
+}

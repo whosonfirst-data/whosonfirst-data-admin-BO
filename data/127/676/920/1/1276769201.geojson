@@ -1,0 +1,72 @@
+{
+  "id": 1276769201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.73333,-17.2,-68.73333,-17.2",
+    "geom:latitude":-17.2,
+    "geom:longitude":-68.73333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kenuani",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912887,
+    "gn:latitude":-17.2,
+    "gn:longitude":-68.73333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ke\u00f1uani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Qui\u00f1onani",
+        "Ke\u00f1uani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912887
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d8740194721e0f90e567fcb6854d43c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1276769201,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1276769201,
+    "wof:lastmodified":1537588041,
+    "wof:name":"Kenuani",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.73333000000001,
+    -17.2,
+    -68.73333000000001,
+    -17.2
+],
+  "geometry": {"coordinates":[-68.73333000000001,-17.2],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293687637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.85,-17.1,-68.85,-17.1",
+    "geom:latitude":-17.1,
+    "geom:longitude":-68.85,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Huilahuilki",
+    "gn:country_code":"BO",
+    "gn:dem":3881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914513,
+    "gn:latitude":-17.1,
+    "gn:longitude":-68.85,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Huilahuilki",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914513
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"373e30176d2380f561e98dacc674a6c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1293687637,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293687637,
+    "wof:lastmodified":1536995008,
+    "wof:name":"Huilahuilki",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.85,
+    -17.1,
+    -68.85,
+    -17.1
+],
+  "geometry": {"coordinates":[-68.84999999999999,-17.1],"type":"Point"}
+}

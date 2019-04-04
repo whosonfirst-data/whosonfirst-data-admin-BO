@@ -1,0 +1,67 @@
+{
+  "id": 1260003667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.33333,-17.3,-69.33333,-17.3",
+    "geom:latitude":-17.3,
+    "geom:longitude":-69.33333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Estancia Parachillihua",
+    "gn:country_code":"BO",
+    "gn:dem":4424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916523,
+    "gn:latitude":-17.3,
+    "gn:longitude":-69.33333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Parachillihua",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916523
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ae533541a5443ca24f6e70802412ca3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007133,
+            "locality_id":1260003667,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1260003667,
+    "wof:lastmodified":1536602971,
+    "wof:name":"Estancia Parachillihua",
+    "wof:parent_id":1092007133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.33333,
+    -17.3,
+    -69.33333,
+    -17.3
+],
+  "geometry": {"coordinates":[-69.33333,-17.3],"type":"Point"}
+}

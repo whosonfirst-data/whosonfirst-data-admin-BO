@@ -1,0 +1,67 @@
+{
+  "id": 1225829717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.76667,-21.23333,-64.76667,-21.23333",
+    "geom:latitude":-21.23333,
+    "geom:longitude":-64.76667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tres Aguadas",
+    "gn:country_code":"BO",
+    "gn:dem":2943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902440,
+    "gn:latitude":-21.23333,
+    "gn:longitude":-64.76667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Tres Aguadas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        1092010287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902440
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8f2f86a569a1953ab9ce96a0733cf87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010287,
+            "locality_id":1225829717,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1225829717,
+    "wof:lastmodified":1537035261,
+    "wof:name":"Tres Aguadas",
+    "wof:parent_id":1092010287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.76666999999999,
+    -21.23333,
+    -64.76666999999999,
+    -21.23333
+],
+  "geometry": {"coordinates":[-64.76666999999999,-21.23333],"type":"Point"}
+}

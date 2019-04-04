@@ -1,0 +1,67 @@
+{
+  "id": 1292999839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.60939,-19.04033,-68.60939,-19.04033",
+    "geom:latitude":-19.04033,
+    "geom:longitude":-68.60939,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Estancia Pizaquere",
+    "gn:country_code":"BO",
+    "gn:dem":3859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916451,
+    "gn:latitude":-19.04033,
+    "gn:longitude":-68.60939,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Pizaquere",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092007975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916451
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"bba8ec2dc5c56af9128929f05d85bf9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007975,
+            "locality_id":1292999839,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1292999839,
+    "wof:lastmodified":1536992229,
+    "wof:name":"Estancia Pizaquere",
+    "wof:parent_id":1092007975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.60939,
+    -19.04033,
+    -68.60939,
+    -19.04033
+],
+  "geometry": {"coordinates":[-68.60939,-19.04033],"type":"Point"}
+}

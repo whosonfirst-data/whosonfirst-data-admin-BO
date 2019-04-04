@@ -1,0 +1,102 @@
+{
+  "id": 421200553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.6,-16.3,-67.6,-16.3",
+    "geom:latitude":-16.3,
+    "geom:longitude":-67.6,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Coripata"
+    ],
+    "name:deu_x_preferred":[
+        "Coripata"
+    ],
+    "name:que_x_preferred":[
+        "Quripata"
+    ],
+    "name:spa_x_preferred":[
+        "Coripata"
+    ],
+    "name:swe_x_preferred":[
+        "Coripata"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u91cc\u5e15\u5854"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3919097,
+    "qs:gn_pop":2107,
+    "qs:name":"Coripata",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":187,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":886428,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":346146,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-16.313333,
+    "wd:longitude":-67.603889,
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919097,
+        "gp:id":346146,
+        "qs:id":886428,
+        "wd:id":"Q1014537",
+        "wk:page":"Coripata"
+    },
+    "wof:country":"BO",
+    "wof:created":1459010029,
+    "wof:geomhash":"ec6725b5bcabd0d1024d0bf68b347056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007459,
+            "locality_id":421200553,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":421200553,
+    "wof:lastmodified":1527716427,
+    "wof:name":"Coripata",
+    "wof:parent_id":1092007459,
+    "wof:placetype":"locality",
+    "wof:population":2107,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.6,
+    -16.3,
+    -67.6,
+    -16.3
+],
+  "geometry": {"coordinates":[-67.59999999999999,-16.3],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343982109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.71667,-17.01667,-67.71667,-17.01667",
+    "geom:latitude":-17.01667,
+    "geom:longitude":-67.71667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Estancia Wichuraya",
+    "gn:country_code":"BO",
+    "gn:dem":3865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915929,
+    "gn:latitude":-17.01667,
+    "gn:longitude":-67.71667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Wichuraya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915929
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"059d3bcf640bc98e9e66ee11d57bf3f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182435,
+            "locality_id":1343982109,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1343982109,
+    "wof:lastmodified":1536987957,
+    "wof:name":"Estancia Wichuraya",
+    "wof:parent_id":421182435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.71667,
+    -17.01667,
+    -67.71667,
+    -17.01667
+],
+  "geometry": {"coordinates":[-67.71666999999999,-17.01667],"type":"Point"}
+}

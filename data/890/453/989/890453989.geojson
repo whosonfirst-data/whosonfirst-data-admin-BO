@@ -1,0 +1,68 @@
+{
+  "id": 890453989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.86667,-17.78333,-62.86667,-17.78333",
+    "geom:latitude":-17.78333,
+    "geom:longitude":-62.86667,
+    "gn:country":"BO",
+    "gn:fcode":"PPL",
+    "gn:pop":7706,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"San Julian",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421187923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905453,
+        "gp:id":342199,
+        "qs:id":279901,
+        "wk:page":"San Juli\u00e1n"
+    },
+    "wof:country":"BO",
+    "wof:created":1469052881,
+    "wof:geomhash":"9c2c7a7dbc5bfc71b0613880362af99b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187923,
+            "locality_id":890453989,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":890453989,
+    "wof:lastmodified":1527736644,
+    "wof:name":"San Julian",
+    "wof:parent_id":421187923,
+    "wof:placetype":"locality",
+    "wof:population":7706,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.86667,
+    -17.78333,
+    -62.86667,
+    -17.78333
+],
+  "geometry": {"coordinates":[-62.86667,-17.78333],"type":"Point"}
+}

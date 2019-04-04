@@ -1,0 +1,71 @@
+{
+  "id": 1193136421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.53471,-18.34083,-67.53471,-18.34083",
+    "geom:latitude":-18.34083,
+    "geom:longitude":-67.53471,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tirata",
+    "gn:country_code":"BO",
+    "gn:dem":3734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902897,
+    "gn:latitude":-18.34083,
+    "gn:longitude":-67.53471,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Tirata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Remedios Tirata",
+        "Tirata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092007807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902897
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d33be21508a72b6817084e6b6eaff656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007807,
+            "locality_id":1193136421,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1193136421,
+    "wof:lastmodified":1537587932,
+    "wof:name":"Tirata",
+    "wof:parent_id":1092007807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.53471,
+    -18.34083,
+    -67.53471,
+    -18.34083
+],
+  "geometry": {"coordinates":[-67.53471,-18.34083],"type":"Point"}
+}

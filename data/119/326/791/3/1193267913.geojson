@@ -1,0 +1,67 @@
+{
+  "id": 1193267913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.73333,-22.06667,-63.73333,-22.06667",
+    "geom:latitude":-22.06667,
+    "geom:longitude":-63.73333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sauzalito",
+    "gn:country_code":"BO",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904513,
+    "gn:latitude":-22.06667,
+    "gn:longitude":-63.73333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Sauzalito",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421175287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904513
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"cff6917952a7efb378c8356bd372a4b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175287,
+            "locality_id":1193267913,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1193267913,
+    "wof:lastmodified":1536373860,
+    "wof:name":"Sauzalito",
+    "wof:parent_id":421175287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.73333,
+    -22.06667,
+    -63.73333,
+    -22.06667
+],
+  "geometry": {"coordinates":[-63.73333,-22.06667],"type":"Point"}
+}

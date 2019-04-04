@@ -1,0 +1,77 @@
+{
+  "id": 1193037049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.52478,-22.4006,-64.52478,-22.4006",
+    "geom:latitude":-22.4006,
+    "geom:longitude":-64.52478,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Guadacaya",
+    "gn:country_code":"BO",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915490,
+    "gn:latitude":-22.4006,
+    "gn:longitude":-64.52478,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Guadacaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421181251,
+        85632623,
+        85669431,
+        421182443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915490
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"690f10df5dd7b07392abd56ab018a593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421181251,
+            "locality_id":1193037049,
+            "region_id":85668049
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182443,
+            "locality_id":1193037049,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1193037049,
+    "wof:lastmodified":1536379934,
+    "wof:name":"Guadacaya",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.52478,
+    -22.4006,
+    -64.52478,
+    -22.4006
+],
+  "geometry": {"coordinates":[-64.52478000000001,-22.4006],"type":"Point"}
+}

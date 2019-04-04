@@ -1,0 +1,67 @@
+{
+  "id": 1326722195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.67069,-21.50508,-66.67069,-21.50508",
+    "geom:latitude":-21.50508,
+    "geom:longitude":-66.67069,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Polulos",
+    "gn:country_code":"BO",
+    "gn:dem":4049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907721,
+    "gn:latitude":-21.50508,
+    "gn:longitude":-66.67069,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Polulos",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907721
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f37f704c6758be11ca843808ba4954d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193355,
+            "locality_id":1326722195,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1326722195,
+    "wof:lastmodified":1536710615,
+    "wof:name":"Polulos",
+    "wof:parent_id":421193355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.67069000000001,
+    -21.50508,
+    -66.67069000000001,
+    -21.50508
+],
+  "geometry": {"coordinates":[-66.67069000000001,-21.50508],"type":"Point"}
+}

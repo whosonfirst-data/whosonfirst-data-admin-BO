@@ -1,0 +1,70 @@
+{
+  "id": 1326639531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.06667,-18.81667,-65.06667,-18.81667",
+    "geom:latitude":-18.81667,
+    "geom:longitude":-65.06667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"4.0",
+    "gn:asciiname":"Chuqui Chuqui",
+    "gn:country_code":"BO",
+    "gn:dem":2325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":3920185,
+    "gn:latitude":-18.81667,
+    "gn:longitude":-65.06667,
+    "gn:modification_date":"2011-07-31",
+    "gn:name":"Chuqui Chuqui",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920185
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"109acea36749ccdee6896823063c0d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1326639531,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1326639531,
+    "wof:lastmodified":1536828229,
+    "wof:name":"Chuqui Chuqui",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.06667,
+    -18.81667,
+    -65.06667,
+    -18.81667
+],
+  "geometry": {"coordinates":[-65.06667,-18.81667],"type":"Point"}
+}

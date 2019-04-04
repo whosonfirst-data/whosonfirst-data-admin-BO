@@ -1,0 +1,61 @@
+{
+  "id": 1209010453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.31667,-17.2,-69.31667,-17.2",
+    "geom:latitude":-17.2,
+    "geom:longitude":-69.31667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"La Abra",
+    "gn:country_code":"BO",
+    "gn:dem":4277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912451,
+    "gn:latitude":-17.2,
+    "gn:longitude":-69.31667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"La Abra",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912451
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a4e5a5a504fdbb7c41a8c7baa12e6278",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209010453
+        }
+    ],
+    "wof:id":1209010453,
+    "wof:lastmodified":1536300464,
+    "wof:name":"La Abra",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.31667,
+    -17.2,
+    -69.31667,
+    -17.2
+],
+  "geometry": {"coordinates":[-69.31667,-17.2],"type":"Point"}
+}

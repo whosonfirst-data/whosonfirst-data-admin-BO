@@ -1,0 +1,136 @@
+{
+  "id": 85764379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4340318.597671,
+    "geom:bbox":"-68.130066,-16.481917,-68.130066,-16.481917",
+    "geom:latitude":-16.481917,
+    "geom:longitude":-68.130066,
+    "gn:gn_country":"BO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-16.48333,
+    "gn:longitude":-68.13333,
+    "iso:country":"BO",
+    "lbl:latitude":-16.481917,
+    "lbl:longitude":-68.130066,
+    "mps:latitude":-16.478093,
+    "mps:longitude":-68.129126,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:spa_x_colloquial":[
+        "Villa Pabon"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Pab\u00f3n"
+    ],
+    "name:unk_x_variant":[
+        "Villa Pab\u00f3n"
+    ],
+    "qs:gn_adm0_cc":"BO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3911925,
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Villa Pab\u00f3n",
+    "qs:local_max":3411,
+    "qs:local_sum":7300,
+    "qs:localhoods":7,
+    "qs:name":"Villa Pab\u00f3n",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"La Paz",
+    "qs:name_adm2":"Pedro Domingo Murillo",
+    "qs:name_lau":"La Paz",
+    "qs:name_local":"La Paz",
+    "qs:photo_max":2,
+    "qs:photo_sum":5,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424762,
+    "qs:woe_adm1":2344804,
+    "qs:woe_adm2":55967857,
+    "qs:woe_lau":55968149,
+    "qs:woe_local":346057,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"BO",
+    "qs_pg:gn_country":"BO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3901538,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Villa Pab\u00f3n",
+    "qs_pg:name_adm0":"Bolivia",
+    "qs_pg:name_adm1":"La Paz",
+    "qs_pg:photos":80,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":80,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165251,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424762,
+    "qs_pg:woe_id":345715,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85669409,
+        102191577,
+        85632623,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901538,
+        "gp:id":345715,
+        "qs:id":1165251,
+        "qs_pg:id":1165251
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b9626da239db7af0ba5309a7aedd7b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":-1,
+            "neighbourhood_id":85764379,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":85764379,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379235,
+    "wof:name":"Villa Pab\u00f3n",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126064337
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.130066,
+    -16.481917,
+    -68.130066,
+    -16.481917
+],
+  "geometry": {"coordinates":[-68.130066,-16.481917],"type":"Point"}
+}

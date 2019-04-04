@@ -1,0 +1,102 @@
+{
+  "id": 421188391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.85008,-16.59911,-68.85008,-16.59911",
+    "geom:latitude":-16.59911,
+    "geom:longitude":-68.85008,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Guaqui"
+    ],
+    "name:deu_x_preferred":[
+        "Guaqui"
+    ],
+    "name:por_x_preferred":[
+        "Guaqui"
+    ],
+    "name:que_x_preferred":[
+        "Waki llaqta"
+    ],
+    "name:spa_x_preferred":[
+        "Guaqui"
+    ],
+    "name:swe_x_preferred":[
+        "Guaqui"
+    ],
+    "name:unk_x_variant":[
+        "Huaqui"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3915410,
+    "qs:gn_pop":0,
+    "qs:name":"Guaqui",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1095805,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":346078,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-16.583333,
+    "wd:longitude":-68.866667,
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915410,
+        "gp:id":346078,
+        "qs:id":1095805,
+        "wd:id":"Q1002069",
+        "wk:page":"Guaqui"
+    },
+    "wof:country":"BO",
+    "wof:created":1459009554,
+    "wof:geomhash":"7c767f5fd4007c68927d4455c61dbe0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007213,
+            "locality_id":421188391,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":421188391,
+    "wof:lastmodified":1527716273,
+    "wof:name":"Guaqui",
+    "wof:parent_id":1092007213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.85008,
+    -16.59911,
+    -68.85008,
+    -16.59911
+],
+  "geometry": {"coordinates":[-68.85008000000001,-16.59911],"type":"Point"}
+}

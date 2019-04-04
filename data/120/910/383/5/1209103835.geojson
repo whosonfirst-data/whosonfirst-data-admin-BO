@@ -1,0 +1,64 @@
+{
+  "id": 1209103835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.82654,-11.20668,-67.82654,-11.20668",
+    "geom:latitude":-11.20668,
+    "geom:longitude":-67.82654,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Alegria",
+    "gn:country_code":"BO",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504628,
+    "gn:latitude":-11.20668,
+    "gn:longitude":-67.82654,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Alegria",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Alegria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504628
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"09cf4cd27a5c9f8fff07e8d178f5ff45",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209103835
+        }
+    ],
+    "wof:id":1209103835,
+    "wof:lastmodified":1537588186,
+    "wof:name":"Alegria",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.82654000000001,
+    -11.20668,
+    -67.82654000000001,
+    -11.20668
+],
+  "geometry": {"coordinates":[-67.82654000000001,-11.20668],"type":"Point"}
+}

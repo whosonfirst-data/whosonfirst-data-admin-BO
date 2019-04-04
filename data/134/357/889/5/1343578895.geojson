@@ -1,0 +1,67 @@
+{
+  "id": 1343578895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.66119,-20.25519,-64.66119,-20.25519",
+    "geom:latitude":-20.25519,
+    "geom:longitude":-64.66119,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rancho San Leon",
+    "gn:country_code":"BO",
+    "gn:dem":2366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906577,
+    "gn:latitude":-20.25519,
+    "gn:longitude":-64.66119,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Rancho San Leon",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906577
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"87c0c5eb3ed3a2f73f8043e6a01b5698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006003,
+            "locality_id":1343578895,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1343578895,
+    "wof:lastmodified":1537069801,
+    "wof:name":"Rancho San Leon",
+    "wof:parent_id":1092006003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.66119,
+    -20.25519,
+    -64.66119,
+    -20.25519
+],
+  "geometry": {"coordinates":[-64.66119,-20.25519],"type":"Point"}
+}

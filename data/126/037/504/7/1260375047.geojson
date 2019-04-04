@@ -1,0 +1,72 @@
+{
+  "id": 1260375047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.58333,-22.26667,-64.58333,-22.26667",
+    "geom:latitude":-22.26667,
+    "geom:longitude":-64.58333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Coyambuyo",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918920,
+    "gn:latitude":-22.26667,
+    "gn:longitude":-64.58333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Coyambuyo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goyambuyo",
+        "Coyambuyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421181251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918920
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"86df72c7637cfa687deecebe4f37a707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421181251,
+            "locality_id":1260375047,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1260375047,
+    "wof:lastmodified":1537588094,
+    "wof:name":"Coyambuyo",
+    "wof:parent_id":421181251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.58333,
+    -22.26667,
+    -64.58333,
+    -22.26667
+],
+  "geometry": {"coordinates":[-64.58333,-22.26667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360009713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.13333,-17.48333,-68.13333,-17.48333",
+    "geom:latitude":-17.48333,
+    "geom:longitude":-68.13333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rosapata",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906312,
+    "gn:latitude":-17.48333,
+    "gn:longitude":-68.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rosapata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rosaspata",
+        "Rosapata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906312
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"843da1fc8990cb3c0f8e4b350f0dac7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007165,
+            "locality_id":1360009713,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1360009713,
+    "wof:lastmodified":1537587967,
+    "wof:name":"Rosapata",
+    "wof:parent_id":1092007165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.13333,
+    -17.48333,
+    -68.13333,
+    -17.48333
+],
+  "geometry": {"coordinates":[-68.13333,-17.48333],"type":"Point"}
+}

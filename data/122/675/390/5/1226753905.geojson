@@ -1,0 +1,77 @@
+{
+  "id": 1226753905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.05,-15.2,-69.05,-15.2",
+    "geom:latitude":-15.2,
+    "geom:longitude":-69.05,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Villa General Perez",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901564,
+    "gn:latitude":-15.2,
+    "gn:longitude":-69.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Villa General P\u00e9rez",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "General Juan Jos\u00e9 P\u00e9\u00e9rez",
+        "Villa Juan Jose Perez",
+        "Charasani",
+        "Villa P\u00e9rez",
+        "Charazani",
+        "Villa General P\u00e9rez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092006969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901564,
+        "wk:page":"Charazani"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6aa5f3673f7c256a33c7a3ba1d604c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006969,
+            "locality_id":1226753905,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1226753905,
+    "wof:lastmodified":1537587913,
+    "wof:name":"Villa General Perez",
+    "wof:parent_id":1092006969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.05,
+    -15.2,
+    -69.05,
+    -15.2
+],
+  "geometry": {"coordinates":[-69.05,-15.2],"type":"Point"}
+}

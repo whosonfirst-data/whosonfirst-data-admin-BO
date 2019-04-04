@@ -1,0 +1,61 @@
+{
+  "id": 1209636809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.78301,-20.89336,-67.78301,-20.89336",
+    "geom:latitude":-20.89336,
+    "geom:longitude":-67.78301,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Estancia Copacabana",
+    "gn:country_code":"BO",
+    "gn:dem":3708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917331,
+    "gn:latitude":-20.89336,
+    "gn:longitude":-67.78301,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Copacabana",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917331
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6e1171f32d6301627b09d2271cd16151",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209636809
+        }
+    ],
+    "wof:id":1209636809,
+    "wof:lastmodified":1536281017,
+    "wof:name":"Estancia Copacabana",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.78301,
+    -20.89336,
+    -67.78301,
+    -20.89336
+],
+  "geometry": {"coordinates":[-67.78301,-20.89336],"type":"Point"}
+}

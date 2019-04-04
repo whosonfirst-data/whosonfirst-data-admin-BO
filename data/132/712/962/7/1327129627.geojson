@@ -1,0 +1,72 @@
+{
+  "id": 1327129627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.21667,-17.66667,-63.21667,-17.66667",
+    "geom:latitude":-17.66667,
+    "geom:longitude":-63.21667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Paliza",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911936,
+    "gn:latitude":-17.66667,
+    "gn:longitude":-63.21667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Paliza",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia La Paliza",
+        "La Paliza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421187923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911936
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"20e504f1f685e1ea5594ccf790f6a89d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187923,
+            "locality_id":1327129627,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1327129627,
+    "wof:lastmodified":1537588031,
+    "wof:name":"La Paliza",
+    "wof:parent_id":421187923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.21666999999999,
+    -17.66667,
+    -63.21666999999999,
+    -17.66667
+],
+  "geometry": {"coordinates":[-63.21666999999999,-17.66667],"type":"Point"}
+}

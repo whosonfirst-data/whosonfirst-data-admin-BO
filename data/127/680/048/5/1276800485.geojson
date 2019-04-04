@@ -1,0 +1,67 @@
+{
+  "id": 1276800485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.06667,-17.56667,-68.06667,-17.56667",
+    "geom:latitude":-17.56667,
+    "geom:longitude":-68.06667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Estancia Caylla Churu",
+    "gn:country_code":"BO",
+    "gn:dem":3801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917562,
+    "gn:latitude":-17.56667,
+    "gn:longitude":-68.06667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Caylla Churu",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917562
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"98785d7fecdbb0c4b5bea90d3ea6832c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007165,
+            "locality_id":1276800485,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1276800485,
+    "wof:lastmodified":1536649751,
+    "wof:name":"Estancia Caylla Churu",
+    "wof:parent_id":1092007165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.06667,
+    -17.56667,
+    -68.06667,
+    -17.56667
+],
+  "geometry": {"coordinates":[-68.06667,-17.56667],"type":"Point"}
+}

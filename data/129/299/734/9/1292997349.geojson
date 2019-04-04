@@ -1,0 +1,71 @@
+{
+  "id": 1292997349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.32306,-20.12607,-68.32306,-20.12607",
+    "geom:latitude":-20.12607,
+    "geom:longitude":-68.32306,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vilacollo",
+    "gn:country_code":"BO",
+    "gn:dem":3757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901688,
+    "gn:latitude":-20.12607,
+    "gn:longitude":-68.32306,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Vilacollo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Vila Kkollu",
+        "Vilacollo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901688
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"df10cda3e73157887dfa0457f87ce4b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177659,
+            "locality_id":1292997349,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1292997349,
+    "wof:lastmodified":1537587914,
+    "wof:name":"Vilacollo",
+    "wof:parent_id":421177659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.32306,
+    -20.12607,
+    -68.32306,
+    -20.12607
+],
+  "geometry": {"coordinates":[-68.32306,-20.12607],"type":"Point"}
+}

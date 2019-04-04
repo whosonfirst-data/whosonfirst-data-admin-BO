@@ -1,0 +1,72 @@
+{
+  "id": 1344178253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.8,-20.86667,-65.8,-20.86667",
+    "geom:latitude":-20.86667,
+    "geom:longitude":-65.8,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mulacharca",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909838,
+    "gn:latitude":-20.86667,
+    "gn:longitude":-65.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mulacharca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mulachacra",
+        "Mulacharca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909838
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"79bc6143ac2c8442550bd19c84a7dd5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1344178253,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1344178253,
+    "wof:lastmodified":1537588008,
+    "wof:name":"Mulacharca",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.8,
+    -20.86667000000001,
+    -65.8,
+    -20.86667000000001
+],
+  "geometry": {"coordinates":[-65.8,-20.86667000000001],"type":"Point"}
+}

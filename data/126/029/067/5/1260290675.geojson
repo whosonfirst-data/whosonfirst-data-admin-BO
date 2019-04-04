@@ -1,0 +1,73 @@
+{
+  "id": 1260290675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.85,-15.93333,-67.85,-15.93333",
+    "geom:latitude":-15.93333,
+    "geom:longitude":-67.85,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Unupaya",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902005,
+    "gn:latitude":-15.93333,
+    "gn:longitude":-67.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Unupaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umupaya",
+        "Umapaya",
+        "Unupaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902005
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9d9eaf3f3569a0569e8435a7e2cd1d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":1260290675,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1260290675,
+    "wof:lastmodified":1537587918,
+    "wof:name":"Unupaya",
+    "wof:parent_id":421177667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.85,
+    -15.93333,
+    -67.85,
+    -15.93333
+],
+  "geometry": {"coordinates":[-67.84999999999999,-15.93333],"type":"Point"}
+}

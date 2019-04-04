@@ -1,0 +1,67 @@
+{
+  "id": 1310306611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.58027,-10.99032,-65.58027,-10.99032",
+    "geom:latitude":-10.99032,
+    "geom:longitude":-65.58027,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yata",
+    "gn:country_code":"BO",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10345264,
+    "gn:latitude":-10.99032,
+    "gn:longitude":-65.58027,
+    "gn:modification_date":"2015-06-20",
+    "gn:name":"Yata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10345264
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0833b97964112ac28a0e9672945c13d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005877,
+            "locality_id":1310306611,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1310306611,
+    "wof:lastmodified":1536706570,
+    "wof:name":"Yata",
+    "wof:parent_id":1092005877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.58027,
+    -10.99032,
+    -65.58027,
+    -10.99032
+],
+  "geometry": {"coordinates":[-65.58027,-10.99032],"type":"Point"}
+}

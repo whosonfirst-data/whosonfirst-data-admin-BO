@@ -1,0 +1,74 @@
+{
+  "id": 1243073837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.88333,-16.75,-67.88333,-16.75",
+    "geom:latitude":-16.75,
+    "geom:longitude":-67.88333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tahuapalca",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903679,
+    "gn:latitude":-16.75,
+    "gn:longitude":-67.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tahuapalca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Tahuapalca",
+        "Taguapalca",
+        "Tagupaca",
+        "Tahuapalca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903679
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0cdf11d8ca369ea9b4cc0589b7938052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":1243073837,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1243073837,
+    "wof:lastmodified":1537587940,
+    "wof:name":"Tahuapalca",
+    "wof:parent_id":421177667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.88333,
+    -16.75,
+    -67.88333,
+    -16.75
+],
+  "geometry": {"coordinates":[-67.88333,-16.75],"type":"Point"}
+}

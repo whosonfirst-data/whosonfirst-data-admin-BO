@@ -1,0 +1,72 @@
+{
+  "id": 1326821865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.31667,-21.36667,-66.31667,-21.36667",
+    "geom:latitude":-21.36667,
+    "geom:longitude":-66.31667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Huailla Loma",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915012,
+    "gn:latitude":-21.36667,
+    "gn:longitude":-66.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Huailla Loma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huillaloma",
+        "Huailla Loma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915012
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"90cbc475d5aa30f37e0803e31e1d7360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193357,
+            "locality_id":1326821865,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1326821865,
+    "wof:lastmodified":1537588067,
+    "wof:name":"Huailla Loma",
+    "wof:parent_id":421193357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.31667,
+    -21.36667000000001,
+    -66.31667,
+    -21.36667000000001
+],
+  "geometry": {"coordinates":[-66.31667,-21.36667000000001],"type":"Point"}
+}

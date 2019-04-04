@@ -1,0 +1,61 @@
+{
+  "id": 1209436199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.03742,-18.1497,-66.03742,-18.1497",
+    "geom:latitude":-18.1497,
+    "geom:longitude":-66.03742,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Concarapu",
+    "gn:country_code":"BO",
+    "gn:dem":2951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472701,
+    "gn:latitude":-18.1497,
+    "gn:longitude":-66.03742,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Concarapu",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472701
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"425e7aa98a13ffe3aec166706ccc4759",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209436199
+        }
+    ],
+    "wof:id":1209436199,
+    "wof:lastmodified":1536287097,
+    "wof:name":"Concarapu",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.03742,
+    -18.1497,
+    -66.03742,
+    -18.1497
+],
+  "geometry": {"coordinates":[-66.03742,-18.1497],"type":"Point"}
+}

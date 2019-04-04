@@ -1,0 +1,61 @@
+{
+  "id": 1209106473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.96667,-17.23333,-67.96667,-17.23333",
+    "geom:latitude":-17.23333,
+    "geom:longitude":-67.96667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chita",
+    "gn:country_code":"BO",
+    "gn:dem":3881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920597,
+    "gn:latitude":-17.23333,
+    "gn:longitude":-67.96667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Chita",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920597
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5ffeaeef6851d7f415411b139f7de8df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209106473
+        }
+    ],
+    "wof:id":1209106473,
+    "wof:lastmodified":1536297553,
+    "wof:name":"Chita",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.96667,
+    -17.23333,
+    -67.96667,
+    -17.23333
+],
+  "geometry": {"coordinates":[-67.96666999999999,-17.23333],"type":"Point"}
+}

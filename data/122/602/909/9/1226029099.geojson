@@ -1,0 +1,72 @@
+{
+  "id": 1226029099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.84526,-21.85631,-62.84526,-21.85631",
+    "geom:latitude":-21.85631,
+    "geom:longitude":-62.84526,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Galpon",
+    "gn:country_code":"BO",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915636,
+    "gn:latitude":-21.85631,
+    "gn:longitude":-62.84526,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Galp\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Galp\u00f3n",
+        "El Galp\u00f3n Las Moras",
+        "Galp\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421169235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915636
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f988d25cd7987f55069f24dc469d2e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169235,
+            "locality_id":1226029099,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1226029099,
+    "wof:lastmodified":1537588075,
+    "wof:name":"Galpon",
+    "wof:parent_id":421169235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.84526,
+    -21.85631,
+    -62.84526,
+    -21.85631
+],
+  "geometry": {"coordinates":[-62.84526,-21.85631],"type":"Point"}
+}

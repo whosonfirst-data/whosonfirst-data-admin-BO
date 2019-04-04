@@ -1,0 +1,66 @@
+{
+  "id": 890455429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.19341,-17.73825,-65.19341,-17.73825",
+    "geom:latitude":-17.73825,
+    "geom:longitude":-65.19341,
+    "gn:country":"BO",
+    "gn:fcode":"PPL",
+    "gn:pop":185,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Sanjas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618543,
+        "gp:id":346111,
+        "qs:id":105127
+    },
+    "wof:country":"BO",
+    "wof:created":1469052947,
+    "wof:geomhash":"b392932b946925cc870e6415aec9de15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":890455429,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":890455429,
+    "wof:lastmodified":1505343663,
+    "wof:name":"Sanjas",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:population":185,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.19341,
+    -17.73825,
+    -65.19341,
+    -17.73825
+],
+  "geometry": {"coordinates":[-65.19341,-17.73825],"type":"Point"}
+}

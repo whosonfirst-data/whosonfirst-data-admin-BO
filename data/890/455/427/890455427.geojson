@@ -1,0 +1,66 @@
+{
+  "id": 890455427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.09122,-17.77029,-65.09122,-17.77029",
+    "geom:latitude":-17.77029,
+    "geom:longitude":-65.09122,
+    "gn:country":"BO",
+    "gn:fcode":"PPL",
+    "gn:pop":197,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Quilla Orko",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618542,
+        "gp:id":335859,
+        "qs:id":105126
+    },
+    "wof:country":"BO",
+    "wof:created":1469052947,
+    "wof:geomhash":"5bf971c315533bee54a7ad0aea6b32f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":890455427,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":890455427,
+    "wof:lastmodified":1505343663,
+    "wof:name":"Quilla Orko",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:population":197,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.09122,
+    -17.77029,
+    -65.09122,
+    -17.77029
+],
+  "geometry": {"coordinates":[-65.09122000000001,-17.77029],"type":"Point"}
+}

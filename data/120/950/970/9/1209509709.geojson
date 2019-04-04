@@ -1,0 +1,66 @@
+{
+  "id": 1209509709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.43333,-21.08333,-67.43333,-21.08333",
+    "geom:latitude":-21.08333,
+    "geom:longitude":-67.43333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chuani",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920360,
+    "gn:latitude":-21.08333,
+    "gn:longitude":-67.43333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chuani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chuan",
+        "Chuani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920360
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7734bc4a20093a10e77d7db5e7f4b17b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209509709
+        }
+    ],
+    "wof:id":1209509709,
+    "wof:lastmodified":1537588108,
+    "wof:name":"Chuani",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.43333,
+    -21.08333,
+    -67.43333,
+    -21.08333
+],
+  "geometry": {"coordinates":[-67.43333,-21.08333],"type":"Point"}
+}

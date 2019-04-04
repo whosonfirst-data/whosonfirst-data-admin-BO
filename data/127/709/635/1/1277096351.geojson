@@ -1,0 +1,67 @@
+{
+  "id": 1277096351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.83333,-16.3,-63.83333,-16.3",
+    "geom:latitude":-16.3,
+    "geom:longitude":-63.83333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Los Limos",
+    "gn:country_code":"BO",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911132,
+    "gn:latitude":-16.3,
+    "gn:longitude":-63.83333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Los Limos",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911132
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"491391e8fa0d33fd66da33615d190bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009899,
+            "locality_id":1277096351,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1277096351,
+    "wof:lastmodified":1536747863,
+    "wof:name":"Los Limos",
+    "wof:parent_id":1092009899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.83333,
+    -16.3,
+    -63.83333,
+    -16.3
+],
+  "geometry": {"coordinates":[-63.83333,-16.3],"type":"Point"}
+}

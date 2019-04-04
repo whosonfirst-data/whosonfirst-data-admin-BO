@@ -1,0 +1,66 @@
+{
+  "id": 1209335839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.53391,-19.74674,-68.53391,-19.74674",
+    "geom:latitude":-19.74674,
+    "geom:longitude":-68.53391,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Corosuco",
+    "gn:country_code":"BO",
+    "gn:dem":3864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919068,
+    "gn:latitude":-19.74674,
+    "gn:longitude":-68.53391,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Corosuco",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Cruzoko",
+        "Cruzoco",
+        "Corosuco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919068
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b1dd7a2d7dc4f7d84f9bfa25196b6d4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209335839
+        }
+    ],
+    "wof:id":1209335839,
+    "wof:lastmodified":1537588097,
+    "wof:name":"Corosuco",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.53390999999999,
+    -19.74674,
+    -68.53390999999999,
+    -19.74674
+],
+  "geometry": {"coordinates":[-68.53390999999999,-19.74674],"type":"Point"}
+}

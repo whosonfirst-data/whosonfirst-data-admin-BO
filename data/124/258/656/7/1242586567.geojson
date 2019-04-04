@@ -1,0 +1,67 @@
+{
+  "id": 1242586567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.28333,-17.98333,-65.28333,-17.98333",
+    "geom:latitude":-17.98333,
+    "geom:longitude":-65.28333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Aguada",
+    "gn:country_code":"BO",
+    "gn:dem":2250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3924477,
+    "gn:latitude":-17.98333,
+    "gn:longitude":-65.28333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Aguada",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3924477
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"743a6773435ba39944508c63a365a5a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006697,
+            "locality_id":1242586567,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1242586567,
+    "wof:lastmodified":1537048558,
+    "wof:name":"Aguada",
+    "wof:parent_id":1092006697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.28333,
+    -17.98333,
+    -65.28333,
+    -17.98333
+],
+  "geometry": {"coordinates":[-65.28333000000001,-17.98333],"type":"Point"}
+}

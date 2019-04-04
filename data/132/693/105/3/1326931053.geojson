@@ -1,0 +1,67 @@
+{
+  "id": 1326931053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.83333,-17.48333,-66.83333,-17.48333",
+    "geom:latitude":-17.48333,
+    "geom:longitude":-66.83333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Estancia Marquirivi",
+    "gn:country_code":"BO",
+    "gn:dem":3353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916696,
+    "gn:latitude":-17.48333,
+    "gn:longitude":-66.83333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Marquirivi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916696
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"086ff8949cc7be2b400d7995abf0cb70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007257,
+            "locality_id":1326931053,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1326931053,
+    "wof:lastmodified":1536906695,
+    "wof:name":"Estancia Marquirivi",
+    "wof:parent_id":1092007257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.83333,
+    -17.48333,
+    -66.83333,
+    -17.48333
+],
+  "geometry": {"coordinates":[-66.83333,-17.48333],"type":"Point"}
+}

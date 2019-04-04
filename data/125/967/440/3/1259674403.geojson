@@ -1,0 +1,67 @@
+{
+  "id": 1259674403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.75,-17.83333,-57.75,-17.83333",
+    "geom:latitude":-17.83333,
+    "geom:longitude":-57.75,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Gaiba",
+    "gn:country_code":"BO",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3444397,
+    "gn:latitude":-17.83333,
+    "gn:longitude":-57.75,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"La Gaiba",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3444397
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"002d39f1ab7c4febaeaffba49f9cbe4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009511,
+            "locality_id":1259674403,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1259674403,
+    "wof:lastmodified":1537077003,
+    "wof:name":"La Gaiba",
+    "wof:parent_id":1092009511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.75,
+    -17.83333,
+    -57.75,
+    -17.83333
+],
+  "geometry": {"coordinates":[-57.75,-17.83333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226659069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.26892,-18.05746,-65.26892,-18.05746",
+    "geom:latitude":-18.05746,
+    "geom:longitude":-65.26892,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cabacanche",
+    "gn:country_code":"BO",
+    "gn:dem":2226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922898,
+    "gn:latitude":-18.05746,
+    "gn:longitude":-65.26892,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Cabacanche",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabacancha",
+        "Cabacaoche",
+        "Cabracancha",
+        "Cabacanche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922898
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"cb75d32a286b1bcbe9a15ee6940adcdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006697,
+            "locality_id":1226659069,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1226659069,
+    "wof:lastmodified":1537588141,
+    "wof:name":"Cabacanche",
+    "wof:parent_id":1092006697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.26892,
+    -18.05746,
+    -65.26892,
+    -18.05746
+],
+  "geometry": {"coordinates":[-65.26891999999999,-18.05746],"type":"Point"}
+}

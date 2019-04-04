@@ -1,0 +1,67 @@
+{
+  "id": 1310190609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.26667,-19.48333,-63.26667,-19.48333",
+    "geom:latitude":-19.48333,
+    "geom:longitude":-63.26667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ipati",
+    "gn:country_code":"BO",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914128,
+    "gn:latitude":-19.48333,
+    "gn:longitude":-63.26667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Ipat\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914128
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"93346eb0a368dfaa7c8b41e9e2881ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1310190609,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1310190609,
+    "wof:lastmodified":1536872791,
+    "wof:name":"Ipati",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.26667,
+    -19.48333,
+    -63.26667,
+    -19.48333
+],
+  "geometry": {"coordinates":[-63.26667,-19.48333],"type":"Point"}
+}

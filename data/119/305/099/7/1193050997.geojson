@@ -1,0 +1,72 @@
+{
+  "id": 1193050997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.43333,-17.48333,-69.43333,-17.48333",
+    "geom:latitude":-17.48333,
+    "geom:longitude":-69.43333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Abara",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3924666,
+    "gn:latitude":-17.48333,
+    "gn:longitude":-69.43333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Abara",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abaro",
+        "Abara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3924666
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"288e5a8972fead9ebeeba7a2e5be68f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1193050997,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1193050997,
+    "wof:lastmodified":1537588161,
+    "wof:name":"Abara",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.43333,
+    -17.48333,
+    -69.43333,
+    -17.48333
+],
+  "geometry": {"coordinates":[-69.43333,-17.48333],"type":"Point"}
+}

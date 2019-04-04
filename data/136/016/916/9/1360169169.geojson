@@ -1,0 +1,72 @@
+{
+  "id": 1360169169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.3,-21.35,-65.3,-21.35",
+    "geom:latitude":-21.35,
+    "geom:longitude":-65.3,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Rillahua",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906461,
+    "gn:latitude":-21.35,
+    "gn:longitude":-65.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rillahua",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pillanua",
+        "Rillahua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906461
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"fa4e347588ec1dc0ee42d84c46b16412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006125,
+            "locality_id":1360169169,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1360169169,
+    "wof:lastmodified":1537587968,
+    "wof:name":"Rillahua",
+    "wof:parent_id":1092006125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.3,
+    -21.35,
+    -65.3,
+    -21.35
+],
+  "geometry": {"coordinates":[-65.3,-21.35],"type":"Point"}
+}

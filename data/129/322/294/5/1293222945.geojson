@@ -1,0 +1,67 @@
+{
+  "id": 1293222945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.3,-15.91667,-60.3,-15.91667",
+    "geom:latitude":-15.91667,
+    "geom:longitude":-60.3,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"San Andres",
+    "gn:country_code":"BO",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905909,
+    "gn:latitude":-15.91667,
+    "gn:longitude":-60.3,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"San Andr\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905909
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"53e10a181b1e8476aa92bb6654ff544e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1293222945,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1293222945,
+    "wof:lastmodified":1536671393,
+    "wof:name":"San Andres",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.3,
+    -15.91667,
+    -60.3,
+    -15.91667
+],
+  "geometry": {"coordinates":[-60.3,-15.91667],"type":"Point"}
+}

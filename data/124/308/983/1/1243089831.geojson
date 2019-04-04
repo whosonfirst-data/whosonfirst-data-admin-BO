@@ -1,0 +1,67 @@
+{
+  "id": 1243089831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.21667,-16.46667,-61.21667,-16.46667",
+    "geom:latitude":-16.46667,
+    "geom:longitude":-61.21667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Fortuna",
+    "gn:country_code":"BO",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912228,
+    "gn:latitude":-16.46667,
+    "gn:longitude":-61.21667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"La Fortuna",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912228
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4e37ae1c51ff03acceb1dd64783f15d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1243089831,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1243089831,
+    "wof:lastmodified":1536821739,
+    "wof:name":"La Fortuna",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.21666999999999,
+    -16.46667,
+    -61.21666999999999,
+    -16.46667
+],
+  "geometry": {"coordinates":[-61.21666999999999,-16.46667],"type":"Point"}
+}

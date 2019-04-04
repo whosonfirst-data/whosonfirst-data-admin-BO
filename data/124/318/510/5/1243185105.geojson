@@ -1,0 +1,73 @@
+{
+  "id": 1243185105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.15,-17.15,-66.15,-17.15",
+    "geom:latitude":-17.15,
+    "geom:longitude":-66.15,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chapisirca",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921189,
+    "gn:latitude":-17.15,
+    "gn:longitude":-66.15,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chapisirca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad Chapisirca",
+        "Chaspisirca",
+        "Chapisirca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        421197123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921189
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f804543f60080ed6b8b339a56d272b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197123,
+            "locality_id":1243185105,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1243185105,
+    "wof:lastmodified":1537588118,
+    "wof:name":"Chapisirca",
+    "wof:parent_id":421197123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.15,
+    -17.15,
+    -66.15,
+    -17.15
+],
+  "geometry": {"coordinates":[-66.15000000000001,-17.15],"type":"Point"}
+}

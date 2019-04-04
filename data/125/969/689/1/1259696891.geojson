@@ -1,0 +1,72 @@
+{
+  "id": 1259696891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.98616,-18.04734,-64.98616,-18.04734",
+    "geom:latitude":-18.04734,
+    "geom:longitude":-64.98616,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Caraparial",
+    "gn:country_code":"BO",
+    "gn:dem":1652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922008,
+    "gn:latitude":-18.04734,
+    "gn:longitude":-64.98616,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Caraparial",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carabarrial",
+        "Carabarial",
+        "Caraparial"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922008
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d4306e6aec029f9a187e65aa8a5a5591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006465,
+            "locality_id":1259696891,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1259696891,
+    "wof:lastmodified":1537588129,
+    "wof:name":"Caraparial",
+    "wof:parent_id":1092006465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.98616,
+    -18.04734,
+    -64.98616,
+    -18.04734
+],
+  "geometry": {"coordinates":[-64.98616,-18.04734],"type":"Point"}
+}

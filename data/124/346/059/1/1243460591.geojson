@@ -1,0 +1,72 @@
+{
+  "id": 1243460591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.23333,-17.48333,-68.23333,-17.48333",
+    "geom:latitude":-17.48333,
+    "geom:longitude":-68.23333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kanuta",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913036,
+    "gn:latitude":-17.48333,
+    "gn:longitude":-68.23333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ka\u00f1uta",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Kha\u00f1uta",
+        "Ka\u00f1uta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913036
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"62f45505d2ba421afb3f673c063ed8ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1243460591,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1243460591,
+    "wof:lastmodified":1537588043,
+    "wof:name":"Kanuta",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.23333000000001,
+    -17.48333,
+    -68.23333000000001,
+    -17.48333
+],
+  "geometry": {"coordinates":[-68.23333000000001,-17.48333],"type":"Point"}
+}

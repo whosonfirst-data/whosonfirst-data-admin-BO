@@ -1,0 +1,61 @@
+{
+  "id": 1209319427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.25,-17.83333,-68.25,-17.83333",
+    "geom:latitude":-17.83333,
+    "geom:longitude":-68.25,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Estancia Jokho Lacaya",
+    "gn:country_code":"BO",
+    "gn:dem":3956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916992,
+    "gn:latitude":-17.83333,
+    "gn:longitude":-68.25,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Jokho Lacaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916992
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"85cdebf893582930651f28d5d31d6874",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209319427
+        }
+    ],
+    "wof:id":1209319427,
+    "wof:lastmodified":1536290749,
+    "wof:name":"Estancia Jokho Lacaya",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.25,
+    -17.83333,
+    -68.25,
+    -17.83333
+],
+  "geometry": {"coordinates":[-68.25,-17.83333],"type":"Point"}
+}

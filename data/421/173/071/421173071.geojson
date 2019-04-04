@@ -1,0 +1,94 @@
+{
+  "id": 421173071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.15,-16.01667,-69.15,-16.01667",
+    "geom:latitude":-16.01667,
+    "geom:longitude":-69.15,
+    "gn:country":"BO",
+    "gn:fcode":"ISL",
+    "gn:pop":2500,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Estancia Yumani"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3913985,
+    "qs:gn_pop":2500,
+    "qs:name":"Isla del Sol",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":1521,
+    "qs:photos_1k":308,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1521,
+    "qs:photos_sr":13,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":489423,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":339623,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":1358,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913985,
+        "gp:id":339623,
+        "qs:id":489423,
+        "wd:id":"Q600282",
+        "wk:page":"Isla del Sol"
+    },
+    "wof:concordances_alt":{
+        "gn:id":3904119,
+        "qs:id":96689
+    },
+    "wof:country":"BO",
+    "wof:created":1459008970,
+    "wof:geomhash":"9b411d83ebbb638cda1c9c24d633ce63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007659,
+            "locality_id":421173071,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":421173071,
+    "wof:lastmodified":1534379235,
+    "wof:name":"Isla del Sol",
+    "wof:parent_id":1092007659,
+    "wof:placetype":"locality",
+    "wof:population":2500,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890453423
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.15,
+    -16.01667,
+    -69.15,
+    -16.01667
+],
+  "geometry": {"coordinates":[-69.15000000000001,-16.01667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360104943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.95,-18.05,-62.95,-18.05",
+    "geom:latitude":-18.05,
+    "geom:longitude":-62.95,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Paso del Espino",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908381,
+    "gn:latitude":-18.05,
+    "gn:longitude":-62.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Paso del Espino",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pozo El Espino",
+        "Pozo del Espino",
+        "Pozo Espino",
+        "Paso del Espino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908381
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d7e085b70330d258d9efda817f8995be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1360104943,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1360104943,
+    "wof:lastmodified":1537587991,
+    "wof:name":"Paso del Espino",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.95,
+    -18.05,
+    -62.95,
+    -18.05
+],
+  "geometry": {"coordinates":[-62.95,-18.05],"type":"Point"}
+}

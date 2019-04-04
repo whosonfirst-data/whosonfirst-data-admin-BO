@@ -1,0 +1,72 @@
+{
+  "id": 1310615245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.84752,-19.73467,-63.84752,-19.73467",
+    "geom:latitude":-19.73467,
+    "geom:longitude":-63.84752,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taperillas",
+    "gn:country_code":"BO",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903430,
+    "gn:latitude":-19.73467,
+    "gn:longitude":-63.84752,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Taperillas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angosto Taperilla",
+        "Taperilla",
+        "Taperillas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903430
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"044ebceef7aa80d5633b9b6561e5a094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005959,
+            "locality_id":1310615245,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1310615245,
+    "wof:lastmodified":1537587937,
+    "wof:name":"Taperillas",
+    "wof:parent_id":1092005959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.84752,
+    -19.73467,
+    -63.84752,
+    -19.73467
+],
+  "geometry": {"coordinates":[-63.84752,-19.73467],"type":"Point"}
+}

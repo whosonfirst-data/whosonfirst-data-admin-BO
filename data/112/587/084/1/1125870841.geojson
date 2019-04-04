@@ -1,0 +1,100 @@
+{
+  "id": 1125870841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.94661,-15.39286,-62.94661,-15.39286",
+    "geom:latitude":-15.39286,
+    "geom:longitude":-62.94661,
+    "gn:gn_country":"BO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3267,
+    "gn:population":3267,
+    "iso:country":"BO",
+    "lbl:latitude":-15.39286,
+    "lbl:longitude":-62.94661,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u70cf\u9b6f\u6bd4\u67e5"
+    ],
+    "name:dut_x_preferred":[
+        "Urubich\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Urubich\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Urubich\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "Urubich\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Urubich\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Uruvicho"
+    ],
+    "qs_pg:aaroncc":"BO",
+    "qs_pg:gn_country":"BO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3901969,
+    "qs_pg:gn_pop":3267,
+    "qs_pg:name":"Urubich\u00e1",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":96679,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901969,
+        "qs_pg:id":96679,
+        "wd:id":"Q1805205"
+    },
+    "wof:country":"BO",
+    "wof:created":1497294289,
+    "wof:geomhash":"75b9be1892d8377085a783d67d232c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009737,
+            "locality_id":1125870841,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1125870841,
+    "wof:lastmodified":1513901156,
+    "wof:name":"Urubich\u00e1",
+    "wof:parent_id":1092009737,
+    "wof:placetype":"locality",
+    "wof:population":3267,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.94661,
+    -15.39286,
+    -62.94661,
+    -15.39286
+],
+  "geometry": {"coordinates":[-62.94661,-15.39286],"type":"Point"}
+}

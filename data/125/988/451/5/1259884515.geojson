@@ -1,0 +1,67 @@
+{
+  "id": 1259884515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.31667,-19.05,-68.31667,-19.05",
+    "geom:latitude":-19.05,
+    "geom:longitude":-68.31667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Orko Chaca Guano",
+    "gn:country_code":"BO",
+    "gn:dem":3688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909269,
+    "gn:latitude":-19.05,
+    "gn:longitude":-68.31667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Orko Chaca Guano",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092008039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909269
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"62ac539f69c0b4f6f11b5f48ff9232b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008039,
+            "locality_id":1259884515,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1259884515,
+    "wof:lastmodified":1536778138,
+    "wof:name":"Orko Chaca Guano",
+    "wof:parent_id":1092008039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.31667,
+    -19.05,
+    -68.31667,
+    -19.05
+],
+  "geometry": {"coordinates":[-68.31667,-19.05],"type":"Point"}
+}

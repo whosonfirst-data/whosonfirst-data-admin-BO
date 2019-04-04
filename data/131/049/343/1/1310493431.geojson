@@ -1,0 +1,71 @@
+{
+  "id": 1310493431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.38414,-19.58,-65.38414,-19.58",
+    "geom:latitude":-19.58,
+    "geom:longitude":-65.38414,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Malca",
+    "gn:country_code":"BO",
+    "gn:dem":3229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910885,
+    "gn:latitude":-19.58,
+    "gn:longitude":-65.38414,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Malca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maico",
+        "Malca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910885
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0d730f56b423681445f2ff5d4c3735bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008843,
+            "locality_id":1310493431,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1310493431,
+    "wof:lastmodified":1537588018,
+    "wof:name":"Malca",
+    "wof:parent_id":1092008843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.38414,
+    -19.58,
+    -65.38414,
+    -19.58
+],
+  "geometry": {"coordinates":[-65.38414,-19.58],"type":"Point"}
+}

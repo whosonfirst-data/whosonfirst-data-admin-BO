@@ -1,0 +1,71 @@
+{
+  "id": 1292921459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.53333,-19.18333,-64.53333,-19.18333",
+    "geom:latitude":-19.18333,
+    "geom:longitude":-64.53333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"2.0",
+    "gn:admin4_code":"1.0",
+    "gn:asciiname":"Tomina",
+    "gn:country_code":"BO",
+    "gn:dem":2663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":3902668,
+    "gn:latitude":-19.18333,
+    "gn:longitude":-64.53333,
+    "gn:modification_date":"2011-07-31",
+    "gn:name":"Tomina",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421169227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902668,
+        "wk:page":"Tomina"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"88cdc3a881e1d36e4062e485947fc9dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169227,
+            "locality_id":1292921459,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1292921459,
+    "wof:lastmodified":1537487866,
+    "wof:name":"Tomina",
+    "wof:parent_id":421169227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.53333,
+    -19.18333,
+    -64.53333,
+    -19.18333
+],
+  "geometry": {"coordinates":[-64.53333000000001,-19.18333],"type":"Point"}
+}

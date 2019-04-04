@@ -1,0 +1,70 @@
+{
+  "id": 1226030279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.2274,-16.95608,-63.2274,-16.95608",
+    "geom:latitude":-16.95608,
+    "geom:longitude":-63.2274,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chane Magallanes",
+    "gn:country_code":"BO",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8521809,
+    "gn:latitude":-16.95608,
+    "gn:longitude":-63.2274,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Chane Magallanes",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad Chane Magallanes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8521809
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"62a894262c067637599c5cd8450074ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009899,
+            "locality_id":1226030279,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1226030279,
+    "wof:lastmodified":1537588162,
+    "wof:name":"Chane Magallanes",
+    "wof:parent_id":1092009899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.2274,
+    -16.95608,
+    -63.2274,
+    -16.95608
+],
+  "geometry": {"coordinates":[-63.2274,-16.95608],"type":"Point"}
+}

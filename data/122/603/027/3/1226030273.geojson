@@ -1,0 +1,72 @@
+{
+  "id": 1226030273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.96667,-17.8,-62.96667,-17.8",
+    "geom:latitude":-17.8,
+    "geom:longitude":-62.96667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Crucena",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912338,
+    "gn:latitude":-17.8,
+    "gn:longitude":-62.96667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Cruce\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad La Cruce\u00f1a",
+        "La Cruce\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421187923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912338
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d89ef22b677f8699540ca365e93c6bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187923,
+            "locality_id":1226030273,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1226030273,
+    "wof:lastmodified":1537588036,
+    "wof:name":"La Crucena",
+    "wof:parent_id":421187923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.96666999999999,
+    -17.8,
+    -62.96666999999999,
+    -17.8
+],
+  "geometry": {"coordinates":[-62.96666999999999,-17.8],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242581645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.05,-20.13333,-65.05,-20.13333",
+    "geom:latitude":-20.13333,
+    "geom:longitude":-65.05,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Estancia Quellu Quellu",
+    "gn:country_code":"BO",
+    "gn:dem":3319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916388,
+    "gn:latitude":-20.13333,
+    "gn:longitude":-65.05,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Quellu Quellu",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916388
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4eb49fbb6cac7cda6c00314cdd0f736c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006003,
+            "locality_id":1242581645,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1242581645,
+    "wof:lastmodified":1537055384,
+    "wof:name":"Estancia Quellu Quellu",
+    "wof:parent_id":1092006003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.05,
+    -20.13333,
+    -65.05,
+    -20.13333
+],
+  "geometry": {"coordinates":[-65.05,-20.13333],"type":"Point"}
+}

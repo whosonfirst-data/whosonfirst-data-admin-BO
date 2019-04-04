@@ -1,0 +1,67 @@
+{
+  "id": 1209500515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.41667,-19.15,-62.41667,-19.15",
+    "geom:latitude":-19.15,
+    "geom:longitude":-62.41667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Los Corechis",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911154,
+    "gn:latitude":-19.15,
+    "gn:longitude":-62.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Corechis",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Curiches",
+        "Los Coreches",
+        "Los Corechis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911154
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"aba5d90540def0d7259c085ed2c186b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209500515
+        }
+    ],
+    "wof:id":1209500515,
+    "wof:lastmodified":1537588022,
+    "wof:name":"Los Corechis",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.41667,
+    -19.15,
+    -62.41667,
+    -19.15
+],
+  "geometry": {"coordinates":[-62.41667,-19.15],"type":"Point"}
+}

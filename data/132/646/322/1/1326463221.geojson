@@ -1,0 +1,73 @@
+{
+  "id": 1326463221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.11933,-15.3545,-69.11933,-15.3545",
+    "geom:latitude":-15.3545,
+    "geom:longitude":-69.11933,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Inita Centro",
+    "gn:country_code":"BO",
+    "gn:dem":4067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914155,
+    "gn:latitude":-15.3545,
+    "gn:longitude":-69.11933,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"I\u00f1ita Centro",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "I\u00f1ita Centro"
+    ],
+    "name:und_x_variant":[
+        "I\u00f1ita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914155
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3b59eb384c9ce5ca144356ec90475d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007003,
+            "locality_id":1326463221,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1326463221,
+    "wof:lastmodified":1537588056,
+    "wof:name":"Inita Centro",
+    "wof:parent_id":1092007003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.11933,
+    -15.3545,
+    -69.11933,
+    -15.3545
+],
+  "geometry": {"coordinates":[-69.11933000000001,-15.3545],"type":"Point"}
+}

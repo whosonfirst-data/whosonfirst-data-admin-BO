@@ -1,0 +1,67 @@
+{
+  "id": 1326626409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.80687,-21.90934,-63.80687,-21.90934",
+    "geom:latitude":-21.90934,
+    "geom:longitude":-63.80687,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"San Alberto",
+    "gn:country_code":"BO",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905918,
+    "gn:latitude":-21.90934,
+    "gn:longitude":-63.80687,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"San Alberto",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421169235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905918
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f35c79e651cfd64c44b5a04d6b83288f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169235,
+            "locality_id":1326626409,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1326626409,
+    "wof:lastmodified":1536847149,
+    "wof:name":"San Alberto",
+    "wof:parent_id":421169235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.80687,
+    -21.90934,
+    -63.80687,
+    -21.90934
+],
+  "geometry": {"coordinates":[-63.80687,-21.90934],"type":"Point"}
+}

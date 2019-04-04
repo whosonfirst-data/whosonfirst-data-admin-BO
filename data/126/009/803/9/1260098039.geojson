@@ -1,0 +1,67 @@
+{
+  "id": 1260098039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.10183,-20.48505,-64.10183,-20.48505",
+    "geom:latitude":-20.48505,
+    "geom:longitude":-64.10183,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lacayotal",
+    "gn:country_code":"BO",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912372,
+    "gn:latitude":-20.48505,
+    "gn:longitude":-64.10183,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Lacayotal",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912372
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3f51ef3295d9a6dbeb83d04811716489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005923,
+            "locality_id":1260098039,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1260098039,
+    "wof:lastmodified":1536966877,
+    "wof:name":"Lacayotal",
+    "wof:parent_id":1092005923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.10183,
+    -20.48505,
+    -64.10183,
+    -20.48505
+],
+  "geometry": {"coordinates":[-64.10183000000001,-20.48505],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343575263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.17899,-18.65992,-65.17899,-18.65992",
+    "geom:latitude":-18.65992,
+    "geom:longitude":-65.17899,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Camos",
+    "gn:country_code":"BO",
+    "gn:dem":1563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922412,
+    "gn:latitude":-18.65992,
+    "gn:longitude":-65.17899,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Camos",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cames",
+        "Camos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922412
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"48d136d0654cf76eaceff40da993b10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1343575263,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1343575263,
+    "wof:lastmodified":1537588135,
+    "wof:name":"Camos",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.17899,
+    -18.65992,
+    -65.17899,
+    -18.65992
+],
+  "geometry": {"coordinates":[-65.17899,-18.65992],"type":"Point"}
+}

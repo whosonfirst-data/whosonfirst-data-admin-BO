@@ -1,0 +1,67 @@
+{
+  "id": 1310697451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.26314,-18.30072,-64.26314,-18.30072",
+    "geom:latitude":-18.30072,
+    "geom:longitude":-64.26314,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ariruma",
+    "gn:country_code":"BO",
+    "gn:dem":2107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923710,
+    "gn:latitude":-18.30072,
+    "gn:longitude":-64.26314,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Ariruma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421193471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923710
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"89e95e628bcfc969118647b0a8ebd392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193471,
+            "locality_id":1310697451,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1310697451,
+    "wof:lastmodified":1536638987,
+    "wof:name":"Ariruma",
+    "wof:parent_id":421193471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.26314,
+    -18.30072,
+    -64.26314,
+    -18.30072
+],
+  "geometry": {"coordinates":[-64.26314000000001,-18.30072],"type":"Point"}
+}

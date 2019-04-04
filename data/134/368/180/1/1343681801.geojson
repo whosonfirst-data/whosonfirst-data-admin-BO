@@ -1,0 +1,67 @@
+{
+  "id": 1343681801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.6,-16.35,-58.6,-16.35",
+    "geom:latitude":-16.35,
+    "geom:longitude":-58.6,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Estancia Santa Anita",
+    "gn:country_code":"BO",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3444478,
+    "gn:latitude":-16.35,
+    "gn:longitude":-58.6,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Santa Anita",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3444478
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"59cb88572bb9724630f577d286e71860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009511,
+            "locality_id":1343681801,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1343681801,
+    "wof:lastmodified":1536925022,
+    "wof:name":"Estancia Santa Anita",
+    "wof:parent_id":1092009511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.6,
+    -16.35,
+    -58.6,
+    -16.35
+],
+  "geometry": {"coordinates":[-58.6,-16.35],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210040789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.85,-17.2,-67.85,-17.2",
+    "geom:latitude":-17.2,
+    "geom:longitude":-67.85,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pacuani",
+    "gn:country_code":"BO",
+    "gn:dem":4489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909054,
+    "gn:latitude":-17.2,
+    "gn:longitude":-67.85,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Pacuani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092006923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909054
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"450273320e3b603fa5b8e1d253396110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006923,
+            "locality_id":1210040789,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1210040789,
+    "wof:lastmodified":1536384119,
+    "wof:name":"Pacuani",
+    "wof:parent_id":1092006923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.85,
+    -17.2,
+    -67.85,
+    -17.2
+],
+  "geometry": {"coordinates":[-67.84999999999999,-17.2],"type":"Point"}
+}

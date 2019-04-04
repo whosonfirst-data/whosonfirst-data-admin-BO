@@ -1,0 +1,268 @@
+{
+  "id": 421186657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.186492,-17.788573,-63.186492,-17.788573",
+    "geom:latitude":-17.788573,
+    "geom:longitude":-63.186492,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0643\u0631\u0648\u0632 \u062f\u064a \u0644\u0627 \u0633\u064a\u064a\u0631\u0627"
+    ],
+    "name:aym_x_preferred":[
+        "Santa Krus"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441-\u0434\u044d-\u043b\u0430-\u0421\u044c\u0435\u0440\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u041a\u0440\u0443\u0441 \u0434\u0435 \u043b\u0430 \u0421\u0438\u0435\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:ceb_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:ces_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441-\u0434\u0435-\u043b\u0430-\u0421\u044c\u0435\u0440\u0440\u0430"
+    ],
+    "name:dan_x_preferred":[
+        "Santa Cruz"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u039a\u03c1\u03bf\u03c5\u03c2 \u03bd\u03c4\u03b5 \u03bb\u03b1 \u03a3\u03b9\u03ad\u03c1\u03c1\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:eus_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0631\u0648\u0633 \u062f \u0644\u0627 \u0633\u06cc\u0631\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Santa Cruz"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:frp_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:glg_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:grn_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05e7\u05e8\u05d5\u05e1 \u05d3\u05d4 \u05dc\u05d4 \u05e1\u05d9\u05d9\u05e8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:ind_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30af\u30eb\u30b9\u30fb\u30c7\u30fb\u30e9\u30fb\u30b7\u30a8\u30e9"
+    ],
+    "name:kal_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10d9\u10e0\u10e3\u10e1-\u10d3\u10d4-\u10da\u10d0-\u10e1\u10d8\u10d4\u10e0\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0\ud06c\ub8e8\uc2a4"
+    ],
+    "name:kur_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:lav_x_preferred":[
+        "Santakrusa de la Sjerra"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Krus de la Siera"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093e\u0928\u094d\u0924\u093e \u0915\u094d\u0930\u0941\u091d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u041a\u0440\u0443\u0437 \u0434\u0435 \u043b\u0430 \u0421\u0438\u0435\u0440\u0430"
+    ],
+    "name:mri_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:msa_x_preferred":[
+        "Santa Cruz"
+    ],
+    "name:nau_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:nor_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:oci_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a38\u0a3e\u0a02\u0a24\u0a3e \u0a15\u0a30\u0a42\u0a38"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Cruz"
+    ],
+    "name:por_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:que_x_preferred":[
+        "Santa Krus llaqta"
+    ],
+    "name:ron_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441-\u0434\u0435-\u043b\u0430-\u0421\u044c\u0435\u0440\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u041a\u0440\u0443\u0437 \u0434\u0435 \u043b\u0430 \u0421\u0438\u0458\u0435\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd\u0b9f\u0bcd\u0b9f\u0bbe \u0b95\u0bc1\u0bb0\u0bc2\u0b9a\u0bc1 \u0b9f\u0bc6 \u0bb2\u0bbe \u0b9a\u0bbf\u0baf\u0bc7\u0bb1\u0bbe"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19\u0e15\u0e32\u0e01\u0e23\u0e38\u0e0b\u0e40\u0e14\u0e25\u0e32\u0e40\u0e0b\u0e35\u0e22\u0e23\u0e4c\u0e23\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441-\u0434\u0435-\u043b\u0430-\u0421\u044c\u0454\u0440\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0631\u0648\u0632 \u062f\u06d2 \u0644\u0627 \u0633\u06cc\u0626\u0631\u0627"
+    ],
+    "name:vep_x_preferred":[
+        "Santa Krus de la Sjerr"
+    ],
+    "name:vie_x_preferred":[
+        "Santa Cruz"
+    ],
+    "name:vol_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:war_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:zea_x_preferred":[
+        "Santa Cruz de la Sierra"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u514b\u9c81\u65af"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Cruz de la Sierra",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"Santa Cruz",
+    "qs:photos":2713,
+    "qs:photos_1k":550,
+    "qs:photos_9k":12,
+    "qs:photos_9r":10,
+    "qs:photos_all":2713,
+    "qs:photos_sr":18,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1075159,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":346059,
+    "src:geom":"quattroshapes",
+    "src:population":"wk",
+    "wd:elevation":416.0,
+    "wd:latitude":-17.789167,
+    "wd:longitude":-63.1975,
+    "wd:population":1453549,
+    "wd:wordcount":2615,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421187923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":346059,
+        "qs:id":1075159,
+        "wd:id":"Q170688"
+    },
+    "wof:country":"BO",
+    "wof:created":1459009487,
+    "wof:geomhash":"278f5f6b98114150c21ff52822b933d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187923,
+            "locality_id":421186657,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":421186657,
+    "wof:lastmodified":1534379235,
+    "wof:name":"Santa Cruz de la Sierra",
+    "wof:parent_id":421187923,
+    "wof:placetype":"locality",
+    "wof:population":1453549,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[
+        890442173
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.186492,
+    -17.788573,
+    -63.186492,
+    -17.788573
+],
+  "geometry": {"coordinates":[-63.186492,-17.788573],"type":"Point"}
+}

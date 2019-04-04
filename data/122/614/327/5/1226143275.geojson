@@ -1,0 +1,73 @@
+{
+  "id": 1226143275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.55,-16.38333,-68.55,-16.38333",
+    "geom:latitude":-16.38333,
+    "geom:longitude":-68.55,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cahuina",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922769,
+    "gn:latitude":-16.38333,
+    "gn:longitude":-68.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cahui\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cohui\u00f1a",
+        "Cahuma",
+        "Cahui\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421197575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922769
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"43c6fec94320a36e7ea0b8a2983f81de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197575,
+            "locality_id":1226143275,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1226143275,
+    "wof:lastmodified":1537588139,
+    "wof:name":"Cahuina",
+    "wof:parent_id":421197575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.55,
+    -16.38332999999999,
+    -68.55,
+    -16.38332999999999
+],
+  "geometry": {"coordinates":[-68.55,-16.38332999999999],"type":"Point"}
+}

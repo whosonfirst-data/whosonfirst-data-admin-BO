@@ -1,0 +1,61 @@
+{
+  "id": 1209224117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.11896,-20.20524,-65.11896,-20.20524",
+    "geom:latitude":-20.20524,
+    "geom:longitude":-65.11896,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Estancia Ventilla",
+    "gn:country_code":"BO",
+    "gn:dem":3400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915986,
+    "gn:latitude":-20.20524,
+    "gn:longitude":-65.11896,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Ventilla",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915986
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"343f43a759f86b1e37137594c5535448",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209224117
+        }
+    ],
+    "wof:id":1209224117,
+    "wof:lastmodified":1536293857,
+    "wof:name":"Estancia Ventilla",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.11896,
+    -20.20524,
+    -65.11896,
+    -20.20524
+],
+  "geometry": {"coordinates":[-65.11896,-20.20524],"type":"Point"}
+}

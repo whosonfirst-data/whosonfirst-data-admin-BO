@@ -1,0 +1,74 @@
+{
+  "id": 1193276035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.88333,-16.53333,-66.88333,-16.53333",
+    "geom:latitude":-16.53333,
+    "geom:longitude":-66.88333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Seque Rancho",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904393,
+    "gn:latitude":-16.53333,
+    "gn:longitude":-66.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Seque Rancho",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sehe Rancho",
+        "Sekhe Rancho",
+        "Sequerrancho",
+        "Seque Rancho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904393
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9c88c0bbce69b771deecc245683ec855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007257,
+            "locality_id":1193276035,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1193276035,
+    "wof:lastmodified":1537587950,
+    "wof:name":"Seque Rancho",
+    "wof:parent_id":1092007257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.88333,
+    -16.53333,
+    -66.88333,
+    -16.53333
+],
+  "geometry": {"coordinates":[-66.88333,-16.53333],"type":"Point"}
+}

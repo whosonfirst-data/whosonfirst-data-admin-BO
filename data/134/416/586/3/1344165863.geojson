@@ -1,0 +1,75 @@
+{
+  "id": 1344165863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.91667,-17.83333,-64.91667,-17.83333",
+    "geom:latitude":-17.83333,
+    "geom:longitude":-64.91667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Guanacama",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915449,
+    "gn:latitude":-17.83333,
+    "gn:longitude":-64.91667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Guanacama",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guanacuni Grande",
+        "Guanacuni",
+        "Huanacuni",
+        "Guanacuna",
+        "Guanacama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915449
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5dd3ea489844be5ce9103e190ce048f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1344165863,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1344165863,
+    "wof:lastmodified":1537588073,
+    "wof:name":"Guanacama",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.91667,
+    -17.83333,
+    -64.91667,
+    -17.83333
+],
+  "geometry": {"coordinates":[-64.91667,-17.83333],"type":"Point"}
+}

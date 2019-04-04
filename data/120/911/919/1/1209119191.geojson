@@ -1,0 +1,61 @@
+{
+  "id": 1209119191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.12972,-17.48972,-65.12972,-17.48972",
+    "geom:latitude":-17.48972,
+    "geom:longitude":-65.12972,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Inti Raymi",
+    "gn:country_code":"BO",
+    "gn:dem":2695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6618957,
+    "gn:latitude":-17.48972,
+    "gn:longitude":-65.12972,
+    "gn:modification_date":"2007-10-16",
+    "gn:name":"Inti Raymi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618957
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2ef4f34e780c7b7e25ad4faa4371ac76",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209119191
+        }
+    ],
+    "wof:id":1209119191,
+    "wof:lastmodified":1536297158,
+    "wof:name":"Inti Raymi",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.12971999999999,
+    -17.489720000000002,
+    -65.12971999999999,
+    -17.489720000000002
+],
+  "geometry": {"coordinates":[-65.12971999999999,-17.48972],"type":"Point"}
+}

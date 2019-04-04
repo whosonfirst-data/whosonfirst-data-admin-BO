@@ -1,0 +1,67 @@
+{
+  "id": 1309797733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.00944,-21.24635,-67.00944,-21.24635",
+    "geom:latitude":-21.24635,
+    "geom:longitude":-67.00944,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Challviri",
+    "gn:country_code":"BO",
+    "gn:dem":3751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921311,
+    "gn:latitude":-21.24635,
+    "gn:longitude":-67.00944,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Challviri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921311
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"55551704d5c5db7d0d6aa1b5e6df6843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193357,
+            "locality_id":1309797733,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1309797733,
+    "wof:lastmodified":1536943269,
+    "wof:name":"Challviri",
+    "wof:parent_id":421193357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.00944,
+    -21.24635,
+    -67.00944,
+    -21.24635
+],
+  "geometry": {"coordinates":[-67.00944,-21.24635],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310002877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.93333,-18.1,-58.93333,-18.1",
+    "geom:latitude":-18.1,
+    "geom:longitude":-58.93333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Boqui",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3444728,
+    "gn:latitude":-18.1,
+    "gn:longitude":-58.93333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Boqui",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buquis",
+        "Boquis",
+        "Boqui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421183095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3444728
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"914ad09e62e4d7344f044e7780617a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421183095,
+            "locality_id":1310002877,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1310002877,
+    "wof:lastmodified":1537587902,
+    "wof:name":"Boqui",
+    "wof:parent_id":421183095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.93333000000001,
+    -18.1,
+    -58.93333000000001,
+    -18.1
+],
+  "geometry": {"coordinates":[-58.93333000000001,-18.1],"type":"Point"}
+}

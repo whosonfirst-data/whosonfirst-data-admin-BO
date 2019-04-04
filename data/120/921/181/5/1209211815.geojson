@@ -1,0 +1,61 @@
+{
+  "id": 1209211815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.3,-19.41667,-65.3,-19.41667",
+    "geom:latitude":-19.41667,
+    "geom:longitude":-65.3,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chulquivoc",
+    "gn:country_code":"BO",
+    "gn:dem":3119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920246,
+    "gn:latitude":-19.41667,
+    "gn:longitude":-65.3,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Chulquivoc",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920246
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"43d5413c9e15afa9511177f6ab3622e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209211815
+        }
+    ],
+    "wof:id":1209211815,
+    "wof:lastmodified":1536294266,
+    "wof:name":"Chulquivoc",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.3,
+    -19.41667,
+    -65.3,
+    -19.41667
+],
+  "geometry": {"coordinates":[-65.3,-19.41667],"type":"Point"}
+}

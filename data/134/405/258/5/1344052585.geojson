@@ -1,0 +1,72 @@
+{
+  "id": 1344052585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.88333,-18.11667,-60.88333,-18.11667",
+    "geom:latitude":-18.11667,
+    "geom:longitude":-60.88333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Las Porongos",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911722,
+    "gn:latitude":-18.11667,
+    "gn:longitude":-60.88333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Las Porongos",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Porongos",
+        "Las Porongos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911722
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0de3500c7104aa992106a0a92de1679d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009543,
+            "locality_id":1344052585,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1344052585,
+    "wof:lastmodified":1537588028,
+    "wof:name":"Las Porongos",
+    "wof:parent_id":1092009543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.88333000000001,
+    -18.11667000000001,
+    -60.88333000000001,
+    -18.11667000000001
+],
+  "geometry": {"coordinates":[-60.88333000000001,-18.11667000000001],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209529817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.78314,-19.65114,-64.78314,-19.65114",
+    "geom:latitude":-19.65114,
+    "geom:longitude":-64.78314,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sumalla",
+    "gn:country_code":"BO",
+    "gn:dem":1917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903947,
+    "gn:latitude":-19.65114,
+    "gn:longitude":-64.78314,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Sumalla",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Sumalla",
+        "Sumalla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903947
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4200b908c28a9aea7fbb46b4123e9b2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209529817
+        }
+    ],
+    "wof:id":1209529817,
+    "wof:lastmodified":1537587945,
+    "wof:name":"Sumalla",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.78314,
+    -19.65114,
+    -64.78314,
+    -19.65114
+],
+  "geometry": {"coordinates":[-64.78314,-19.65114],"type":"Point"}
+}

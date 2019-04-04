@@ -1,0 +1,67 @@
+{
+  "id": 1242579365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.25,-11.9,-66.25,-11.9",
+    "geom:latitude":-11.9,
+    "geom:longitude":-66.25,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"San Pablo",
+    "gn:country_code":"BO",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905214,
+    "gn:latitude":-11.9,
+    "gn:longitude":-66.25,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"San Pablo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905214
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"cf9b788b6ae2534abf96dce8775a0946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005877,
+            "locality_id":1242579365,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1242579365,
+    "wof:lastmodified":1537058547,
+    "wof:name":"San Pablo",
+    "wof:parent_id":1092005877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.25,
+    -11.9,
+    -66.25,
+    -11.9
+],
+  "geometry": {"coordinates":[-66.25,-11.9],"type":"Point"}
+}

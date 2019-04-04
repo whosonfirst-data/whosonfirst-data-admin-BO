@@ -1,0 +1,72 @@
+{
+  "id": 1210008275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.9,-21.06667,-65.9,-21.06667",
+    "geom:latitude":-21.06667,
+    "geom:longitude":-65.9,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mocopota",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910269,
+    "gn:latitude":-21.06667,
+    "gn:longitude":-65.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mocopota",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mocopata",
+        "Mocopota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910269
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f01659da1f2c8fbea38eb4db57e41377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":1210008275,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1210008275,
+    "wof:lastmodified":1537588012,
+    "wof:name":"Mocopota",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.9,
+    -21.06667,
+    -65.9,
+    -21.06667
+],
+  "geometry": {"coordinates":[-65.90000000000001,-21.06667],"type":"Point"}
+}

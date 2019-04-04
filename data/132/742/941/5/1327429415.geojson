@@ -1,0 +1,73 @@
+{
+  "id": 1327429415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.63021,-11.46843,-67.63021,-11.46843",
+    "geom:latitude":-11.46843,
+    "geom:longitude":-67.63021,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Pinalito",
+    "gn:country_code":"BO",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504682,
+    "gn:latitude":-11.46843,
+    "gn:longitude":-67.63021,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Pinalito",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pinalito"
+    ],
+    "name:spa_x_variant":[
+        "Pi\u00f1alito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504682
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ad9d6bce657faba080709cb2d04d396f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008461,
+            "locality_id":1327429415,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1327429415,
+    "wof:lastmodified":1537588188,
+    "wof:name":"Pinalito",
+    "wof:parent_id":1092008461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.63020999999999,
+    -11.46843,
+    -67.63020999999999,
+    -11.46843
+],
+  "geometry": {"coordinates":[-67.63020999999999,-11.46843],"type":"Point"}
+}

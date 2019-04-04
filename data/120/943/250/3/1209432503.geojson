@@ -1,0 +1,61 @@
+{
+  "id": 1209432503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.31667,-19.45,-64.31667,-19.45",
+    "geom:latitude":-19.45,
+    "geom:longitude":-64.31667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Villca-Villca",
+    "gn:country_code":"BO",
+    "gn:dem":2108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901493,
+    "gn:latitude":-19.45,
+    "gn:longitude":-64.31667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Villca-Villca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901493
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b98750d8bd55735a9d9ddf2307ed40da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209432503
+        }
+    ],
+    "wof:id":1209432503,
+    "wof:lastmodified":1536287198,
+    "wof:name":"Villca-Villca",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.31667,
+    -19.45,
+    -64.31667,
+    -19.45
+],
+  "geometry": {"coordinates":[-64.31667,-19.45],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343852689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.68836,-20.44258,-65.68836,-20.44258",
+    "geom:latitude":-20.44258,
+    "geom:longitude":-65.68836,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Estancia Tambo",
+    "gn:country_code":"BO",
+    "gn:dem":2716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916164,
+    "gn:latitude":-20.44258,
+    "gn:longitude":-65.68836,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Tambo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916164
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7550bab1695bf6923e21337cbb4f37f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1343852689,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1343852689,
+    "wof:lastmodified":1536677851,
+    "wof:name":"Estancia Tambo",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.68836,
+    -20.44258,
+    -65.68836,
+    -20.44258
+],
+  "geometry": {"coordinates":[-65.68836,-20.44258],"type":"Point"}
+}

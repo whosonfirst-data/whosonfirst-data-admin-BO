@@ -1,0 +1,70 @@
+{
+  "id": 1259375491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.03617,-10.32014,-67.03617,-10.32014",
+    "geom:latitude":-10.32014,
+    "geom:longitude":-67.03617,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"La Narangera",
+    "gn:country_code":"BO",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11510139,
+    "gn:latitude":-10.32014,
+    "gn:longitude":-67.03617,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"La Narangera",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Narangera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11510139
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"18ab743fb0230368b72801bbd1077104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008329,
+            "locality_id":1259375491,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1259375491,
+    "wof:lastmodified":1537588195,
+    "wof:name":"La Narangera",
+    "wof:parent_id":1092008329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.03617,
+    -10.32014,
+    -67.03617,
+    -10.32014
+],
+  "geometry": {"coordinates":[-67.03617,-10.32014],"type":"Point"}
+}

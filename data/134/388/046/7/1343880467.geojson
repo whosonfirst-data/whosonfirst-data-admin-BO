@@ -1,0 +1,73 @@
+{
+  "id": 1343880467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.5,-11.05,-68.5,-11.05",
+    "geom:latitude":-11.05,
+    "geom:longitude":-68.5,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Fica",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915768,
+    "gn:latitude":-11.05,
+    "gn:longitude":-68.5,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fica",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bon Fica",
+        "Bom Fica",
+        "Fica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633009,
+        85681873,
+        102050023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915768
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f8e9e6cb967af98fecf1f42b6c6601ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102050023,
+            "locality_id":1343880467,
+            "region_id":85681873
+        }
+    ],
+    "wof:id":1343880467,
+    "wof:lastmodified":1537588076,
+    "wof:name":"Fica",
+    "wof:parent_id":102050023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.5,
+    -11.05,
+    -68.5,
+    -11.05
+],
+  "geometry": {"coordinates":[-68.5,-11.05],"type":"Point"}
+}

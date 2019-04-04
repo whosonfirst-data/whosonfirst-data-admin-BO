@@ -1,0 +1,72 @@
+{
+  "id": 1276348525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.33333,-17.43333,-66.33333,-17.43333",
+    "geom:latitude":-17.43333,
+    "geom:longitude":-66.33333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Anocarire",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923921,
+    "gn:latitude":-17.43333,
+    "gn:longitude":-66.33333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Anocarire",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anocarayre",
+        "Anocarire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        421197123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923921
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"28117de96be7f7fa6d2679fdb6f7b51c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197123,
+            "locality_id":1276348525,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1276348525,
+    "wof:lastmodified":1537588152,
+    "wof:name":"Anocarire",
+    "wof:parent_id":421197123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.33333,
+    -17.43333,
+    -66.33333,
+    -17.43333
+],
+  "geometry": {"coordinates":[-66.33333,-17.43333],"type":"Point"}
+}

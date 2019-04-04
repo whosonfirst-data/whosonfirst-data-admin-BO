@@ -1,0 +1,67 @@
+{
+  "id": 1360204691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.61667,-16.88333,-60.61667,-16.88333",
+    "geom:latitude":-16.88333,
+    "geom:longitude":-60.61667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Estancia Ayacucho",
+    "gn:country_code":"BO",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917716,
+    "gn:latitude":-16.88333,
+    "gn:longitude":-60.61667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Ayacucho",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917716
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a97d29ccbbbe47bda5ef568e10d14f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1360204691,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1360204691,
+    "wof:lastmodified":1536773836,
+    "wof:name":"Estancia Ayacucho",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.61666999999999,
+    -16.88332999999999,
+    -60.61666999999999,
+    -16.88332999999999
+],
+  "geometry": {"coordinates":[-60.61666999999999,-16.88332999999999],"type":"Point"}
+}

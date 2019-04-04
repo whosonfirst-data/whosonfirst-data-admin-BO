@@ -1,0 +1,72 @@
+{
+  "id": 1242974951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.39062,-19.34931,-64.39062,-19.34931",
+    "geom:latitude":-19.34931,
+    "geom:longitude":-64.39062,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pomabambillo",
+    "gn:country_code":"BO",
+    "gn:dem":2118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907718,
+    "gn:latitude":-19.34931,
+    "gn:longitude":-64.39062,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Pomabambillo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pomabambilla",
+        "Ponabambillo",
+        "Pomabambillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421169227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907718
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1a41dd154b0fdfff5b26cc20c54eba3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169227,
+            "locality_id":1242974951,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1242974951,
+    "wof:lastmodified":1537587984,
+    "wof:name":"Pomabambillo",
+    "wof:parent_id":421169227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.39062,
+    -19.34931,
+    -64.39062,
+    -19.34931
+],
+  "geometry": {"coordinates":[-64.39062,-19.34931],"type":"Point"}
+}

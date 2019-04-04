@@ -1,0 +1,73 @@
+{
+  "id": 1242869631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.21667,-18.25,-64.21667,-18.25",
+    "geom:latitude":-18.25,
+    "geom:longitude":-64.21667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sunchal",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903929,
+    "gn:latitude":-18.25,
+    "gn:longitude":-64.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sunchal",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sariucal",
+        "Sariuca",
+        "Sunchal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421193471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903929
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f0399d93220fc899e50239f1bc7f72d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193471,
+            "locality_id":1242869631,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1242869631,
+    "wof:lastmodified":1537587944,
+    "wof:name":"Sunchal",
+    "wof:parent_id":421193471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.21667,
+    -18.25,
+    -64.21667,
+    -18.25
+],
+  "geometry": {"coordinates":[-64.21666999999999,-18.25],"type":"Point"}
+}

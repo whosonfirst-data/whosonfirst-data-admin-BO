@@ -1,0 +1,67 @@
+{
+  "id": 1243438771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.22558,-20.99495,-65.22558,-20.99495",
+    "geom:latitude":-20.99495,
+    "geom:longitude":-65.22558,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Estancia Ovejeria",
+    "gn:country_code":"BO",
+    "gn:dem":2341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916586,
+    "gn:latitude":-20.99495,
+    "gn:longitude":-65.22558,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Ovejeria",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916586
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9a546f64c1229124358eb6825af5d763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006125,
+            "locality_id":1243438771,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1243438771,
+    "wof:lastmodified":1536815818,
+    "wof:name":"Estancia Ovejeria",
+    "wof:parent_id":1092006125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.22558000000001,
+    -20.99495,
+    -65.22558000000001,
+    -20.99495
+],
+  "geometry": {"coordinates":[-65.22558000000001,-20.99495],"type":"Point"}
+}

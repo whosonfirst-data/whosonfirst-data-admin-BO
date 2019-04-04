@@ -1,0 +1,72 @@
+{
+  "id": 1276140837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.05,-21.56667,-65.05,-21.56667",
+    "geom:latitude":-21.56667,
+    "geom:longitude":-65.05,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Cumbre de Charcoy",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918644,
+    "gn:latitude":-21.56667,
+    "gn:longitude":-65.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cumbre de Charcoy",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cumbre de Charcoya",
+        "Cumbre de Charcoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        1092010137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918644
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"04eeba372f57138908b7e8ef1ef3d5f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010137,
+            "locality_id":1276140837,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1276140837,
+    "wof:lastmodified":1537588092,
+    "wof:name":"Cumbre de Charcoy",
+    "wof:parent_id":1092010137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.05,
+    -21.56667,
+    -65.05,
+    -21.56667
+],
+  "geometry": {"coordinates":[-65.05,-21.56667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209938785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.7,-17.71667,-62.7,-17.71667",
+    "geom:latitude":-17.71667,
+    "geom:longitude":-62.7,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Colina",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912354,
+    "gn:latitude":-17.71667,
+    "gn:longitude":-62.7,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Colina",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad Pozo Verde",
+        "La Colina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912354
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ef3b6e2c48ecf9d6ac29274963d20e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009543,
+            "locality_id":1209938785,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1209938785,
+    "wof:lastmodified":1537588037,
+    "wof:name":"La Colina",
+    "wof:parent_id":1092009543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.7,
+    -17.71667,
+    -62.7,
+    -17.71667
+],
+  "geometry": {"coordinates":[-62.7,-17.71667],"type":"Point"}
+}

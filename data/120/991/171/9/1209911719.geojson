@@ -1,0 +1,70 @@
+{
+  "id": 1209911719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.77735,-11.33482,-68.77735,-11.33482",
+    "geom:latitude":-11.33482,
+    "geom:longitude":-68.77735,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Pason",
+    "gn:country_code":"BO",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11498782,
+    "gn:latitude":-11.33482,
+    "gn:longitude":-68.77735,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"El Pason",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Pason"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11498782
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f0d70fda46f164a5ca1809502d94ee8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008461,
+            "locality_id":1209911719,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1209911719,
+    "wof:lastmodified":1537588168,
+    "wof:name":"El Pason",
+    "wof:parent_id":1092008461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.77735,
+    -11.33482,
+    -68.77735,
+    -11.33482
+],
+  "geometry": {"coordinates":[-68.77735,-11.33482],"type":"Point"}
+}

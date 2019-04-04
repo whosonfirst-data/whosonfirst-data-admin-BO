@@ -1,0 +1,67 @@
+{
+  "id": 1243451113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.65,-20.43333,-66.65,-20.43333",
+    "geom:latitude":-20.43333,
+    "geom:longitude":-66.65,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Verde Pampa",
+    "gn:country_code":"BO",
+    "gn:dem":3974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901762,
+    "gn:latitude":-20.43333,
+    "gn:longitude":-66.65,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Verde Pampa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901762
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0036cdf641235f2ec203a6381836b439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177657,
+            "locality_id":1243451113,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1243451113,
+    "wof:lastmodified":1536798925,
+    "wof:name":"Verde Pampa",
+    "wof:parent_id":421177657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.65,
+    -20.43333,
+    -66.65,
+    -20.43333
+],
+  "geometry": {"coordinates":[-66.65000000000001,-20.43333],"type":"Point"}
+}

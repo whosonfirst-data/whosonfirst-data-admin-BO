@@ -1,0 +1,67 @@
+{
+  "id": 1293116335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.56956,-18.41357,-65.56956,-18.41357",
+    "geom:latitude":-18.41357,
+    "geom:longitude":-65.56956,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Estancia Cochabambilla",
+    "gn:country_code":"BO",
+    "gn:dem":2649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917361,
+    "gn:latitude":-18.41357,
+    "gn:longitude":-65.56956,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Cochabambilla",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917361
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c972211323a92b9290a85083a78b8cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1293116335,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1293116335,
+    "wof:lastmodified":1536824260,
+    "wof:name":"Estancia Cochabambilla",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.56956,
+    -18.41357,
+    -65.56956,
+    -18.41357
+],
+  "geometry": {"coordinates":[-65.56956,-18.41357],"type":"Point"}
+}

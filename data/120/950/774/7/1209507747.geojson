@@ -1,0 +1,64 @@
+{
+  "id": 1209507747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.11331,-11.32049,-68.11331,-11.32049",
+    "geom:latitude":-11.32049,
+    "geom:longitude":-68.11331,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mangura",
+    "gn:country_code":"BO",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11502863,
+    "gn:latitude":-11.32049,
+    "gn:longitude":-68.11331,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Mangura",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mangura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11502863
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"cf7f1d6a3953db4fae5a313b90d266c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209507747
+        }
+    ],
+    "wof:id":1209507747,
+    "wof:lastmodified":1537588172,
+    "wof:name":"Mangura",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.11331,
+    -11.32049,
+    -68.11331,
+    -11.32049
+],
+  "geometry": {"coordinates":[-68.11331,-11.32049],"type":"Point"}
+}

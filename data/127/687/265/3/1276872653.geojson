@@ -1,0 +1,67 @@
+{
+  "id": 1276872653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.31667,-17.08333,-67.31667,-17.08333",
+    "geom:latitude":-17.08333,
+    "geom:longitude":-67.31667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Huanacota",
+    "gn:country_code":"BO",
+    "gn:dem":4441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914938,
+    "gn:latitude":-17.08333,
+    "gn:longitude":-67.31667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Hua\u00f1acota",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914938
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"bf75a63519c9c138fb07a482e9f588b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182435,
+            "locality_id":1276872653,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1276872653,
+    "wof:lastmodified":1537048763,
+    "wof:name":"Huanacota",
+    "wof:parent_id":421182435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.31667,
+    -17.08333,
+    -67.31667,
+    -17.08333
+],
+  "geometry": {"coordinates":[-67.31667,-17.08333],"type":"Point"}
+}

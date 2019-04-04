@@ -1,0 +1,67 @@
+{
+  "id": 1210007281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.33333,-20.16667,-63.33333,-20.16667",
+    "geom:latitude":-20.16667,
+    "geom:longitude":-63.33333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mangarati",
+    "gn:country_code":"BO",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910791,
+    "gn:latitude":-20.16667,
+    "gn:longitude":-63.33333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Mangarati",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910791
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5ab2cbf97b3858e9bd85ab4babe4c605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1210007281,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1210007281,
+    "wof:lastmodified":1536372322,
+    "wof:name":"Mangarati",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.33333,
+    -20.16667,
+    -63.33333,
+    -20.16667
+],
+  "geometry": {"coordinates":[-63.33333,-20.16667],"type":"Point"}
+}

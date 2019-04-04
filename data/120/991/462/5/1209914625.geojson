@@ -1,0 +1,72 @@
+{
+  "id": 1209914625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.0,-16.68333,-69.0,-16.68333",
+    "geom:latitude":-16.68333,
+    "geom:longitude":-69.0,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yaro",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901022,
+    "gn:latitude":-16.68333,
+    "gn:longitude":-69.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yaro",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad Yaro",
+        "Yaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901022
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9bfaf127d036283bd511bb87515c1d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007213,
+            "locality_id":1209914625,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1209914625,
+    "wof:lastmodified":1537587906,
+    "wof:name":"Yaro",
+    "wof:parent_id":1092007213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.0,
+    -16.68333,
+    -69.0,
+    -16.68333
+],
+  "geometry": {"coordinates":[-69.0,-16.68333],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209207251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.76931,-11.94716,-68.76931,-11.94716",
+    "geom:latitude":-11.94716,
+    "geom:longitude":-68.76931,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dolores",
+    "gn:country_code":"BO",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918432,
+    "gn:latitude":-11.94716,
+    "gn:longitude":-68.76931,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Dolores",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Dolores"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918432
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e88df53a646ed3a93c1f8d0f24d8b837",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209207251
+        }
+    ],
+    "wof:id":1209207251,
+    "wof:lastmodified":1537588088,
+    "wof:name":"Dolores",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.76931,
+    -11.94716,
+    -68.76931,
+    -11.94716
+],
+  "geometry": {"coordinates":[-68.76931,-11.94716],"type":"Point"}
+}

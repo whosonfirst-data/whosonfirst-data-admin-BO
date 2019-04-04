@@ -1,0 +1,72 @@
+{
+  "id": 1343852687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.56667,-20.53333,-65.56667,-20.53333",
+    "geom:latitude":-20.53333,
+    "geom:longitude":-65.56667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tiata",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903042,
+    "gn:latitude":-20.53333,
+    "gn:longitude":-65.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tiata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tinta",
+        "Tiata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903042
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"07a302ddffcf43583eca31b7d2a2a11b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1343852687,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1343852687,
+    "wof:lastmodified":1537587933,
+    "wof:name":"Tiata",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.56667,
+    -20.53333,
+    -65.56667,
+    -20.53333
+],
+  "geometry": {"coordinates":[-65.56667,-20.53333],"type":"Point"}
+}

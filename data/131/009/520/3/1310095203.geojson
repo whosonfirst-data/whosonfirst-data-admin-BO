@@ -1,0 +1,67 @@
+{
+  "id": 1310095203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.7493,-21.51536,-64.7493,-21.51536",
+    "geom:latitude":-21.51536,
+    "geom:longitude":-64.7493,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tolomosita",
+    "gn:country_code":"BO",
+    "gn:dem":1913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902705,
+    "gn:latitude":-21.51536,
+    "gn:longitude":-64.7493,
+    "gn:modification_date":"2008-02-14",
+    "gn:name":"Tolomosita",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421169233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902705
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a885e73c2e99baace9880d43e033c91a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169233,
+            "locality_id":1310095203,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1310095203,
+    "wof:lastmodified":1537010675,
+    "wof:name":"Tolomosita",
+    "wof:parent_id":421169233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.7493,
+    -21.51536,
+    -64.7493,
+    -21.51536
+],
+  "geometry": {"coordinates":[-64.74930000000001,-21.51536],"type":"Point"}
+}

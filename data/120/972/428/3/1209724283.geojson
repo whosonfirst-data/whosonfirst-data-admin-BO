@@ -1,0 +1,72 @@
+{
+  "id": 1209724283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.91667,-17.11667,-66.91667,-17.11667",
+    "geom:latitude":-17.11667,
+    "geom:longitude":-66.91667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tablahuasi",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903814,
+    "gn:latitude":-17.11667,
+    "gn:longitude":-66.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tablahuasi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tablahuani",
+        "Tablahuasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903814
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3e83a185fb86378e88503db4f3c749fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007257,
+            "locality_id":1209724283,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1209724283,
+    "wof:lastmodified":1537587943,
+    "wof:name":"Tablahuasi",
+    "wof:parent_id":1092007257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.91667,
+    -17.11667000000001,
+    -66.91667,
+    -17.11667000000001
+],
+  "geometry": {"coordinates":[-66.91667,-17.11667000000001],"type":"Point"}
+}

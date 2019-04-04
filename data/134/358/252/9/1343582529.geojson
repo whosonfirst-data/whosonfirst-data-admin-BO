@@ -1,0 +1,67 @@
+{
+  "id": 1343582529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.59516,-21.26501,-65.59516,-21.26501",
+    "geom:latitude":-21.26501,
+    "geom:longitude":-65.59516,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mochara",
+    "gn:country_code":"BO",
+    "gn:dem":3406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910281,
+    "gn:latitude":-21.26501,
+    "gn:longitude":-65.59516,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Mochara",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910281
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"029ecbe5599799079e3737887984b637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":1343582529,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1343582529,
+    "wof:lastmodified":1537064809,
+    "wof:name":"Mochara",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.59515999999999,
+    -21.26501,
+    -65.59515999999999,
+    -21.26501
+],
+  "geometry": {"coordinates":[-65.59515999999999,-21.26501],"type":"Point"}
+}

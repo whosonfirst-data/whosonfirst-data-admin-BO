@@ -1,0 +1,71 @@
+{
+  "id": 1260197081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.7074,-18.97932,-64.7074,-18.97932",
+    "geom:latitude":-18.97932,
+    "geom:longitude":-64.7074,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Capilla Llave",
+    "gn:country_code":"BO",
+    "gn:dem":2155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922131,
+    "gn:latitude":-18.97932,
+    "gn:longitude":-64.7074,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Capilla Llave",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Capilla Llave",
+        "Capilla Llave"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922131
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f12c5bde000eb7af6ee00f13e268de6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006241,
+            "locality_id":1260197081,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1260197081,
+    "wof:lastmodified":1537588131,
+    "wof:name":"Capilla Llave",
+    "wof:parent_id":1092006241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.7074,
+    -18.97932,
+    -64.7074,
+    -18.97932
+],
+  "geometry": {"coordinates":[-64.70740000000001,-18.97932],"type":"Point"}
+}

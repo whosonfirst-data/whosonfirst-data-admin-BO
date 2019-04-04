@@ -1,0 +1,72 @@
+{
+  "id": 1310598089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.78333,-20.18333,-66.78333,-20.18333",
+    "geom:latitude":-20.18333,
+    "geom:longitude":-66.78333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Cuchicaya",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918795,
+    "gn:latitude":-20.18333,
+    "gn:longitude":-66.78333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cuchicaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Cuchicaya",
+        "Cuchicaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918795
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"21f714601a85eed4a70be866879870b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177657,
+            "locality_id":1310598089,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1310598089,
+    "wof:lastmodified":1537588093,
+    "wof:name":"Cuchicaya",
+    "wof:parent_id":421177657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.78333,
+    -20.18333,
+    -66.78333,
+    -20.18333
+],
+  "geometry": {"coordinates":[-66.78333000000001,-20.18333],"type":"Point"}
+}

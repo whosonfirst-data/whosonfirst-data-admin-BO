@@ -1,0 +1,61 @@
+{
+  "id": 1209336025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.3,-18.6,-66.3,-18.6",
+    "geom:latitude":-18.6,
+    "geom:longitude":-66.3,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Morochaca",
+    "gn:country_code":"BO",
+    "gn:dem":3872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909956,
+    "gn:latitude":-18.6,
+    "gn:longitude":-66.3,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Morochaca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909956
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7df69f06e9dc7bce92bcb2c4d2d8e933",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209336025
+        }
+    ],
+    "wof:id":1209336025,
+    "wof:lastmodified":1536290219,
+    "wof:name":"Morochaca",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.3,
+    -18.6,
+    -66.3,
+    -18.6
+],
+  "geometry": {"coordinates":[-66.3,-18.6],"type":"Point"}
+}

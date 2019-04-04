@@ -1,0 +1,67 @@
+{
+  "id": 1225851197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.55,-16.51667,-68.55,-16.51667",
+    "geom:latitude":-16.51667,
+    "geom:longitude":-68.55,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cotore",
+    "gn:country_code":"BO",
+    "gn:dem":3882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918935,
+    "gn:latitude":-16.51667,
+    "gn:longitude":-68.55,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Cotore",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421197575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918935
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"39896a316b5bdddd57fc4d2fbfaa6cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197575,
+            "locality_id":1225851197,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1225851197,
+    "wof:lastmodified":1537005032,
+    "wof:name":"Cotore",
+    "wof:parent_id":421197575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.55,
+    -16.51667,
+    -68.55,
+    -16.51667
+],
+  "geometry": {"coordinates":[-68.55,-16.51667],"type":"Point"}
+}

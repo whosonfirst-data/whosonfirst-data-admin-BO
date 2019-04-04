@@ -1,0 +1,393 @@
+{
+  "id": 890442179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.15,-16.5,-68.15,-16.5",
+    "geom:latitude":-16.5,
+    "geom:longitude":-68.15,
+    "gn:country":"BO",
+    "gn:fcode":"PPLG",
+    "gn:pop":812799,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:min_zoom":4.0,
+    "name:amh_x_preferred":[
+        "\u120b\u1353\u12dd"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0628\u0627\u0632"
+    ],
+    "name:aym_x_preferred":[
+        "Chukiyawu"
+    ],
+    "name:aym_x_variant":[
+        "Chuqi Yapu"
+    ],
+    "name:aze_x_preferred":[
+        "La Pas"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041b\u0430-\u041f\u0430\u0441"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be \u09aa\u09be\u099c"
+    ],
+    "name:bre_x_preferred":[
+        "La Paz"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430 \u041f\u0430\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "La Paz"
+    ],
+    "name:ces_x_preferred":[
+        "La Paz"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0644\u0627\u067e\u0627\u0632"
+    ],
+    "name:dan_x_preferred":[
+        "La Paz"
+    ],
+    "name:deu_x_preferred":[
+        "La Paz"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03cd\u03ba\u03c1\u03b5/\u039b\u03b1 \u03a0\u03b1\u03b6"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b1 \u03a0\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "La Paz"
+    ],
+    "name:epo_x_preferred":[
+        "La-Pazo"
+    ],
+    "name:eus_x_preferred":[
+        "La Paz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u067e\u0627\u0632"
+    ],
+    "name:fin_x_preferred":[
+        "La Paz"
+    ],
+    "name:fra_x_preferred":[
+        "La Paz"
+    ],
+    "name:frp_x_preferred":[
+        "La Paz"
+    ],
+    "name:glg_x_preferred":[
+        "A Paz"
+    ],
+    "name:hat_x_preferred":[
+        "La Paz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05e4\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u092a\u093e\u0938"
+    ],
+    "name:hrv_x_preferred":[
+        "La Paz"
+    ],
+    "name:hun_x_preferred":[
+        "La Paz"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561 \u054a\u0561\u057d"
+    ],
+    "name:ido_x_preferred":[
+        "La Paz"
+    ],
+    "name:ind_x_preferred":[
+        "La Paz"
+    ],
+    "name:ita_x_preferred":[
+        "La Paz"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30d1\u30b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10de\u10d0\u10e1\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0430-\u041f\u0430\u0441"
+    ],
+    "name:kir_x_preferred":[
+        "\u041b\u0430-\u041f\u0430\u0441 \u0448\u0430\u0430\u0440\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ud30c\uc2a4"
+    ],
+    "name:lat_x_preferred":[
+        "Pax"
+    ],
+    "name:lav_x_preferred":[
+        "Lapasa"
+    ],
+    "name:lit_x_preferred":[
+        "La Pasas"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0644\u0627\u067e\u0627\u0632"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d32\u0d3e \u0d2a\u0d3e\u0d38\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u093e \u092a\u093e\u091d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0430 \u041f\u0430\u0437"
+    ],
+    "name:msa_x_preferred":[
+        "La Paz"
+    ],
+    "name:nld_x_preferred":[
+        "La Paz"
+    ],
+    "name:nno_x_preferred":[
+        "La Paz"
+    ],
+    "name:nor_x_preferred":[
+        "La Paz"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b32\u0b3e\u0b2a\u0b3e\u0b1c"
+    ],
+    "name:oss_x_preferred":[
+        "\u041b\u0430-\u041f\u0430\u0441"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a32\u0a3e \u0a2a\u0a3e\u0a38"
+    ],
+    "name:pol_x_preferred":[
+        "La Paz"
+    ],
+    "name:por_x_preferred":[
+        "La Paz"
+    ],
+    "name:que_x_preferred":[
+        "Chuqiyapu"
+    ],
+    "name:roh_x_preferred":[
+        "La Paz"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u041f\u0430\u0441"
+    ],
+    "name:scn_x_preferred":[
+        "La Paz"
+    ],
+    "name:slk_x_preferred":[
+        "La Paz"
+    ],
+    "name:slv_x_preferred":[
+        "La Paz"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad La Paz"
+    ],
+    "name:spa_x_variant":[
+        "La Paz"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u041f\u0430\u0437"
+    ],
+    "name:swe_x_preferred":[
+        "La Paz"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbe \u0baa\u0bbe\u0bb8\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "La-Pas"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e32\u0e1b\u0e32\u0e0b"
+    ],
+    "name:tur_x_preferred":[
+        "La Paz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u041f\u0430\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Ciudad La Paz"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u067e\u0627\u0632"
+    ],
+    "name:uzb_x_preferred":[
+        "La-Pas"
+    ],
+    "name:vep_x_preferred":[
+        "La Pas"
+    ],
+    "name:yid_x_preferred":[
+        "\u05dc\u05d0 \u05e4\u05d0\u05d6"
+    ],
+    "name:yue_x_preferred":[
+        "\u62c9\u5df4\u65af"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5df4\u65af"
+    ],
+    "ne:ADM0CAP":1.0,
+    "ne:ADM0NAME":"Bolivia",
+    "ne:ADM0_A3":"BOL",
+    "ne:ADM1NAME":"La Paz",
+    "ne:ADMIN1_COD":4,
+    "ne:CAPALT":0,
+    "ne:CAPIN":"Administrative",
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-0 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLC",
+    "ne:GEONAMEID":3911925,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"La Paz",
+    "ne:GN_POP":812799,
+    "ne:GTOPO30":3829.0,
+    "ne:ISO_A2":"BO",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":-16.497974,
+    "ne:LONGITUDE":-68.149985,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"La Paz3",
+    "ne:MAX_AREAKM":181.0,
+    "ne:MAX_AREAMI":70.0,
+    "ne:MAX_BBXMAX":-68.05,
+    "ne:MAX_BBXMIN":-68.258333,
+    "ne:MAX_BBYMAX":-16.433333,
+    "ne:MAX_BBYMIN":-16.575,
+    "ne:MAX_NATSCA":100.0,
+    "ne:MAX_PERKM":121.0,
+    "ne:MAX_PERMI":75.0,
+    "ne:MAX_POP10":1590482,
+    "ne:MAX_POP20":1590482,
+    "ne:MAX_POP300":1590482,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":1590482,
+    "ne:MEAN_BBXC":-68.157765,
+    "ne:MEAN_BBYC":-16.506439,
+    "ne:MEGACITY":1,
+    "ne:MEGANAME":"La Paz",
+    "ne:MIN_AREAKM":181.0,
+    "ne:MIN_AREAMI":70.0,
+    "ne:MIN_BBXMAX":-68.05,
+    "ne:MIN_BBXMIN":-68.258333,
+    "ne:MIN_BBYMAX":-16.433333,
+    "ne:MIN_BBYMIN":-16.575,
+    "ne:MIN_PERKM":121.0,
+    "ne:MIN_PERMI":75.0,
+    "ne:NAME":"La Paz",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"La Paz",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":110,
+    "ne:NOTE":null,
+    "ne:POP1950":319,
+    "ne:POP1955":374,
+    "ne:POP1960":438,
+    "ne:POP1965":512,
+    "ne:POP1970":600,
+    "ne:POP1975":703,
+    "ne:POP1980":809,
+    "ne:POP1985":927,
+    "ne:POP1990":1062,
+    "ne:POP1995":1267,
+    "ne:POP2000":1390,
+    "ne:POP2005":1527,
+    "ne:POP2010":1590,
+    "ne:POP2015":1692,
+    "ne:POP2020":1864,
+    "ne:POP2025":2027,
+    "ne:POP2050":2178,
+    "ne:POP_MAX":1590000,
+    "ne:POP_MIN":812799,
+    "ne:POP_OTHER":4400,
+    "ne:RANK_MAX":12,
+    "ne:RANK_MIN":11,
+    "ne:SCALERANK":3,
+    "ne:SOV0NAME":"Bolivia",
+    "ne:SOV_A3":"BOL",
+    "ne:TIMEZONE":"America/La_Paz",
+    "ne:UN_ADM0":"Bolivia",
+    "ne:UN_FID":440,
+    "ne:UN_LAT":24.15,
+    "ne:UN_LONG":-110.3,
+    "ne:WORLDCITY":0,
+    "qs:name":"La Paz",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:wordcount":5317,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911925,
+        "gp:id":346057,
+        "qs:id":274547,
+        "wd:id":"Q1491",
+        "wk:page":"La Paz"
+    },
+    "wof:country":"BO",
+    "wof:created":1469052353,
+    "wof:geomhash":"ee31ec0797896c327d010692ac7bd82f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":890442179,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":890442179,
+    "wof:lastmodified":1537229405,
+    "wof:name":"La Paz",
+    "wof:parent_id":421177667,
+    "wof:placetype":"locality",
+    "wof:population":812799,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[
+        421176731
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.15,
+    -16.5,
+    -68.15,
+    -16.5
+],
+  "geometry": {"coordinates":[-68.15000000000001,-16.5],"type":"Point"}
+}

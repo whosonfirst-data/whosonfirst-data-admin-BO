@@ -1,0 +1,71 @@
+{
+  "id": 1260102941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.02454,-19.71838,-68.02454,-19.71838",
+    "geom:latitude":-19.71838,
+    "geom:longitude":-68.02454,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Chiar Kollu",
+    "gn:country_code":"BO",
+    "gn:dem":3685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920955,
+    "gn:latitude":-19.71838,
+    "gn:longitude":-68.02454,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Chiar Kollu",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Chiarcollo",
+        "Chiar Kollu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920955
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6111d11cc284cfb14f0b21b726c97d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177659,
+            "locality_id":1260102941,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1260102941,
+    "wof:lastmodified":1537588115,
+    "wof:name":"Chiar Kollu",
+    "wof:parent_id":421177659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.02454,
+    -19.71838,
+    -68.02454,
+    -19.71838
+],
+  "geometry": {"coordinates":[-68.02454,-19.71838],"type":"Point"}
+}

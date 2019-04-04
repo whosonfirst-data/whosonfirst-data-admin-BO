@@ -1,0 +1,72 @@
+{
+  "id": 1242886865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.85,-17.95,-64.85,-17.95",
+    "geom:latitude":-17.95,
+    "geom:longitude":-64.85,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tuigal",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902304,
+    "gn:latitude":-17.95,
+    "gn:longitude":-64.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tuigal",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trigal",
+        "Tuigal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902304
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9fcebbe8f7c7d02f73b56614d4a3f78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1242886865,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1242886865,
+    "wof:lastmodified":1537587922,
+    "wof:name":"Tuigal",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.85,
+    -17.95,
+    -64.85,
+    -17.95
+],
+  "geometry": {"coordinates":[-64.84999999999999,-17.95],"type":"Point"}
+}

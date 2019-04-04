@@ -1,0 +1,67 @@
+{
+  "id": 1343282053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.48007,-16.82615,-63.48007,-16.82615",
+    "geom:latitude":-16.82615,
+    "geom:longitude":-63.48007,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"San Pedro",
+    "gn:country_code":"BO",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905156,
+    "gn:latitude":-16.82615,
+    "gn:longitude":-63.48007,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"San Pedro",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905156
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"fed10fb212288791438c006260726606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009899,
+            "locality_id":1343282053,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1343282053,
+    "wof:lastmodified":1537003035,
+    "wof:name":"San Pedro",
+    "wof:parent_id":1092009899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.48007,
+    -16.82615,
+    -63.48007,
+    -16.82615
+],
+  "geometry": {"coordinates":[-63.48007,-16.82615],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210034131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.1511,-19.0731,-65.1511,-19.0731",
+    "geom:latitude":-19.0731,
+    "geom:longitude":-65.1511,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Comunidad Arabate",
+    "gn:country_code":"BO",
+    "gn:dem":2858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919677,
+    "gn:latitude":-19.0731,
+    "gn:longitude":-65.1511,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Comunidad Arabate",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919677
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"779368b4d956513c8be47058eaee895b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1210034131,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1210034131,
+    "wof:lastmodified":1536387257,
+    "wof:name":"Comunidad Arabate",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.1511,
+    -19.0731,
+    -65.1511,
+    -19.0731
+],
+  "geometry": {"coordinates":[-65.1511,-19.0731],"type":"Point"}
+}

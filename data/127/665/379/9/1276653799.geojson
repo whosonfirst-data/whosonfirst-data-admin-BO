@@ -1,0 +1,72 @@
+{
+  "id": 1276653799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.1357,-18.13129,-66.1357,-18.13129",
+    "geom:latitude":-18.13129,
+    "geom:longitude":-66.1357,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Toracari",
+    "gn:country_code":"BO",
+    "gn:dem":3032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902630,
+    "gn:latitude":-18.13129,
+    "gn:longitude":-66.1357,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Toracari",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Torocari",
+        "Toracani",
+        "Toracari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902630
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c0a188763abe5cc848e3cc86296640d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008737,
+            "locality_id":1276653799,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1276653799,
+    "wof:lastmodified":1537587928,
+    "wof:name":"Toracari",
+    "wof:parent_id":1092008737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.1357,
+    -18.13129,
+    -66.1357,
+    -18.13129
+],
+  "geometry": {"coordinates":[-66.1357,-18.13129],"type":"Point"}
+}

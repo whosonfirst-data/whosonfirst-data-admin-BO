@@ -1,0 +1,67 @@
+{
+  "id": 1276895485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.34529,-22.02436,-65.34529,-22.02436",
+    "geom:latitude":-22.02436,
+    "geom:longitude":-65.34529,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Salitre",
+    "gn:country_code":"BO",
+    "gn:dem":3576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906024,
+    "gn:latitude":-22.02436,
+    "gn:longitude":-65.34529,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Salitre",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906024
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7a060af5a012ed4591d0fdc723a35167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177661,
+            "locality_id":1276895485,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1276895485,
+    "wof:lastmodified":1537019455,
+    "wof:name":"Salitre",
+    "wof:parent_id":421177661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.34529,
+    -22.02436,
+    -65.34529,
+    -22.02436
+],
+  "geometry": {"coordinates":[-65.34529000000001,-22.02436],"type":"Point"}
+}

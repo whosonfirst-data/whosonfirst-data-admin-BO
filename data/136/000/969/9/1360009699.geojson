@@ -1,0 +1,74 @@
+{
+  "id": 1360009699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.55839,-17.36229,-67.55839,-17.36229",
+    "geom:latitude":-17.36229,
+    "geom:longitude":-67.55839,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kollpa Khuchu Belen",
+    "gn:country_code":"BO",
+    "gn:dem":3825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912533,
+    "gn:latitude":-17.36229,
+    "gn:longitude":-67.55839,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Kollpa Khuchu Belen",
+    "gn:population":357,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colcapucho Belen",
+        "Collpa Pucho Belen"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092006923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912533
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"036b6f41c8197b8cd8a027bbce95ac80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006923,
+            "locality_id":1360009699,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1360009699,
+    "wof:lastmodified":1537588039,
+    "wof:name":"Kollpa Khuchu Belen",
+    "wof:parent_id":1092006923,
+    "wof:placetype":"locality",
+    "wof:population":357,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.55839,
+    -17.36229,
+    -67.55839,
+    -17.36229
+],
+  "geometry": {"coordinates":[-67.55839,-17.36229],"type":"Point"}
+}

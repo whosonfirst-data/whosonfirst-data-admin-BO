@@ -1,0 +1,72 @@
+{
+  "id": 1259697985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.61667,-20.96667,-64.61667,-20.96667",
+    "geom:latitude":-20.96667,
+    "geom:longitude":-64.61667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Noriega",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909493,
+    "gn:latitude":-20.96667,
+    "gn:longitude":-64.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Noriega",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nor",
+        "Noriega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909493
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3599bbb5b991712457352b20b0d114c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006087,
+            "locality_id":1259697985,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1259697985,
+    "wof:lastmodified":1537588003,
+    "wof:name":"Noriega",
+    "wof:parent_id":1092006087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.61667,
+    -20.96667,
+    -64.61667,
+    -20.96667
+],
+  "geometry": {"coordinates":[-64.61667,-20.96667],"type":"Point"}
+}

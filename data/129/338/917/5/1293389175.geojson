@@ -1,0 +1,73 @@
+{
+  "id": 1293389175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.53333,-19.1,-66.53333,-19.1",
+    "geom:latitude":-19.1,
+    "geom:longitude":-66.53333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Portezuelo",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907641,
+    "gn:latitude":-19.1,
+    "gn:longitude":-66.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Portezuelo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Postezuelo",
+        "Poztezuelo",
+        "Portezuelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092008219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907641
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"82abcc5bff1f14d7a368c80930c53296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008219,
+            "locality_id":1293389175,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1293389175,
+    "wof:lastmodified":1537587983,
+    "wof:name":"Portezuelo",
+    "wof:parent_id":1092008219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.53333,
+    -19.1,
+    -66.53333,
+    -19.1
+],
+  "geometry": {"coordinates":[-66.53333000000001,-19.1],"type":"Point"}
+}

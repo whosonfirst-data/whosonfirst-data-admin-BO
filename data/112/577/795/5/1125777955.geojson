@@ -1,0 +1,78 @@
+{
+  "id": 1125777955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.04809,-17.8063,-65.04809,-17.8063",
+    "geom:latitude":-17.8063,
+    "geom:longitude":-65.04809,
+    "gn:gn_country":"BO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":26,
+    "gn:population":26,
+    "iso:country":"BO",
+    "lbl:latitude":-17.8063,
+    "lbl:longitude":-65.04809,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BO",
+    "qs_pg:gn_country":"BO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6618570,
+    "qs_pg:gn_pop":26,
+    "qs_pg:name":"Juchuy Vilaque",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":642865,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618570,
+        "qs_pg:id":642865
+    },
+    "wof:country":"BO",
+    "wof:created":1497290347,
+    "wof:geomhash":"489325e6c2393471a6b1f0cc98b9e309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1125777955,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1125777955,
+    "wof:lastmodified":1509391390,
+    "wof:name":"Juchuy Vilaque",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:population":26,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.04809,
+    -17.8063,
+    -65.04809,
+    -17.8063
+],
+  "geometry": {"coordinates":[-65.04809,-17.8063],"type":"Point"}
+}

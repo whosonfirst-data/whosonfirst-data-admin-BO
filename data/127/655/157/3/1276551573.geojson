@@ -1,0 +1,72 @@
+{
+  "id": 1276551573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.7,-19.88333,-64.7,-19.88333",
+    "geom:latitude":-19.88333,
+    "geom:longitude":-64.7,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Capactala",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922161,
+    "gn:latitude":-19.88333,
+    "gn:longitude":-64.7,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Capactala",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Capadala",
+        "Capactala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922161
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3e595ba4a010bb9d95a07fa6f3ae381d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006003,
+            "locality_id":1276551573,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1276551573,
+    "wof:lastmodified":1537588132,
+    "wof:name":"Capactala",
+    "wof:parent_id":1092006003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.7,
+    -19.88333,
+    -64.7,
+    -19.88333
+],
+  "geometry": {"coordinates":[-64.7,-19.88333],"type":"Point"}
+}

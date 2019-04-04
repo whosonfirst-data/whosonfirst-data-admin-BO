@@ -1,0 +1,72 @@
+{
+  "id": 1310598127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.58951,-18.42127,-66.58951,-18.42127",
+    "geom:latitude":-18.42127,
+    "geom:longitude":-66.58951,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Siglo Veinte",
+    "gn:country_code":"BO",
+    "gn:dem":3904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904328,
+    "gn:latitude":-18.42127,
+    "gn:longitude":-66.58951,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Siglo Veinte",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siglo XX",
+        "Siglo Veinte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904328,
+        "wk:page":"Siglo_XX"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"32a0f2e10310a1f18a677bc36b34b775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009153,
+            "locality_id":1310598127,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1310598127,
+    "wof:lastmodified":1537587949,
+    "wof:name":"Siglo Veinte",
+    "wof:parent_id":1092009153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.58951,
+    -18.42127,
+    -66.58951,
+    -18.42127
+],
+  "geometry": {"coordinates":[-66.58951,-18.42127],"type":"Point"}
+}

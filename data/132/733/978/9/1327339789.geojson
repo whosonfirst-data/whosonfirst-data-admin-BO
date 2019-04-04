@@ -1,0 +1,67 @@
+{
+  "id": 1327339789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.1,-17.21667,-69.1,-17.21667",
+    "geom:latitude":-17.21667,
+    "geom:longitude":-69.1,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jancoamaya",
+    "gn:country_code":"BO",
+    "gn:dem":4018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913669,
+    "gn:latitude":-17.21667,
+    "gn:longitude":-69.1,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Jancoamaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913669
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ea5e64d1d2cfc87efafe4884ebbc04e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1327339789,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1327339789,
+    "wof:lastmodified":1536813820,
+    "wof:name":"Jancoamaya",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.1,
+    -17.21667,
+    -69.1,
+    -17.21667
+],
+  "geometry": {"coordinates":[-69.09999999999999,-17.21667],"type":"Point"}
+}

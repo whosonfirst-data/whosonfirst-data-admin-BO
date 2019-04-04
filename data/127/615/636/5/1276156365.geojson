@@ -1,0 +1,67 @@
+{
+  "id": 1276156365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.7,-15.13333,-68.7,-15.13333",
+    "geom:latitude":-15.13333,
+    "geom:longitude":-68.7,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tayaray",
+    "gn:country_code":"BO",
+    "gn:dem":3388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903241,
+    "gn:latitude":-15.13333,
+    "gn:longitude":-68.7,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Tayaray",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092006969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903241
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c904e164898bf4b4cdddf3f7650e028e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006969,
+            "locality_id":1276156365,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1276156365,
+    "wof:lastmodified":1537015207,
+    "wof:name":"Tayaray",
+    "wof:parent_id":1092006969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.7,
+    -15.13333,
+    -68.7,
+    -15.13333
+],
+  "geometry": {"coordinates":[-68.7,-15.13333],"type":"Point"}
+}

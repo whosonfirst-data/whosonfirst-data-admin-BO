@@ -1,0 +1,67 @@
+{
+  "id": 1276785219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.6449,-21.80507,-64.6449,-21.80507",
+    "geom:latitude":-21.80507,
+    "geom:longitude":-64.6449,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Guaranguay",
+    "gn:country_code":"BO",
+    "gn:dem":2041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915399,
+    "gn:latitude":-21.80507,
+    "gn:longitude":-64.6449,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Guaranguay",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        1092010137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915399
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"25079b5943aae2940fc6295a3330c500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010137,
+            "locality_id":1276785219,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1276785219,
+    "wof:lastmodified":1536670479,
+    "wof:name":"Guaranguay",
+    "wof:parent_id":1092010137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.6449,
+    -21.80507,
+    -64.6449,
+    -21.80507
+],
+  "geometry": {"coordinates":[-64.64490000000001,-21.80507],"type":"Point"}
+}

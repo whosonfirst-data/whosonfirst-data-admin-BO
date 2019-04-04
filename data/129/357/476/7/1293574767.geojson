@@ -1,0 +1,67 @@
+{
+  "id": 1293574767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.95,-17.63333,-62.95,-17.63333",
+    "geom:latitude":-17.63333,
+    "geom:longitude":-62.95,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Rincon de Pailas",
+    "gn:country_code":"BO",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906438,
+    "gn:latitude":-17.63333,
+    "gn:longitude":-62.95,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Rinc\u00f3n de Pailas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421187923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906438
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e6897ff916c206d672125416b0937fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187923,
+            "locality_id":1293574767,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1293574767,
+    "wof:lastmodified":1536661354,
+    "wof:name":"Rincon de Pailas",
+    "wof:parent_id":421187923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.95,
+    -17.63332999999999,
+    -62.95,
+    -17.63332999999999
+],
+  "geometry": {"coordinates":[-62.95,-17.63332999999999],"type":"Point"}
+}

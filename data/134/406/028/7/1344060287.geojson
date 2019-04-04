@@ -1,0 +1,71 @@
+{
+  "id": 1344060287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.6488,-17.52434,-65.6488,-17.52434",
+    "geom:latitude":-17.52434,
+    "geom:longitude":-65.6488,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Jatunmayu",
+    "gn:country_code":"BO",
+    "gn:dem":3468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913442,
+    "gn:latitude":-17.52434,
+    "gn:longitude":-65.6488,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Jatunmayu",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jatunmayo",
+        "Jatunmayu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913442
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0f418d4215741fada9010a1f0e07b476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006291,
+            "locality_id":1344060287,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1344060287,
+    "wof:lastmodified":1537588048,
+    "wof:name":"Jatunmayu",
+    "wof:parent_id":1092006291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.6488,
+    -17.52434,
+    -65.6488,
+    -17.52434
+],
+  "geometry": {"coordinates":[-65.64879999999999,-17.52434],"type":"Point"}
+}

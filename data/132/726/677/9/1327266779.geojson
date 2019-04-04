@@ -1,0 +1,72 @@
+{
+  "id": 1327266779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.93333,-16.33333,-67.93333,-16.33333",
+    "geom:latitude":-16.33333,
+    "geom:longitude":-67.93333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pongo",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907703,
+    "gn:latitude":-16.33333,
+    "gn:longitude":-67.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pongo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pango",
+        "Pongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421168083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907703
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f5ef415b75a24043bcbd843619594faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421168083,
+            "locality_id":1327266779,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1327266779,
+    "wof:lastmodified":1537587983,
+    "wof:name":"Pongo",
+    "wof:parent_id":421168083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.93333,
+    -16.33333,
+    -67.93333,
+    -16.33333
+],
+  "geometry": {"coordinates":[-67.93333,-16.33333],"type":"Point"}
+}

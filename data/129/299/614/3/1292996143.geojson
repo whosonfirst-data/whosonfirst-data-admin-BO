@@ -1,0 +1,73 @@
+{
+  "id": 1292996143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.1,-18.7,-64.1,-18.7",
+    "geom:latitude":-18.7,
+    "geom:longitude":-64.1,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Guanta",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915424,
+    "gn:latitude":-18.7,
+    "gn:longitude":-64.1,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Guanta",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huanta",
+        "Guanita",
+        "Guanta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421193471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915424
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"67fbc5ca7263e974e52c9dd0c6349b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193471,
+            "locality_id":1292996143,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1292996143,
+    "wof:lastmodified":1537588072,
+    "wof:name":"Guanta",
+    "wof:parent_id":421193471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.1,
+    -18.7,
+    -64.1,
+    -18.7
+],
+  "geometry": {"coordinates":[-64.09999999999999,-18.7],"type":"Point"}
+}

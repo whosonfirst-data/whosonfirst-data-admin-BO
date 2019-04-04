@@ -1,0 +1,73 @@
+{
+  "id": 1309809749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.22902,-15.65409,-69.22902,-15.65409",
+    "geom:latitude":-15.65409,
+    "geom:longitude":-69.22902,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pusani",
+    "gn:country_code":"BO",
+    "gn:dem":3895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915291,
+    "gn:latitude":-15.65409,
+    "gn:longitude":-69.22902,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Pusani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pusani"
+    ],
+    "name:spa_x_variant":[
+        "Hacienda Pusani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915291
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a4146b9334fe41847259e4e34edcfcd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007003,
+            "locality_id":1309809749,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1309809749,
+    "wof:lastmodified":1537588070,
+    "wof:name":"Pusani",
+    "wof:parent_id":1092007003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.22901999999999,
+    -15.65409,
+    -69.22901999999999,
+    -15.65409
+],
+  "geometry": {"coordinates":[-69.22901999999999,-15.65409],"type":"Point"}
+}

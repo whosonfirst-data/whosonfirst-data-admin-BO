@@ -1,0 +1,72 @@
+{
+  "id": 1327014375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.9,-21.9,-64.9,-21.9",
+    "geom:latitude":-21.9,
+    "geom:longitude":-64.9,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Pabellon",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918163,
+    "gn:latitude":-21.9,
+    "gn:longitude":-64.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Pabell\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pabellon",
+        "El Pabell\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421182443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918163
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1f446282b74a86de79e5aef96d4b585b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182443,
+            "locality_id":1327014375,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1327014375,
+    "wof:lastmodified":1537588084,
+    "wof:name":"El Pabellon",
+    "wof:parent_id":421182443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.9,
+    -21.9,
+    -64.9,
+    -21.9
+],
+  "geometry": {"coordinates":[-64.90000000000001,-21.9],"type":"Point"}
+}

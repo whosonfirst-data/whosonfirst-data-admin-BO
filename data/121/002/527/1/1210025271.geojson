@@ -1,0 +1,72 @@
+{
+  "id": 1210025271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.75,-17.53333,-66.75,-17.53333",
+    "geom:latitude":-17.53333,
+    "geom:longitude":-66.75,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Esquilani",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917825,
+    "gn:latitude":-17.53333,
+    "gn:longitude":-66.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Esquilani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esquillani",
+        "Esquilani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917825
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"726d465c4429621c19f320d223cfbf7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006805,
+            "locality_id":1210025271,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1210025271,
+    "wof:lastmodified":1537588080,
+    "wof:name":"Esquilani",
+    "wof:parent_id":1092006805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.75,
+    -17.53333,
+    -66.75,
+    -17.53333
+],
+  "geometry": {"coordinates":[-66.75,-17.53333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343273381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.83333,-14.33333,-64.83333,-14.33333",
+    "geom:latitude":-14.33333,
+    "geom:longitude":-64.83333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"San Pedro",
+    "gn:country_code":"BO",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905167,
+    "gn:latitude":-14.33333,
+    "gn:longitude":-64.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Pedro",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        421191613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905167,
+        "wk:page":"San_Pedro_%28Beni%29"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4f499a7925be325f4529419976bf71a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421191613,
+            "locality_id":1343273381,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1343273381,
+    "wof:lastmodified":1537487876,
+    "wof:name":"San Pedro",
+    "wof:parent_id":421191613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.83333,
+    -14.33333,
+    -64.83333,
+    -14.33333
+],
+  "geometry": {"coordinates":[-64.83333,-14.33333],"type":"Point"}
+}

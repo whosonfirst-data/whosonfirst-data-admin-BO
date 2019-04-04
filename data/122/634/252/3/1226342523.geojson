@@ -1,0 +1,73 @@
+{
+  "id": 1226342523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.00387,-15.65157,-69.00387,-15.65157",
+    "geom:latitude":-15.65157,
+    "geom:longitude":-69.00387,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Suncallo",
+    "gn:country_code":"BO",
+    "gn:dem":3885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919665,
+    "gn:latitude":-15.65157,
+    "gn:longitude":-69.00387,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Suncallo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Suncallo"
+    ],
+    "name:spa_x_variant":[
+        "Comunidad Cancollo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919665
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"739b5bbfc2c57ec9ffb2fa2f7721b796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007003,
+            "locality_id":1226342523,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1226342523,
+    "wof:lastmodified":1537588100,
+    "wof:name":"Suncallo",
+    "wof:parent_id":1092007003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.00386999999999,
+    -15.65157,
+    -69.00386999999999,
+    -15.65157
+],
+  "geometry": {"coordinates":[-69.00386999999999,-15.65157],"type":"Point"}
+}

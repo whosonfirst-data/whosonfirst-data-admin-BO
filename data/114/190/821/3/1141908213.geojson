@@ -1,0 +1,200 @@
+{
+  "id": 1141908213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.8499678972,-18.949555238,-57.8499678972,-18.949555238",
+    "geom:latitude":-18.949555,
+    "geom:longitude":-57.849968,
+    "iso:country":"BO",
+    "lbl:latitude":-18.949555,
+    "lbl:longitude":-57.849968,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8607\u4e9e\u96f7\u65af\u6e2f"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Su\u00e1rez"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Su\u00e1rez"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto Su\u00e1rez"
+    ],
+    "name:ger_x_preferred":[
+        "Puerto Su\u00e1rez"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto Su\u00e1rez"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30a8\u30eb\u30c8\u30fb\u30b9\u30a2\u30fc\u30ec\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud478\uc5d0\ub974\ud1a0\uc218\uc544\ub808\uc2a4"
+    ],
+    "name:lit_x_preferred":[
+        "Puerto Suaresas"
+    ],
+    "name:por_x_preferred":[
+        "Puerto Su\u00e1rez"
+    ],
+    "name:que_x_preferred":[
+        "Puerto Su\u00e1rez"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u044d\u0440\u0442\u043e-\u0421\u0443\u0430\u0440\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Su\u00e1rez"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Su\u00e1rez"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e-\u0421\u0443\u0430\u0440\u0435\u0441"
+    ],
+    "name:war_x_preferred":[
+        "Puerto Su\u00e1rez"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Bolivia",
+    "ne:ADM0_A3":"BOL",
+    "ne:ADM1NAME":"Santa Cruz",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"BO",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":-18.949555,
+    "ne:LONGITUDE":-57.849968,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":"Puerto Suarez",
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Puerto Suarez",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Puerto Suarez",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":22000,
+    "ne:POP_MIN":12546,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Bolivia",
+    "ne:SOV_A3":"BOL",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
+    "reversegeo:latitude":-18.949555,
+    "reversegeo:longitude":-57.849968,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421183095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1014456"
+    },
+    "wof:country":"BO",
+    "wof:created":1499130851,
+    "wof:geomhash":"41a5311702ba56c8e6b26379d32e2344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421183095,
+            "locality_id":1141908213,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1141908213,
+    "wof:lastmodified":1513900913,
+    "wof:name":"Puerto Suarez",
+    "wof:parent_id":421183095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.84996789715382,
+    -18.94955523801514,
+    -57.84996789715382,
+    -18.94955523801514
+],
+  "geometry": {"coordinates":[-57.84996789715382,-18.94955523801514],"type":"Point"}
+}

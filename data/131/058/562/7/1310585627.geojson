@@ -1,0 +1,73 @@
+{
+  "id": 1310585627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.65509,-21.69721,-64.65509,-21.69721",
+    "geom:latitude":-21.69721,
+    "geom:longitude":-64.65509,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Uriondo",
+    "gn:country_code":"BO",
+    "gn:dem":1715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901986,
+    "gn:latitude":-21.69721,
+    "gn:longitude":-64.65509,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Uriondo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Concepci\u00f3n",
+        "Villa Uriondo",
+        "Uriondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        1092010137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901986,
+        "wk:page":"Uriondo"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"56f018a041291e0e2564187e8acc3c69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010137,
+            "locality_id":1310585627,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1310585627,
+    "wof:lastmodified":1537587918,
+    "wof:name":"Uriondo",
+    "wof:parent_id":1092010137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.65509,
+    -21.69721,
+    -64.65509,
+    -21.69721
+],
+  "geometry": {"coordinates":[-64.65509,-21.69721],"type":"Point"}
+}

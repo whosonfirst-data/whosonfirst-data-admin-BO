@@ -1,0 +1,67 @@
+{
+  "id": 1210015765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.77417,-18.56167,-68.77417,-18.56167",
+    "geom:latitude":-18.56167,
+    "geom:longitude":-68.77417,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Estancia Muyalla",
+    "gn:country_code":"BO",
+    "gn:dem":3840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3967068,
+    "gn:latitude":-18.56167,
+    "gn:longitude":-68.77417,
+    "gn:modification_date":"1996-09-16",
+    "gn:name":"Estancia Muyalla",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092008039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3967068
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"dd30d99a9cccdccfa77ef5903fde59df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008039,
+            "locality_id":1210015765,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1210015765,
+    "wof:lastmodified":1536395151,
+    "wof:name":"Estancia Muyalla",
+    "wof:parent_id":1092008039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.77417,
+    -18.56167,
+    -68.77417,
+    -18.56167
+],
+  "geometry": {"coordinates":[-68.77417,-18.56167],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310418831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.63333,-17.25,-66.63333,-17.25",
+    "geom:latitude":-17.25,
+    "geom:longitude":-66.63333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Estancia Parte Libre",
+    "gn:country_code":"BO",
+    "gn:dem":3368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916510,
+    "gn:latitude":-17.25,
+    "gn:longitude":-66.63333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Parte Libre",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916510
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c9ce4052510cec6e5b64bba4772e1099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006381,
+            "locality_id":1310418831,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1310418831,
+    "wof:lastmodified":1537040275,
+    "wof:name":"Estancia Parte Libre",
+    "wof:parent_id":1092006381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.63333,
+    -17.25,
+    -66.63333,
+    -17.25
+],
+  "geometry": {"coordinates":[-66.63333,-17.25],"type":"Point"}
+}

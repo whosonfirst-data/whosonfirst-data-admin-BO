@@ -1,0 +1,67 @@
+{
+  "id": 1326654237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.98333,-17.13333,-67.98333,-17.13333",
+    "geom:latitude":-17.13333,
+    "geom:longitude":-67.98333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Estancia Chaquiri",
+    "gn:country_code":"BO",
+    "gn:dem":3915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917491,
+    "gn:latitude":-17.13333,
+    "gn:longitude":-67.98333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Chaquiri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092006923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917491
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4d8582c7dce631508f762f31830a9155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006923,
+            "locality_id":1326654237,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1326654237,
+    "wof:lastmodified":1536807845,
+    "wof:name":"Estancia Chaquiri",
+    "wof:parent_id":1092006923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.98333000000001,
+    -17.13332999999999,
+    -67.98333000000001,
+    -17.13332999999999
+],
+  "geometry": {"coordinates":[-67.98333000000001,-17.13332999999999],"type":"Point"}
+}

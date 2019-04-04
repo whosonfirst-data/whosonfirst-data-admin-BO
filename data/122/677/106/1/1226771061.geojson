@@ -1,0 +1,71 @@
+{
+  "id": 1226771061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.30292,-19.99706,-68.30292,-19.99706",
+    "geom:latitude":-19.99706,
+    "geom:longitude":-68.30292,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Cahuana",
+    "gn:country_code":"BO",
+    "gn:dem":3787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922778,
+    "gn:latitude":-19.99706,
+    "gn:longitude":-68.30292,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Cahuana",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cahuana Chica",
+        "Cahuana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922778
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"941038ddcb7ef7500d6b926b4323f9b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177659,
+            "locality_id":1226771061,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1226771061,
+    "wof:lastmodified":1537588139,
+    "wof:name":"Cahuana",
+    "wof:parent_id":421177659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.30292,
+    -19.99706,
+    -68.30292,
+    -19.99706
+],
+  "geometry": {"coordinates":[-68.30292,-19.99706],"type":"Point"}
+}

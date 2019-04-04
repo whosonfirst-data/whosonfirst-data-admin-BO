@@ -1,0 +1,70 @@
+{
+  "id": 1243361035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.52613,-10.5218,-67.52613,-10.5218",
+    "geom:latitude":-10.5218,
+    "geom:longitude":-67.52613,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Vertiente",
+    "gn:country_code":"BO",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504070,
+    "gn:latitude":-10.5218,
+    "gn:longitude":-67.52613,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Vertiente",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vertiente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504070
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9f2b8e7451325ad7fcce9e4a9339501a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008501,
+            "locality_id":1243361035,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1243361035,
+    "wof:lastmodified":1537588183,
+    "wof:name":"Vertiente",
+    "wof:parent_id":1092008501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.52613000000001,
+    -10.5218,
+    -67.52613000000001,
+    -10.5218
+],
+  "geometry": {"coordinates":[-67.52613000000001,-10.5218],"type":"Point"}
+}

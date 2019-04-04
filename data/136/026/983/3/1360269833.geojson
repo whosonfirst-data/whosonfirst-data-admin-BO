@@ -1,0 +1,67 @@
+{
+  "id": 1360269833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.20627,-21.23661,-65.20627,-21.23661",
+    "geom:latitude":-21.23661,
+    "geom:longitude":-65.20627,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Puente",
+    "gn:country_code":"BO",
+    "gn:dem":2343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918098,
+    "gn:latitude":-21.23661,
+    "gn:longitude":-65.20627,
+    "gn:modification_date":"2012-08-16",
+    "gn:name":"El Puente",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        1092010287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918098
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8bc24ee4dd9557791b84edeced01d700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010287,
+            "locality_id":1360269833,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1360269833,
+    "wof:lastmodified":1536679150,
+    "wof:name":"El Puente",
+    "wof:parent_id":1092010287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.20626999999999,
+    -21.23661,
+    -65.20626999999999,
+    -21.23661
+],
+  "geometry": {"coordinates":[-65.20626999999999,-21.23661],"type":"Point"}
+}

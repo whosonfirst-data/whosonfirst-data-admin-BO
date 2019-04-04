@@ -1,0 +1,61 @@
+{
+  "id": 1209246443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.1,-17.9,-68.1,-17.9",
+    "geom:latitude":-17.9,
+    "geom:longitude":-68.1,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Estancia Chiar Phujo Pata",
+    "gn:country_code":"BO",
+    "gn:dem":4055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917470,
+    "gn:latitude":-17.9,
+    "gn:longitude":-68.1,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Chiar Phujo Pata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917470
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2fd565b6d66b4e0be75d65abedb03172",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209246443
+        }
+    ],
+    "wof:id":1209246443,
+    "wof:lastmodified":1536293148,
+    "wof:name":"Estancia Chiar Phujo Pata",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.1,
+    -17.9,
+    -68.1,
+    -17.9
+],
+  "geometry": {"coordinates":[-68.09999999999999,-17.9],"type":"Point"}
+}

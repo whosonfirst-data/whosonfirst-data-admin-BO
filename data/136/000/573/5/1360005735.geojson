@@ -1,0 +1,67 @@
+{
+  "id": 1360005735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.4,-17.96667,-64.4,-17.96667",
+    "geom:latitude":-17.96667,
+    "geom:longitude":-64.4,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pulquina Alta",
+    "gn:country_code":"BO",
+    "gn:dem":1754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907099,
+    "gn:latitude":-17.96667,
+    "gn:longitude":-64.4,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Pulquina Alta",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421186229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907099
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"befdb14fd57a15265b2b2b2fd9b56542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421186229,
+            "locality_id":1360005735,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1360005735,
+    "wof:lastmodified":1537057631,
+    "wof:name":"Pulquina Alta",
+    "wof:parent_id":421186229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.4,
+    -17.96667,
+    -64.4,
+    -17.96667
+],
+  "geometry": {"coordinates":[-64.40000000000001,-17.96667],"type":"Point"}
+}

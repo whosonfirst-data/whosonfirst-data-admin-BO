@@ -1,0 +1,67 @@
+{
+  "id": 1259696893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.36667,-17.03333,-66.36667,-17.03333",
+    "geom:latitude":-17.03333,
+    "geom:longitude":-66.36667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Estancia Incachaca",
+    "gn:country_code":"BO",
+    "gn:dem":4147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917123,
+    "gn:latitude":-17.03333,
+    "gn:longitude":-66.36667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Incachaca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917123
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"435053315149c91f0617d4adf81e7c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006381,
+            "locality_id":1259696893,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1259696893,
+    "wof:lastmodified":1537045744,
+    "wof:name":"Estancia Incachaca",
+    "wof:parent_id":1092006381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.36667,
+    -17.03333,
+    -66.36667,
+    -17.03333
+],
+  "geometry": {"coordinates":[-66.36667,-17.03333],"type":"Point"}
+}

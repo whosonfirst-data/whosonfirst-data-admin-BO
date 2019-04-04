@@ -1,0 +1,71 @@
+{
+  "id": 1277091777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.86109,-18.9292,-64.86109,-18.9292",
+    "geom:latitude":-18.9292,
+    "geom:longitude":-64.86109,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kochi",
+    "gn:country_code":"BO",
+    "gn:dem":2784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912577,
+    "gn:latitude":-18.9292,
+    "gn:longitude":-64.86109,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Kochi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Khochi",
+        "Kochi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912577
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9bcae6c3494eb72576de37db871a7760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006241,
+            "locality_id":1277091777,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1277091777,
+    "wof:lastmodified":1537588040,
+    "wof:name":"Kochi",
+    "wof:parent_id":1092006241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.86109,
+    -18.9292,
+    -64.86109,
+    -18.9292
+],
+  "geometry": {"coordinates":[-64.86109,-18.9292],"type":"Point"}
+}

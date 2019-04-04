@@ -1,0 +1,61 @@
+{
+  "id": 1209623937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.17927,-17.58148,-65.17927,-17.58148",
+    "geom:latitude":-17.58148,
+    "geom:longitude":-65.17927,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chaupiloma Alto",
+    "gn:country_code":"BO",
+    "gn:dem":3768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6618965,
+    "gn:latitude":-17.58148,
+    "gn:longitude":-65.17927,
+    "gn:modification_date":"2007-10-16",
+    "gn:name":"Chaupiloma Alto",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618965
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f01873f262d455565f189c951343e83c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209623937
+        }
+    ],
+    "wof:id":1209623937,
+    "wof:lastmodified":1536281420,
+    "wof:name":"Chaupiloma Alto",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.17926999999999,
+    -17.58148,
+    -65.17926999999999,
+    -17.58148
+],
+  "geometry": {"coordinates":[-65.17926999999999,-17.58148],"type":"Point"}
+}

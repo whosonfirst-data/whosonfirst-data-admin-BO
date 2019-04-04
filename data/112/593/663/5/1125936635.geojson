@@ -1,0 +1,107 @@
+{
+  "id": 1125936635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.76667,-17.78333,-57.76667,-17.78333",
+    "geom:latitude":-17.78333,
+    "geom:longitude":-57.76667,
+    "gn:gn_country":"BO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10392,
+    "gn:population":10392,
+    "iso:country":"BO",
+    "lbl:latitude":-17.78333,
+    "lbl:longitude":-57.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u57fa\u54c8\u7f85\u6e2f"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Quijarro"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Quijarro"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto Quijarro"
+    ],
+    "name:ger_x_preferred":[
+        "Puerto Quijarro"
+    ],
+    "name:por_x_preferred":[
+        "Puerto Quijarro"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Quijarro"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Quijarro"
+    ],
+    "qs_pg:aaroncc":"BO",
+    "qs_pg:gn_country":"BO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3444201,
+    "qs_pg:gn_pop":10392,
+    "qs_pg:name":"Puerto Quijarro",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1044763,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3444201,
+        "qs_pg:id":1044763,
+        "wd:id":"Q2117434"
+    },
+    "wof:country":"BO",
+    "wof:created":1497296988,
+    "wof:geomhash":"d57aedb0b2f05593b91438614e6ec8de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009511,
+            "locality_id":1125936635,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1125936635,
+    "wof:lastmodified":1534379235,
+    "wof:name":"Puerto Quijarro",
+    "wof:parent_id":1092009511,
+    "wof:placetype":"locality",
+    "wof:population":10392,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[
+        1141908207
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.76667,
+    -17.78333,
+    -57.76667,
+    -17.78333
+],
+  "geometry": {"coordinates":[-57.76667,-17.78333],"type":"Point"}
+}

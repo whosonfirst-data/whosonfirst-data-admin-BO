@@ -1,0 +1,72 @@
+{
+  "id": 1293390347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.6,-15.93333,-67.6,-15.93333",
+    "geom:latitude":-15.93333,
+    "geom:longitude":-67.6,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Punta Leon",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907057,
+    "gn:latitude":-15.93333,
+    "gn:longitude":-67.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Punta Le\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Leon",
+        "Punta Le\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907057
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"eca6cdaeecf9770022cc60a12938f6b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007051,
+            "locality_id":1293390347,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293390347,
+    "wof:lastmodified":1537587975,
+    "wof:name":"Punta Leon",
+    "wof:parent_id":1092007051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.6,
+    -15.93333,
+    -67.6,
+    -15.93333
+],
+  "geometry": {"coordinates":[-67.59999999999999,-15.93333],"type":"Point"}
+}

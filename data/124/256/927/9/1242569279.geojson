@@ -1,0 +1,67 @@
+{
+  "id": 1242569279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.2512,-21.23163,-66.2512,-21.23163",
+    "geom:latitude":-21.23163,
+    "geom:longitude":-66.2512,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hualpahuasi",
+    "gn:country_code":"BO",
+    "gn:dem":4243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914951,
+    "gn:latitude":-21.23163,
+    "gn:longitude":-66.2512,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Hualpahuasi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914951
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c6e7437421e84cf6419aa266c5f5ce76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":1242569279,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1242569279,
+    "wof:lastmodified":1537072581,
+    "wof:name":"Hualpahuasi",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.2512,
+    -21.23163,
+    -66.2512,
+    -21.23163
+],
+  "geometry": {"coordinates":[-66.2512,-21.23163],"type":"Point"}
+}

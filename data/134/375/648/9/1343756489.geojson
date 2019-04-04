@@ -1,0 +1,68 @@
+{
+  "id": 1343756489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.13333,-21.16667,-66.13333,-21.16667",
+    "geom:latitude":-21.16667,
+    "geom:longitude":-66.13333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tatasi",
+    "gn:country_code":"BO",
+    "gn:dem":4286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903262,
+    "gn:latitude":-21.16667,
+    "gn:longitude":-66.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tatasi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903262,
+        "wk:page":"Tatasi"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8bf2334c7730f70323c68fa1afff36df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":1343756489,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1343756489,
+    "wof:lastmodified":1537487869,
+    "wof:name":"Tatasi",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.13333,
+    -21.16667,
+    -66.13333,
+    -21.16667
+],
+  "geometry": {"coordinates":[-66.13333,-21.16667],"type":"Point"}
+}

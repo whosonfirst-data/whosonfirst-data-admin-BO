@@ -1,0 +1,67 @@
+{
+  "id": 1243540121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.95779,-19.94608,-62.95779,-19.94608",
+    "geom:latitude":-19.94608,
+    "geom:longitude":-62.95779,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Cumbarurenda",
+    "gn:country_code":"BO",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918663,
+    "gn:latitude":-19.94608,
+    "gn:longitude":-62.95779,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Cumbarurenda",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918663
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"04bd0572b37c0eb55026dd9806f2d0ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1243540121,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1243540121,
+    "wof:lastmodified":1536670536,
+    "wof:name":"Cumbarurenda",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.95779,
+    -19.94608,
+    -62.95779,
+    -19.94608
+],
+  "geometry": {"coordinates":[-62.95779,-19.94608],"type":"Point"}
+}

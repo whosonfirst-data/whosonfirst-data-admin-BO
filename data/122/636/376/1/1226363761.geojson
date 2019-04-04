@@ -1,0 +1,67 @@
+{
+  "id": 1226363761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.37178,-21.66216,-67.37178,-21.66216",
+    "geom:latitude":-21.66216,
+    "geom:longitude":-67.37178,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Casa Grande Kanchay",
+    "gn:country_code":"BO",
+    "gn:dem":3938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921863,
+    "gn:latitude":-21.66216,
+    "gn:longitude":-67.37178,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Casa Grande Kanchay",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421175057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921863
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9fa08418e76ddf03691cfab7945bd77d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421175057,
+            "locality_id":1226363761,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1226363761,
+    "wof:lastmodified":1536763973,
+    "wof:name":"Casa Grande Kanchay",
+    "wof:parent_id":421175057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.37178,
+    -21.66216,
+    -67.37178,
+    -21.66216
+],
+  "geometry": {"coordinates":[-67.37178,-21.66216],"type":"Point"}
+}

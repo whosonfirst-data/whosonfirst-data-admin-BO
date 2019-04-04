@@ -1,0 +1,72 @@
+{
+  "id": 1327015507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.48333,-17.85,-64.48333,-17.85",
+    "geom:latitude":-17.85,
+    "geom:longitude":-64.48333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tunal",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902257,
+    "gn:latitude":-17.85,
+    "gn:longitude":-64.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tunal",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rancho El Tunal",
+        "Tunal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421186229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902257
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c276f264ab07d0b439c413c95955367b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421186229,
+            "locality_id":1327015507,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1327015507,
+    "wof:lastmodified":1537587921,
+    "wof:name":"Tunal",
+    "wof:parent_id":421186229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.48333000000001,
+    -17.85,
+    -64.48333000000001,
+    -17.85
+],
+  "geometry": {"coordinates":[-64.48333000000001,-17.85],"type":"Point"}
+}

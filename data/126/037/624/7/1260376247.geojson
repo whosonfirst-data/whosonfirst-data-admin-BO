@@ -1,0 +1,67 @@
+{
+  "id": 1260376247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.95,-17.73333,-62.95,-17.73333",
+    "geom:latitude":-17.73333,
+    "geom:longitude":-62.95,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Comunidad El Campanero",
+    "gn:country_code":"BO",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919608,
+    "gn:latitude":-17.73333,
+    "gn:longitude":-62.95,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Comunidad El Campanero",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421187923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919608
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0601d259b87ba0c2395ec89fbc7dd6ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187923,
+            "locality_id":1260376247,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1260376247,
+    "wof:lastmodified":1537081510,
+    "wof:name":"Comunidad El Campanero",
+    "wof:parent_id":421187923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.95,
+    -17.73333,
+    -62.95,
+    -17.73333
+],
+  "geometry": {"coordinates":[-62.95,-17.73333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293120857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.66667,-16.93333,-60.66667,-16.93333",
+    "geom:latitude":-16.93333,
+    "geom:longitude":-60.66667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Estancia Porvenir",
+    "gn:country_code":"BO",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916439,
+    "gn:latitude":-16.93333,
+    "gn:longitude":-60.66667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Porvenir",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916439
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3dd1b5423a7ef6987eec37ecb666e8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1293120857,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1293120857,
+    "wof:lastmodified":1536817847,
+    "wof:name":"Estancia Porvenir",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.66667,
+    -16.93333,
+    -60.66667,
+    -16.93333
+],
+  "geometry": {"coordinates":[-60.66667,-16.93333],"type":"Point"}
+}

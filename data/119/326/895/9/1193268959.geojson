@@ -1,0 +1,67 @@
+{
+  "id": 1193268959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.56667,-16.96667,-63.56667,-16.96667",
+    "geom:latitude":-16.96667,
+    "geom:longitude":-63.56667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Fangos",
+    "gn:country_code":"BO",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915794,
+    "gn:latitude":-16.96667,
+    "gn:longitude":-63.56667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Fangos",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915794
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1ab15675c0f77f948af92b1a5daf21c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009959,
+            "locality_id":1193268959,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1193268959,
+    "wof:lastmodified":1536372787,
+    "wof:name":"Fangos",
+    "wof:parent_id":1092009959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.56667,
+    -16.96667,
+    -63.56667,
+    -16.96667
+],
+  "geometry": {"coordinates":[-63.56667,-16.96667],"type":"Point"}
+}

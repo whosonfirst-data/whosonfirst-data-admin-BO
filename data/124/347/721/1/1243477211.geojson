@@ -1,0 +1,67 @@
+{
+  "id": 1243477211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.72522,-18.24685,-68.72522,-18.24685",
+    "geom:latitude":-18.24685,
+    "geom:longitude":-68.72522,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Estancia Romero Kkota",
+    "gn:country_code":"BO",
+    "gn:dem":3893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3968926,
+    "gn:latitude":-18.24685,
+    "gn:longitude":-68.72522,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Romero Kkota",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        421204017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3968926
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"495efe7d8c2eeb2e29d81ec5c828736b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421204017,
+            "locality_id":1243477211,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1243477211,
+    "wof:lastmodified":1536761408,
+    "wof:name":"Estancia Romero Kkota",
+    "wof:parent_id":421204017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.72522,
+    -18.24685,
+    -68.72522,
+    -18.24685
+],
+  "geometry": {"coordinates":[-68.72521999999999,-18.24685],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276656209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.53089,-18.78844,-68.53089,-18.78844",
+    "geom:latitude":-18.78844,
+    "geom:longitude":-68.53089,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Estancia Uncalliri",
+    "gn:country_code":"BO",
+    "gn:dem":3768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916006,
+    "gn:latitude":-18.78844,
+    "gn:longitude":-68.53089,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Uncalliri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092008039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916006
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d130621bb960347f81bb8f59e33dd4ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008039,
+            "locality_id":1276656209,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1276656209,
+    "wof:lastmodified":1536842075,
+    "wof:name":"Estancia Uncalliri",
+    "wof:parent_id":1092008039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.53089,
+    -18.78844,
+    -68.53089,
+    -18.78844
+],
+  "geometry": {"coordinates":[-68.53089,-18.78844],"type":"Point"}
+}

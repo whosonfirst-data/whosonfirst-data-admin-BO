@@ -1,0 +1,65 @@
+{
+  "id": 1209405515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.1049,-20.24093,-63.1049,-20.24093",
+    "geom:latitude":-20.24093,
+    "geom:longitude":-63.1049,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ipitacuapi",
+    "gn:country_code":"BO",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914115,
+    "gn:latitude":-20.24093,
+    "gn:longitude":-63.1049,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Ipitacuapi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ipitacuape",
+        "Ipitacuapi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914115
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d5d1643ac460adfbfe62c0cd58e0c5ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209405515
+        }
+    ],
+    "wof:id":1209405515,
+    "wof:lastmodified":1537588056,
+    "wof:name":"Ipitacuapi",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.1049,
+    -20.24093,
+    -63.1049,
+    -20.24093
+],
+  "geometry": {"coordinates":[-63.1049,-20.24093],"type":"Point"}
+}

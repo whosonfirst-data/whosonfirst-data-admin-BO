@@ -1,0 +1,72 @@
+{
+  "id": 1344063063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.25,-16.31667,-68.25,-16.31667",
+    "geom:latitude":-16.31667,
+    "geom:longitude":-68.25,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sinipata",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904230,
+    "gn:latitude":-16.31667,
+    "gn:longitude":-68.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sinipata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Sinipata",
+        "Sinipata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421197575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904230
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"23661ac37ba57e1f1c3c7ba67b64c1f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197575,
+            "locality_id":1344063063,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1344063063,
+    "wof:lastmodified":1537587948,
+    "wof:name":"Sinipata",
+    "wof:parent_id":421197575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.25,
+    -16.31667,
+    -68.25,
+    -16.31667
+],
+  "geometry": {"coordinates":[-68.25,-16.31667],"type":"Point"}
+}

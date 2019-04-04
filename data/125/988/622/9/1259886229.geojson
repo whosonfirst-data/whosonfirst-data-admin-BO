@@ -1,0 +1,72 @@
+{
+  "id": 1259886229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.46667,-16.6,-67.46667,-16.6",
+    "geom:latitude":-16.6,
+    "geom:longitude":-67.46667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Loma Grande",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911236,
+    "gn:latitude":-16.6,
+    "gn:longitude":-67.46667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Loma Grande",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loma",
+        "Loma Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421168083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911236
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2f05dab2b9b25ad1d5fa5f0581b54c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421168083,
+            "locality_id":1259886229,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1259886229,
+    "wof:lastmodified":1537588022,
+    "wof:name":"Loma Grande",
+    "wof:parent_id":421168083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.46667,
+    -16.6,
+    -67.46667,
+    -16.6
+],
+  "geometry": {"coordinates":[-67.46666999999999,-16.6],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293396317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.75,-17.03333,-68.75,-17.03333",
+    "geom:latitude":-17.03333,
+    "geom:longitude":-68.75,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Uma Huana",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902078,
+    "gn:latitude":-17.03333,
+    "gn:longitude":-68.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Uma Hua\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Uma Hua\u00f1a",
+        "Uma Hua\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902078
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"821aeec00657a7ecce0154ca3739a4db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1293396317,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293396317,
+    "wof:lastmodified":1537587919,
+    "wof:name":"Uma Huana",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.75,
+    -17.03333,
+    -68.75,
+    -17.03333
+],
+  "geometry": {"coordinates":[-68.75,-17.03333],"type":"Point"}
+}

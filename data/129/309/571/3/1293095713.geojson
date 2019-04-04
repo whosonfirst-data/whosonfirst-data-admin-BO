@@ -1,0 +1,71 @@
+{
+  "id": 1293095713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.55568,-20.03321,-68.55568,-20.03321",
+    "geom:latitude":-20.03321,
+    "geom:longitude":-68.55568,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Cueva Colorada",
+    "gn:country_code":"BO",
+    "gn:dem":3988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918728,
+    "gn:latitude":-20.03321,
+    "gn:longitude":-68.55568,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Cueva Colorada",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rancho Cueva Colorada",
+        "Cueva Colorada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918728
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"26ce49675ec9f51064cc47ecc15a5c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177659,
+            "locality_id":1293095713,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293095713,
+    "wof:lastmodified":1537588092,
+    "wof:name":"Cueva Colorada",
+    "wof:parent_id":421177659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.55568000000001,
+    -20.03321,
+    -68.55568000000001,
+    -20.03321
+],
+  "geometry": {"coordinates":[-68.55568000000001,-20.03321],"type":"Point"}
+}

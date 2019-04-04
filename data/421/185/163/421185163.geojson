@@ -1,0 +1,75 @@
+{
+  "id": 421185163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.395728,-16.360497,-68.395728,-16.360497",
+    "geom:latitude":-16.360497,
+    "geom:longitude":-68.395728,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Pucarani",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1018803,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":55967961,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421197575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55967961,
+        "qs:id":1018803
+    },
+    "wof:country":"BO",
+    "wof:created":1459009434,
+    "wof:geomhash":"5daf5adb9106198beeef9ef8e97530fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197575,
+            "localadmin_id":421185163,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":421185163,
+    "wof:lastmodified":1499927555,
+    "wof:name":"Pucarani",
+    "wof:parent_id":421197575,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.395728,
+    -16.360497,
+    -68.395728,
+    -16.360497
+],
+  "geometry": {"coordinates":[-68.39572800000001,-16.360497],"type":"Point"}
+}

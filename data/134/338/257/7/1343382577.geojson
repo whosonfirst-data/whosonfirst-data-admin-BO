@@ -1,0 +1,71 @@
+{
+  "id": 1343382577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.39618,-20.47345,-65.39618,-20.47345",
+    "geom:latitude":-20.47345,
+    "geom:longitude":-65.39618,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Liri",
+    "gn:country_code":"BO",
+    "gn:dem":3139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911455,
+    "gn:latitude":-20.47345,
+    "gn:longitude":-65.39618,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Liri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Liriyuj",
+        "Liri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911455
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"797ce953a8d2d2d488019f56c08da2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1343382577,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1343382577,
+    "wof:lastmodified":1537588025,
+    "wof:name":"Liri",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.39618,
+    -20.47345,
+    -65.39618,
+    -20.47345
+],
+  "geometry": {"coordinates":[-65.39618,-20.47345],"type":"Point"}
+}

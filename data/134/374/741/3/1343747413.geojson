@@ -1,0 +1,72 @@
+{
+  "id": 1343747413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.06667,-16.9,-59.06667,-16.9",
+    "geom:latitude":-16.9,
+    "geom:longitude":-59.06667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Trapiches",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3444007,
+    "gn:latitude":-16.9,
+    "gn:longitude":-59.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Trapiches",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trapiche",
+        "Trapiches"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3444007
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d0c69828c68963e3bd87496bd659b63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009511,
+            "locality_id":1343747413,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1343747413,
+    "wof:lastmodified":1537587896,
+    "wof:name":"Trapiches",
+    "wof:parent_id":1092009511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.06667,
+    -16.9,
+    -59.06667,
+    -16.9
+],
+  "geometry": {"coordinates":[-59.06667,-16.9],"type":"Point"}
+}

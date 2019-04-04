@@ -1,0 +1,67 @@
+{
+  "id": 1276995333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.85494,-18.78229,-64.85494,-18.78229",
+    "geom:latitude":-18.78229,
+    "geom:longitude":-64.85494,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Estancia Aramaxi",
+    "gn:country_code":"BO",
+    "gn:dem":2731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917733,
+    "gn:latitude":-18.78229,
+    "gn:longitude":-64.85494,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Aramaxi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917733
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5e7b26bbd057e2a1ad90a92d95bb9855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006241,
+            "locality_id":1276995333,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1276995333,
+    "wof:lastmodified":1536885745,
+    "wof:name":"Estancia Aramaxi",
+    "wof:parent_id":1092006241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.85494,
+    -18.78229,
+    -64.85494,
+    -18.78229
+],
+  "geometry": {"coordinates":[-64.85494,-18.78229],"type":"Point"}
+}

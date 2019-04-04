@@ -1,0 +1,72 @@
+{
+  "id": 1327030823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.81667,-17.66667,-67.81667,-17.66667",
+    "geom:latitude":-17.66667,
+    "geom:longitude":-67.81667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Escalona Alta",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917918,
+    "gn:latitude":-17.66667,
+    "gn:longitude":-67.81667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Escalona Alta",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Escaloma Alta",
+        "Escalona Alta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917918
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a6b449a817f8284a98b21b258576ec22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007165,
+            "locality_id":1327030823,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1327030823,
+    "wof:lastmodified":1537588081,
+    "wof:name":"Escalona Alta",
+    "wof:parent_id":1092007165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.81667,
+    -17.66667,
+    -67.81667,
+    -17.66667
+],
+  "geometry": {"coordinates":[-67.81667,-17.66667],"type":"Point"}
+}

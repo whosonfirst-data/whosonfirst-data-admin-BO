@@ -1,0 +1,65 @@
+{
+  "id": 1209409293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.28537,-19.70543,-65.28537,-19.70543",
+    "geom:latitude":-19.70543,
+    "geom:longitude":-65.28537,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chinoli",
+    "gn:country_code":"BO",
+    "gn:dem":3332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920682,
+    "gn:latitude":-19.70543,
+    "gn:longitude":-65.28537,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Chinoli",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chimuli",
+        "Chinoli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920682
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"77eb079d7475bf1650a2538c137cde42",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209409293
+        }
+    ],
+    "wof:id":1209409293,
+    "wof:lastmodified":1537588112,
+    "wof:name":"Chinoli",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.28537,
+    -19.70543,
+    -65.28537,
+    -19.70543
+],
+  "geometry": {"coordinates":[-65.28537,-19.70543],"type":"Point"}
+}

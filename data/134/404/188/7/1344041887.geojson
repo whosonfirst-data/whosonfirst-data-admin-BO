@@ -1,0 +1,67 @@
+{
+  "id": 1344041887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.56507,-21.45429,-64.56507,-21.45429",
+    "geom:latitude":-21.45429,
+    "geom:longitude":-64.56507,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Caldera",
+    "gn:country_code":"BO",
+    "gn:dem":2104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922606,
+    "gn:latitude":-21.45429,
+    "gn:longitude":-64.56507,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Caldera",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421169233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922606
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"26fd86d80d4bbc5892884b34d01753c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169233,
+            "locality_id":1344041887,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1344041887,
+    "wof:lastmodified":1536902560,
+    "wof:name":"Caldera",
+    "wof:parent_id":421169233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.56506999999999,
+    -21.45429,
+    -64.56506999999999,
+    -21.45429
+],
+  "geometry": {"coordinates":[-64.56506999999999,-21.45429],"type":"Point"}
+}

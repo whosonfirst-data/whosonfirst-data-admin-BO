@@ -1,0 +1,67 @@
+{
+  "id": 1259687995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.6,-20.05,-64.6,-20.05",
+    "geom:latitude":-20.05,
+    "geom:longitude":-64.6,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Colpamayu",
+    "gn:country_code":"BO",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919729,
+    "gn:latitude":-20.05,
+    "gn:longitude":-64.6,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Colpamayu",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919729
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"89a8c2c261380e6a4fb2e7e390230800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005881,
+            "locality_id":1259687995,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1259687995,
+    "wof:lastmodified":1537057927,
+    "wof:name":"Colpamayu",
+    "wof:parent_id":1092005881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.6,
+    -20.05,
+    -64.6,
+    -20.05
+],
+  "geometry": {"coordinates":[-64.59999999999999,-20.05],"type":"Point"}
+}

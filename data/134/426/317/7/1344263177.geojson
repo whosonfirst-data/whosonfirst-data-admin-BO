@@ -1,0 +1,73 @@
+{
+  "id": 1344263177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.76667,-17.66667,-68.76667,-17.66667",
+    "geom:latitude":-17.66667,
+    "geom:longitude":-68.76667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mallcuchusi",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910870,
+    "gn:latitude":-17.66667,
+    "gn:longitude":-68.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mallcuchusi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Mallcu Chusi",
+        "Mallcuchus",
+        "Mallcuchusi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910870
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3acc12b2b5133e032caa1259c8c7bf0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1344263177,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1344263177,
+    "wof:lastmodified":1537588018,
+    "wof:name":"Mallcuchusi",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.76666999999999,
+    -17.66667,
+    -68.76666999999999,
+    -17.66667
+],
+  "geometry": {"coordinates":[-68.76666999999999,-17.66667],"type":"Point"}
+}

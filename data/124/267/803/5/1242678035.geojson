@@ -1,0 +1,67 @@
+{
+  "id": 1242678035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.75,-17.71667,-67.75,-17.71667",
+    "geom:latitude":-17.71667,
+    "geom:longitude":-67.75,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"San Jose",
+    "gn:country_code":"BO",
+    "gn:dem":3737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905571,
+    "gn:latitude":-17.71667,
+    "gn:longitude":-67.75,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"San Jos\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905571
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a6d27fc7cd395e9864269c8077c51ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007165,
+            "locality_id":1242678035,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1242678035,
+    "wof:lastmodified":1536919748,
+    "wof:name":"San Jose",
+    "wof:parent_id":1092007165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.75,
+    -17.71667,
+    -67.75,
+    -17.71667
+],
+  "geometry": {"coordinates":[-67.75,-17.71667],"type":"Point"}
+}

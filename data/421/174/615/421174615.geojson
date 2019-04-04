@@ -1,0 +1,120 @@
+{
+  "id": 421174615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.91667,-17.23333,-67.91667,-17.23333",
+    "geom:latitude":-17.23333,
+    "geom:longitude":-67.91667,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5e15\u5854\u5361\u99ac\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Patacamaya"
+    ],
+    "name:eng_x_preferred":[
+        "Patacamaya"
+    ],
+    "name:fre_x_preferred":[
+        "Patacamaya"
+    ],
+    "name:ger_x_preferred":[
+        "Patacamaya"
+    ],
+    "name:pol_x_preferred":[
+        "Patacamaya"
+    ],
+    "name:que_x_preferred":[
+        "Patakamaya"
+    ],
+    "name:sco_x_preferred":[
+        "Patacamaya"
+    ],
+    "name:spa_x_preferred":[
+        "Patacamaya"
+    ],
+    "name:swe_x_preferred":[
+        "Patacamaya"
+    ],
+    "name:unk_x_variant":[
+        "Patacmaya"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5854\u5361\u99ac\u4e9e"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3908339,
+    "qs:gn_pop":12260,
+    "qs:name":"Patacamaya",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":888749,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":346201,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-17.233333,
+    "wd:longitude":-67.916667,
+    "wd:wordcount":364,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092006923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908339,
+        "gp:id":346201,
+        "qs:id":888749,
+        "wd:id":"Q490991",
+        "wk:page":"Patacamaya"
+    },
+    "wof:country":"BO",
+    "wof:created":1459009038,
+    "wof:geomhash":"71a97614141e9e6658eb80b2d2d5b183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006923,
+            "locality_id":421174615,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":421174615,
+    "wof:lastmodified":1527716230,
+    "wof:name":"Patacamaya",
+    "wof:parent_id":1092006923,
+    "wof:placetype":"locality",
+    "wof:population":12260,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.91667,
+    -17.23333,
+    -67.91667,
+    -17.23333
+],
+  "geometry": {"coordinates":[-67.91667,-17.23333],"type":"Point"}
+}

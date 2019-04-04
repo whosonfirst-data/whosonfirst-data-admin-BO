@@ -1,0 +1,71 @@
+{
+  "id": 1309899097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.31087,-16.89466,-63.31087,-16.89466",
+    "geom:latitude":-16.89466,
+    "geom:longitude":-63.31087,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hawai",
+    "gn:country_code":"BO",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915250,
+    "gn:latitude":-16.89466,
+    "gn:longitude":-63.31087,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Hawai",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haway",
+        "Comunidad Hawai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915250
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9e359ea32a1a40c7c9d4f2cbe9f7a92c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009899,
+            "locality_id":1309899097,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1309899097,
+    "wof:lastmodified":1537588070,
+    "wof:name":"Hawai",
+    "wof:parent_id":1092009899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.31087,
+    -16.89466,
+    -63.31087,
+    -16.89466
+],
+  "geometry": {"coordinates":[-63.31087,-16.89466],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327141769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.03333,-15.36667,-67.03333,-15.36667",
+    "geom:latitude":-15.36667,
+    "geom:longitude":-67.03333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jananera",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913677,
+    "gn:latitude":-15.36667,
+    "gn:longitude":-67.03333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jananera",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Janarara",
+        "Jananera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913677
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0cdb64d6d88ba8b98461d3044efdfbe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005669,
+            "locality_id":1327141769,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1327141769,
+    "wof:lastmodified":1537588050,
+    "wof:name":"Jananera",
+    "wof:parent_id":1092005669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.03333,
+    -15.36667,
+    -67.03333,
+    -15.36667
+],
+  "geometry": {"coordinates":[-67.03333000000001,-15.36667],"type":"Point"}
+}

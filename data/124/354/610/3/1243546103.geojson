@@ -1,0 +1,72 @@
+{
+  "id": 1243546103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.08333,-20.7,-66.08333,-20.7",
+    "geom:latitude":-20.7,
+    "geom:longitude":-66.08333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Quilaquita",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906802,
+    "gn:latitude":-20.7,
+    "gn:longitude":-66.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Quilaquita",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quilaquila",
+        "Quilaquita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906802
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8ee662c511b351c086f66583649a8dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1243546103,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1243546103,
+    "wof:lastmodified":1537587972,
+    "wof:name":"Quilaquita",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.08333,
+    -20.7,
+    -66.08333,
+    -20.7
+],
+  "geometry": {"coordinates":[-66.08333,-20.7],"type":"Point"}
+}

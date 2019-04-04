@@ -1,0 +1,67 @@
+{
+  "id": 1243270271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.41667,-16.18333,-68.41667,-16.18333",
+    "geom:latitude":-16.18333,
+    "geom:longitude":-68.41667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Choakaques",
+    "gn:country_code":"BO",
+    "gn:dem":4347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920553,
+    "gn:latitude":-16.18333,
+    "gn:longitude":-68.41667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Choakaques",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421197575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920553
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d2970b141964c548f82cf53248c43f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197575,
+            "locality_id":1243270271,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1243270271,
+    "wof:lastmodified":1537056955,
+    "wof:name":"Choakaques",
+    "wof:parent_id":421197575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.41667,
+    -16.18333,
+    -68.41667,
+    -16.18333
+],
+  "geometry": {"coordinates":[-68.41667,-16.18333],"type":"Point"}
+}

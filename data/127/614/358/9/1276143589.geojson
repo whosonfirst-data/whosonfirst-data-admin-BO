@@ -1,0 +1,72 @@
+{
+  "id": 1276143589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.56667,-18.63333,-66.56667,-18.63333",
+    "geom:latitude":-18.63333,
+    "geom:longitude":-66.56667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Luluna",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911040,
+    "gn:latitude":-18.63333,
+    "gn:longitude":-66.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Luluna",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luluni",
+        "Luluna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911040
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6daaef643598c89628945aaf2a457204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009153,
+            "locality_id":1276143589,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1276143589,
+    "wof:lastmodified":1537588020,
+    "wof:name":"Luluna",
+    "wof:parent_id":1092009153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.56667,
+    -18.63333,
+    -66.56667,
+    -18.63333
+],
+  "geometry": {"coordinates":[-66.56667,-18.63333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1292991565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.76667,-14.81667,-61.76667,-14.81667",
+    "geom:latitude":-14.81667,
+    "geom:longitude":-61.76667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Seis de Agosto",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904439,
+    "gn:latitude":-14.81667,
+    "gn:longitude":-61.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Seis de Agosto",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "6 de Agosto",
+        "Seis de Agosto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904439
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"91ec14c0509bb982f2b0c998cb76af23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009873,
+            "locality_id":1292991565,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1292991565,
+    "wof:lastmodified":1537587950,
+    "wof:name":"Seis de Agosto",
+    "wof:parent_id":1092009873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.76667,
+    -14.81667,
+    -61.76667,
+    -14.81667
+],
+  "geometry": {"coordinates":[-61.76667,-14.81667],"type":"Point"}
+}

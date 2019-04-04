@@ -1,0 +1,67 @@
+{
+  "id": 1293022113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.91667,-21.75,-66.91667,-21.75",
+    "geom:latitude":-21.75,
+    "geom:longitude":-66.91667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Orque",
+    "gn:country_code":"BO",
+    "gn:dem":4303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909240,
+    "gn:latitude":-21.75,
+    "gn:longitude":-66.91667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Orque",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909240
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"32352a28bf79b33b5b2440a67c9d04e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193355,
+            "locality_id":1293022113,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293022113,
+    "wof:lastmodified":1536960934,
+    "wof:name":"Orque",
+    "wof:parent_id":421193355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.91667,
+    -21.75,
+    -66.91667,
+    -21.75
+],
+  "geometry": {"coordinates":[-66.91667,-21.75],"type":"Point"}
+}

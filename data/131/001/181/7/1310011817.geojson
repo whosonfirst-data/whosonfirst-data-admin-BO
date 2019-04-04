@@ -1,0 +1,72 @@
+{
+  "id": 1310011817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.7,-17.28333,-68.7,-17.28333",
+    "geom:latitude":-17.28333,
+    "geom:longitude":-68.7,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Puente Concordia",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907302,
+    "gn:latitude":-17.28333,
+    "gn:longitude":-68.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puente Concordia",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Concordia",
+        "Puente Concordia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907302
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"21f2cba58c001aacfcb74896dd5616d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1310011817,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1310011817,
+    "wof:lastmodified":1537587979,
+    "wof:name":"Puente Concordia",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.7,
+    -17.28333,
+    -68.7,
+    -17.28333
+],
+  "geometry": {"coordinates":[-68.7,-17.28333],"type":"Point"}
+}

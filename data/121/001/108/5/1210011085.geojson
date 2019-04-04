@@ -1,0 +1,77 @@
+{
+  "id": 1210011085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.27229,-22.69655,-64.27229,-22.69655",
+    "geom:latitude":-22.69655,
+    "geom:longitude":-64.27229,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Arrosales",
+    "gn:country_code":"BO",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923674,
+    "gn:latitude":-22.69655,
+    "gn:longitude":-64.27229,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Arrosales",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421175287,
+        85632623,
+        85669431,
+        421182443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923674
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5e24d1cf4be9f83db2e6b0fa7178e40d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421175287,
+            "locality_id":1210011085,
+            "region_id":85668049
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182443,
+            "locality_id":1210011085,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1210011085,
+    "wof:lastmodified":1536368205,
+    "wof:name":"Arrosales",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.27229,
+    -22.69655,
+    -64.27229,
+    -22.69655
+],
+  "geometry": {"coordinates":[-64.27229,-22.69655],"type":"Point"}
+}

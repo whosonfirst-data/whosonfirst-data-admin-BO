@@ -1,0 +1,72 @@
+{
+  "id": 1293589565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.95,-17.26667,-66.95,-17.26667",
+    "geom:latitude":-17.26667,
+    "geom:longitude":-66.95,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pocusco",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907752,
+    "gn:latitude":-17.26667,
+    "gn:longitude":-66.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pocusco",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pocusca",
+        "Pocusco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907752
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"fa122cda05d7535a5e51aae8b8168119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007257,
+            "locality_id":1293589565,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293589565,
+    "wof:lastmodified":1537587984,
+    "wof:name":"Pocusco",
+    "wof:parent_id":1092007257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.95,
+    -17.26667,
+    -66.95,
+    -17.26667
+],
+  "geometry": {"coordinates":[-66.95,-17.26667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293888531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.23989,-18.5877,-68.23989,-18.5877",
+    "geom:latitude":-18.5877,
+    "geom:longitude":-68.23989,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Berlin",
+    "gn:country_code":"BO",
+    "gn:dem":3756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923156,
+    "gn:latitude":-18.5877,
+    "gn:longitude":-68.23989,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Berl\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Centro Berl\u00edn",
+        "Berl\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092007939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923156
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6be196ccd2fb9f56549a873550901bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007939,
+            "locality_id":1293888531,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1293888531,
+    "wof:lastmodified":1537588144,
+    "wof:name":"Berlin",
+    "wof:parent_id":1092007939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.23989,
+    -18.5877,
+    -68.23989,
+    -18.5877
+],
+  "geometry": {"coordinates":[-68.23989,-18.5877],"type":"Point"}
+}

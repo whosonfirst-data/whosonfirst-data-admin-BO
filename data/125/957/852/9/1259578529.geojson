@@ -1,0 +1,67 @@
+{
+  "id": 1259578529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.98333,-10.78333,-66.98333,-10.78333",
+    "geom:latitude":-10.78333,
+    "geom:longitude":-66.98333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Santa Fe",
+    "gn:country_code":"BO",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904878,
+    "gn:latitude":-10.78333,
+    "gn:longitude":-66.98333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Santa Fe",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904878
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8e44e18fd9cef4ee0a5893d6f5e98a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008329,
+            "locality_id":1259578529,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1259578529,
+    "wof:lastmodified":1536722352,
+    "wof:name":"Santa Fe",
+    "wof:parent_id":1092008329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.98333000000001,
+    -10.78333,
+    -66.98333000000001,
+    -10.78333
+],
+  "geometry": {"coordinates":[-66.98333000000001,-10.78333],"type":"Point"}
+}

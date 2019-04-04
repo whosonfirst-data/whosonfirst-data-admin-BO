@@ -1,0 +1,72 @@
+{
+  "id": 1310425579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.48333,-19.51667,-62.48333,-19.51667",
+    "geom:latitude":-19.51667,
+    "geom:longitude":-62.48333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Iguasiriri",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914310,
+    "gn:latitude":-19.51667,
+    "gn:longitude":-62.48333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Iguasiriri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibasiriri",
+        "Iguasiriri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914310
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"30c37f3f83f37258fc7d939fcee64b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1310425579,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1310425579,
+    "wof:lastmodified":1537588058,
+    "wof:name":"Iguasiriri",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.48333,
+    -19.51667,
+    -62.48333,
+    -19.51667
+],
+  "geometry": {"coordinates":[-62.48333,-19.51667],"type":"Point"}
+}

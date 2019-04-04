@@ -1,0 +1,67 @@
+{
+  "id": 1226160715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.19111,-20.96615,-65.19111,-20.96615",
+    "geom:latitude":-20.96615,
+    "geom:longitude":-65.19111,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Camblaya",
+    "gn:country_code":"BO",
+    "gn:dem":2216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922428,
+    "gn:latitude":-20.96615,
+    "gn:longitude":-65.19111,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Camblaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922428
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2399386a89d32879928bc6dac219d223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006125,
+            "locality_id":1226160715,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1226160715,
+    "wof:lastmodified":1537053807,
+    "wof:name":"Camblaya",
+    "wof:parent_id":1092006125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.19111,
+    -20.96615,
+    -65.19111,
+    -20.96615
+],
+  "geometry": {"coordinates":[-65.19110999999999,-20.96615],"type":"Point"}
+}

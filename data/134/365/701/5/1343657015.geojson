@@ -1,0 +1,67 @@
+{
+  "id": 1343657015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.97366,-11.61728,-68.97366,-11.61728",
+    "geom:latitude":-11.61728,
+    "geom:longitude":-68.97366,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Puerto Sucre",
+    "gn:country_code":"BO",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11469163,
+    "gn:latitude":-11.61728,
+    "gn:longitude":-68.97366,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Puerto Sucre",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11469163
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3b8cb6f00567fa3db871cbfec0c0335e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008461,
+            "locality_id":1343657015,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1343657015,
+    "wof:lastmodified":1536959987,
+    "wof:name":"Puerto Sucre",
+    "wof:parent_id":1092008461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.97366,
+    -11.61728,
+    -68.97366,
+    -11.61728
+],
+  "geometry": {"coordinates":[-68.97366,-11.61728],"type":"Point"}
+}

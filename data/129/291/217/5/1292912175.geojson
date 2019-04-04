@@ -1,0 +1,67 @@
+{
+  "id": 1292912175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.48333,-17.36667,-66.48333,-17.36667",
+    "geom:latitude":-17.36667,
+    "geom:longitude":-66.48333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chuallani",
+    "gn:country_code":"BO",
+    "gn:dem":3817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920366,
+    "gn:latitude":-17.36667,
+    "gn:longitude":-66.48333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Chuallani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        421197123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920366
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9ca5129f01a0d2046d83281d90473f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197123,
+            "locality_id":1292912175,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1292912175,
+    "wof:lastmodified":1536620183,
+    "wof:name":"Chuallani",
+    "wof:parent_id":421197123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.48333000000001,
+    -17.36667000000001,
+    -66.48333000000001,
+    -17.36667000000001
+],
+  "geometry": {"coordinates":[-66.48333000000001,-17.36667000000001],"type":"Point"}
+}

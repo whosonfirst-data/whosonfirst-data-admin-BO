@@ -1,0 +1,67 @@
+{
+  "id": 1243278145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.08032,-19.13706,-65.08032,-19.13706",
+    "geom:latitude":-19.13706,
+    "geom:longitude":-65.08032,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Estancia Khewina",
+    "gn:country_code":"BO",
+    "gn:dem":2994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3970146,
+    "gn:latitude":-19.13706,
+    "gn:longitude":-65.08032,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Khewi\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421188855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3970146
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"670e495c91f825c8674ce5ed7faea1c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421188855,
+            "locality_id":1243278145,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1243278145,
+    "wof:lastmodified":1537046157,
+    "wof:name":"Estancia Khewina",
+    "wof:parent_id":421188855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.08032,
+    -19.13706,
+    -65.08032,
+    -19.13706
+],
+  "geometry": {"coordinates":[-65.08032,-19.13706],"type":"Point"}
+}

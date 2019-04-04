@@ -1,0 +1,67 @@
+{
+  "id": 1360177953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.88333,-16.3,-60.88333,-16.3",
+    "geom:latitude":-16.3,
+    "geom:longitude":-60.88333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Comunidad Alta Vista",
+    "gn:country_code":"BO",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919681,
+    "gn:latitude":-16.3,
+    "gn:longitude":-60.88333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Comunidad Alta Vista",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919681
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0aec16598e0b811811e3fb8d63b9a628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1360177953,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1360177953,
+    "wof:lastmodified":1536811217,
+    "wof:name":"Comunidad Alta Vista",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.88333000000001,
+    -16.3,
+    -60.88333000000001,
+    -16.3
+],
+  "geometry": {"coordinates":[-60.88333000000001,-16.3],"type":"Point"}
+}

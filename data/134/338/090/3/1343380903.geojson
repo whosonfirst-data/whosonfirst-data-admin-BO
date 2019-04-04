@@ -1,0 +1,67 @@
+{
+  "id": 1343380903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.01667,-16.63333,-61.01667,-16.63333",
+    "geom:latitude":-16.63333,
+    "geom:longitude":-61.01667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hercules",
+    "gn:country_code":"BO",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915239,
+    "gn:latitude":-16.63333,
+    "gn:longitude":-61.01667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"H\u00e9rcules",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915239
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1a47d99b357b109616a2a1cae7026795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1343380903,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1343380903,
+    "wof:lastmodified":1536859680,
+    "wof:name":"Hercules",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.01667,
+    -16.63332999999999,
+    -61.01667,
+    -16.63332999999999
+],
+  "geometry": {"coordinates":[-61.01667,-16.63332999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326943383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.03333,-16.78333,-65.03333,-16.78333",
+    "geom:latitude":-16.78333,
+    "geom:longitude":-65.03333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Campamento Pepla",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922389,
+    "gn:latitude":-16.78333,
+    "gn:longitude":-65.03333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Campamento Pepla",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campamento Puente",
+        "Campamento Pleria",
+        "Campamento Pepla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922389
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0be3977871d84345242ba57234d6ac78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1326943383,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1326943383,
+    "wof:lastmodified":1537588134,
+    "wof:name":"Campamento Pepla",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.03333,
+    -16.78333,
+    -65.03333,
+    -16.78333
+],
+  "geometry": {"coordinates":[-65.03333000000001,-16.78333],"type":"Point"}
+}

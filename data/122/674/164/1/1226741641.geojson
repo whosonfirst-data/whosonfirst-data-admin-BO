@@ -1,0 +1,67 @@
+{
+  "id": 1226741641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.85525,-20.78627,-65.85525,-20.78627",
+    "geom:latitude":-20.78627,
+    "geom:longitude":-65.85525,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Comunidad Marcavi",
+    "gn:country_code":"BO",
+    "gn:dem":2915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919526,
+    "gn:latitude":-20.78627,
+    "gn:longitude":-65.85525,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Comunidad Marcavi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919526
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"35e320d65d7bbcfe986debcc7fbeae9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1226741641,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1226741641,
+    "wof:lastmodified":1536721810,
+    "wof:name":"Comunidad Marcavi",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.85525,
+    -20.78627,
+    -65.85525,
+    -20.78627
+],
+  "geometry": {"coordinates":[-65.85525,-20.78627],"type":"Point"}
+}

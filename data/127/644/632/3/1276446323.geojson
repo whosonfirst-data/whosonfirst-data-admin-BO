@@ -1,0 +1,72 @@
+{
+  "id": 1276446323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.88556,-19.23848,-63.88556,-19.23848",
+    "geom:latitude":-19.23848,
+    "geom:longitude":-63.88556,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tacobarenda",
+    "gn:country_code":"BO",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903743,
+    "gn:latitude":-19.23848,
+    "gn:longitude":-63.88556,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Tacobarenda",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pacobarenda",
+        "Tacabarenda",
+        "Tacobarenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903743
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5c8f7970b841b06bf47e1a63ba0ea13a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005959,
+            "locality_id":1276446323,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1276446323,
+    "wof:lastmodified":1537587942,
+    "wof:name":"Tacobarenda",
+    "wof:parent_id":1092005959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.88556,
+    -19.23848,
+    -63.88556,
+    -19.23848
+],
+  "geometry": {"coordinates":[-63.88556,-19.23848],"type":"Point"}
+}

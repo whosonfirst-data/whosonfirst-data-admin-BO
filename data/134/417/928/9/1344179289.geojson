@@ -1,0 +1,67 @@
+{
+  "id": 1344179289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.33451,-11.24695,-69.33451,-11.24695",
+    "geom:latitude":-11.24695,
+    "geom:longitude":-69.33451,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Esperanza Nuevo",
+    "gn:country_code":"BO",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11441399,
+    "gn:latitude":-11.24695,
+    "gn:longitude":-69.33451,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Esperanza Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11441399
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ad8cdaa7253d79918a3163c1d7a48782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008501,
+            "locality_id":1344179289,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1344179289,
+    "wof:lastmodified":1536704447,
+    "wof:name":"Esperanza Nuevo",
+    "wof:parent_id":1092008501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.33451,
+    -11.24695,
+    -69.33451,
+    -11.24695
+],
+  "geometry": {"coordinates":[-69.33450999999999,-11.24695],"type":"Point"}
+}

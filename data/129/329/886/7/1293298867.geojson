@@ -1,0 +1,67 @@
+{
+  "id": 1293298867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.69423,-16.43941,-68.69423,-16.43941",
+    "geom:latitude":-16.43941,
+    "geom:longitude":-68.69423,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chojasivi",
+    "gn:country_code":"BO",
+    "gn:dem":3830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165821,
+    "gn:latitude":-16.43941,
+    "gn:longitude":-68.69423,
+    "gn:modification_date":"2014-06-11",
+    "gn:name":"Chojasivi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421197575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165821
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"aa4750286463891c115f6da426026023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197575,
+            "locality_id":1293298867,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293298867,
+    "wof:lastmodified":1537056424,
+    "wof:name":"Chojasivi",
+    "wof:parent_id":421197575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.69423,
+    -16.43941,
+    -68.69423,
+    -16.43941
+],
+  "geometry": {"coordinates":[-68.69423,-16.43941],"type":"Point"}
+}

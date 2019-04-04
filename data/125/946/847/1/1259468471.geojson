@@ -1,0 +1,73 @@
+{
+  "id": 1259468471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.48333,-18.88333,-63.48333,-18.88333",
+    "geom:latitude":-18.88333,
+    "geom:longitude":-63.48333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Puerto Nuevo de Abapo",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907206,
+    "gn:latitude":-18.88333,
+    "gn:longitude":-63.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puerto Nuevo de Abap\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Nuevo",
+        "Puerto Nuevo Abap\u00f3",
+        "Puerto Nuevo de Abap\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907206
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a7babf71cf0ac99a59cbc940ba07941d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1259468471,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1259468471,
+    "wof:lastmodified":1537587977,
+    "wof:name":"Puerto Nuevo de Abapo",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.48333,
+    -18.88333,
+    -63.48333,
+    -18.88333
+],
+  "geometry": {"coordinates":[-63.48333,-18.88333],"type":"Point"}
+}

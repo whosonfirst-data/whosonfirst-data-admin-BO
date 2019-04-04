@@ -1,0 +1,67 @@
+{
+  "id": 1260357649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.33333,-11.05,-65.33333,-11.05",
+    "geom:latitude":-11.05,
+    "geom:longitude":-65.33333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Colonia Sebastiao",
+    "gn:country_code":"BO",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3925172,
+    "gn:latitude":-11.05,
+    "gn:longitude":-65.33333,
+    "gn:modification_date":"2018-07-24",
+    "gn:name":"Col\u00f4nia Sebasti\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"America/Porto_Velho",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3925172
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"57414bc6e4d59a3d7f6a6bc332d1f8e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005877,
+            "locality_id":1260357649,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1260357649,
+    "wof:lastmodified":1536610007,
+    "wof:name":"Colonia Sebastiao",
+    "wof:parent_id":1092005877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.33333,
+    -11.05,
+    -65.33333,
+    -11.05
+],
+  "geometry": {"coordinates":[-65.33333,-11.05],"type":"Point"}
+}

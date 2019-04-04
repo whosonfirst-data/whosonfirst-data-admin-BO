@@ -1,0 +1,73 @@
+{
+  "id": 1225864877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.76667,-19.35,-60.76667,-19.35",
+    "geom:latitude":-19.35,
+    "geom:longitude":-60.76667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Cruz de Palmas",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912304,
+    "gn:latitude":-19.35,
+    "gn:longitude":-60.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Cruz de Palmas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cruz de Palma",
+        "La Cruz de Palma",
+        "La Cruz de Palmas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912304
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9d37d1c9a05dba3e9e32c53879d0ce96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1225864877,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1225864877,
+    "wof:lastmodified":1537588036,
+    "wof:name":"La Cruz de Palmas",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.76667,
+    -19.35,
+    -60.76667,
+    -19.35
+],
+  "geometry": {"coordinates":[-60.76667,-19.35],"type":"Point"}
+}

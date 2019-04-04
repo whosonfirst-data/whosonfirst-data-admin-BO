@@ -1,0 +1,73 @@
+{
+  "id": 1259999673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.06667,-18.55,-64.06667,-18.55",
+    "geom:latitude":-18.55,
+    "geom:longitude":-64.06667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chirihuananani",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920623,
+    "gn:latitude":-18.55,
+    "gn:longitude":-64.06667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chirihuana\u00f1ani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiriguana\u00f1ani",
+        "Chirihuana\u00f1an",
+        "Chirihuana\u00f1ani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421193471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920623
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4e859fe0784432d6961f246c1f858568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193471,
+            "locality_id":1259999673,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1259999673,
+    "wof:lastmodified":1537588111,
+    "wof:name":"Chirihuananani",
+    "wof:parent_id":421193471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.06667,
+    -18.55,
+    -64.06667,
+    -18.55
+],
+  "geometry": {"coordinates":[-64.06667,-18.55],"type":"Point"}
+}

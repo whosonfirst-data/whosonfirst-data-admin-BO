@@ -1,0 +1,67 @@
+{
+  "id": 1226532953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.24095,-17.76967,-63.24095,-17.76967",
+    "geom:latitude":-17.76967,
+    "geom:longitude":-63.24095,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Estancia Los Bajos",
+    "gn:country_code":"BO",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7020916,
+    "gn:latitude":-17.76967,
+    "gn:longitude":-63.24095,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Estancia Los Bajos",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421187923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020916
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"35b604337d6cc08454f6eddc06ba8c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187923,
+            "locality_id":1226532953,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1226532953,
+    "wof:lastmodified":1537015816,
+    "wof:name":"Estancia Los Bajos",
+    "wof:parent_id":421187923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.24095,
+    -17.76967,
+    -63.24095,
+    -17.76967
+],
+  "geometry": {"coordinates":[-63.24095,-17.76967],"type":"Point"}
+}

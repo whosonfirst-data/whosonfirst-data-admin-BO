@@ -1,0 +1,72 @@
+{
+  "id": 1293284901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.21667,-10.9,-68.21667,-10.9",
+    "geom:latitude":-10.9,
+    "geom:longitude":-68.21667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Caetano",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922789,
+    "gn:latitude":-10.9,
+    "gn:longitude":-68.21667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Caetano",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cayetano",
+        "Caetano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633009,
+        85681873,
+        102050053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922789
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e035c7e16661928b8d8fcaa6164ce22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102050053,
+            "locality_id":1293284901,
+            "region_id":85681873
+        }
+    ],
+    "wof:id":1293284901,
+    "wof:lastmodified":1537588139,
+    "wof:name":"Caetano",
+    "wof:parent_id":102050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.21667,
+    -10.9,
+    -68.21667,
+    -10.9
+],
+  "geometry": {"coordinates":[-68.21666999999999,-10.9],"type":"Point"}
+}

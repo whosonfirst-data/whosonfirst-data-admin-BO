@@ -1,0 +1,67 @@
+{
+  "id": 1309729985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.14494,-19.05957,-65.14494,-19.05957",
+    "geom:latitude":-19.05957,
+    "geom:longitude":-65.14494,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Estancia Chipiruyo",
+    "gn:country_code":"BO",
+    "gn:dem":3126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3970081,
+    "gn:latitude":-19.05957,
+    "gn:longitude":-65.14494,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Chipiruyo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3970081
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"05be3205fa7a9c4f23cb6f69dc2ca603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1309729985,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1309729985,
+    "wof:lastmodified":1537038716,
+    "wof:name":"Estancia Chipiruyo",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.14494,
+    -19.05957,
+    -65.14494,
+    -19.05957
+],
+  "geometry": {"coordinates":[-65.14494000000001,-19.05957],"type":"Point"}
+}

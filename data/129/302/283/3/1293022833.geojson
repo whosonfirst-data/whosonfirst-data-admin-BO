@@ -1,0 +1,80 @@
+{
+  "id": 1293022833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.81438,-10.66456,-67.81438,-10.66456",
+    "geom:latitude":-10.66456,
+    "geom:longitude":-67.81438,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Copacabana",
+    "gn:country_code":"BO",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504088,
+    "gn:latitude":-10.66456,
+    "gn:longitude":-67.81438,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Copacabana",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Copacabana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008501,
+        85633009,
+        85681873,
+        102050017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504088
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"49cc4962491da22c9f279a3a8725434c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008501,
+            "locality_id":1293022833,
+            "region_id":85669417
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102050017,
+            "locality_id":1293022833,
+            "region_id":85681873
+        }
+    ],
+    "wof:id":1293022833,
+    "wof:lastmodified":1537588184,
+    "wof:name":"Copacabana",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.81438,
+    -10.66456,
+    -67.81438,
+    -10.66456
+],
+  "geometry": {"coordinates":[-67.81438,-10.66456],"type":"Point"}
+}

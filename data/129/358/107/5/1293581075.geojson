@@ -1,0 +1,67 @@
+{
+  "id": 1293581075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.90126,-21.81183,-66.90126,-21.81183",
+    "geom:latitude":-21.81183,
+    "geom:longitude":-66.90126,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vindjara",
+    "gn:country_code":"BO",
+    "gn:dem":4266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901449,
+    "gn:latitude":-21.81183,
+    "gn:longitude":-66.90126,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Vindjara",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901449
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d1957396113305e6455431fb84d15a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193355,
+            "locality_id":1293581075,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293581075,
+    "wof:lastmodified":1536652107,
+    "wof:name":"Vindjara",
+    "wof:parent_id":421193355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.90126,
+    -21.81183,
+    -66.90126,
+    -21.81183
+],
+  "geometry": {"coordinates":[-66.90125999999999,-21.81183],"type":"Point"}
+}

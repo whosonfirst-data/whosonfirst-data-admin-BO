@@ -1,0 +1,67 @@
+{
+  "id": 1276232747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.57643,-19.79351,-67.57643,-19.79351",
+    "geom:latitude":-19.79351,
+    "geom:longitude":-67.57643,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Churacari",
+    "gn:country_code":"BO",
+    "gn:dem":3671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920172,
+    "gn:latitude":-19.79351,
+    "gn:longitude":-67.57643,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Churacari",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092007893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920172
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4420cccea9703deeabc12b19e46856c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007893,
+            "locality_id":1276232747,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1276232747,
+    "wof:lastmodified":1536913975,
+    "wof:name":"Churacari",
+    "wof:parent_id":1092007893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.57643,
+    -19.79351,
+    -67.57643,
+    -19.79351
+],
+  "geometry": {"coordinates":[-67.57643,-19.79351],"type":"Point"}
+}

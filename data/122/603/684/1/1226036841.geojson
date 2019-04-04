@@ -1,0 +1,72 @@
+{
+  "id": 1226036841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.7,-18.08333,-65.7,-18.08333",
+    "geom:latitude":-18.08333,
+    "geom:longitude":-65.7,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yambata",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901149,
+    "gn:latitude":-18.08333,
+    "gn:longitude":-65.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yambata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yambato",
+        "Yambata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901149
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"bbcae8bbcf190c21fd703aae5ca0fa0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006697,
+            "locality_id":1226036841,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1226036841,
+    "wof:lastmodified":1537587907,
+    "wof:name":"Yambata",
+    "wof:parent_id":1092006697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.7,
+    -18.08333,
+    -65.7,
+    -18.08333
+],
+  "geometry": {"coordinates":[-65.7,-18.08333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327126159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.23333,-18.63333,-66.23333,-18.63333",
+    "geom:latitude":-18.63333,
+    "geom:longitude":-66.23333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Charopuco",
+    "gn:country_code":"BO",
+    "gn:dem":3985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921097,
+    "gn:latitude":-18.63333,
+    "gn:longitude":-66.23333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Charopuco",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921097
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f2aadabe239b1c8ac0343183140b439c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008791,
+            "locality_id":1327126159,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1327126159,
+    "wof:lastmodified":1536623152,
+    "wof:name":"Charopuco",
+    "wof:parent_id":1092008791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.23333000000001,
+    -18.63333,
+    -66.23333000000001,
+    -18.63333
+],
+  "geometry": {"coordinates":[-66.23333000000001,-18.63333],"type":"Point"}
+}

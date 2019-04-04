@@ -1,0 +1,67 @@
+{
+  "id": 1310390905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.803,-14.43394,-62.803,-14.43394",
+    "geom:latitude":-14.43394,
+    "geom:longitude":-62.803,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tichelas",
+    "gn:country_code":"BO",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903022,
+    "gn:latitude":-14.43394,
+    "gn:longitude":-62.803,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"Tichelas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903022
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b08a8b48ceb0a6ae383017ac6e79d00a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009873,
+            "locality_id":1310390905,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1310390905,
+    "wof:lastmodified":1537079169,
+    "wof:name":"Tichelas",
+    "wof:parent_id":1092009873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.803,
+    -14.43394,
+    -62.803,
+    -14.43394
+],
+  "geometry": {"coordinates":[-62.803,-14.43394],"type":"Point"}
+}

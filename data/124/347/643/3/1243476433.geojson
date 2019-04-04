@@ -1,0 +1,70 @@
+{
+  "id": 1243476433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.36343,-11.15786,-68.36343,-11.15786",
+    "geom:latitude":-11.15786,
+    "geom:longitude":-68.36343,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Estancia San Ignacio",
+    "gn:country_code":"BO",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11502558,
+    "gn:latitude":-11.15786,
+    "gn:longitude":-68.36343,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Estancia San Ignacio",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia San Ignacio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11502558
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"955c574ae5ebe77c05f1347c56952790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008501,
+            "locality_id":1243476433,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1243476433,
+    "wof:lastmodified":1537588170,
+    "wof:name":"Estancia San Ignacio",
+    "wof:parent_id":1092008501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.36343000000001,
+    -11.15786,
+    -68.36343000000001,
+    -11.15786
+],
+  "geometry": {"coordinates":[-68.36343000000001,-11.15786],"type":"Point"}
+}

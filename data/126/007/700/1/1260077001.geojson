@@ -1,0 +1,72 @@
+{
+  "id": 1260077001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.5,-20.95,-67.5,-20.95",
+    "geom:latitude":-20.95,
+    "geom:longitude":-67.5,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Llaillacura",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911424,
+    "gn:latitude":-20.95,
+    "gn:longitude":-67.5,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Llaillacura",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Llaullacura",
+        "Llaillacura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911424
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"57222c69059aba7c7c3b0efb549bd06d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193357,
+            "locality_id":1260077001,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1260077001,
+    "wof:lastmodified":1537588025,
+    "wof:name":"Llaillacura",
+    "wof:parent_id":421193357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.5,
+    -20.95,
+    -67.5,
+    -20.95
+],
+  "geometry": {"coordinates":[-67.5,-20.95],"type":"Point"}
+}

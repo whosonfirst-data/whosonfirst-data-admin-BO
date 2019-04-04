@@ -1,0 +1,72 @@
+{
+  "id": 1276237805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.21721,-20.20812,-65.21721,-20.20812",
+    "geom:latitude":-20.20812,
+    "geom:longitude":-65.21721,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chanchajllo",
+    "gn:country_code":"BO",
+    "gn:dem":3382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921242,
+    "gn:latitude":-20.20812,
+    "gn:longitude":-65.21721,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Chanchajllo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Chanchajli",
+        "Chanchajlla",
+        "Chanchajllo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921242
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f43dd76aae22cbdc75b3e8d2b268df99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006003,
+            "locality_id":1276237805,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1276237805,
+    "wof:lastmodified":1537588118,
+    "wof:name":"Chanchajllo",
+    "wof:parent_id":1092006003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.21721,
+    -20.20812,
+    -65.21721,
+    -20.20812
+],
+  "geometry": {"coordinates":[-65.21720999999999,-20.20812],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310213695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.45405,-18.30449,-65.45405,-18.30449",
+    "geom:latitude":-18.30449,
+    "geom:longitude":-65.45405,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chamaca",
+    "gn:country_code":"BO",
+    "gn:dem":2044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921284,
+    "gn:latitude":-18.30449,
+    "gn:longitude":-65.45405,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Chamaca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Chamaca",
+        "Chamaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921284
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"69df1ddf2ce65421cfe8a172d0352c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006697,
+            "locality_id":1310213695,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1310213695,
+    "wof:lastmodified":1537588119,
+    "wof:name":"Chamaca",
+    "wof:parent_id":1092006697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.45405,
+    -18.30449,
+    -65.45405,
+    -18.30449
+],
+  "geometry": {"coordinates":[-65.45405,-18.30449],"type":"Point"}
+}

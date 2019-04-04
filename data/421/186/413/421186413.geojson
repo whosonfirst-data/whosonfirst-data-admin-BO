@@ -1,0 +1,111 @@
+{
+  "id": 421186413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.76242,-18.13504,-65.76242,-18.13504",
+    "geom:latitude":-18.13504,
+    "geom:longitude":-65.76242,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Torotoro"
+    ],
+    "name:deu_x_preferred":[
+        "Torotoro"
+    ],
+    "name:dut_x_preferred":[
+        "Torotoro"
+    ],
+    "name:eng_x_preferred":[
+        "Torotoro"
+    ],
+    "name:fra_x_preferred":[
+        "Torotoro"
+    ],
+    "name:fre_x_preferred":[
+        "Torotoro"
+    ],
+    "name:ger_x_preferred":[
+        "Torotoro"
+    ],
+    "name:que_x_preferred":[
+        "T'uru T'uru"
+    ],
+    "name:spa_x_preferred":[
+        "Toro Toro"
+    ],
+    "name:swe_x_preferred":[
+        "Torotoro"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3902587,
+    "qs:gn_pop":0,
+    "qs:name":"Torotoro",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"Potos\u00ed",
+    "qs:photos":38,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":38,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1341688,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":346657,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-18.133889,
+    "wd:longitude":-65.762778,
+    "wd:wordcount":111,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902587,
+        "gp:id":346657,
+        "qs:id":1341688,
+        "wd:id":"Q1001951",
+        "wk:page":"Torotoro, Bolivia"
+    },
+    "wof:country":"BO",
+    "wof:created":1459009480,
+    "wof:geomhash":"11a87ec30f0edcfba8d15fcdfac2a972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008737,
+            "locality_id":421186413,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":421186413,
+    "wof:lastmodified":1527716312,
+    "wof:name":"Torotoro",
+    "wof:parent_id":1092008737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.76242,
+    -18.13504,
+    -65.76242,
+    -18.13504
+],
+  "geometry": {"coordinates":[-65.76242000000001,-18.13504],"type":"Point"}
+}

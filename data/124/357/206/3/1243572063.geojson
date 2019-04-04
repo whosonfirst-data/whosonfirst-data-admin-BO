@@ -1,0 +1,73 @@
+{
+  "id": 1243572063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.96667,-20.15,-63.96667,-20.15",
+    "geom:latitude":-20.15,
+    "geom:longitude":-63.96667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Parachillo",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908546,
+    "gn:latitude":-20.15,
+    "gn:longitude":-63.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Parachillo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Perachillar",
+        "Perachilla",
+        "Parachillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908546
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"990b5d3fdbf8ce76c06c26de124c1b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005923,
+            "locality_id":1243572063,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1243572063,
+    "wof:lastmodified":1537587993,
+    "wof:name":"Parachillo",
+    "wof:parent_id":1092005923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.96666999999999,
+    -20.15,
+    -63.96666999999999,
+    -20.15
+],
+  "geometry": {"coordinates":[-63.96666999999999,-20.15],"type":"Point"}
+}

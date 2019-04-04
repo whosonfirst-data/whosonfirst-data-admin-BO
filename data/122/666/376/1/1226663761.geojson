@@ -1,0 +1,67 @@
+{
+  "id": 1226663761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.88333,-19.43333,-63.88333,-19.43333",
+    "geom:latitude":-19.43333,
+    "geom:longitude":-63.88333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Carapari",
+    "gn:country_code":"BO",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922016,
+    "gn:latitude":-19.43333,
+    "gn:longitude":-63.88333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Carapar\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922016
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0ea0d4ba80a416b927696e4062b348e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005959,
+            "locality_id":1226663761,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1226663761,
+    "wof:lastmodified":1536832525,
+    "wof:name":"Carapari",
+    "wof:parent_id":1092005959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.88333000000001,
+    -19.43333,
+    -63.88333000000001,
+    -19.43333
+],
+  "geometry": {"coordinates":[-63.88333000000001,-19.43333],"type":"Point"}
+}

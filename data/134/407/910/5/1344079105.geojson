@@ -1,0 +1,70 @@
+{
+  "id": 1344079105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.97582,-11.38273,-67.97582,-11.38273",
+    "geom:latitude":-11.38273,
+    "geom:longitude":-67.97582,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Pardo",
+    "gn:country_code":"BO",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504587,
+    "gn:latitude":-11.38273,
+    "gn:longitude":-67.97582,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Pardo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pardo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504587
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"eec5ee33f1b8e9fadfb868980678ea2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008461,
+            "locality_id":1344079105,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1344079105,
+    "wof:lastmodified":1537588185,
+    "wof:name":"Pardo",
+    "wof:parent_id":1092008461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.97582,
+    -11.38273,
+    -67.97582,
+    -11.38273
+],
+  "geometry": {"coordinates":[-67.97582,-11.38273],"type":"Point"}
+}

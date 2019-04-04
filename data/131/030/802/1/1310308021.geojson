@@ -1,0 +1,67 @@
+{
+  "id": 1310308021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.01246,-18.03123,-65.01246,-18.03123",
+    "geom:latitude":-18.03123,
+    "geom:longitude":-65.01246,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Curadero",
+    "gn:country_code":"BO",
+    "gn:dem":1676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918612,
+    "gn:latitude":-18.03123,
+    "gn:longitude":-65.01246,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Curadero",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918612
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"650cef95afa20e1402b85108652e0f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006465,
+            "locality_id":1310308021,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1310308021,
+    "wof:lastmodified":1536704526,
+    "wof:name":"Curadero",
+    "wof:parent_id":1092006465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.01246,
+    -18.03123,
+    -65.01246,
+    -18.03123
+],
+  "geometry": {"coordinates":[-65.01246,-18.03123],"type":"Point"}
+}

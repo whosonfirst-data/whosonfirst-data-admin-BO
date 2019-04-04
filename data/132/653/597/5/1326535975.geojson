@@ -1,0 +1,67 @@
+{
+  "id": 1326535975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.23333,-17.33333,-67.23333,-17.33333",
+    "geom:latitude":-17.33333,
+    "geom:longitude":-67.23333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Estancia Lujura",
+    "gn:country_code":"BO",
+    "gn:dem":4127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916744,
+    "gn:latitude":-17.33333,
+    "gn:longitude":-67.23333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Lujura",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916744
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"19e88e6b13e58a42aa6bcfe151b0ab68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007257,
+            "locality_id":1326535975,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1326535975,
+    "wof:lastmodified":1536978025,
+    "wof:name":"Estancia Lujura",
+    "wof:parent_id":1092007257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.23333000000001,
+    -17.33333,
+    -67.23333000000001,
+    -17.33333
+],
+  "geometry": {"coordinates":[-67.23333000000001,-17.33333],"type":"Point"}
+}

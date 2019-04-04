@@ -1,0 +1,67 @@
+{
+  "id": 1276553551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.96667,-17.41667,-66.96667,-17.41667",
+    "geom:latitude":-17.41667,
+    "geom:longitude":-66.96667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Estancia Sinrujakke",
+    "gn:country_code":"BO",
+    "gn:dem":4209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916230,
+    "gn:latitude":-17.41667,
+    "gn:longitude":-66.96667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Sinrujakke",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916230
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0bccc855aee879628f8e33d2907ea21a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007257,
+            "locality_id":1276553551,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1276553551,
+    "wof:lastmodified":1536980237,
+    "wof:name":"Estancia Sinrujakke",
+    "wof:parent_id":1092007257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.96667,
+    -17.41667,
+    -66.96667,
+    -17.41667
+],
+  "geometry": {"coordinates":[-66.96666999999999,-17.41667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310225105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.96667,-17.45,-62.96667,-17.45",
+    "geom:latitude":-17.45,
+    "geom:longitude":-62.96667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Compania",
+    "gn:country_code":"BO",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912350,
+    "gn:latitude":-17.45,
+    "gn:longitude":-62.96667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"La Compa\u00f1\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912350
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"319176b6a35c2c97605f6f13770964c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010083,
+            "locality_id":1310225105,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1310225105,
+    "wof:lastmodified":1536823141,
+    "wof:name":"La Compania",
+    "wof:parent_id":1092010083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.96666999999999,
+    -17.45,
+    -62.96666999999999,
+    -17.45
+],
+  "geometry": {"coordinates":[-62.96666999999999,-17.45],"type":"Point"}
+}

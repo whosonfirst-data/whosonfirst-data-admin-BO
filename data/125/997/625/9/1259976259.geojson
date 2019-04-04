@@ -1,0 +1,72 @@
+{
+  "id": 1259976259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.56667,-20.48333,-66.56667,-20.48333",
+    "geom:latitude":-20.48333,
+    "geom:longitude":-66.56667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"La Loma",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912035,
+    "gn:latitude":-20.48333,
+    "gn:longitude":-66.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Loma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ea Loma",
+        "La Loma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912035
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6186d57dea0216734e0614261c663197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177657,
+            "locality_id":1259976259,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1259976259,
+    "wof:lastmodified":1537588032,
+    "wof:name":"La Loma",
+    "wof:parent_id":421177657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.56667,
+    -20.48333,
+    -66.56667,
+    -20.48333
+],
+  "geometry": {"coordinates":[-66.56667,-20.48333],"type":"Point"}
+}

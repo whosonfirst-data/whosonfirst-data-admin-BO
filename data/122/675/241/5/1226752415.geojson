@@ -1,0 +1,67 @@
+{
+  "id": 1226752415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.48333,-19.35,-66.48333,-19.35",
+    "geom:latitude":-19.35,
+    "geom:longitude":-66.48333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tacacolque",
+    "gn:country_code":"BO",
+    "gn:dem":4524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903782,
+    "gn:latitude":-19.35,
+    "gn:longitude":-66.48333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Tacacolque",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092008219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903782
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8ab6cba5b8f63707decd7f6502408499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008219,
+            "locality_id":1226752415,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1226752415,
+    "wof:lastmodified":1536706145,
+    "wof:name":"Tacacolque",
+    "wof:parent_id":1092008219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.48333000000001,
+    -19.35,
+    -66.48333000000001,
+    -19.35
+],
+  "geometry": {"coordinates":[-66.48333000000001,-19.35],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343752557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.0185,-16.33196,-60.0185,-16.33196",
+    "geom:latitude":-16.33196,
+    "geom:longitude":-60.0185,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"San Antonio",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905856,
+    "gn:latitude":-16.33196,
+    "gn:longitude":-60.0185,
+    "gn:modification_date":"2012-08-16",
+    "gn:name":"San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parapet\u00ed",
+        "San Antonio del Parapet\u00ed",
+        "San Antonio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905856
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"55ead4aec48d5935d597779d3032ab7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1343752557,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1343752557,
+    "wof:lastmodified":1537587962,
+    "wof:name":"San Antonio",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.0185,
+    -16.33196,
+    -60.0185,
+    -16.33196
+],
+  "geometry": {"coordinates":[-60.0185,-16.33196],"type":"Point"}
+}

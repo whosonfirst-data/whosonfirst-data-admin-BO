@@ -1,0 +1,67 @@
+{
+  "id": 1209819423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.29284,-20.91054,-65.29284,-20.91054",
+    "geom:latitude":-20.91054,
+    "geom:longitude":-65.29284,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Estancia El Abra",
+    "gn:country_code":"BO",
+    "gn:dem":2825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917284,
+    "gn:latitude":-20.91054,
+    "gn:longitude":-65.29284,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia El Abra",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917284
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ca042954d3873aa003eb22fd0aa669a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006125,
+            "locality_id":1209819423,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1209819423,
+    "wof:lastmodified":1536380352,
+    "wof:name":"Estancia El Abra",
+    "wof:parent_id":1092006125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.29284,
+    -20.91054,
+    -65.29284,
+    -20.91054
+],
+  "geometry": {"coordinates":[-65.29284,-20.91054],"type":"Point"}
+}

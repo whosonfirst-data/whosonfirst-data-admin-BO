@@ -1,0 +1,68 @@
+{
+  "id": 1242601655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.02177,-17.37561,-68.02177,-17.37561",
+    "geom:latitude":-17.37561,
+    "geom:longitude":-68.02177,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Umala",
+    "gn:country_code":"BO",
+    "gn:dem":3836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902068,
+    "gn:latitude":-17.37561,
+    "gn:longitude":-68.02177,
+    "gn:modification_date":"2012-08-16",
+    "gn:name":"Umala",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092006923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902068,
+        "wk:page":"Umala"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"92c1f5e0065de793bd74f3e90c1fbc73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006923,
+            "locality_id":1242601655,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1242601655,
+    "wof:lastmodified":1537487864,
+    "wof:name":"Umala",
+    "wof:parent_id":1092006923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.02176999999999,
+    -17.37561,
+    -68.02176999999999,
+    -17.37561
+],
+  "geometry": {"coordinates":[-68.02176999999999,-17.37561],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327134891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.91667,-17.38333,-67.91667,-17.38333",
+    "geom:latitude":-17.38333,
+    "geom:longitude":-67.91667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"San Jose de Fifi",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905541,
+    "gn:latitude":-17.38333,
+    "gn:longitude":-67.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Jos\u00e9 de Fifi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia San Jos\u00e9",
+        "San Jos\u00e9 de Fifi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092006923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905541
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c82949a6bca678254644f139f4950d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006923,
+            "locality_id":1327134891,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1327134891,
+    "wof:lastmodified":1537587959,
+    "wof:name":"San Jose de Fifi",
+    "wof:parent_id":1092006923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.91667,
+    -17.38332999999999,
+    -67.91667,
+    -17.38332999999999
+],
+  "geometry": {"coordinates":[-67.91667,-17.38332999999999],"type":"Point"}
+}

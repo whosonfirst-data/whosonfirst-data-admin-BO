@@ -1,0 +1,72 @@
+{
+  "id": 1226449903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.03333,-13.61667,-63.03333,-13.61667",
+    "geom:latitude":-13.61667,
+    "geom:longitude":-63.03333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ascension",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923645,
+    "gn:latitude":-13.61667,
+    "gn:longitude":-63.03333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ascensi\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ascenci\u00f3n",
+        "Ascensi\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923645
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4884ab54c7503285c0ca71cbfa598352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005711,
+            "locality_id":1226449903,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1226449903,
+    "wof:lastmodified":1537588149,
+    "wof:name":"Ascension",
+    "wof:parent_id":1092005711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.03333000000001,
+    -13.61667,
+    -63.03333000000001,
+    -13.61667
+],
+  "geometry": {"coordinates":[-63.03333000000001,-13.61667],"type":"Point"}
+}

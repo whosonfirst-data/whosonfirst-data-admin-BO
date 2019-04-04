@@ -1,0 +1,67 @@
+{
+  "id": 1259396879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.35464,-19.04947,-65.35464,-19.04947",
+    "geom:latitude":-19.04947,
+    "geom:longitude":-65.35464,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Estancia Rufo",
+    "gn:country_code":"BO",
+    "gn:dem":2956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916340,
+    "gn:latitude":-19.04947,
+    "gn:longitude":-65.35464,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Rufo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916340
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2d9bdbb51ac02a5c8bf500e3d8c27016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1259396879,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1259396879,
+    "wof:lastmodified":1536982247,
+    "wof:name":"Estancia Rufo",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.35464,
+    -19.04947,
+    -65.35464,
+    -19.04947
+],
+  "geometry": {"coordinates":[-65.35464,-19.04947],"type":"Point"}
+}

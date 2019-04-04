@@ -1,0 +1,67 @@
+{
+  "id": 1293003833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.63333,-17.61667,-65.63333,-17.61667",
+    "geom:latitude":-17.61667,
+    "geom:longitude":-65.63333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rodeo",
+    "gn:country_code":"BO",
+    "gn:dem":3511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906377,
+    "gn:latitude":-17.61667,
+    "gn:longitude":-65.63333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Rodeo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906377
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"dbdb251df343745b9b6d29be8c1d3ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006291,
+            "locality_id":1293003833,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1293003833,
+    "wof:lastmodified":1536986439,
+    "wof:name":"Rodeo",
+    "wof:parent_id":1092006291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.63333,
+    -17.61667000000001,
+    -65.63333,
+    -17.61667000000001
+],
+  "geometry": {"coordinates":[-65.63333,-17.61667000000001],"type":"Point"}
+}

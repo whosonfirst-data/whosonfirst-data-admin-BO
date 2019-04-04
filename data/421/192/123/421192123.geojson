@@ -1,0 +1,79 @@
+{
+  "id": 421192123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.2,-19.0,-65.2,-19.0",
+    "geom:latitude":-19.0,
+    "geom:longitude":-65.2,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Arabete"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3923788,
+    "qs:gn_pop":0,
+    "qs:name":"Arabate",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"Chuquisaca",
+    "qs:photos":201,
+    "qs:photos_1k":41,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":201,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165246,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":333423,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923788,
+        "gp:id":333423,
+        "qs:id":1165246
+    },
+    "wof:country":"BO",
+    "wof:created":1459009726,
+    "wof:geomhash":"9a1aae52efaf98e8d03b1fdd8cb8120e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":421192123,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":421192123,
+    "wof:lastmodified":1501269287,
+    "wof:name":"Arabate",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.2,
+    -19.0,
+    -65.2,
+    -19.0
+],
+  "geometry": {"coordinates":[-65.2,-19.0],"type":"Point"}
+}

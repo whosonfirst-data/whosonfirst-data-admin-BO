@@ -1,0 +1,64 @@
+{
+  "id": 1209407259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.80726,-11.74588,-68.80726,-11.74588",
+    "geom:latitude":-11.74588,
+    "geom:longitude":-68.80726,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"La Ley",
+    "gn:country_code":"BO",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912043,
+    "gn:latitude":-11.74588,
+    "gn:longitude":-68.80726,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"La Ley",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Ley"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912043
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"72badf392caa0bfd2dc3be0539eb7759",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209407259
+        }
+    ],
+    "wof:id":1209407259,
+    "wof:lastmodified":1537588033,
+    "wof:name":"La Ley",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.80726,
+    -11.74588,
+    -68.80726,
+    -11.74588
+],
+  "geometry": {"coordinates":[-68.80726,-11.74588],"type":"Point"}
+}

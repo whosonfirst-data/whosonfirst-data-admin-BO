@@ -1,0 +1,67 @@
+{
+  "id": 1242597721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.72131,-19.83159,-62.72131,-19.83159",
+    "geom:latitude":-19.83159,
+    "geom:longitude":-62.72131,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Comunidad Isiporenda",
+    "gn:country_code":"BO",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8521798,
+    "gn:latitude":-19.83159,
+    "gn:longitude":-62.72131,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Comunidad Isiporenda",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8521798
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"93f600f855761f4f9182f8ca7be6841e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1242597721,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1242597721,
+    "wof:lastmodified":1537033278,
+    "wof:name":"Comunidad Isiporenda",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.72131,
+    -19.83159,
+    -62.72131,
+    -19.83159
+],
+  "geometry": {"coordinates":[-62.72131,-19.83159],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344266605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.27652,-19.18349,-65.27652,-19.18349",
+    "geom:latitude":-19.18349,
+    "geom:longitude":-65.27652,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Estancia Llaulli Pampa",
+    "gn:country_code":"BO",
+    "gn:dem":2452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3970168,
+    "gn:latitude":-19.18349,
+    "gn:longitude":-65.27652,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Llaulli Pampa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3970168
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"217d57ddf0be5f8127f0e53b061a4006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1344266605,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1344266605,
+    "wof:lastmodified":1537072076,
+    "wof:name":"Estancia Llaulli Pampa",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.27651999999999,
+    -19.18349,
+    -65.27651999999999,
+    -19.18349
+],
+  "geometry": {"coordinates":[-65.27651999999999,-19.18349],"type":"Point"}
+}

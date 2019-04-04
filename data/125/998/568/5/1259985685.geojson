@@ -1,0 +1,67 @@
+{
+  "id": 1259985685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.73333,-17.4,-68.73333,-17.4",
+    "geom:latitude":-17.4,
+    "geom:longitude":-68.73333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ocorani",
+    "gn:country_code":"BO",
+    "gn:dem":3878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909408,
+    "gn:latitude":-17.4,
+    "gn:longitude":-68.73333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Ocorani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909408
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"97b33bb56ce46b6fbfeb37faf031645e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1259985685,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1259985685,
+    "wof:lastmodified":1536630302,
+    "wof:name":"Ocorani",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.73333000000001,
+    -17.4,
+    -68.73333000000001,
+    -17.4
+],
+  "geometry": {"coordinates":[-68.73333000000001,-17.4],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226646953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.03333,-15.43333,-69.03333,-15.43333",
+    "geom:latitude":-15.43333,
+    "geom:longitude":-69.03333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Saihuani",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906134,
+    "gn:latitude":-15.43333,
+    "gn:longitude":-69.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Saihuani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Saihuani",
+        "Saihuani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906134
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"429778b2abc242691841f46289e5346a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007003,
+            "locality_id":1226646953,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1226646953,
+    "wof:lastmodified":1537587964,
+    "wof:name":"Saihuani",
+    "wof:parent_id":1092007003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.03333,
+    -15.43333,
+    -69.03333,
+    -15.43333
+],
+  "geometry": {"coordinates":[-69.03333000000001,-15.43333],"type":"Point"}
+}

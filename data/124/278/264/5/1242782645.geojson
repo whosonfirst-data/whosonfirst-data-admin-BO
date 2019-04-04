@@ -1,0 +1,67 @@
+{
+  "id": 1242782645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.73736,-18.95505,-68.73736,-18.95505",
+    "geom:latitude":-18.95505,
+    "geom:longitude":-68.73736,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Estancia Pucu Pucuni",
+    "gn:country_code":"BO",
+    "gn:dem":4171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916412,
+    "gn:latitude":-18.95505,
+    "gn:longitude":-68.73736,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Pucu Pucuni",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092007975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916412
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0c53e4c9f521a2fbb3105f8e96f466c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007975,
+            "locality_id":1242782645,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1242782645,
+    "wof:lastmodified":1536768740,
+    "wof:name":"Estancia Pucu Pucuni",
+    "wof:parent_id":1092007975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.73736,
+    -18.95505,
+    -68.73736,
+    -18.95505
+],
+  "geometry": {"coordinates":[-68.73736,-18.95505],"type":"Point"}
+}

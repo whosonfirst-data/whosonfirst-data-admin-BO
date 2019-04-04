@@ -1,0 +1,61 @@
+{
+  "id": 1209639261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.2,-16.06667,-67.2,-16.06667",
+    "geom:latitude":-16.06667,
+    "geom:longitude":-67.2,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Coroiquillo",
+    "gn:country_code":"BO",
+    "gn:dem":2025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919081,
+    "gn:latitude":-16.06667,
+    "gn:longitude":-67.2,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Coroiquillo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919081
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2bb730302a46da6c672dfc40de92608a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209639261
+        }
+    ],
+    "wof:id":1209639261,
+    "wof:lastmodified":1536280936,
+    "wof:name":"Coroiquillo",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.2,
+    -16.066670000000002,
+    -67.2,
+    -16.066670000000002
+],
+  "geometry": {"coordinates":[-67.2,-16.06667],"type":"Point"}
+}

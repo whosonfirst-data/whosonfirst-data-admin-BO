@@ -1,0 +1,72 @@
+{
+  "id": 1260291013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.53333,-16.78333,-68.53333,-16.78333",
+    "geom:latitude":-16.78333,
+    "geom:longitude":-68.53333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cancahuani",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922286,
+    "gn:latitude":-16.78333,
+    "gn:longitude":-68.53333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cancahuani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Cancahuani",
+        "Cancahuani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922286
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"dea3ac992f579b52ed8ab6fcc7ff420c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007213,
+            "locality_id":1260291013,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1260291013,
+    "wof:lastmodified":1537588133,
+    "wof:name":"Cancahuani",
+    "wof:parent_id":1092007213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.53333,
+    -16.78333,
+    -68.53333,
+    -16.78333
+],
+  "geometry": {"coordinates":[-68.53333000000001,-16.78333],"type":"Point"}
+}

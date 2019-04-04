@@ -1,0 +1,73 @@
+{
+  "id": 1343255167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.26667,-18.8,-60.26667,-18.8",
+    "geom:latitude":-18.8,
+    "geom:longitude":-60.26667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Casa de Palma",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921865,
+    "gn:latitude":-18.8,
+    "gn:longitude":-60.26667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Casa de Palma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casa Palma",
+        "Casa de la Palma",
+        "Casa de Palma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921865
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d12439c7bbe8b85dfbfb4fa36c76f196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1343255167,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1343255167,
+    "wof:lastmodified":1537588126,
+    "wof:name":"Casa de Palma",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.26667,
+    -18.8,
+    -60.26667,
+    -18.8
+],
+  "geometry": {"coordinates":[-60.26667,-18.8],"type":"Point"}
+}

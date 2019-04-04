@@ -1,0 +1,67 @@
+{
+  "id": 1326630701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.56667,-17.06667,-67.56667,-17.06667",
+    "geom:latitude":-17.06667,
+    "geom:longitude":-67.56667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cutimarca",
+    "gn:country_code":"BO",
+    "gn:dem":3382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918521,
+    "gn:latitude":-17.06667,
+    "gn:longitude":-67.56667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Cutimarca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918521
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"dd2bfc2f4386250840985f7d0b5f8453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182435,
+            "locality_id":1326630701,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1326630701,
+    "wof:lastmodified":1536840981,
+    "wof:name":"Cutimarca",
+    "wof:parent_id":421182435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.56667,
+    -17.06667,
+    -67.56667,
+    -17.06667
+],
+  "geometry": {"coordinates":[-67.56667,-17.06667],"type":"Point"}
+}

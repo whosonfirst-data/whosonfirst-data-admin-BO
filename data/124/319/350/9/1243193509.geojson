@@ -1,0 +1,67 @@
+{
+  "id": 1243193509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.7,-19.3,-65.7,-19.3",
+    "geom:latitude":-19.3,
+    "geom:longitude":-65.7,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Cajas",
+    "gn:country_code":"BO",
+    "gn:dem":3752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922713,
+    "gn:latitude":-19.3,
+    "gn:longitude":-65.7,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Cajas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922713
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"216878ad11149328d6526d02b3108b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177665,
+            "locality_id":1243193509,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1243193509,
+    "wof:lastmodified":1536673202,
+    "wof:name":"Cajas",
+    "wof:parent_id":421177665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.7,
+    -19.3,
+    -65.7,
+    -19.3
+],
+  "geometry": {"coordinates":[-65.7,-19.3],"type":"Point"}
+}

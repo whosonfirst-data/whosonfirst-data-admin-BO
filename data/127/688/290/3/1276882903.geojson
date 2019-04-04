@@ -1,0 +1,70 @@
+{
+  "id": 1276882903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.42861,-19.04611,-65.42861,-19.04611",
+    "geom:latitude":-19.04611,
+    "geom:longitude":-65.42861,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"11.0",
+    "gn:asciiname":"Maragua",
+    "gn:country_code":"BO",
+    "gn:dem":3104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":3910743,
+    "gn:latitude":-19.04611,
+    "gn:longitude":-65.42861,
+    "gn:modification_date":"2011-07-31",
+    "gn:name":"Maragua",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910743
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6e68afe404876e47dfb04952e6b4ee72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1276882903,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1276882903,
+    "wof:lastmodified":1537035422,
+    "wof:name":"Maragua",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.42860999999999,
+    -19.04611,
+    -65.42860999999999,
+    -19.04611
+],
+  "geometry": {"coordinates":[-65.42860999999999,-19.04611],"type":"Point"}
+}

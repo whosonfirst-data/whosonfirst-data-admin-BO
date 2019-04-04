@@ -1,0 +1,72 @@
+{
+  "id": 1259577691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.21667,-21.36667,-66.21667,-21.36667",
+    "geom:latitude":-21.36667,
+    "geom:longitude":-66.21667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Beata",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923266,
+    "gn:latitude":-21.36667,
+    "gn:longitude":-66.21667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Beata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deata",
+        "Beata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923266
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"de3bb5db7bb2712875a944eb58ec633f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":1259577691,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1259577691,
+    "wof:lastmodified":1537588145,
+    "wof:name":"Beata",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.21667,
+    -21.36667000000001,
+    -66.21667,
+    -21.36667000000001
+],
+  "geometry": {"coordinates":[-66.21666999999999,-21.36667000000001],"type":"Point"}
+}

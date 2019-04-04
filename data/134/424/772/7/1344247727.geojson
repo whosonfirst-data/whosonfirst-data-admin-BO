@@ -1,0 +1,72 @@
+{
+  "id": 1344247727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.01667,-17.18333,-63.01667,-17.18333",
+    "geom:latitude":-17.18333,
+    "geom:longitude":-63.01667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Envidia",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912271,
+    "gn:latitude":-17.18333,
+    "gn:longitude":-63.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Envidia",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad La Envidia",
+        "La Envidia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912271
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0f6b11af8d2de8d009fcba4d51d08b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010083,
+            "locality_id":1344247727,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1344247727,
+    "wof:lastmodified":1537588036,
+    "wof:name":"La Envidia",
+    "wof:parent_id":1092010083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.01667,
+    -17.18333,
+    -63.01667,
+    -17.18333
+],
+  "geometry": {"coordinates":[-63.01667,-17.18333],"type":"Point"}
+}

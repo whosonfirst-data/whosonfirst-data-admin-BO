@@ -1,0 +1,64 @@
+{
+  "id": 1209336627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.65001,-11.20429,-68.65001,-11.20429",
+    "geom:latitude":-11.20429,
+    "geom:longitude":-68.65001,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Comunidad Tres Blancas",
+    "gn:country_code":"BO",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11498740,
+    "gn:latitude":-11.20429,
+    "gn:longitude":-68.65001,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Comunidad Tres Blancas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Comunidad Tres Blancas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11498740
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"633e13f08bdc11d9d8ff9028bea57533",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209336627
+        }
+    ],
+    "wof:id":1209336627,
+    "wof:lastmodified":1537588167,
+    "wof:name":"Comunidad Tres Blancas",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.65001,
+    -11.20429,
+    -68.65001,
+    -11.20429
+],
+  "geometry": {"coordinates":[-68.65000999999999,-11.20429],"type":"Point"}
+}

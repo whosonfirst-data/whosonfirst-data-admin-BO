@@ -1,0 +1,65 @@
+{
+  "id": 1209414203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.10741,-18.07428,-68.10741,-18.07428",
+    "geom:latitude":-18.07428,
+    "geom:longitude":-68.10741,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Huajlla Pucara",
+    "gn:country_code":"BO",
+    "gn:dem":3987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914985,
+    "gn:latitude":-18.07428,
+    "gn:longitude":-68.10741,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Huajlla Pucara",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Huaylla Pucara",
+        "Huajlla Pucara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914985
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"eaae9aa7e45e9ca75079c6ba14b8c455",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209414203
+        }
+    ],
+    "wof:id":1209414203,
+    "wof:lastmodified":1537588067,
+    "wof:name":"Huajlla Pucara",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.10741,
+    -18.07428,
+    -68.10741,
+    -18.07428
+],
+  "geometry": {"coordinates":[-68.10741,-18.07428],"type":"Point"}
+}

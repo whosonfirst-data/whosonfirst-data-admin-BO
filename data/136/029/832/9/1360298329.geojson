@@ -1,0 +1,74 @@
+{
+  "id": 1360298329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.6,-17.73333,-65.6,-17.73333",
+    "geom:latitude":-17.73333,
+    "geom:longitude":-65.6,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ayapampa",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923500,
+    "gn:latitude":-17.73333,
+    "gn:longitude":-65.6,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ayapampa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palca",
+        "Ayacucho",
+        "Ayampampa",
+        "Ayapampa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923500
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"dd576de5db072791f9881efde1d637fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006697,
+            "locality_id":1360298329,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1360298329,
+    "wof:lastmodified":1537588148,
+    "wof:name":"Ayapampa",
+    "wof:parent_id":1092006697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.6,
+    -17.73333,
+    -65.6,
+    -17.73333
+],
+  "geometry": {"coordinates":[-65.59999999999999,-17.73333],"type":"Point"}
+}

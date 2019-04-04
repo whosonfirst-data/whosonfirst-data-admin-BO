@@ -1,0 +1,76 @@
+{
+  "id": 1327232633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.95505,-16.17729,-68.95505,-16.17729",
+    "geom:latitude":-16.17729,
+    "geom:longitude":-68.95505,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tito Yupamqui",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902864,
+    "gn:latitude":-16.17729,
+    "gn:longitude":-68.95505,
+    "gn:modification_date":"2012-08-16",
+    "gn:name":"Tito Yupamqui",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parquipujo",
+        "Putuhuyu",
+        "Parquipujio",
+        "Tito Yupanqui",
+        "Tito Yupamqui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421187909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902864,
+        "wk:page":"Tito_Yupanqui%2C_Bolivia"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0954f7764659096b32391b495f8ac01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187909,
+            "locality_id":1327232633,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1327232633,
+    "wof:lastmodified":1537587931,
+    "wof:name":"Tito Yupamqui",
+    "wof:parent_id":421187909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.95505,
+    -16.17729,
+    -68.95505,
+    -16.17729
+],
+  "geometry": {"coordinates":[-68.95505,-16.17729],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226643225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.19586,-18.09439,-63.19586,-18.09439",
+    "geom:latitude":-18.09439,
+    "geom:longitude":-63.19586,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Monte Grande",
+    "gn:country_code":"BO",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910064,
+    "gn:latitude":-18.09439,
+    "gn:longitude":-63.19586,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Monte Grande",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad Monte Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421187923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910064
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"678c8349267abbca95da789b4b10aa6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187923,
+            "locality_id":1226643225,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1226643225,
+    "wof:lastmodified":1537588010,
+    "wof:name":"Monte Grande",
+    "wof:parent_id":421187923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.19586,
+    -18.09439,
+    -63.19586,
+    -18.09439
+],
+  "geometry": {"coordinates":[-63.19586,-18.09439],"type":"Point"}
+}

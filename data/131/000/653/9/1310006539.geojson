@@ -1,0 +1,72 @@
+{
+  "id": 1310006539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.26667,-17.21667,-69.26667,-17.21667",
+    "geom:latitude":-17.21667,
+    "geom:longitude":-69.26667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kallasaya",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913064,
+    "gn:latitude":-17.21667,
+    "gn:longitude":-69.26667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kallasaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kallasa",
+        "Kallasaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913064
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"76434e44b7fe620348091727c53d663b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007133,
+            "locality_id":1310006539,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1310006539,
+    "wof:lastmodified":1537588044,
+    "wof:name":"Kallasaya",
+    "wof:parent_id":1092007133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.26666999999999,
+    -17.21667,
+    -69.26666999999999,
+    -17.21667
+],
+  "geometry": {"coordinates":[-69.26666999999999,-17.21667],"type":"Point"}
+}

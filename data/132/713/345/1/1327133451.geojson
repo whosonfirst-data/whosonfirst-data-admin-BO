@@ -1,0 +1,67 @@
+{
+  "id": 1327133451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.66156,-18.22293,-68.66156,-18.22293",
+    "geom:latitude":-18.22293,
+    "geom:longitude":-68.66156,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Estancia Sapujo",
+    "gn:country_code":"BO",
+    "gn:dem":3881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3968939,
+    "gn:latitude":-18.22293,
+    "gn:longitude":-68.66156,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Sapujo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        421204017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3968939
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9cfd5a7e2eb60b630cf28a4fe87711fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421204017,
+            "locality_id":1327133451,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1327133451,
+    "wof:lastmodified":1536612104,
+    "wof:name":"Estancia Sapujo",
+    "wof:parent_id":421204017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.66156,
+    -18.22293,
+    -68.66156,
+    -18.22293
+],
+  "geometry": {"coordinates":[-68.66155999999999,-18.22293],"type":"Point"}
+}

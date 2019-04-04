@@ -1,0 +1,82 @@
+{
+  "id": 1293583845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.67227,-22.1803,-64.67227,-22.1803",
+    "geom:latitude":-22.1803,
+    "geom:longitude":-64.67227,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Capilla de Bermejo",
+    "gn:country_code":"BO",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922132,
+    "gn:latitude":-22.1803,
+    "gn:longitude":-64.67227,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Capilla de Bermejo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bermejo",
+        "La Capilla de Bermejo",
+        "Capilla de Bermejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421181251,
+        85632623,
+        85669431,
+        421182443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922132
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c42677cb3a4f26224713fbe171c7feae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421181251,
+            "locality_id":1293583845,
+            "region_id":85668049
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182443,
+            "locality_id":1293583845,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1293583845,
+    "wof:lastmodified":1537588131,
+    "wof:name":"Capilla de Bermejo",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.67227,
+    -22.1803,
+    -64.67227,
+    -22.1803
+],
+  "geometry": {"coordinates":[-64.67227,-22.1803],"type":"Point"}
+}

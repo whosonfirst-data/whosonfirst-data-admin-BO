@@ -1,0 +1,73 @@
+{
+  "id": 1310012089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.31808,-15.539,-69.31808,-15.539",
+    "geom:latitude":-15.539,
+    "geom:longitude":-69.31808,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Orurillo Centro",
+    "gn:country_code":"BO",
+    "gn:dem":3922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916588,
+    "gn:latitude":-15.539,
+    "gn:longitude":-69.31808,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Orurillo Centro",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Orurillo Centro"
+    ],
+    "name:spa_x_variant":[
+        "Estancia Ororille"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916588
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"97717242111aadf8ce298d90858129f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007003,
+            "locality_id":1310012089,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1310012089,
+    "wof:lastmodified":1537588078,
+    "wof:name":"Orurillo Centro",
+    "wof:parent_id":1092007003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.31808000000001,
+    -15.539,
+    -69.31808000000001,
+    -15.539
+],
+  "geometry": {"coordinates":[-69.31808000000001,-15.539],"type":"Point"}
+}

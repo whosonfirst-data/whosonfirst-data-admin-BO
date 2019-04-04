@@ -1,0 +1,92 @@
+{
+  "id": 1293013427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.03825,-17.39799,-66.03825,-17.39799",
+    "geom:latitude":-17.39799,
+    "geom:longitude":-66.03825,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sacaba",
+    "gn:country_code":"BO",
+    "gn:dem":2710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906194,
+    "gn:latitude":-17.39799,
+    "gn:longitude":-66.03825,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Sacaba",
+    "gn:population":107628,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d9\u10d0\u10d1\u10d0"
+    ],
+    "name:lit_x_preferred":[
+        "Sakaba"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043a\u0430\u0431\u0430"
+    ],
+    "name:que_x_preferred":[
+        "Sakawa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043a\u0430\u0431\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u06a9\u0628\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u5361\u74e6"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        421172489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906194,
+        "wk:page":"Sacaba"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"68ff05db45c026b95bb795191dca8e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421172489,
+            "locality_id":1293013427,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1293013427,
+    "wof:lastmodified":1537587965,
+    "wof:name":"Sacaba",
+    "wof:parent_id":421172489,
+    "wof:placetype":"locality",
+    "wof:population":107628,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.03825,
+    -17.39799,
+    -66.03825,
+    -17.39799
+],
+  "geometry": {"coordinates":[-66.03825000000001,-17.39799],"type":"Point"}
+}

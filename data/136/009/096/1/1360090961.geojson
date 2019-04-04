@@ -1,0 +1,67 @@
+{
+  "id": 1360090961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.25,-17.18333,-67.25,-17.18333",
+    "geom:latitude":-17.18333,
+    "geom:longitude":-67.25,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Estancia Jantha",
+    "gn:country_code":"BO",
+    "gn:dem":3935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917034,
+    "gn:latitude":-17.18333,
+    "gn:longitude":-67.25,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Jantha",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917034
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6e31c7f46077fc6c8b3f98cfd22455f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007257,
+            "locality_id":1360090961,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1360090961,
+    "wof:lastmodified":1536937903,
+    "wof:name":"Estancia Jantha",
+    "wof:parent_id":1092007257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.25,
+    -17.18333,
+    -67.25,
+    -17.18333
+],
+  "geometry": {"coordinates":[-67.25,-17.18333],"type":"Point"}
+}

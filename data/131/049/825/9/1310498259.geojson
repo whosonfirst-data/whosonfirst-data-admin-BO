@@ -1,0 +1,71 @@
+{
+  "id": 1310498259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.57709,-18.94519,-65.57709,-18.94519",
+    "geom:latitude":-18.94519,
+    "geom:longitude":-65.57709,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yoraka",
+    "gn:country_code":"BO",
+    "gn:dem":3108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3900952,
+    "gn:latitude":-18.94519,
+    "gn:longitude":-65.57709,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Yoraka",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad Yorakha",
+        "Yoraka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3900952
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9485dbf344b1b9473351fa25f444fe41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008791,
+            "locality_id":1310498259,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1310498259,
+    "wof:lastmodified":1537587905,
+    "wof:name":"Yoraka",
+    "wof:parent_id":1092008791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.57709,
+    -18.94519,
+    -65.57709,
+    -18.94519
+],
+  "geometry": {"coordinates":[-65.57709,-18.94519],"type":"Point"}
+}

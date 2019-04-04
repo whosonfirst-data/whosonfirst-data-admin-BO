@@ -1,0 +1,72 @@
+{
+  "id": 1327425605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.4,-20.9,-66.4,-20.9",
+    "geom:latitude":-20.9,
+    "geom:longitude":-66.4,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chairumani",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921454,
+    "gn:latitude":-20.9,
+    "gn:longitude":-66.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chairumani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Clairumani",
+        "Chairumani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921454
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0e4f64d72757c9988eb68e8f35a9473a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177657,
+            "locality_id":1327425605,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1327425605,
+    "wof:lastmodified":1537588120,
+    "wof:name":"Chairumani",
+    "wof:parent_id":421177657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.4,
+    -20.9,
+    -66.4,
+    -20.9
+],
+  "geometry": {"coordinates":[-66.40000000000001,-20.9],"type":"Point"}
+}

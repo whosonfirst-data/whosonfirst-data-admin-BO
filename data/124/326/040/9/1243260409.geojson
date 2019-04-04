@@ -1,0 +1,67 @@
+{
+  "id": 1243260409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.37661,-18.57799,-66.37661,-18.57799",
+    "geom:latitude":-18.57799,
+    "geom:longitude":-66.37661,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Capa Sirca",
+    "gn:country_code":"BO",
+    "gn:dem":3851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922155,
+    "gn:latitude":-18.57799,
+    "gn:longitude":-66.37661,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Capa Sirca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922155
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"791e5360cf7f33630009b1b6d2c85749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009153,
+            "locality_id":1243260409,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1243260409,
+    "wof:lastmodified":1537070696,
+    "wof:name":"Capa Sirca",
+    "wof:parent_id":1092009153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.37661,
+    -18.57799,
+    -66.37661,
+    -18.57799
+],
+  "geometry": {"coordinates":[-66.37661,-18.57799],"type":"Point"}
+}

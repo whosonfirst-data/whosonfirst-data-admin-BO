@@ -1,0 +1,73 @@
+{
+  "id": 1276337819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.98333,-17.8,-65.98333,-17.8",
+    "geom:latitude":-17.8,
+    "geom:longitude":-65.98333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tigrasca",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903007,
+    "gn:latitude":-17.8,
+    "gn:longitude":-65.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tigrasca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tijrasca",
+        "Ticrasca",
+        "Tigrasca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        421185047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903007
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d8cf23fd3dbee33a0ff9bff1bb4ad762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421185047,
+            "locality_id":1276337819,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1276337819,
+    "wof:lastmodified":1537587933,
+    "wof:name":"Tigrasca",
+    "wof:parent_id":421185047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.98333000000001,
+    -17.8,
+    -65.98333000000001,
+    -17.8
+],
+  "geometry": {"coordinates":[-65.98333000000001,-17.8],"type":"Point"}
+}

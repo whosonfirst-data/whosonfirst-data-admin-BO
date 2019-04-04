@@ -1,0 +1,67 @@
+{
+  "id": 1293402971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.14624,-18.60202,-65.14624,-18.60202",
+    "geom:latitude":-18.60202,
+    "geom:longitude":-65.14624,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Estancia Mataral",
+    "gn:country_code":"BO",
+    "gn:dem":1520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916693,
+    "gn:latitude":-18.60202,
+    "gn:longitude":-65.14624,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Mataral",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916693
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f9426a68e9d6d36cdb7cff72faff3e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006465,
+            "locality_id":1293402971,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1293402971,
+    "wof:lastmodified":1536909098,
+    "wof:name":"Estancia Mataral",
+    "wof:parent_id":1092006465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.14624,
+    -18.60202,
+    -65.14624,
+    -18.60202
+],
+  "geometry": {"coordinates":[-65.14624000000001,-18.60202],"type":"Point"}
+}

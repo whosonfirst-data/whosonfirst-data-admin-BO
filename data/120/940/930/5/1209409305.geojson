@@ -1,0 +1,65 @@
+{
+  "id": 1209409305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.89974,-19.89953,-66.89974,-19.89953",
+    "geom:latitude":-19.89953,
+    "geom:longitude":-66.89974,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Quegua",
+    "gn:country_code":"BO",
+    "gn:dem":3823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906935,
+    "gn:latitude":-19.89953,
+    "gn:longitude":-66.89974,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Quegua",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quehua",
+        "Quegua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906935
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5f51061198314f09c427f1497b1ddd7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209409305
+        }
+    ],
+    "wof:id":1209409305,
+    "wof:lastmodified":1537587974,
+    "wof:name":"Quegua",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.89974000000001,
+    -19.89953,
+    -66.89974000000001,
+    -19.89953
+],
+  "geometry": {"coordinates":[-66.89974000000001,-19.89953],"type":"Point"}
+}

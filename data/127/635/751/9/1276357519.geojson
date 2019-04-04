@@ -1,0 +1,73 @@
+{
+  "id": 1276357519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.48333,-21.71667,-67.48333,-21.71667",
+    "geom:latitude":-21.71667,
+    "geom:longitude":-67.48333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Molleucueva",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910117,
+    "gn:latitude":-21.71667,
+    "gn:longitude":-67.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Molleucueva",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maiconcueva",
+        "Malcuneueva",
+        "Molleucueva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910117
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"463ef68b1d0f9777bf2419d198f3526f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193357,
+            "locality_id":1276357519,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1276357519,
+    "wof:lastmodified":1537588011,
+    "wof:name":"Molleucueva",
+    "wof:parent_id":421193357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.48333000000001,
+    -21.71667,
+    -67.48333000000001,
+    -21.71667
+],
+  "geometry": {"coordinates":[-67.48333000000001,-21.71667],"type":"Point"}
+}

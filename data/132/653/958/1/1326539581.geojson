@@ -1,0 +1,67 @@
+{
+  "id": 1326539581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.26667,-18.91667,-65.26667,-18.91667",
+    "geom:latitude":-18.91667,
+    "geom:longitude":-65.26667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sibisto",
+    "gn:country_code":"BO",
+    "gn:dem":2938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904362,
+    "gn:latitude":-18.91667,
+    "gn:longitude":-65.26667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Sibisto",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904362
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"efd7b1af08f91f8267982054bd9f2645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1326539581,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1326539581,
+    "wof:lastmodified":1536972922,
+    "wof:name":"Sibisto",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.26666999999999,
+    -18.91667,
+    -65.26666999999999,
+    -18.91667
+],
+  "geometry": {"coordinates":[-65.26666999999999,-18.91667],"type":"Point"}
+}

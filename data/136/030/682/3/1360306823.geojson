@@ -1,0 +1,72 @@
+{
+  "id": 1360306823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.6,-20.13333,-68.6,-20.13333",
+    "geom:latitude":-20.13333,
+    "geom:longitude":-68.6,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Coiguane",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919933,
+    "gn:latitude":-20.13333,
+    "gn:longitude":-68.6,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Coiguane",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaiguane",
+        "Coiguane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919933
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"382cdedf936c9985d1f4878d3de9a6fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177659,
+            "locality_id":1360306823,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1360306823,
+    "wof:lastmodified":1537588104,
+    "wof:name":"Coiguane",
+    "wof:parent_id":421177659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.6,
+    -20.13333,
+    -68.6,
+    -20.13333
+],
+  "geometry": {"coordinates":[-68.59999999999999,-20.13333],"type":"Point"}
+}

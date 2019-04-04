@@ -1,0 +1,61 @@
+{
+  "id": 1209118859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.63333,-17.08333,-65.63333,-17.08333",
+    "geom:latitude":-17.08333,
+    "geom:longitude":-65.63333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Espiritu Santo",
+    "gn:country_code":"BO",
+    "gn:dem":1490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917833,
+    "gn:latitude":-17.08333,
+    "gn:longitude":-65.63333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Esp\u00edritu Santo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917833
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"59ba9d867ecaa2b39fe2edd2521a1ad0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209118859
+        }
+    ],
+    "wof:id":1209118859,
+    "wof:lastmodified":1536297167,
+    "wof:name":"Espiritu Santo",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.63333,
+    -17.08333,
+    -65.63333,
+    -17.08333
+],
+  "geometry": {"coordinates":[-65.63333,-17.08333],"type":"Point"}
+}

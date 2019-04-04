@@ -1,0 +1,72 @@
+{
+  "id": 1226231975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.67427,-21.93581,-64.67427,-21.93581",
+    "geom:latitude":-21.93581,
+    "geom:longitude":-64.67427,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Orozas Abajo",
+    "gn:country_code":"BO",
+    "gn:dem":1891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909242,
+    "gn:latitude":-21.93581,
+    "gn:longitude":-64.67427,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Orozas Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Orozas",
+        "Oroza Bajo",
+        "Orozas Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421182443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909242
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"64b66e1ee68a29690cae82cb0c72c477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182443,
+            "locality_id":1226231975,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1226231975,
+    "wof:lastmodified":1537588000,
+    "wof:name":"Orozas Abajo",
+    "wof:parent_id":421182443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.67426999999999,
+    -21.93581,
+    -64.67426999999999,
+    -21.93581
+],
+  "geometry": {"coordinates":[-64.67426999999999,-21.93581],"type":"Point"}
+}

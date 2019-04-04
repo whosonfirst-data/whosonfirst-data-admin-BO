@@ -1,0 +1,72 @@
+{
+  "id": 1360285895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.85,-17.33333,-67.85,-17.33333",
+    "geom:latitude":-17.33333,
+    "geom:longitude":-67.85,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chijmuni",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920856,
+    "gn:latitude":-17.33333,
+    "gn:longitude":-67.85,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chijmuni",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chicmuni",
+        "Chijmuni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092006923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920856
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"19ca67fb2070f90e0c222e68db41a6df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006923,
+            "locality_id":1360285895,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1360285895,
+    "wof:lastmodified":1537588114,
+    "wof:name":"Chijmuni",
+    "wof:parent_id":1092006923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.85,
+    -17.33333,
+    -67.85,
+    -17.33333
+],
+  "geometry": {"coordinates":[-67.84999999999999,-17.33333],"type":"Point"}
+}

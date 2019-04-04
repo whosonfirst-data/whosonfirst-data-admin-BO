@@ -1,0 +1,72 @@
+{
+  "id": 1243544201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.26667,-21.55,-65.26667,-21.55",
+    "geom:latitude":-21.55,
+    "geom:longitude":-65.26667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Paral Angosto",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908521,
+    "gn:latitude":-21.55,
+    "gn:longitude":-65.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Paral Angosto",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angosto",
+        "Paral Angosto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908521
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c4c9f8d0cc8fa486a61899784ddbb537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":1243544201,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1243544201,
+    "wof:lastmodified":1537587992,
+    "wof:name":"Paral Angosto",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.26666999999999,
+    -21.55,
+    -65.26666999999999,
+    -21.55
+],
+  "geometry": {"coordinates":[-65.26666999999999,-21.55],"type":"Point"}
+}

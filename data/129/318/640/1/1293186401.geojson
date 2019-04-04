@@ -1,0 +1,71 @@
+{
+  "id": 1293186401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.4554,-20.32795,-63.4554,-20.32795",
+    "geom:latitude":-20.32795,
+    "geom:longitude":-63.4554,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Curupaitai",
+    "gn:country_code":"BO",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918563,
+    "gn:latitude":-20.32795,
+    "gn:longitude":-63.4554,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Curupaitai",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Curupaital",
+        "Curupaitai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918563
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ceccffc3954ccff8a5f8f238dd25db4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1293186401,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1293186401,
+    "wof:lastmodified":1537588090,
+    "wof:name":"Curupaitai",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.4554,
+    -20.32795,
+    -63.4554,
+    -20.32795
+],
+  "geometry": {"coordinates":[-63.4554,-20.32795],"type":"Point"}
+}

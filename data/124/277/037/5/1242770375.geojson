@@ -1,0 +1,67 @@
+{
+  "id": 1242770375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.31667,-10.18333,-65.31667,-10.18333",
+    "geom:latitude":-10.18333,
+    "geom:longitude":-65.31667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Piedra Grande",
+    "gn:country_code":"BO",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907976,
+    "gn:latitude":-10.18333,
+    "gn:longitude":-65.31667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Piedra Grande",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        421177655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907976
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"49d1f297d28406c5e7d2c7880143f771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177655,
+            "locality_id":1242770375,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1242770375,
+    "wof:lastmodified":1536786531,
+    "wof:name":"Piedra Grande",
+    "wof:parent_id":421177655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.31667,
+    -10.18333,
+    -65.31667,
+    -10.18333
+],
+  "geometry": {"coordinates":[-65.31667,-10.18333],"type":"Point"}
+}

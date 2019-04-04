@@ -1,0 +1,67 @@
+{
+  "id": 1209823091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.4,-14.06667,-65.4,-14.06667",
+    "geom:latitude":-14.06667,
+    "geom:longitude":-65.4,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Venecia",
+    "gn:country_code":"BO",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901816,
+    "gn:latitude":-14.06667,
+    "gn:longitude":-65.4,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Venecia",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901816
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e2f8783d6f0fc0a104c432e7e6766277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005879,
+            "locality_id":1209823091,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1209823091,
+    "wof:lastmodified":1536376632,
+    "wof:name":"Venecia",
+    "wof:parent_id":1092005879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.4,
+    -14.06667,
+    -65.4,
+    -14.06667
+],
+  "geometry": {"coordinates":[-65.40000000000001,-14.06667],"type":"Point"}
+}

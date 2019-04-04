@@ -1,0 +1,71 @@
+{
+  "id": 1259388759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.66226,-15.7171,-68.66226,-15.7171",
+    "geom:latitude":-15.7171,
+    "geom:longitude":-68.66226,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tani",
+    "gn:country_code":"BO",
+    "gn:dem":2856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903485,
+    "gn:latitude":-15.7171,
+    "gn:longitude":-68.66226,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Ta\u00f1i",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta\u00f1i",
+        "Tani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421187929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903485
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d4dc78125c41349fcc7740e18dfa412b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187929,
+            "locality_id":1259388759,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1259388759,
+    "wof:lastmodified":1537587938,
+    "wof:name":"Tani",
+    "wof:parent_id":421187929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.66226,
+    -15.7171,
+    -68.66226,
+    -15.7171
+],
+  "geometry": {"coordinates":[-68.66226,-15.7171],"type":"Point"}
+}

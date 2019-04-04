@@ -1,0 +1,73 @@
+{
+  "id": 1293592319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.33421,-17.79964,-66.33421,-17.79964",
+    "geom:latitude":-17.79964,
+    "geom:longitude":-66.33421,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sicaya",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904354,
+    "gn:latitude":-17.79964,
+    "gn:longitude":-66.33421,
+    "gn:modification_date":"2017-03-07",
+    "gn:name":"Sicaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Silaya",
+        "Sicaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904354,
+        "wk:page":"Sicaya%2C_Cochabamba"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b4ed3033a6a049ce7ae668287d778bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006497,
+            "locality_id":1293592319,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1293592319,
+    "wof:lastmodified":1537587949,
+    "wof:name":"Sicaya",
+    "wof:parent_id":1092006497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.33421,
+    -17.79964,
+    -66.33421,
+    -17.79964
+],
+  "geometry": {"coordinates":[-66.33421,-17.79964],"type":"Point"}
+}

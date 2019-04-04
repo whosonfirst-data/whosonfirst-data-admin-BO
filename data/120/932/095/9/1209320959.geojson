@@ -1,0 +1,64 @@
+{
+  "id": 1209320959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.12156,-15.26096,-69.12156,-15.26096",
+    "geom:latitude":-15.26096,
+    "geom:longitude":-69.12156,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Huarachani",
+    "gn:country_code":"BO",
+    "gn:dem":4352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914810,
+    "gn:latitude":-15.26096,
+    "gn:longitude":-69.12156,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Huarachani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huarachani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914810
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c680ff5f659fa7e9a5c00086248f8786",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209320959
+        }
+    ],
+    "wof:id":1209320959,
+    "wof:lastmodified":1537588065,
+    "wof:name":"Huarachani",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.12156,
+    -15.26096,
+    -69.12156,
+    -15.26096
+],
+  "geometry": {"coordinates":[-69.12156,-15.26096],"type":"Point"}
+}

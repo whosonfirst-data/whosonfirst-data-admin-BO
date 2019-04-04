@@ -1,0 +1,67 @@
+{
+  "id": 1193015243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.67754,-19.61038,-67.67754,-19.61038",
+    "geom:latitude":-19.61038,
+    "geom:longitude":-67.67754,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Estancia Achooco",
+    "gn:country_code":"BO",
+    "gn:dem":3937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917791,
+    "gn:latitude":-19.61038,
+    "gn:longitude":-67.67754,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Achooco",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092007893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917791
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"08934b887df55be7a51f9b1eb5af7748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007893,
+            "locality_id":1193015243,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1193015243,
+    "wof:lastmodified":1536379173,
+    "wof:name":"Estancia Achooco",
+    "wof:parent_id":1092007893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.67754000000001,
+    -19.61038,
+    -67.67754000000001,
+    -19.61038
+],
+  "geometry": {"coordinates":[-67.67754000000001,-19.61038],"type":"Point"}
+}

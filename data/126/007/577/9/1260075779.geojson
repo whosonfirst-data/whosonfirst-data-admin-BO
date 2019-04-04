@@ -1,0 +1,67 @@
+{
+  "id": 1260075779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.46667,-17.13333,-61.46667,-17.13333",
+    "geom:latitude":-17.13333,
+    "geom:longitude":-61.46667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Carmencita",
+    "gn:country_code":"BO",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921912,
+    "gn:latitude":-17.13333,
+    "gn:longitude":-61.46667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Carmencita",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921912
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2c3dd6c056d6aa7d7a836cf732de1cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1260075779,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1260075779,
+    "wof:lastmodified":1536998423,
+    "wof:name":"Carmencita",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.46666999999999,
+    -17.13332999999999,
+    -61.46666999999999,
+    -17.13332999999999
+],
+  "geometry": {"coordinates":[-61.46666999999999,-17.13332999999999],"type":"Point"}
+}

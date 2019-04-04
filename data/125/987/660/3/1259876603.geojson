@@ -1,0 +1,67 @@
+{
+  "id": 1259876603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.6,-15.15,-61.6,-15.15",
+    "geom:latitude":-15.15,
+    "geom:longitude":-61.6,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Peleador",
+    "gn:country_code":"BO",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918140,
+    "gn:latitude":-15.15,
+    "gn:longitude":-61.6,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"El Peleador",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918140
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"29da7391e5cb09c07a680a532257cb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009873,
+            "locality_id":1259876603,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1259876603,
+    "wof:lastmodified":1536789564,
+    "wof:name":"El Peleador",
+    "wof:parent_id":1092009873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.6,
+    -15.15,
+    -61.6,
+    -15.15
+],
+  "geometry": {"coordinates":[-61.6,-15.15],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259675251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.43449,-20.41045,-65.43449,-20.41045",
+    "geom:latitude":-20.41045,
+    "geom:longitude":-65.43449,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Estancia Kehuaca Chico",
+    "gn:country_code":"BO",
+    "gn:dem":2729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916955,
+    "gn:latitude":-20.41045,
+    "gn:longitude":-65.43449,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Kehuaca Chico",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916955
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"841b96194ce41613705d0311d742d0ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1259675251,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1259675251,
+    "wof:lastmodified":1537075807,
+    "wof:name":"Estancia Kehuaca Chico",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.43449,
+    -20.41045,
+    -65.43449,
+    -20.41045
+],
+  "geometry": {"coordinates":[-65.43449,-20.41045],"type":"Point"}
+}

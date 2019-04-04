@@ -1,0 +1,67 @@
+{
+  "id": 1293511027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.23333,-19.71667,-65.23333,-19.71667",
+    "geom:latitude":-19.71667,
+    "geom:longitude":-65.23333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Palcavilque",
+    "gn:country_code":"BO",
+    "gn:dem":2814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908851,
+    "gn:latitude":-19.71667,
+    "gn:longitude":-65.23333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Palcavilque",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908851
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"59b787c20187a070b98cb14c1c5f9d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008991,
+            "locality_id":1293511027,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293511027,
+    "wof:lastmodified":1536753144,
+    "wof:name":"Palcavilque",
+    "wof:parent_id":1092008991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.23333000000001,
+    -19.71667,
+    -65.23333000000001,
+    -19.71667
+],
+  "geometry": {"coordinates":[-65.23333000000001,-19.71667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260385967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.2,-21.05,-66.2,-21.05",
+    "geom:latitude":-21.05,
+    "geom:longitude":-66.2,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Choquicosta",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920428,
+    "gn:latitude":-21.05,
+    "gn:longitude":-66.2,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Choquicosta",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chuquillesta",
+        "Choquicosta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920428
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0841c16281ce67d04fa76f1dae701311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":1260385967,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1260385967,
+    "wof:lastmodified":1537588109,
+    "wof:name":"Choquicosta",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.2,
+    -21.05,
+    -66.2,
+    -21.05
+],
+  "geometry": {"coordinates":[-66.2,-21.05],"type":"Point"}
+}

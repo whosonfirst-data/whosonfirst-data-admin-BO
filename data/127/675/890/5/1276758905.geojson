@@ -1,0 +1,71 @@
+{
+  "id": 1276758905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.042,-20.55382,-66.042,-20.55382",
+    "geom:latitude":-20.55382,
+    "geom:longitude":-66.042,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pechejla",
+    "gn:country_code":"BO",
+    "gn:dem":3210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908234,
+    "gn:latitude":-20.55382,
+    "gn:longitude":-66.042,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Pechejla",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Pechejla",
+        "Pechejla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908234
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ef11d725248ec2114a29b73ccb221734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1276758905,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1276758905,
+    "wof:lastmodified":1537587989,
+    "wof:name":"Pechejla",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.042,
+    -20.55382,
+    -66.042,
+    -20.55382
+],
+  "geometry": {"coordinates":[-66.042,-20.55382],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344174537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.0976,-20.46869,-65.0976,-20.46869",
+    "geom:latitude":-20.46869,
+    "geom:longitude":-65.0976,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Estancia Chajra Khasa",
+    "gn:country_code":"BO",
+    "gn:dem":3275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917541,
+    "gn:latitude":-20.46869,
+    "gn:longitude":-65.0976,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Chajra Khasa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917541
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"37a1a4f8fde25e066a1f37b0893b0995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006003,
+            "locality_id":1344174537,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1344174537,
+    "wof:lastmodified":1536711267,
+    "wof:name":"Estancia Chajra Khasa",
+    "wof:parent_id":1092006003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.0976,
+    -20.46869,
+    -65.0976,
+    -20.46869
+],
+  "geometry": {"coordinates":[-65.0976,-20.46869],"type":"Point"}
+}

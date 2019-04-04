@@ -1,0 +1,67 @@
+{
+  "id": 1260287665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.28399,-17.79672,-65.28399,-17.79672",
+    "geom:latitude":-17.79672,
+    "geom:longitude":-65.28399,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Julpa",
+    "gn:country_code":"BO",
+    "gn:dem":2329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6618973,
+    "gn:latitude":-17.79672,
+    "gn:longitude":-65.28399,
+    "gn:modification_date":"2007-10-16",
+    "gn:name":"Julpa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618973
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d16f238d87e4b8f3001e530d1eedcb93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1260287665,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1260287665,
+    "wof:lastmodified":1536706580,
+    "wof:name":"Julpa",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.28399,
+    -17.79672,
+    -65.28399,
+    -17.79672
+],
+  "geometry": {"coordinates":[-65.28399,-17.79672],"type":"Point"}
+}

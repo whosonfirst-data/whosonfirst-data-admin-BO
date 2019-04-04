@@ -1,0 +1,73 @@
+{
+  "id": 1276246387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.78333,-19.31667,-64.78333,-19.31667",
+    "geom:latitude":-19.31667,
+    "geom:longitude":-64.78333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ricardo Mujia",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906462,
+    "gn:latitude":-19.31667,
+    "gn:longitude":-64.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ricardo Mujia",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Icla",
+        "Villa Ricardo Muj\u00eda",
+        "Ricardo Mujia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906462
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1bb65d231eea597ff45ed876f3492d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006241,
+            "locality_id":1276246387,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1276246387,
+    "wof:lastmodified":1537587968,
+    "wof:name":"Ricardo Mujia",
+    "wof:parent_id":1092006241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.78333,
+    -19.31667,
+    -64.78333,
+    -19.31667
+],
+  "geometry": {"coordinates":[-64.78333000000001,-19.31667],"type":"Point"}
+}

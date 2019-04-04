@@ -1,0 +1,72 @@
+{
+  "id": 1309908963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.08333,-18.13333,-65.08333,-18.13333",
+    "geom:latitude":-18.13333,
+    "geom:longitude":-65.08333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rumicorral",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906232,
+    "gn:latitude":-18.13333,
+    "gn:longitude":-65.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rumicorral",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rumicorpal",
+        "Rumicorral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906232
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"180b0b71d19fce205ef157afdd32b694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006465,
+            "locality_id":1309908963,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1309908963,
+    "wof:lastmodified":1537587965,
+    "wof:name":"Rumicorral",
+    "wof:parent_id":1092006465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.08333,
+    -18.13333,
+    -65.08333,
+    -18.13333
+],
+  "geometry": {"coordinates":[-65.08333,-18.13333],"type":"Point"}
+}

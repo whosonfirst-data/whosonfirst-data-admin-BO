@@ -1,0 +1,67 @@
+{
+  "id": 1293521147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.18333,-18.0,-67.18333,-18.0",
+    "geom:latitude":-18.0,
+    "geom:longitude":-67.18333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Estancia Kkota",
+    "gn:country_code":"BO",
+    "gn:dem":3712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916866,
+    "gn:latitude":-18.0,
+    "gn:longitude":-67.18333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Kkota",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        421187927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916866
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f800370c2877d7f506aad932ab858363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187927,
+            "locality_id":1293521147,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1293521147,
+    "wof:lastmodified":1536738492,
+    "wof:name":"Estancia Kkota",
+    "wof:parent_id":421187927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.18333,
+    -18.0,
+    -67.18333,
+    -18.0
+],
+  "geometry": {"coordinates":[-67.18333,-18.0],"type":"Point"}
+}

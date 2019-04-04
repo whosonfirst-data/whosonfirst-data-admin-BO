@@ -1,0 +1,72 @@
+{
+  "id": 1327441073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.33333,-20.88333,-65.33333,-20.88333",
+    "geom:latitude":-20.88333,
+    "geom:longitude":-65.33333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nausa",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909630,
+    "gn:latitude":-20.88333,
+    "gn:longitude":-65.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00d1ausa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nauza",
+        "\u00d1ausa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909630
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"da87f469f860249dbbab752bcfc473a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006125,
+            "locality_id":1327441073,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1327441073,
+    "wof:lastmodified":1537588005,
+    "wof:name":"Nausa",
+    "wof:parent_id":1092006125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.33333,
+    -20.88333,
+    -65.33333,
+    -20.88333
+],
+  "geometry": {"coordinates":[-65.33333,-20.88333],"type":"Point"}
+}

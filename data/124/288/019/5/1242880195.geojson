@@ -1,0 +1,73 @@
+{
+  "id": 1242880195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.15,-16.18333,-68.15,-16.18333",
+    "geom:latitude":-16.18333,
+    "geom:longitude":-68.15,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cuticucho",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918523,
+    "gn:latitude":-16.18333,
+    "gn:longitude":-68.15,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cuticucho",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cuticuchu",
+        "Cutieuchu",
+        "Cuticucho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918523
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7e86be77e134d5fdeaa47d88d48556df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":1242880195,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1242880195,
+    "wof:lastmodified":1537588090,
+    "wof:name":"Cuticucho",
+    "wof:parent_id":421177667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.15,
+    -16.18333,
+    -68.15,
+    -16.18333
+],
+  "geometry": {"coordinates":[-68.15000000000001,-16.18333],"type":"Point"}
+}

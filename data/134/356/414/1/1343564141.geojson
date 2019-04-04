@@ -1,0 +1,72 @@
+{
+  "id": 1343564141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.4,-18.45,-64.4,-18.45",
+    "geom:latitude":-18.45,
+    "geom:longitude":-64.4,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Quinori",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906714,
+    "gn:latitude":-18.45,
+    "gn:longitude":-64.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Quinori",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quinari",
+        "Quinori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421193471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906714
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5aae25d129ef1e59635c8c915d2db1e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193471,
+            "locality_id":1343564141,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1343564141,
+    "wof:lastmodified":1537587971,
+    "wof:name":"Quinori",
+    "wof:parent_id":421193471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.4,
+    -18.45,
+    -64.4,
+    -18.45
+],
+  "geometry": {"coordinates":[-64.40000000000001,-18.45],"type":"Point"}
+}

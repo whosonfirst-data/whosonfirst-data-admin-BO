@@ -1,0 +1,67 @@
+{
+  "id": 1260204735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.26667,-20.91667,-67.26667,-20.91667",
+    "geom:latitude":-20.91667,
+    "geom:longitude":-67.26667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tambillopampa",
+    "gn:country_code":"BO",
+    "gn:dem":3719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903578,
+    "gn:latitude":-20.91667,
+    "gn:longitude":-67.26667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Tambillopampa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903578
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e4d490851bda24fa23c84fce8f366046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193357,
+            "locality_id":1260204735,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1260204735,
+    "wof:lastmodified":1536818035,
+    "wof:name":"Tambillopampa",
+    "wof:parent_id":421193357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.26666999999999,
+    -20.91667,
+    -67.26666999999999,
+    -20.91667
+],
+  "geometry": {"coordinates":[-67.26666999999999,-20.91667],"type":"Point"}
+}

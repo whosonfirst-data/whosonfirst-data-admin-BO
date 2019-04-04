@@ -1,0 +1,67 @@
+{
+  "id": 1276856911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.25,-17.55,-61.25,-17.55",
+    "geom:latitude":-17.55,
+    "geom:longitude":-61.25,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Santa Elena",
+    "gn:country_code":"BO",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904892,
+    "gn:latitude":-17.55,
+    "gn:longitude":-61.25,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Santa Elena",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904892
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"95a624f170425a2f94ea28d3a85c7f5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009543,
+            "locality_id":1276856911,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1276856911,
+    "wof:lastmodified":1537068884,
+    "wof:name":"Santa Elena",
+    "wof:parent_id":1092009543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.25,
+    -17.55,
+    -61.25,
+    -17.55
+],
+  "geometry": {"coordinates":[-61.25,-17.55],"type":"Point"}
+}

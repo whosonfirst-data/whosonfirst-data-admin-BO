@@ -1,0 +1,67 @@
+{
+  "id": 1293291787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.97278,-17.95101,-67.97278,-17.95101",
+    "geom:latitude":-17.95101,
+    "geom:longitude":-67.97278,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Marquirivi",
+    "gn:country_code":"BO",
+    "gn:dem":3940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910649,
+    "gn:latitude":-17.95101,
+    "gn:longitude":-67.97278,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Marquirivi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092008123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910649
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b7c891defe07983faa708d4709dd9ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008123,
+            "locality_id":1293291787,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1293291787,
+    "wof:lastmodified":1537066242,
+    "wof:name":"Marquirivi",
+    "wof:parent_id":1092008123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.97278,
+    -17.95101,
+    -67.97278,
+    -17.95101
+],
+  "geometry": {"coordinates":[-67.97278,-17.95101],"type":"Point"}
+}

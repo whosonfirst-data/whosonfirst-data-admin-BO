@@ -1,0 +1,65 @@
+{
+  "id": 1209414127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.70059,-18.53622,-67.70059,-18.53622",
+    "geom:latitude":-18.53622,
+    "geom:longitude":-67.70059,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Wila Kollu",
+    "gn:country_code":"BO",
+    "gn:dem":3768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901232,
+    "gn:latitude":-18.53622,
+    "gn:longitude":-67.70059,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Wila Kollu",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Wila Kkollu",
+        "Wila Kollu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901232
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c787e838147cc0b3badaf7a22a4422d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209414127
+        }
+    ],
+    "wof:id":1209414127,
+    "wof:lastmodified":1537587908,
+    "wof:name":"Wila Kollu",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.70059,
+    -18.53622,
+    -67.70059,
+    -18.53622
+],
+  "geometry": {"coordinates":[-67.70059000000001,-18.53622],"type":"Point"}
+}

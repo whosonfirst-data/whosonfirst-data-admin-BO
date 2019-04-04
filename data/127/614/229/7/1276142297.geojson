@@ -1,0 +1,72 @@
+{
+  "id": 1276142297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.06667,-17.55,-61.06667,-17.55",
+    "geom:latitude":-17.55,
+    "geom:longitude":-61.06667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"San Ramon",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905073,
+    "gn:latitude":-17.55,
+    "gn:longitude":-61.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Ram\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia San Ram\u00f3n",
+        "San Ram\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905073
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ce549bf583b0314b726e891c91261d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009543,
+            "locality_id":1276142297,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1276142297,
+    "wof:lastmodified":1537587955,
+    "wof:name":"San Ramon",
+    "wof:parent_id":1092009543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.06667,
+    -17.55,
+    -61.06667,
+    -17.55
+],
+  "geometry": {"coordinates":[-61.06667,-17.55],"type":"Point"}
+}

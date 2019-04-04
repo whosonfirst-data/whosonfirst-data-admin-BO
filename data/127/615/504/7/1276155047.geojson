@@ -1,0 +1,67 @@
+{
+  "id": 1276155047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.0,-17.93333,-68.0,-17.93333",
+    "geom:latitude":-17.93333,
+    "geom:longitude":-68.0,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Estancia Castilluma",
+    "gn:country_code":"BO",
+    "gn:dem":3935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917581,
+    "gn:latitude":-17.93333,
+    "gn:longitude":-68.0,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Castilluma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092008123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917581
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"48103b4dc712f1d9b46c1cf571370da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008123,
+            "locality_id":1276155047,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1276155047,
+    "wof:lastmodified":1537016949,
+    "wof:name":"Estancia Castilluma",
+    "wof:parent_id":1092008123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.0,
+    -17.93332999999999,
+    -68.0,
+    -17.93332999999999
+],
+  "geometry": {"coordinates":[-68.0,-17.93332999999999],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310622099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.93333,-20.06667,-66.93333,-20.06667",
+    "geom:latitude":-20.06667,
+    "geom:longitude":-66.93333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vinto",
+    "gn:country_code":"BO",
+    "gn:dem":3748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901430,
+    "gn:latitude":-20.06667,
+    "gn:longitude":-66.93333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Vinto",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901430
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b6b7d24aeab74dee4a5737e46fe4fba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177657,
+            "locality_id":1310622099,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1310622099,
+    "wof:lastmodified":1536748627,
+    "wof:name":"Vinto",
+    "wof:parent_id":421177657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.93333,
+    -20.06667,
+    -66.93333,
+    -20.06667
+],
+  "geometry": {"coordinates":[-66.93333,-20.06667],"type":"Point"}
+}

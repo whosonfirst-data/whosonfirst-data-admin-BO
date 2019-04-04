@@ -1,0 +1,74 @@
+{
+  "id": 1276979177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.42634,-19.44168,-68.42634,-19.44168",
+    "geom:latitude":-19.44168,
+    "geom:longitude":-68.42634,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Guailla",
+    "gn:country_code":"BO",
+    "gn:dem":3678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915467,
+    "gn:latitude":-19.44168,
+    "gn:longitude":-68.42634,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Guailla",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Port de Guailla",
+        "Estancia Huayllas",
+        "Huailla",
+        "Guaylla",
+        "Guailla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915467
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f86cfa654f6c2e63690e9169d533460b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177659,
+            "locality_id":1276979177,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1276979177,
+    "wof:lastmodified":1537588073,
+    "wof:name":"Guailla",
+    "wof:parent_id":421177659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.42634,
+    -19.44168,
+    -68.42634,
+    -19.44168
+],
+  "geometry": {"coordinates":[-68.42634,-19.44168],"type":"Point"}
+}

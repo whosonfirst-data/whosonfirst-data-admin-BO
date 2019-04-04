@@ -1,0 +1,61 @@
+{
+  "id": 1209115659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.2,-20.3,-64.2,-20.3",
+    "geom:latitude":-20.3,
+    "geom:longitude":-64.2,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Perez",
+    "gn:country_code":"BO",
+    "gn:dem":1712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908116,
+    "gn:latitude":-20.3,
+    "gn:longitude":-64.2,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"P\u00e9rez",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908116
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"642aa79c6c614b2381fd965697f47f07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209115659
+        }
+    ],
+    "wof:id":1209115659,
+    "wof:lastmodified":1536297262,
+    "wof:name":"Perez",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.2,
+    -20.3,
+    -64.2,
+    -20.3
+],
+  "geometry": {"coordinates":[-64.2,-20.3],"type":"Point"}
+}

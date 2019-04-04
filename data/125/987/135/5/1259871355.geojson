@@ -1,0 +1,67 @@
+{
+  "id": 1259871355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.10735,-20.16491,-66.10735,-20.16491",
+    "geom:latitude":-20.16491,
+    "geom:longitude":-66.10735,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Estancia Choquecala",
+    "gn:country_code":"BO",
+    "gn:dem":3446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917413,
+    "gn:latitude":-20.16491,
+    "gn:longitude":-66.10735,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Choquecala",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917413
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"589cc29d9028eedef63a06d6c93cc209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177657,
+            "locality_id":1259871355,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1259871355,
+    "wof:lastmodified":1536796900,
+    "wof:name":"Estancia Choquecala",
+    "wof:parent_id":421177657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.10735,
+    -20.16491,
+    -66.10735,
+    -20.16491
+],
+  "geometry": {"coordinates":[-66.10735,-20.16491],"type":"Point"}
+}

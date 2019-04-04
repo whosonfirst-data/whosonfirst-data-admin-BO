@@ -1,0 +1,71 @@
+{
+  "id": 1310028013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.5127,-20.22287,-63.5127,-20.22287",
+    "geom:latitude":-20.22287,
+    "geom:longitude":-63.5127,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Itaquia",
+    "gn:country_code":"BO",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913915,
+    "gn:latitude":-20.22287,
+    "gn:longitude":-63.5127,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Itaquia",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Itaquis",
+        "Itaquia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913915
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"50651ab475135f82c2a81f4bbc6c17f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1310028013,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1310028013,
+    "wof:lastmodified":1537588053,
+    "wof:name":"Itaquia",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.5127,
+    -20.22287,
+    -63.5127,
+    -20.22287
+],
+  "geometry": {"coordinates":[-63.5127,-20.22287],"type":"Point"}
+}

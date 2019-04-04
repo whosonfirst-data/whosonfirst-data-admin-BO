@@ -1,0 +1,72 @@
+{
+  "id": 1310615147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.86667,-19.46667,-64.86667,-19.46667",
+    "geom:latitude":-19.46667,
+    "geom:longitude":-64.86667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Soroma",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904034,
+    "gn:latitude":-19.46667,
+    "gn:longitude":-64.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Soroma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saroma",
+        "Soroma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904034
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9ae2ea96717df46751021e67eb3fe90c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008843,
+            "locality_id":1310615147,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1310615147,
+    "wof:lastmodified":1537587946,
+    "wof:name":"Soroma",
+    "wof:parent_id":1092008843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.86667,
+    -19.46667,
+    -64.86667,
+    -19.46667
+],
+  "geometry": {"coordinates":[-64.86667,-19.46667],"type":"Point"}
+}

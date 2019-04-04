@@ -1,0 +1,67 @@
+{
+  "id": 1327425745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.71667,-20.68333,-67.71667,-20.68333",
+    "geom:latitude":-20.68333,
+    "geom:longitude":-67.71667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Estancia Chuquisaca",
+    "gn:country_code":"BO",
+    "gn:dem":3940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917382,
+    "gn:latitude":-20.68333,
+    "gn:longitude":-67.71667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Chuquisaca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917382
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b5476f36fb73097bc4b681bdaa05caa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193357,
+            "locality_id":1327425745,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1327425745,
+    "wof:lastmodified":1536690594,
+    "wof:name":"Estancia Chuquisaca",
+    "wof:parent_id":421193357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.71667,
+    -20.68333,
+    -67.71667,
+    -20.68333
+],
+  "geometry": {"coordinates":[-67.71666999999999,-20.68333],"type":"Point"}
+}

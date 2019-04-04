@@ -1,0 +1,106 @@
+{
+  "id": 421183873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.38333,-16.53333,-68.38333,-16.53333",
+    "geom:latitude":-16.53333,
+    "geom:longitude":-68.38333,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Laja"
+    ],
+    "name:deu_x_preferred":[
+        "Laja"
+    ],
+    "name:nld_x_preferred":[
+        "Laja"
+    ],
+    "name:nor_x_preferred":[
+        "Laja"
+    ],
+    "name:pol_x_preferred":[
+        "Laja"
+    ],
+    "name:que_x_preferred":[
+        "Laja"
+    ],
+    "name:swe_x_preferred":[
+        "Laja"
+    ],
+    "name:unk_x_variant":[
+        "Laia"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u062e\u0627"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3912103,
+    "qs:gn_pop":0,
+    "qs:name":"Laja",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":234,
+    "qs:photos_1k":47,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":234,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1301518,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":346177,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421197575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912103,
+        "gp:id":346177,
+        "qs:id":1301518,
+        "wd:id":"Q1545913",
+        "wk:page":"Laja, Bolivia"
+    },
+    "wof:country":"BO",
+    "wof:created":1459009390,
+    "wof:geomhash":"3c3af22050aabaea55dfbdb9fe708f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197575,
+            "locality_id":421183873,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":421183873,
+    "wof:lastmodified":1527716489,
+    "wof:name":"Laja",
+    "wof:parent_id":421197575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.38333,
+    -16.53333,
+    -68.38333,
+    -16.53333
+],
+  "geometry": {"coordinates":[-68.38333,-16.53333],"type":"Point"}
+}

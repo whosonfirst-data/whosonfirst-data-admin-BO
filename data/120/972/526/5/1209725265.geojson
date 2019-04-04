@@ -1,0 +1,75 @@
+{
+  "id": 1209725265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.36667,-18.83333,-65.36667,-18.83333",
+    "geom:latitude":-18.83333,
+    "geom:longitude":-65.36667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"3.0",
+    "gn:asciiname":"Pocpo",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":3907753,
+    "gn:latitude":-18.83333,
+    "gn:longitude":-65.36667,
+    "gn:modification_date":"2011-07-31",
+    "gn:name":"Pocpo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pojpo",
+        "Pocpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907753
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e41ceddbfdd01bc24097cb88a99c5714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1209725265,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1209725265,
+    "wof:lastmodified":1537587984,
+    "wof:name":"Pocpo",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.36667,
+    -18.83333,
+    -65.36667,
+    -18.83333
+],
+  "geometry": {"coordinates":[-65.36667,-18.83333],"type":"Point"}
+}

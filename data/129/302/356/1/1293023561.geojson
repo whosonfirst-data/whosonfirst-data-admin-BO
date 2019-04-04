@@ -1,0 +1,72 @@
+{
+  "id": 1293023561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.70693,-18.40868,-67.70693,-18.40868",
+    "geom:latitude":-18.40868,
+    "geom:longitude":-67.70693,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Cangallin",
+    "gn:country_code":"BO",
+    "gn:dem":3809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922228,
+    "gn:latitude":-18.40868,
+    "gn:longitude":-67.70693,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Cangall\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cangallini",
+        "Canguiri",
+        "Cangall\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092007807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922228
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"fdc782ca1de2a5a0c5521d6f3bfc03ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007807,
+            "locality_id":1293023561,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1293023561,
+    "wof:lastmodified":1537588133,
+    "wof:name":"Cangallin",
+    "wof:parent_id":1092007807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.70693,
+    -18.40868,
+    -67.70693,
+    -18.40868
+],
+  "geometry": {"coordinates":[-67.70693,-18.40868],"type":"Point"}
+}

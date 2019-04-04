@@ -1,0 +1,75 @@
+{
+  "id": 890445597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.48618,-14.50848,-67.48618,-14.50848",
+    "geom:latitude":-14.50848,
+    "geom:longitude":-67.48618,
+    "gn:country":"BO",
+    "gn:fcode":"PPL",
+    "gn:pop":235,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "San Miguel del Bala"
+    ],
+    "name:swe_x_preferred":[
+        "San Miguel del Bala"
+    ],
+    "qs:name":"San Miguel del Bala",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":404,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421190245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6691316,
+        "gp:id":12523701,
+        "qs:id":643949,
+        "wd:id":"Q7414996",
+        "wk:page":"San Miguel del Bala"
+    },
+    "wof:country":"BO",
+    "wof:created":1469052515,
+    "wof:geomhash":"c8378c853324d0deb55f1f85ef0beefd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190245,
+            "locality_id":890445597,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":890445597,
+    "wof:lastmodified":1527792871,
+    "wof:name":"San Miguel del Bala",
+    "wof:parent_id":421190245,
+    "wof:placetype":"locality",
+    "wof:population":235,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.48618,
+    -14.50848,
+    -67.48618,
+    -14.50848
+],
+  "geometry": {"coordinates":[-67.48618,-14.50848],"type":"Point"}
+}

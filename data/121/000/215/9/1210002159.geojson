@@ -1,0 +1,67 @@
+{
+  "id": 1210002159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.72967,-15.61543,-60.72967,-15.61543",
+    "geom:latitude":-15.61543,
+    "geom:longitude":-60.72967,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Jesus",
+    "gn:country_code":"BO",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913363,
+    "gn:latitude":-15.61543,
+    "gn:longitude":-60.72967,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"Jes\u00fas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913363
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7267e628fe9aaf2101eb347e23406a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1210002159,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1210002159,
+    "wof:lastmodified":1536377560,
+    "wof:name":"Jesus",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.72967,
+    -15.61543,
+    -60.72967,
+    -15.61543
+],
+  "geometry": {"coordinates":[-60.72967,-15.61543],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343366479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.75722,-13.85583,-66.75722,-13.85583",
+    "geom:latitude":-13.85583,
+    "geom:longitude":-66.75722,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Las Petas",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911740,
+    "gn:latitude":-13.85583,
+    "gn:longitude":-66.75722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Las Petas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Triunfo",
+        "Triunfo",
+        "Las Petas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911740
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a1da1ccd64680cf96eebaf20e7f2618f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005669,
+            "locality_id":1343366479,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1343366479,
+    "wof:lastmodified":1537588028,
+    "wof:name":"Las Petas",
+    "wof:parent_id":1092005669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.75721999999999,
+    -13.85583,
+    -66.75721999999999,
+    -13.85583
+],
+  "geometry": {"coordinates":[-66.75721999999999,-13.85583],"type":"Point"}
+}

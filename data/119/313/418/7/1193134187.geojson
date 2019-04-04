@@ -1,0 +1,72 @@
+{
+  "id": 1193134187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.61667,-18.8,-58.61667,-18.8",
+    "geom:latitude":-18.8,
+    "geom:longitude":-58.61667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"San Fermin",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3444150,
+    "gn:latitude":-18.8,
+    "gn:longitude":-58.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Fermin",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fermin",
+        "San Fermin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421183095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3444150
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"eed9a745c3e4c55cc89ca4ecbd98d5db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421183095,
+            "locality_id":1193134187,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1193134187,
+    "wof:lastmodified":1537587897,
+    "wof:name":"San Fermin",
+    "wof:parent_id":421183095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.61666999999999,
+    -18.8,
+    -58.61666999999999,
+    -18.8
+],
+  "geometry": {"coordinates":[-58.61666999999999,-18.8],"type":"Point"}
+}

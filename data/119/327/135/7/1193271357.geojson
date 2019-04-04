@@ -1,0 +1,67 @@
+{
+  "id": 1193271357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.11863,-14.32083,-62.11863,-14.32083",
+    "geom:latitude":-14.32083,
+    "geom:longitude":-62.11863,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Desconcierto",
+    "gn:country_code":"BO",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918470,
+    "gn:latitude":-14.32083,
+    "gn:longitude":-62.11863,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"Desconcierto",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918470
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9f30fb83e2f70796748c36f8979685d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009873,
+            "locality_id":1193271357,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1193271357,
+    "wof:lastmodified":1536370312,
+    "wof:name":"Desconcierto",
+    "wof:parent_id":1092009873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.11863,
+    -14.32083,
+    -62.11863,
+    -14.32083
+],
+  "geometry": {"coordinates":[-62.11863,-14.32083],"type":"Point"}
+}

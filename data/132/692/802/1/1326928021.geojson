@@ -1,0 +1,73 @@
+{
+  "id": 1326928021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.52304,-11.16054,-67.52304,-11.16054",
+    "geom:latitude":-11.16054,
+    "geom:longitude":-67.52304,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Manuripal",
+    "gn:country_code":"BO",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504716,
+    "gn:latitude":-11.16054,
+    "gn:longitude":-67.52304,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Manuripal",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Manuripal"
+    ],
+    "name:spa_x_variant":[
+        "Manuripi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504716
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2c95579adc4f8f3e01013b7ed2a81098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008461,
+            "locality_id":1326928021,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1326928021,
+    "wof:lastmodified":1537588188,
+    "wof:name":"Manuripal",
+    "wof:parent_id":1092008461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.52304000000001,
+    -11.16054,
+    -67.52304000000001,
+    -11.16054
+],
+  "geometry": {"coordinates":[-67.52304000000001,-11.16054],"type":"Point"}
+}

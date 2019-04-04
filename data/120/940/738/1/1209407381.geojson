@@ -1,0 +1,61 @@
+{
+  "id": 1209407381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.1586,-11.31877,-69.1586,-11.31877",
+    "geom:latitude":-11.31877,
+    "geom:longitude":-69.1586,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Aguas Blancas",
+    "gn:country_code":"BO",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11438937,
+    "gn:latitude":-11.31877,
+    "gn:longitude":-69.1586,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Aguas Blancas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11438937
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2a7972215adc2c496b20b76b3c14f0b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209407381
+        }
+    ],
+    "wof:id":1209407381,
+    "wof:lastmodified":1536287951,
+    "wof:name":"Aguas Blancas",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.1586,
+    -11.31877,
+    -69.1586,
+    -11.31877
+],
+  "geometry": {"coordinates":[-69.15860000000001,-11.31877],"type":"Point"}
+}

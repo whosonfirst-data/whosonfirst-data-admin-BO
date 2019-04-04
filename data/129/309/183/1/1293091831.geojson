@@ -1,0 +1,72 @@
+{
+  "id": 1293091831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.21667,-17.33333,-63.21667,-17.33333",
+    "geom:latitude":-17.33333,
+    "geom:longitude":-63.21667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Naranjal",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909680,
+    "gn:latitude":-17.33333,
+    "gn:longitude":-63.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Naranjal",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad El Naranjal",
+        "Naranjal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909680
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"118c0a79f6f9d365d9c746eaf98aeeba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009899,
+            "locality_id":1293091831,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1293091831,
+    "wof:lastmodified":1537588005,
+    "wof:name":"Naranjal",
+    "wof:parent_id":1092009899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.21666999999999,
+    -17.33333,
+    -63.21666999999999,
+    -17.33333
+],
+  "geometry": {"coordinates":[-63.21666999999999,-17.33333],"type":"Point"}
+}

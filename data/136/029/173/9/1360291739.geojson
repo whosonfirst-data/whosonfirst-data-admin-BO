@@ -1,0 +1,74 @@
+{
+  "id": 1360291739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.63795,-15.95349,-68.63795,-15.95349",
+    "geom:latitude":-15.95349,
+    "geom:longitude":-68.63795,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chojna Kala",
+    "gn:country_code":"BO",
+    "gn:dem":3943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920488,
+    "gn:latitude":-15.95349,
+    "gn:longitude":-68.63795,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Choj\u00f1a Kala",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Choj\u00f1a Kala"
+    ],
+    "name:und_x_variant":[
+        "Chojneacollo",
+        "Choj\u00f1acollo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920488
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5869b7a962e215ed1e5145bae7680b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007507,
+            "locality_id":1360291739,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1360291739,
+    "wof:lastmodified":1537588110,
+    "wof:name":"Chojna Kala",
+    "wof:parent_id":1092007507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.63795,
+    -15.95349,
+    -68.63795,
+    -15.95349
+],
+  "geometry": {"coordinates":[-68.63795,-15.95349],"type":"Point"}
+}

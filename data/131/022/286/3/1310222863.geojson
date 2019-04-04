@@ -1,0 +1,73 @@
+{
+  "id": 1310222863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.28336,-19.20732,-65.28336,-19.20732",
+    "geom:latitude":-19.20732,
+    "geom:longitude":-65.28336,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nucchu",
+    "gn:country_code":"BO",
+    "gn:dem":2423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909476,
+    "gn:latitude":-19.20732,
+    "gn:longitude":-65.28336,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"\u00d1ucchu",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mujcho",
+        "Nuccha",
+        "Nuccho",
+        "\u00d1ucchu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909476
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f57827d17513107d8ed6b23f5380e8ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1310222863,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1310222863,
+    "wof:lastmodified":1537588003,
+    "wof:name":"Nucchu",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.28336,
+    -19.20732000000001,
+    -65.28336,
+    -19.20732000000001
+],
+  "geometry": {"coordinates":[-65.28336,-19.20732000000001],"type":"Point"}
+}

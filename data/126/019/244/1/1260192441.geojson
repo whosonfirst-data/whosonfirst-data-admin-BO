@@ -1,0 +1,67 @@
+{
+  "id": 1260192441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.61369,-20.87294,-64.61369,-20.87294",
+    "geom:latitude":-20.87294,
+    "geom:longitude":-64.61369,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Estancia Jarca Loma",
+    "gn:country_code":"BO",
+    "gn:dem":2341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917029,
+    "gn:latitude":-20.87294,
+    "gn:longitude":-64.61369,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Jarca Loma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917029
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"05f47a06e5209a90eea83c00b2c4de76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006087,
+            "locality_id":1260192441,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1260192441,
+    "wof:lastmodified":1536834559,
+    "wof:name":"Estancia Jarca Loma",
+    "wof:parent_id":1092006087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.61369,
+    -20.87294,
+    -64.61369,
+    -20.87294
+],
+  "geometry": {"coordinates":[-64.61369000000001,-20.87294],"type":"Point"}
+}

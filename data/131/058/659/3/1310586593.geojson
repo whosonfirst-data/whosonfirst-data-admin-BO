@@ -1,0 +1,71 @@
+{
+  "id": 1310586593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.96667,-17.88333,-62.96667,-17.88333",
+    "geom:latitude":-17.88333,
+    "geom:longitude":-62.96667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Paurito",
+    "gn:country_code":"BO",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908263,
+    "gn:latitude":-17.88333,
+    "gn:longitude":-62.96667,
+    "gn:modification_date":"2013-05-05",
+    "gn:name":"Paurito",
+    "gn:population":2191,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421187923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908263,
+        "wk:page":"Paurito"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"15be99a6f423db3876a136284f06e080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187923,
+            "locality_id":1310586593,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1310586593,
+    "wof:lastmodified":1537487888,
+    "wof:name":"Paurito",
+    "wof:parent_id":421187923,
+    "wof:placetype":"locality",
+    "wof:population":2191,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.96666999999999,
+    -17.88332999999999,
+    -62.96666999999999,
+    -17.88332999999999
+],
+  "geometry": {"coordinates":[-62.96666999999999,-17.88332999999999],"type":"Point"}
+}

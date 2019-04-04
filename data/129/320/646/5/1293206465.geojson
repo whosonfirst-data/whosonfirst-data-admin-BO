@@ -1,0 +1,73 @@
+{
+  "id": 1293206465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.61927,-15.96613,-68.61927,-15.96613",
+    "geom:latitude":-15.96613,
+    "geom:longitude":-68.61927,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Santa Maria Grande",
+    "gn:country_code":"BO",
+    "gn:dem":3973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904833,
+    "gn:latitude":-15.96613,
+    "gn:longitude":-68.61927,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Santa Mar\u00eda Grande",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Mar\u00eda Grande"
+    ],
+    "name:und_x_variant":[
+        "Santa Mar\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904833
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7ecf82b0eaf131c565f1a29dffe7405f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007507,
+            "locality_id":1293206465,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293206465,
+    "wof:lastmodified":1537587954,
+    "wof:name":"Santa Maria Grande",
+    "wof:parent_id":1092007507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.61927,
+    -15.96613,
+    -68.61927,
+    -15.96613
+],
+  "geometry": {"coordinates":[-68.61927,-15.96613],"type":"Point"}
+}

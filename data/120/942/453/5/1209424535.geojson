@@ -1,0 +1,66 @@
+{
+  "id": 1209424535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.21667,-19.23333,-65.21667,-19.23333",
+    "geom:latitude":-19.23333,
+    "geom:longitude":-65.21667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Abra de Pulqui",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3924645,
+    "gn:latitude":-19.23333,
+    "gn:longitude":-65.21667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Abra de Pulqui",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abra de Pulgui",
+        "Abra de Pulqui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3924645
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9990a45864f66e47214bf5d3993eb69e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209424535
+        }
+    ],
+    "wof:id":1209424535,
+    "wof:lastmodified":1537588161,
+    "wof:name":"Abra de Pulqui",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.21667,
+    -19.23333,
+    -65.21667,
+    -19.23333
+],
+  "geometry": {"coordinates":[-65.21666999999999,-19.23333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209905891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.31667,-22.75,-64.31667,-22.75",
+    "geom:latitude":-22.75,
+    "geom:longitude":-64.31667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Porcelana",
+    "gn:country_code":"BO",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907671,
+    "gn:latitude":-22.75,
+    "gn:longitude":-64.31667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Porcelana",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421182443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907671
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7e820adbc4bccfcb35beb79ebdaa31ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182443,
+            "locality_id":1209905891,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1209905891,
+    "wof:lastmodified":1536383954,
+    "wof:name":"Porcelana",
+    "wof:parent_id":421182443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.31667,
+    -22.75,
+    -64.31667,
+    -22.75
+],
+  "geometry": {"coordinates":[-64.31667,-22.75],"type":"Point"}
+}

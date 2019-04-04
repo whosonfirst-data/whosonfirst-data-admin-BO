@@ -1,0 +1,66 @@
+{
+  "id": 890445581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.14646,-17.62262,-65.14646,-17.62262",
+    "geom:latitude":-17.62262,
+    "geom:longitude":-65.14646,
+    "gn:country":"BO",
+    "gn:fcode":"PPL",
+    "gn:pop":260,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Chimpa Chaupiloma Bajo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618535,
+        "gp:id":346111,
+        "qs:id":642845
+    },
+    "wof:country":"BO",
+    "wof:created":1469052515,
+    "wof:geomhash":"70f70c7bc13c1e7faec993826a9df736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":890445581,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":890445581,
+    "wof:lastmodified":1505343606,
+    "wof:name":"Chimpa Chaupiloma Bajo",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:population":260,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.14646,
+    -17.62262,
+    -65.14646,
+    -17.62262
+],
+  "geometry": {"coordinates":[-65.14646,-17.62262],"type":"Point"}
+}

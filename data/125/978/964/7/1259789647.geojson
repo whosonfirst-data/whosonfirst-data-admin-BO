@@ -1,0 +1,67 @@
+{
+  "id": 1259789647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.05,-17.63333,-68.05,-17.63333",
+    "geom:latitude":-17.63333,
+    "geom:longitude":-68.05,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Estancia Willkhi",
+    "gn:country_code":"BO",
+    "gn:dem":3876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915906,
+    "gn:latitude":-17.63333,
+    "gn:longitude":-68.05,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Willkhi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915906
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1f6a03080827e899463b85ed9c30c1e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007165,
+            "locality_id":1259789647,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1259789647,
+    "wof:lastmodified":1536914706,
+    "wof:name":"Estancia Willkhi",
+    "wof:parent_id":1092007165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.05,
+    -17.63332999999999,
+    -68.05,
+    -17.63332999999999
+],
+  "geometry": {"coordinates":[-68.05,-17.63332999999999],"type":"Point"}
+}

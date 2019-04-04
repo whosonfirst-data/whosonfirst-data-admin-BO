@@ -1,0 +1,72 @@
+{
+  "id": 1226065181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.15,-17.15,-63.15,-17.15",
+    "geom:latitude":-17.15,
+    "geom:longitude":-63.15,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Las Petas",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911739,
+    "gn:latitude":-17.15,
+    "gn:longitude":-63.15,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Las Petas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad Santa Teresa",
+        "Las Petas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911739
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c3c03ca6aeeaca50477857dfcf9f5b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009899,
+            "locality_id":1226065181,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1226065181,
+    "wof:lastmodified":1537588028,
+    "wof:name":"Las Petas",
+    "wof:parent_id":1092009899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.15,
+    -17.15,
+    -63.15,
+    -17.15
+],
+  "geometry": {"coordinates":[-63.15,-17.15],"type":"Point"}
+}

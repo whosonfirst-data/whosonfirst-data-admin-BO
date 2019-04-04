@@ -1,0 +1,67 @@
+{
+  "id": 1226234125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.98007,-20.61665,-67.98007,-20.61665",
+    "geom:latitude":-20.61665,
+    "geom:longitude":-67.98007,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Estancia Jaruma",
+    "gn:country_code":"BO",
+    "gn:dem":3703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917028,
+    "gn:latitude":-20.61665,
+    "gn:longitude":-67.98007,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Jaruma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917028
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2bdd37cc92d980b3ab9e3dd873537102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177659,
+            "locality_id":1226234125,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1226234125,
+    "wof:lastmodified":1536950646,
+    "wof:name":"Estancia Jaruma",
+    "wof:parent_id":421177659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.98007,
+    -20.61665,
+    -67.98007,
+    -20.61665
+],
+  "geometry": {"coordinates":[-67.98007,-20.61665],"type":"Point"}
+}

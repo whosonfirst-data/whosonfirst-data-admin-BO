@@ -1,0 +1,67 @@
+{
+  "id": 1225866925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.71667,-10.7,-67.71667,-10.7",
+    "geom:latitude":-10.7,
+    "geom:longitude":-67.71667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Convi",
+    "gn:country_code":"BO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919200,
+    "gn:latitude":-10.7,
+    "gn:longitude":-67.71667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Convi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85633009,
+        85681873,
+        102050017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919200
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"98e5890d1e103230122ec1041bf941d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102050017,
+            "locality_id":1225866925,
+            "region_id":85681873
+        }
+    ],
+    "wof:id":1225866925,
+    "wof:lastmodified":1536982473,
+    "wof:name":"Convi",
+    "wof:parent_id":102050017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.71667,
+    -10.7,
+    -67.71667,
+    -10.7
+],
+  "geometry": {"coordinates":[-67.71666999999999,-10.7],"type":"Point"}
+}

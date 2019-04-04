@@ -1,0 +1,67 @@
+{
+  "id": 1193276279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.78333,-17.41667,-67.78333,-17.41667",
+    "geom:latitude":-17.41667,
+    "geom:longitude":-67.78333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Estancia Iruyo",
+    "gn:country_code":"BO",
+    "gn:dem":4013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917104,
+    "gn:latitude":-17.41667,
+    "gn:longitude":-67.78333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Iruyo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092006923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917104
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3d6a35602ce0f44fef97e8de6b707873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006923,
+            "locality_id":1193276279,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1193276279,
+    "wof:lastmodified":1536365778,
+    "wof:name":"Estancia Iruyo",
+    "wof:parent_id":1092006923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.78333,
+    -17.41667,
+    -67.78333,
+    -17.41667
+],
+  "geometry": {"coordinates":[-67.78333000000001,-17.41667],"type":"Point"}
+}

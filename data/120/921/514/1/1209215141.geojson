@@ -1,0 +1,66 @@
+{
+  "id": 1209215141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.35,-15.56667,-67.35,-15.56667",
+    "geom:latitude":-15.56667,
+    "geom:longitude":-67.35,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chivoy",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920555,
+    "gn:latitude":-15.56667,
+    "gn:longitude":-67.35,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chivoy",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiboy",
+        "Chivoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920555
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"91d41012d97816dea24c90d3084d0ec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209215141
+        }
+    ],
+    "wof:id":1209215141,
+    "wof:lastmodified":1537588111,
+    "wof:name":"Chivoy",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.35,
+    -15.56667,
+    -67.35,
+    -15.56667
+],
+  "geometry": {"coordinates":[-67.34999999999999,-15.56667],"type":"Point"}
+}

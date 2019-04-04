@@ -1,0 +1,71 @@
+{
+  "id": 1243190011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.61614,-18.47095,-65.61614,-18.47095",
+    "geom:latitude":-18.47095,
+    "geom:longitude":-65.61614,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kollpa",
+    "gn:country_code":"BO",
+    "gn:dem":2041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912557,
+    "gn:latitude":-18.47095,
+    "gn:longitude":-65.61614,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Kollpa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Kollpa",
+        "Kollpa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912557
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"39fc883eeeafc1a703ed93a46ecc070c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1243190011,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1243190011,
+    "wof:lastmodified":1537588039,
+    "wof:name":"Kollpa",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.61614,
+    -18.47095,
+    -65.61614,
+    -18.47095
+],
+  "geometry": {"coordinates":[-65.61614,-18.47095],"type":"Point"}
+}

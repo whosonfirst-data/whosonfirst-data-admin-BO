@@ -1,0 +1,72 @@
+{
+  "id": 1327233425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.3,-14.26667,-67.3,-14.26667",
+    "geom:latitude":-14.26667,
+    "geom:longitude":-67.3,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bicuiche",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923132,
+    "gn:latitude":-14.26667,
+    "gn:longitude":-67.3,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bicuiche",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bicuichu",
+        "Bicuiche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923132
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"be349b155acba9ea5e7de7c60ce5b7ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005669,
+            "locality_id":1327233425,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1327233425,
+    "wof:lastmodified":1537588143,
+    "wof:name":"Bicuiche",
+    "wof:parent_id":1092005669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.3,
+    -14.26667,
+    -67.3,
+    -14.26667
+],
+  "geometry": {"coordinates":[-67.3,-14.26667],"type":"Point"}
+}

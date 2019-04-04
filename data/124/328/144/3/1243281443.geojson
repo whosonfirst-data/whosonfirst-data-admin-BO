@@ -1,0 +1,72 @@
+{
+  "id": 1243281443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.28333,-21.41667,-65.28333,-21.41667",
+    "geom:latitude":-21.41667,
+    "geom:longitude":-65.28333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Socpira",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904127,
+    "gn:latitude":-21.41667,
+    "gn:longitude":-65.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Socpira",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Socpora",
+        "Socpira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904127
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"42b8a2472552481c2c48646aa146c271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006125,
+            "locality_id":1243281443,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1243281443,
+    "wof:lastmodified":1537587947,
+    "wof:name":"Socpira",
+    "wof:parent_id":1092006125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.28333,
+    -21.41667,
+    -65.28333,
+    -21.41667
+],
+  "geometry": {"coordinates":[-65.28333000000001,-21.41667],"type":"Point"}
+}

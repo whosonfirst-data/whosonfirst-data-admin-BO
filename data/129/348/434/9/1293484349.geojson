@@ -1,0 +1,67 @@
+{
+  "id": 1293484349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.46897,-19.91691,-65.46897,-19.91691",
+    "geom:latitude":-19.91691,
+    "geom:longitude":-65.46897,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Salitral",
+    "gn:country_code":"BO",
+    "gn:dem":3386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906032,
+    "gn:latitude":-19.91691,
+    "gn:longitude":-65.46897,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Salitral",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906032
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"be91d931d54e4b33de3cc148f7211ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008991,
+            "locality_id":1293484349,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293484349,
+    "wof:lastmodified":1536791958,
+    "wof:name":"Salitral",
+    "wof:parent_id":1092008991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.46897,
+    -19.91691,
+    -65.46897,
+    -19.91691
+],
+  "geometry": {"coordinates":[-65.46897,-19.91691],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326915889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.48333,-17.2,-63.48333,-17.2",
+    "geom:latitude":-17.2,
+    "geom:longitude":-63.48333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Estancia La Esperanza",
+    "gn:country_code":"BO",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916823,
+    "gn:latitude":-17.2,
+    "gn:longitude":-63.48333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia La Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916823
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"68cb3880952a0755be1fed0b730702f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009959,
+            "locality_id":1326915889,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1326915889,
+    "wof:lastmodified":1536929096,
+    "wof:name":"Estancia La Esperanza",
+    "wof:parent_id":1092009959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.48333,
+    -17.2,
+    -63.48333,
+    -17.2
+],
+  "geometry": {"coordinates":[-63.48333,-17.2],"type":"Point"}
+}

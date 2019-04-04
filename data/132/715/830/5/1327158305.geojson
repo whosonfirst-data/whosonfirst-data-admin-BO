@@ -1,0 +1,67 @@
+{
+  "id": 1327158305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.7,-16.91667,-67.7,-16.91667",
+    "geom:latitude":-16.91667,
+    "geom:longitude":-67.7,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Poopo",
+    "gn:country_code":"BO",
+    "gn:dem":2260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907686,
+    "gn:latitude":-16.91667,
+    "gn:longitude":-67.7,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Poop\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907686
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b9c36fa6897e7412dc06b9e7664988ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182435,
+            "locality_id":1327158305,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1327158305,
+    "wof:lastmodified":1537073520,
+    "wof:name":"Poopo",
+    "wof:parent_id":421182435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.7,
+    -16.91667,
+    -67.7,
+    -16.91667
+],
+  "geometry": {"coordinates":[-67.7,-16.91667],"type":"Point"}
+}

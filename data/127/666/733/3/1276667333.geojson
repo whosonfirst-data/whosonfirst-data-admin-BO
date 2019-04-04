@@ -1,0 +1,67 @@
+{
+  "id": 1276667333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.07276,-19.29187,-65.07276,-19.29187",
+    "geom:latitude":-19.29187,
+    "geom:longitude":-65.07276,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Comunidad San Jose de Molles",
+    "gn:country_code":"BO",
+    "gn:dem":2511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919454,
+    "gn:latitude":-19.29187,
+    "gn:longitude":-65.07276,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Comunidad San Jos\u00e9 de Molles",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421188855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919454
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b015ba504fa8b86461bc8eac3b8e657c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421188855,
+            "locality_id":1276667333,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1276667333,
+    "wof:lastmodified":1536827195,
+    "wof:name":"Comunidad San Jose de Molles",
+    "wof:parent_id":421188855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.07276,
+    -19.29187,
+    -65.07276,
+    -19.29187
+],
+  "geometry": {"coordinates":[-65.07276,-19.29187],"type":"Point"}
+}

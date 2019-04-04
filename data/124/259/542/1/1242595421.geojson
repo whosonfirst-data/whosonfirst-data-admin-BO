@@ -1,0 +1,67 @@
+{
+  "id": 1242595421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.12699,-20.48502,-65.12699,-20.48502",
+    "geom:latitude":-20.48502,
+    "geom:longitude":-65.12699,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cochaca",
+    "gn:country_code":"BO",
+    "gn:dem":3136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919964,
+    "gn:latitude":-20.48502,
+    "gn:longitude":-65.12699,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Cochaca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919964
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"bb4c8a581bad2512b1414fe82a47f8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006003,
+            "locality_id":1242595421,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1242595421,
+    "wof:lastmodified":1537036394,
+    "wof:name":"Cochaca",
+    "wof:parent_id":1092006003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.12699,
+    -20.48502,
+    -65.12699,
+    -20.48502
+],
+  "geometry": {"coordinates":[-65.12699000000001,-20.48502],"type":"Point"}
+}

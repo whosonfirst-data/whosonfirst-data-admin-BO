@@ -1,0 +1,67 @@
+{
+  "id": 1293905607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.00801,-11.59064,-69.00801,-11.59064",
+    "geom:latitude":-11.59064,
+    "geom:longitude":-69.00801,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Cafesal",
+    "gn:country_code":"BO",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11469140,
+    "gn:latitude":-11.59064,
+    "gn:longitude":-69.00801,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Cafesal",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11469140
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1d356215bdccee38f736829ed4ff9b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008461,
+            "locality_id":1293905607,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1293905607,
+    "wof:lastmodified":1536681482,
+    "wof:name":"Cafesal",
+    "wof:parent_id":1092008461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.00801,
+    -11.59064,
+    -69.00801,
+    -11.59064
+],
+  "geometry": {"coordinates":[-69.00801,-11.59064],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1360108729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.48333,-17.3,-68.48333,-17.3",
+    "geom:latitude":-17.3,
+    "geom:longitude":-68.48333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jayuma",
+    "gn:country_code":"BO",
+    "gn:dem":3864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913380,
+    "gn:latitude":-17.3,
+    "gn:longitude":-68.48333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jayuma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Jay\u00fcma"
+    ],
+    "name:spa_x_preferred":[
+        "Jayuma"
+    ],
+    "name:und_x_variant":[
+        "Jayuma de Llallagua",
+        "Jayuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913380
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8007b179696634fb2ea152986213096a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1360108729,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1360108729,
+    "wof:lastmodified":1537588047,
+    "wof:name":"Jayuma",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.48333000000001,
+    -17.3,
+    -68.48333000000001,
+    -17.3
+],
+  "geometry": {"coordinates":[-68.48333000000001,-17.3],"type":"Point"}
+}

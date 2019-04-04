@@ -1,0 +1,70 @@
+{
+  "id": 1226646339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.51538,-13.59861,-68.51538,-13.59861",
+    "geom:latitude":-13.59861,
+    "geom:longitude":-68.51538,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Tigre Alto Madidi",
+    "gn:country_code":"BO",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11528472,
+    "gn:latitude":-13.59861,
+    "gn:longitude":-68.51538,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"El Tigre Alto Madidi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Tigre Alto Madidi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421190245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11528472
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0648787ef5bfc51bfe23eabd25d9e807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190245,
+            "locality_id":1226646339,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1226646339,
+    "wof:lastmodified":1537588195,
+    "wof:name":"El Tigre Alto Madidi",
+    "wof:parent_id":421190245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.51538000000001,
+    -13.59861,
+    -68.51538000000001,
+    -13.59861
+],
+  "geometry": {"coordinates":[-68.51538000000001,-13.59861],"type":"Point"}
+}

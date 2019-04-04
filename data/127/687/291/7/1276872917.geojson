@@ -1,0 +1,67 @@
+{
+  "id": 1276872917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.98333,-17.1,-66.98333,-17.1",
+    "geom:latitude":-17.1,
+    "geom:longitude":-66.98333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Estancia Paco Pampa",
+    "gn:country_code":"BO",
+    "gn:dem":3229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916572,
+    "gn:latitude":-17.1,
+    "gn:longitude":-66.98333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Paco Pampa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916572
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d01c554b383ce7507bb7acf9afdcd00c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007257,
+            "locality_id":1276872917,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1276872917,
+    "wof:lastmodified":1537048415,
+    "wof:name":"Estancia Paco Pampa",
+    "wof:parent_id":1092007257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.98333000000001,
+    -17.1,
+    -66.98333000000001,
+    -17.1
+],
+  "geometry": {"coordinates":[-66.98333000000001,-17.1],"type":"Point"}
+}

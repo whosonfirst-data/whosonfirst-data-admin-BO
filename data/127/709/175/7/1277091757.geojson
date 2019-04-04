@@ -1,0 +1,67 @@
+{
+  "id": 1277091757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.5,-19.26667,-64.5,-19.26667",
+    "geom:latitude":-19.26667,
+    "geom:longitude":-64.5,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Suicarillo",
+    "gn:country_code":"BO",
+    "gn:dem":2335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903974,
+    "gn:latitude":-19.26667,
+    "gn:longitude":-64.5,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Suicarillo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421169227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903974
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0e6af349362f77cdb7a77992082d43cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169227,
+            "locality_id":1277091757,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1277091757,
+    "wof:lastmodified":1536754634,
+    "wof:name":"Suicarillo",
+    "wof:parent_id":421169227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.5,
+    -19.26667,
+    -64.5,
+    -19.26667
+],
+  "geometry": {"coordinates":[-64.5,-19.26667],"type":"Point"}
+}

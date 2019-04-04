@@ -1,0 +1,66 @@
+{
+  "id": 1209537111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.33333,-19.98333,-68.33333,-19.98333",
+    "geom:latitude":-19.98333,
+    "geom:longitude":-68.33333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Llatilquima",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911356,
+    "gn:latitude":-19.98333,
+    "gn:longitude":-68.33333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Llatilquima",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Llatiquima",
+        "Llatilquima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911356
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b26f3c9a050b033ef1410e0ad8ca826d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209537111
+        }
+    ],
+    "wof:id":1209537111,
+    "wof:lastmodified":1537588024,
+    "wof:name":"Llatilquima",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.33333,
+    -19.98333,
+    -68.33333,
+    -19.98333
+],
+  "geometry": {"coordinates":[-68.33333,-19.98333],"type":"Point"}
+}

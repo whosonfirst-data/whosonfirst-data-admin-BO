@@ -1,0 +1,66 @@
+{
+  "id": 890422899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.20214,-17.71285,-65.20214,-17.71285",
+    "geom:latitude":-17.71285,
+    "geom:longitude":-65.20214,
+    "gn:country":"BO",
+    "gn:fcode":"PPL",
+    "gn:pop":455,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Moya Pampa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618532,
+        "gp:id":346111,
+        "qs:id":642842
+    },
+    "wof:country":"BO",
+    "wof:created":1469051470,
+    "wof:geomhash":"bac73ff580039541b274ae1fd926a577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":890422899,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":890422899,
+    "wof:lastmodified":1505343472,
+    "wof:name":"Moya Pampa",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:population":455,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.20214,
+    -17.71285,
+    -65.20214,
+    -17.71285
+],
+  "geometry": {"coordinates":[-65.20214,-17.71285],"type":"Point"}
+}

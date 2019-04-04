@@ -1,0 +1,78 @@
+{
+  "id": 1125777981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.18812,-17.75605,-65.18812,-17.75605",
+    "geom:latitude":-17.75605,
+    "geom:longitude":-65.18812,
+    "gn:gn_country":"BO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":13,
+    "gn:population":13,
+    "iso:country":"BO",
+    "lbl:latitude":-17.75605,
+    "lbl:longitude":-65.18812,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BO",
+    "qs_pg:gn_country":"BO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6618572,
+    "qs_pg:gn_pop":13,
+    "qs_pg:name":"Tapa Tapa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":642867,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618572,
+        "qs_pg:id":642867
+    },
+    "wof:country":"BO",
+    "wof:created":1497290348,
+    "wof:geomhash":"6cb62aab6a34c0b20017114e6ec03bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1125777981,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1125777981,
+    "wof:lastmodified":1509391391,
+    "wof:name":"Tapa Tapa",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:population":13,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.18812,
+    -17.75605,
+    -65.18812,
+    -17.75605
+],
+  "geometry": {"coordinates":[-65.18812,-17.75605],"type":"Point"}
+}

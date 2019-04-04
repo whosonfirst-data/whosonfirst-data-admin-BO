@@ -1,0 +1,75 @@
+{
+  "id": 1343583993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.44738,-18.29996,-68.44738,-18.29996",
+    "geom:latitude":-18.29996,
+    "geom:longitude":-68.44738,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Anticuraguara",
+    "gn:country_code":"BO",
+    "gn:dem":3875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923872,
+    "gn:latitude":-18.29996,
+    "gn:longitude":-68.44738,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Anticuraguara",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Antin Curahuara",
+        "Antincurahuara",
+        "Antincurahua",
+        "Anticurahuara",
+        "Anticuragua",
+        "Anticuraguara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        421204017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923872
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6225b3151d79e5e03e6231f58907112d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421204017,
+            "locality_id":1343583993,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1343583993,
+    "wof:lastmodified":1537588152,
+    "wof:name":"Anticuraguara",
+    "wof:parent_id":421204017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.44738000000001,
+    -18.29996,
+    -68.44738000000001,
+    -18.29996
+],
+  "geometry": {"coordinates":[-68.44738000000001,-18.29996],"type":"Point"}
+}

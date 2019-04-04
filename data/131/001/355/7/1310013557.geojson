@@ -1,0 +1,67 @@
+{
+  "id": 1310013557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.1,-14.78333,-65.1,-14.78333",
+    "geom:latitude":-14.78333,
+    "geom:longitude":-65.1,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Soledad",
+    "gn:country_code":"BO",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904110,
+    "gn:latitude":-14.78333,
+    "gn:longitude":-65.1,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Soledad",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904110
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8b97227b8b8d0be58cfed4bbe0bf4d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005839,
+            "locality_id":1310013557,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1310013557,
+    "wof:lastmodified":1536629975,
+    "wof:name":"Soledad",
+    "wof:parent_id":1092005839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.1,
+    -14.78333,
+    -65.1,
+    -14.78333
+],
+  "geometry": {"coordinates":[-65.09999999999999,-14.78333],"type":"Point"}
+}

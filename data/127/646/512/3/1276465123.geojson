@@ -1,0 +1,72 @@
+{
+  "id": 1276465123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.81667,-20.98333,-65.81667,-20.98333",
+    "geom:latitude":-20.98333,
+    "geom:longitude":-65.81667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Cerros del Tapi",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921591,
+    "gn:latitude":-20.98333,
+    "gn:longitude":-65.81667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cerros del Tapi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cerros de Tapi",
+        "Cerros del Tapi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921591
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"65ccb633d3b557b66cf2a2c6c046f854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1276465123,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1276465123,
+    "wof:lastmodified":1537588122,
+    "wof:name":"Cerros del Tapi",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.81667,
+    -20.98333,
+    -65.81667,
+    -20.98333
+],
+  "geometry": {"coordinates":[-65.81667,-20.98333],"type":"Point"}
+}

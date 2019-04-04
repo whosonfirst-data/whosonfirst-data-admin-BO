@@ -1,0 +1,67 @@
+{
+  "id": 1225848409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.11667,-17.18333,-66.11667,-17.18333",
+    "geom:latitude":-17.18333,
+    "geom:longitude":-66.11667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Estancia Wichu Khollu",
+    "gn:country_code":"BO",
+    "gn:dem":3772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915931,
+    "gn:latitude":-17.18333,
+    "gn:longitude":-66.11667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Wichu Khollu",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        421172489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915931
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e2d1def514658428fac66c0a7c722abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421172489,
+            "locality_id":1225848409,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1225848409,
+    "wof:lastmodified":1537009097,
+    "wof:name":"Estancia Wichu Khollu",
+    "wof:parent_id":421172489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.11667,
+    -17.18333,
+    -66.11667,
+    -17.18333
+],
+  "geometry": {"coordinates":[-66.11667,-17.18333],"type":"Point"}
+}

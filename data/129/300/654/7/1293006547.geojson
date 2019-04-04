@@ -1,0 +1,67 @@
+{
+  "id": 1293006547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.01667,-16.7,-69.01667,-16.7",
+    "geom:latitude":-16.7,
+    "geom:longitude":-69.01667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Challapicho",
+    "gn:country_code":"BO",
+    "gn:dem":3826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921348,
+    "gn:latitude":-16.7,
+    "gn:longitude":-69.01667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Challapicho",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921348
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5cfad954ce59679223263808c127972b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007213,
+            "locality_id":1293006547,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293006547,
+    "wof:lastmodified":1536982583,
+    "wof:name":"Challapicho",
+    "wof:parent_id":1092007213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.01666999999999,
+    -16.7,
+    -69.01666999999999,
+    -16.7
+],
+  "geometry": {"coordinates":[-69.01666999999999,-16.7],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309821517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.77581,-20.08076,-64.77581,-20.08076",
+    "geom:latitude":-20.08076,
+    "geom:longitude":-64.77581,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Estancia Japu",
+    "gn:country_code":"BO",
+    "gn:dem":3919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917033,
+    "gn:latitude":-20.08076,
+    "gn:longitude":-64.77581,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Japu",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917033
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8c23aaf92eb38a8891ba36db2d93a2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006003,
+            "locality_id":1309821517,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1309821517,
+    "wof:lastmodified":1536908718,
+    "wof:name":"Estancia Japu",
+    "wof:parent_id":1092006003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.77580999999999,
+    -20.08076,
+    -64.77580999999999,
+    -20.08076
+],
+  "geometry": {"coordinates":[-64.77580999999999,-20.08076],"type":"Point"}
+}

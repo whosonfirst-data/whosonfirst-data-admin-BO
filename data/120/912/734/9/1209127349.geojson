@@ -1,0 +1,61 @@
+{
+  "id": 1209127349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.47123,-20.16116,-66.47123,-20.16116",
+    "geom:latitude":-20.16116,
+    "geom:longitude":-66.47123,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Estancia Antacollo",
+    "gn:country_code":"BO",
+    "gn:dem":3850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917753,
+    "gn:latitude":-20.16116,
+    "gn:longitude":-66.47123,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Antacollo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917753
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7b2567f16b320d7de11b1938326de4a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209127349
+        }
+    ],
+    "wof:id":1209127349,
+    "wof:lastmodified":1536296915,
+    "wof:name":"Estancia Antacollo",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.47123,
+    -20.16116,
+    -66.47123,
+    -20.16116
+],
+  "geometry": {"coordinates":[-66.47123000000001,-20.16116],"type":"Point"}
+}

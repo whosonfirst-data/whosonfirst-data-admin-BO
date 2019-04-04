@@ -1,0 +1,67 @@
+{
+  "id": 1209615797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.96667,-16.95,-68.96667,-16.95",
+    "geom:latitude":-16.95,
+    "geom:longitude":-68.96667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"San Andres de Machaca",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905896,
+    "gn:latitude":-16.95,
+    "gn:longitude":-68.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Andr\u00e9s de Machaca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Andr\u00e9s",
+        "San Andr\u00e9s de Machaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905896,
+        "wk:page":"San_Andr%C3%A9s_de_Machaca"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5bc79dcd2c19ae370fc1ec5f7e54583f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209615797
+        }
+    ],
+    "wof:id":1209615797,
+    "wof:lastmodified":1537587962,
+    "wof:name":"San Andres de Machaca",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.96667,
+    -16.95,
+    -68.96667,
+    -16.95
+],
+  "geometry": {"coordinates":[-68.96666999999999,-16.95],"type":"Point"}
+}

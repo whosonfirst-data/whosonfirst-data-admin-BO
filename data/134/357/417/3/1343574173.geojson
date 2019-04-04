@@ -1,0 +1,67 @@
+{
+  "id": 1343574173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.2552,-17.38233,-66.2552,-17.38233",
+    "geom:latitude":-17.38233,
+    "geom:longitude":-66.2552,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pandoja",
+    "gn:country_code":"BO",
+    "gn:dem":2568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8354591,
+    "gn:latitude":-17.38233,
+    "gn:longitude":-66.2552,
+    "gn:modification_date":"2012-08-01",
+    "gn:name":"Pandoja",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        421197123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8354591
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1b911e478c889bd59f47bd5dc478dbfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197123,
+            "locality_id":1343574173,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1343574173,
+    "wof:lastmodified":1537076505,
+    "wof:name":"Pandoja",
+    "wof:parent_id":421197123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.2552,
+    -17.38233,
+    -66.2552,
+    -17.38233
+],
+  "geometry": {"coordinates":[-66.2552,-17.38233],"type":"Point"}
+}

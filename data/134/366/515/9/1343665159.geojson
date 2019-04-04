@@ -1,0 +1,67 @@
+{
+  "id": 1343665159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.93333,-16.28333,-66.93333,-16.28333",
+    "geom:latitude":-16.28333,
+    "geom:longitude":-66.93333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Santo Domingo",
+    "gn:country_code":"BO",
+    "gn:dem":2105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904640,
+    "gn:latitude":-16.28333,
+    "gn:longitude":-66.93333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Santo Domingo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904640
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"df88ea0275e78a455d4b23e322bdee4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007257,
+            "locality_id":1343665159,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1343665159,
+    "wof:lastmodified":1536948572,
+    "wof:name":"Santo Domingo",
+    "wof:parent_id":1092007257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.93333,
+    -16.28333,
+    -66.93333,
+    -16.28333
+],
+  "geometry": {"coordinates":[-66.93333,-16.28333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226646961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.96667,-17.35,-67.96667,-17.35",
+    "geom:latitude":-17.35,
+    "geom:longitude":-67.96667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sehuecani",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904453,
+    "gn:latitude":-17.35,
+    "gn:longitude":-67.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sehuecani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huacachi",
+        "Sehuecani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092006923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904453
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5948e82293f7a6b8f21523bfde3d5297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006923,
+            "locality_id":1226646961,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1226646961,
+    "wof:lastmodified":1537587951,
+    "wof:name":"Sehuecani",
+    "wof:parent_id":1092006923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.96667,
+    -17.35,
+    -67.96667,
+    -17.35
+],
+  "geometry": {"coordinates":[-67.96666999999999,-17.35],"type":"Point"}
+}

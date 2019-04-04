@@ -1,0 +1,97 @@
+{
+  "id": 421168019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.22139,-20.93515,-66.22139,-20.93515",
+    "geom:latitude":-20.93515,
+    "geom:longitude":-66.22139,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Atocha"
+    ],
+    "name:deu_x_preferred":[
+        "Atocha"
+    ],
+    "name:que_x_preferred":[
+        "Atucha"
+    ],
+    "name:spa_x_preferred":[
+        "Municipio de Atocha"
+    ],
+    "name:swe_x_preferred":[
+        "Atocha"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3923570,
+    "qs:gn_pop":1833,
+    "qs:name":"Atocha",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"Potos\u00ed",
+    "qs:photos":13,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":13,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":501140,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":346125,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923570,
+        "gp:id":346125,
+        "qs:id":501140,
+        "wd:id":"Q637550",
+        "wk:page":"Atocha, Bolivia"
+    },
+    "wof:country":"BO",
+    "wof:created":1459008751,
+    "wof:geomhash":"4242b0303f66e7c4f8406e89a1f4ae24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":421168019,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":421168019,
+    "wof:lastmodified":1527716097,
+    "wof:name":"Atocha",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:population":1833,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.22139,
+    -20.93515,
+    -66.22139,
+    -20.93515
+],
+  "geometry": {"coordinates":[-66.22139,-20.93515],"type":"Point"}
+}

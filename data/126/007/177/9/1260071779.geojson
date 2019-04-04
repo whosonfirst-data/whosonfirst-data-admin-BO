@@ -1,0 +1,67 @@
+{
+  "id": 1260071779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.34913,-22.04641,-67.34913,-22.04641",
+    "geom:latitude":-22.04641,
+    "geom:longitude":-67.34913,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lupi Gera",
+    "gn:country_code":"BO",
+    "gn:dem":4229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911026,
+    "gn:latitude":-22.04641,
+    "gn:longitude":-67.34913,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Lupi Gera",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911026
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"75fa7bb799c46fbb8e82f8233cd439fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193355,
+            "locality_id":1260071779,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1260071779,
+    "wof:lastmodified":1537004175,
+    "wof:name":"Lupi Gera",
+    "wof:parent_id":421193355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.34913,
+    -22.04641,
+    -67.34913,
+    -22.04641
+],
+  "geometry": {"coordinates":[-67.34913,-22.04641],"type":"Point"}
+}

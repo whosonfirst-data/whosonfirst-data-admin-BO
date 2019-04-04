@@ -1,0 +1,67 @@
+{
+  "id": 1309733159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.71205,-22.01835,-65.71205,-22.01835",
+    "geom:latitude":-22.01835,
+    "geom:longitude":-65.71205,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hoyadas",
+    "gn:country_code":"BO",
+    "gn:dem":3565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915102,
+    "gn:latitude":-22.01835,
+    "gn:longitude":-65.71205,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Hoyadas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915102
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d0579158c28816bb952afe83e4aaa6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177661,
+            "locality_id":1309733159,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1309733159,
+    "wof:lastmodified":1537034374,
+    "wof:name":"Hoyadas",
+    "wof:parent_id":421177661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.71205,
+    -22.01835,
+    -65.71205,
+    -22.01835
+],
+  "geometry": {"coordinates":[-65.71205,-22.01835],"type":"Point"}
+}

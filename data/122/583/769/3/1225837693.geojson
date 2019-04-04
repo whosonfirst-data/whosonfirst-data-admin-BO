@@ -1,0 +1,75 @@
+{
+  "id": 1225837693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.41667,-11.08333,-67.41667,-11.08333",
+    "geom:latitude":-11.08333,
+    "geom:longitude":-67.41667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Trinidad",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902379,
+    "gn:latitude":-11.08333,
+    "gn:longitude":-67.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Trinidad",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434"
+    ],
+    "name:und_x_variant":[
+        "Trinadad",
+        "Trinidad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902379
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5c7cf16c741148db09b896090a8ae587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008461,
+            "locality_id":1225837693,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1225837693,
+    "wof:lastmodified":1537587923,
+    "wof:name":"Trinidad",
+    "wof:parent_id":1092008461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.41667,
+    -11.08333,
+    -67.41667,
+    -11.08333
+],
+  "geometry": {"coordinates":[-67.41667,-11.08333],"type":"Point"}
+}

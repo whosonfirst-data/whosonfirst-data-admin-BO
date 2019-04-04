@@ -1,0 +1,67 @@
+{
+  "id": 1310615125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.86445,-20.4963,-63.86445,-20.4963",
+    "geom:latitude":-20.4963,
+    "geom:longitude":-63.86445,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Villa Hermosa",
+    "gn:country_code":"BO",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901560,
+    "gn:latitude":-20.4963,
+    "gn:longitude":-63.86445,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Villa Hermosa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901560
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1da95fbf4fbc6da13216e5ff5de869aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005923,
+            "locality_id":1310615125,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1310615125,
+    "wof:lastmodified":1536758878,
+    "wof:name":"Villa Hermosa",
+    "wof:parent_id":1092005923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.86445,
+    -20.4963,
+    -63.86445,
+    -20.4963
+],
+  "geometry": {"coordinates":[-63.86445,-20.4963],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259876671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.62047,-21.68782,-66.62047,-21.68782",
+    "geom:latitude":-21.68782,
+    "geom:longitude":-66.62047,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"San Pablo de Lipez",
+    "gn:country_code":"BO",
+    "gn:dem":4240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905190,
+    "gn:latitude":-21.68782,
+    "gn:longitude":-66.62047,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"San Pablo de Lipez",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Pablo",
+        "San Pablo de Lipez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905190,
+        "wk:page":"San_Pablo_de_L%C3%ADpez"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"79f6d6b689d2d0598ec1a39cd9cb3359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193355,
+            "locality_id":1259876671,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1259876671,
+    "wof:lastmodified":1537587957,
+    "wof:name":"San Pablo de Lipez",
+    "wof:parent_id":421193355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.62047,
+    -21.68782,
+    -66.62047,
+    -21.68782
+],
+  "geometry": {"coordinates":[-66.62047,-21.68782],"type":"Point"}
+}

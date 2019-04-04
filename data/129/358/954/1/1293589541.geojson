@@ -1,0 +1,67 @@
+{
+  "id": 1293589541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.61667,-16.46667,-68.61667,-16.46667",
+    "geom:latitude":-16.46667,
+    "geom:longitude":-68.61667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Korila",
+    "gn:country_code":"BO",
+    "gn:dem":3834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912496,
+    "gn:latitude":-16.46667,
+    "gn:longitude":-68.61667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Korila",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421197575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912496
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f2518f328587d4e658eeb7c345772613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197575,
+            "locality_id":1293589541,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293589541,
+    "wof:lastmodified":1536638971,
+    "wof:name":"Korila",
+    "wof:parent_id":421197575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.61667,
+    -16.46667,
+    -68.61667,
+    -16.46667
+],
+  "geometry": {"coordinates":[-68.61667,-16.46667],"type":"Point"}
+}

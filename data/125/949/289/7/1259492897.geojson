@@ -1,0 +1,71 @@
+{
+  "id": 1259492897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.07236,-19.25477,-65.07236,-19.25477",
+    "geom:latitude":-19.25477,
+    "geom:longitude":-65.07236,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Escana",
+    "gn:country_code":"BO",
+    "gn:dem":2608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917916,
+    "gn:latitude":-19.25477,
+    "gn:longitude":-65.07236,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Escana",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Escana",
+        "Escana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421188855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917916
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1f30391a6a7398799d0878152be75093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421188855,
+            "locality_id":1259492897,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1259492897,
+    "wof:lastmodified":1537588081,
+    "wof:name":"Escana",
+    "wof:parent_id":421188855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.07236,
+    -19.25477,
+    -65.07236,
+    -19.25477
+],
+  "geometry": {"coordinates":[-65.07236,-19.25477],"type":"Point"}
+}

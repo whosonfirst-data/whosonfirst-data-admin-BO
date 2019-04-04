@@ -1,0 +1,111 @@
+{
+  "id": 85764353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":16003186.768226,
+    "geom:bbox":"-68.160398,-16.499622,-68.160398,-16.499622",
+    "geom:latitude":-16.499622,
+    "geom:longitude":-68.160398,
+    "gn:latitude":-16.5,
+    "gn:longitude":-68.16667,
+    "iso:country":"BO",
+    "lbl:latitude":-16.499622,
+    "lbl:longitude":-68.160398,
+    "mps:latitude":-16.505321,
+    "mps:longitude":-68.166604,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "Callampaya"
+    ],
+    "name:unk_x_variant":[
+        "Callampaya"
+    ],
+    "qs:gn_adm0_cc":"BO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3911925,
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Callampaya",
+    "qs:local_max":3411,
+    "qs:local_sum":7300,
+    "qs:localhoods":7,
+    "qs:name":"Callampaya",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"La Paz",
+    "qs:name_adm2":"Pedro Domingo Murillo",
+    "qs:name_lau":"La Paz",
+    "qs:name_local":"La Paz",
+    "qs:photo_max":290,
+    "qs:photo_sum":2185,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":65,
+    "qs:woe_adm0":23424762,
+    "qs:woe_adm1":2344804,
+    "qs:woe_adm2":55967857,
+    "qs:woe_lau":55968149,
+    "qs:woe_local":346057,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85669409,
+        102191577,
+        85632623,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922569,
+        "gp:id":334055,
+        "qs:id":222198
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6c79689dd320608817b95936e302c02e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":-1,
+            "neighbourhood_id":85764353,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":85764353,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379236,
+    "wof:name":"Callampaya",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[
+        1126093073
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.160398,
+    -16.499622,
+    -68.160398,
+    -16.499622
+],
+  "geometry": {"coordinates":[-68.160398,-16.499622],"type":"Point"}
+}

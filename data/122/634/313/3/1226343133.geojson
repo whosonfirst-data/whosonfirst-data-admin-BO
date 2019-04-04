@@ -1,0 +1,67 @@
+{
+  "id": 1226343133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.31667,-15.9,-68.31667,-15.9",
+    "geom:latitude":-15.9,
+    "geom:longitude":-68.31667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Inihuata",
+    "gn:country_code":"BO",
+    "gn:dem":4445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914156,
+    "gn:latitude":-15.9,
+    "gn:longitude":-68.31667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Inihuata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421187929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914156
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"180c40b3a054f3766292461ff6f76a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187929,
+            "locality_id":1226343133,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1226343133,
+    "wof:lastmodified":1536793528,
+    "wof:name":"Inihuata",
+    "wof:parent_id":421187929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.31667,
+    -15.9,
+    -68.31667,
+    -15.9
+],
+  "geometry": {"coordinates":[-68.31667,-15.9],"type":"Point"}
+}

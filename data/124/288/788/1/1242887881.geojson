@@ -1,0 +1,70 @@
+{
+  "id": 1242887881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.28333,-19.61667,-64.28333,-19.61667",
+    "geom:latitude":-19.61667,
+    "geom:longitude":-64.28333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tambo",
+    "gn:country_code":"BO",
+    "gn:dem":2191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903564,
+    "gn:latitude":-19.61667,
+    "gn:longitude":-64.28333,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Tambo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pampa Tambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421169227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903564
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e45771a05807c2556fbe80d636fe2160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169227,
+            "locality_id":1242887881,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1242887881,
+    "wof:lastmodified":1537587939,
+    "wof:name":"Tambo",
+    "wof:parent_id":421169227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.28333,
+    -19.61667000000001,
+    -64.28333,
+    -19.61667000000001
+],
+  "geometry": {"coordinates":[-64.28333000000001,-19.61667000000001],"type":"Point"}
+}

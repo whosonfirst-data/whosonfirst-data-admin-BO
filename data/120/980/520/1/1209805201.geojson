@@ -1,0 +1,72 @@
+{
+  "id": 1209805201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.47816,-21.48242,-64.47816,-21.48242",
+    "geom:latitude":-21.48242,
+    "geom:longitude":-64.47816,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Carlazo",
+    "gn:country_code":"BO",
+    "gn:dem":2199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921946,
+    "gn:latitude":-21.48242,
+    "gn:longitude":-64.47816,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Carlazo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garlazo",
+        "Carlaso",
+        "Carlazo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421169233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921946
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"617f92ec6d61d3a6e2113eb3e0e3067d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169233,
+            "locality_id":1209805201,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1209805201,
+    "wof:lastmodified":1537588127,
+    "wof:name":"Carlazo",
+    "wof:parent_id":421169233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.47816,
+    -21.48242,
+    -64.47816,
+    -21.48242
+],
+  "geometry": {"coordinates":[-64.47816,-21.48242],"type":"Point"}
+}

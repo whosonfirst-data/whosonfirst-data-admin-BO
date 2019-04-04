@@ -1,0 +1,67 @@
+{
+  "id": 1293386833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.66667,-21.18333,-65.66667,-21.18333",
+    "geom:latitude":-21.18333,
+    "geom:longitude":-65.66667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Murumoco",
+    "gn:country_code":"BO",
+    "gn:dem":3514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909773,
+    "gn:latitude":-21.18333,
+    "gn:longitude":-65.66667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Murumoco",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909773
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b4093ebe7fee01c2b1690dc73d42b5c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":1293386833,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293386833,
+    "wof:lastmodified":1536932916,
+    "wof:name":"Murumoco",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.66667,
+    -21.18333,
+    -65.66667,
+    -21.18333
+],
+  "geometry": {"coordinates":[-65.66667,-21.18333],"type":"Point"}
+}

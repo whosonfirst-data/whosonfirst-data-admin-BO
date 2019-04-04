@@ -1,0 +1,72 @@
+{
+  "id": 1343762589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.38333,-16.18333,-68.38333,-16.18333",
+    "geom:latitude":-16.18333,
+    "geom:longitude":-68.38333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hichucota",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915227,
+    "gn:latitude":-16.18333,
+    "gn:longitude":-68.38333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hichucota",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hichuca\u00f1a",
+        "Hichucota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421197575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915227
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0726a9795aa76e4ee695cb6d27362909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197575,
+            "locality_id":1343762589,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1343762589,
+    "wof:lastmodified":1537588069,
+    "wof:name":"Hichucota",
+    "wof:parent_id":421197575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.38333,
+    -16.18333,
+    -68.38333,
+    -16.18333
+],
+  "geometry": {"coordinates":[-68.38333,-16.18333],"type":"Point"}
+}

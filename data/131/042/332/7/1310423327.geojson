@@ -1,0 +1,71 @@
+{
+  "id": 1310423327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.09432,-20.53286,-63.09432,-20.53286",
+    "geom:latitude":-20.53286,
+    "geom:longitude":-63.09432,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ivoperenda",
+    "gn:country_code":"BO",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913857,
+    "gn:latitude":-20.53286,
+    "gn:longitude":-63.09432,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Ivoperenda",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iboperenda",
+        "Ivoperenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913857
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"96ae561fdd840c037623021f24bb21a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005959,
+            "locality_id":1310423327,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1310423327,
+    "wof:lastmodified":1537588052,
+    "wof:name":"Ivoperenda",
+    "wof:parent_id":1092005959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.09432,
+    -20.53286,
+    -63.09432,
+    -20.53286
+],
+  "geometry": {"coordinates":[-63.09432,-20.53286],"type":"Point"}
+}

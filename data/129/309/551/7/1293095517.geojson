@@ -1,0 +1,72 @@
+{
+  "id": 1293095517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.4,-21.1,-66.4,-21.1",
+    "geom:latitude":-21.1,
+    "geom:longitude":-66.4,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Aturicamayoc",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923553,
+    "gn:latitude":-21.1,
+    "gn:longitude":-66.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aturicamayoc",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hatuncanayoc",
+        "Aturicamayoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923553
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d0f538af12a66c41f8e8da6d445329e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193357,
+            "locality_id":1293095517,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293095517,
+    "wof:lastmodified":1537588148,
+    "wof:name":"Aturicamayoc",
+    "wof:parent_id":421193357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.4,
+    -21.1,
+    -66.4,
+    -21.1
+],
+  "geometry": {"coordinates":[-66.40000000000001,-21.1],"type":"Point"}
+}

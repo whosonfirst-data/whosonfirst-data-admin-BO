@@ -1,0 +1,72 @@
+{
+  "id": 1327119797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.53333,-14.51667,-62.53333,-14.51667",
+    "geom:latitude":-14.51667,
+    "geom:longitude":-62.53333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Palmira",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908742,
+    "gn:latitude":-14.51667,
+    "gn:longitude":-62.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Palmira",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palmita",
+        "Palmira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908742
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"798d870cd91858b8a8b58abfb4c84391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009873,
+            "locality_id":1327119797,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1327119797,
+    "wof:lastmodified":1537587995,
+    "wof:name":"Palmira",
+    "wof:parent_id":1092009873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.53333000000001,
+    -14.51667,
+    -62.53333000000001,
+    -14.51667
+],
+  "geometry": {"coordinates":[-62.53333000000001,-14.51667],"type":"Point"}
+}

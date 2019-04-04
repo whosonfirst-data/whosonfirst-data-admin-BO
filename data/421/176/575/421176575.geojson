@@ -1,0 +1,112 @@
+{
+  "id": 421176575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.02099,-18.17251,-67.02099,-18.17251",
+    "geom:latitude":-18.17251,
+    "geom:longitude":-67.02099,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aym_x_preferred":[
+        "Machakamarka"
+    ],
+    "name:ceb_x_preferred":[
+        "Machacamarca"
+    ],
+    "name:deu_x_preferred":[
+        "Machacamarca"
+    ],
+    "name:dut_x_preferred":[
+        "Machacamarca"
+    ],
+    "name:eng_x_preferred":[
+        "Machacamarca"
+    ],
+    "name:ger_x_preferred":[
+        "Machacamarca"
+    ],
+    "name:que_x_preferred":[
+        "Machaqa Marka"
+    ],
+    "name:spa_x_preferred":[
+        "Machacamarca"
+    ],
+    "name:swe_x_preferred":[
+        "Machacamarca"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0686\u0627\u06a9\u0627\u0645\u0627\u0631\u06a9\u0627"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3910971,
+    "qs:gn_pop":2044,
+    "qs:name":"Machacamarca",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"Oruro",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1047166,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":346181,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":205,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092007979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910971,
+        "gp:id":346181,
+        "qs:id":1047166,
+        "wd:id":"Q1312330",
+        "wk:page":"Machacamarca (Oruro)"
+    },
+    "wof:country":"BO",
+    "wof:created":1459009112,
+    "wof:geomhash":"db3957b31701f171140786f41c879c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007979,
+            "locality_id":421176575,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":421176575,
+    "wof:lastmodified":1527726472,
+    "wof:name":"Machacamarca",
+    "wof:parent_id":1092007979,
+    "wof:placetype":"locality",
+    "wof:population":2044,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.02099,
+    -18.17251,
+    -67.02099,
+    -18.17251
+],
+  "geometry": {"coordinates":[-67.02099,-18.17251],"type":"Point"}
+}

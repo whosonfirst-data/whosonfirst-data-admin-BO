@@ -1,0 +1,67 @@
+{
+  "id": 1259893617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.46258,-19.07148,-65.46258,-19.07148",
+    "geom:latitude":-19.07148,
+    "geom:longitude":-65.46258,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sapallo Khocha",
+    "gn:country_code":"BO",
+    "gn:dem":3287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3970065,
+    "gn:latitude":-19.07148,
+    "gn:longitude":-65.46258,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Sapallo Khocha",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3970065
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"163f0259e3af3d143a1bac8e84f67c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1259893617,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1259893617,
+    "wof:lastmodified":1536764832,
+    "wof:name":"Sapallo Khocha",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.46258,
+    -19.07148,
+    -65.46258,
+    -19.07148
+],
+  "geometry": {"coordinates":[-65.46258,-19.07148],"type":"Point"}
+}

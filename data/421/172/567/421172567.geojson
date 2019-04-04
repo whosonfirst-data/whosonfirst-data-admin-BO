@@ -1,0 +1,75 @@
+{
+  "id": 421172567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.8459105,-16.214842,-68.8459105,-16.214842",
+    "geom:latitude":-16.214842,
+    "geom:longitude":-68.845911,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Achacachi",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":418,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1313631,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":55968125,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421187909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55968125,
+        "qs:id":1313631
+    },
+    "wof:country":"BO",
+    "wof:created":1459008947,
+    "wof:geomhash":"f7fd4200bd30c835700a99ac5e5d5dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187909,
+            "localadmin_id":421172567,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":421172567,
+    "wof:lastmodified":1499927556,
+    "wof:name":"Achacachi",
+    "wof:parent_id":421187909,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.8459105,
+    -16.214842,
+    -68.8459105,
+    -16.214842
+],
+  "geometry": {"coordinates":[-68.8459105,-16.214842],"type":"Point"}
+}

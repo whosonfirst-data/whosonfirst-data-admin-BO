@@ -1,0 +1,67 @@
+{
+  "id": 1343359437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.78333,-16.48333,-68.78333,-16.48333",
+    "geom:latitude":-16.48333,
+    "geom:longitude":-68.78333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pillapi",
+    "gn:country_code":"BO",
+    "gn:dem":3856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907933,
+    "gn:latitude":-16.48333,
+    "gn:longitude":-68.78333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Pillapi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907933
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ad2c24aa8d0be2796f05f397c5b5d3b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007213,
+            "locality_id":1343359437,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1343359437,
+    "wof:lastmodified":1536891660,
+    "wof:name":"Pillapi",
+    "wof:parent_id":1092007213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.78333,
+    -16.48333,
+    -68.78333,
+    -16.48333
+],
+  "geometry": {"coordinates":[-68.78333000000001,-16.48333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327329123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.6616,-19.74769,-62.6616,-19.74769",
+    "geom:latitude":-19.74769,
+    "geom:longitude":-62.6616,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Amboro",
+    "gn:country_code":"BO",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3924088,
+    "gn:latitude":-19.74769,
+    "gn:longitude":-62.6616,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Ambor\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huevo",
+        "Amboro Nuevo",
+        "Ambor\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3924088
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"89be758fc4d6d03a64d0c28e698dc83d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1327329123,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1327329123,
+    "wof:lastmodified":1537588155,
+    "wof:name":"Amboro",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.6616,
+    -19.74769,
+    -62.6616,
+    -19.74769
+],
+  "geometry": {"coordinates":[-62.6616,-19.74769],"type":"Point"}
+}

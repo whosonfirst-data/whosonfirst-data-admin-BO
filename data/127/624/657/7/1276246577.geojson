@@ -1,0 +1,67 @@
+{
+  "id": 1276246577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.27018,-20.93122,-65.27018,-20.93122",
+    "geom:latitude":-20.93122,
+    "geom:longitude":-65.27018,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jailia",
+    "gn:country_code":"BO",
+    "gn:dem":2746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913740,
+    "gn:latitude":-20.93122,
+    "gn:longitude":-65.27018,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Jailia",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913740
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8d06c68c46b31944f08279b0c2a701d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006125,
+            "locality_id":1276246577,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1276246577,
+    "wof:lastmodified":1536894637,
+    "wof:name":"Jailia",
+    "wof:parent_id":1092006125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.27018000000001,
+    -20.93122,
+    -65.27018000000001,
+    -20.93122
+],
+  "geometry": {"coordinates":[-65.27018000000001,-20.93122],"type":"Point"}
+}

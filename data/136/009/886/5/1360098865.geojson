@@ -1,0 +1,67 @@
+{
+  "id": 1360098865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.7754,-19.73863,-63.7754,-19.73863",
+    "geom:latitude":-19.73863,
+    "geom:longitude":-63.7754,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Caraparirenda",
+    "gn:country_code":"BO",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922005,
+    "gn:latitude":-19.73863,
+    "gn:longitude":-63.7754,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Caraparirenda",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922005
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6ece43a6d68abc280a16de5041e2b259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005959,
+            "locality_id":1360098865,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1360098865,
+    "wof:lastmodified":1536926374,
+    "wof:name":"Caraparirenda",
+    "wof:parent_id":1092005959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.7754,
+    -19.73863,
+    -63.7754,
+    -19.73863
+],
+  "geometry": {"coordinates":[-63.7754,-19.73863],"type":"Point"}
+}

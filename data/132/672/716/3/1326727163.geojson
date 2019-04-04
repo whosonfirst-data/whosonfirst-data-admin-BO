@@ -1,0 +1,72 @@
+{
+  "id": 1326727163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.86667,-18.25,-65.86667,-18.25",
+    "geom:latitude":-18.25,
+    "geom:longitude":-65.86667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Choroma",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920399,
+    "gn:latitude":-18.25,
+    "gn:longitude":-65.86667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Choroma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chi\u00f1ata",
+        "Choroma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920399
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a529c92c0d9a28bfc0fb5c4c3bc45aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008737,
+            "locality_id":1326727163,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1326727163,
+    "wof:lastmodified":1537588109,
+    "wof:name":"Choroma",
+    "wof:parent_id":1092008737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.86667,
+    -18.25,
+    -65.86667,
+    -18.25
+],
+  "geometry": {"coordinates":[-65.86667,-18.25],"type":"Point"}
+}

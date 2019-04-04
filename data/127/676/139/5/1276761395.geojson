@@ -1,0 +1,67 @@
+{
+  "id": 1276761395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.35,-17.76667,-68.35,-17.76667",
+    "geom:latitude":-17.76667,
+    "geom:longitude":-68.35,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Llallagua",
+    "gn:country_code":"BO",
+    "gn:dem":3904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911412,
+    "gn:latitude":-17.76667,
+    "gn:longitude":-68.35,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Llallagua",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        421204017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911412
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"387d1acc12f73d56d81731584bd97167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421204017,
+            "locality_id":1276761395,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1276761395,
+    "wof:lastmodified":1536702566,
+    "wof:name":"Llallagua",
+    "wof:parent_id":421204017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.35,
+    -17.76667,
+    -68.35,
+    -17.76667
+],
+  "geometry": {"coordinates":[-68.34999999999999,-17.76667],"type":"Point"}
+}

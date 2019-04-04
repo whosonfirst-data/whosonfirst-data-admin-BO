@@ -1,0 +1,66 @@
+{
+  "id": 1209635303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.63333,-17.28333,-63.63333,-17.28333",
+    "geom:latitude":-17.28333,
+    "geom:longitude":-63.63333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Pilar",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918130,
+    "gn:latitude":-17.28333,
+    "gn:longitude":-63.63333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Pilar",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad El Pilar",
+        "El Pilar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918130
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"327cba73dd0ae14b055787fe31e273df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209635303
+        }
+    ],
+    "wof:id":1209635303,
+    "wof:lastmodified":1537588084,
+    "wof:name":"El Pilar",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.63333000000001,
+    -17.28333,
+    -63.63333000000001,
+    -17.28333
+],
+  "geometry": {"coordinates":[-63.63333000000001,-17.28333],"type":"Point"}
+}

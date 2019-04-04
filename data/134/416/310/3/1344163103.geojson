@@ -1,0 +1,73 @@
+{
+  "id": 1344163103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.66667,-16.76667,-68.66667,-16.76667",
+    "geom:latitude":-16.76667,
+    "geom:longitude":-68.66667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ckoncha",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920022,
+    "gn:latitude":-16.76667,
+    "gn:longitude":-68.66667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ckoncha",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ckoncko",
+        "Ckoncho",
+        "Ckoncha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920022
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2b9882af963eea5e5f6f56ba76bfe8cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007213,
+            "locality_id":1344163103,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1344163103,
+    "wof:lastmodified":1537588105,
+    "wof:name":"Ckoncha",
+    "wof:parent_id":1092007213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.66667,
+    -16.76667,
+    -68.66667,
+    -16.76667
+],
+  "geometry": {"coordinates":[-68.66667,-16.76667],"type":"Point"}
+}

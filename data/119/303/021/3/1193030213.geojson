@@ -1,0 +1,69 @@
+{
+  "id": 1193030213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.88478,-20.72278,-64.88478,-20.72278",
+    "geom:latitude":-20.72278,
+    "geom:longitude":-64.88478,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"107.0",
+    "gn:admin3_code":"11468568.0",
+    "gn:asciiname":"Villa Charcas",
+    "gn:country_code":"BO",
+    "gn:dem":2954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3901582,
+    "gn:latitude":-20.72278,
+    "gn:longitude":-64.88478,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Villa Charcas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901582
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f2d8a84c710be2280e110be27543834c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006003,
+            "locality_id":1193030213,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1193030213,
+    "wof:lastmodified":1536364777,
+    "wof:name":"Villa Charcas",
+    "wof:parent_id":1092006003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.88478,
+    -20.72278,
+    -64.88478,
+    -20.72278
+],
+  "geometry": {"coordinates":[-64.88478000000001,-20.72278],"type":"Point"}
+}

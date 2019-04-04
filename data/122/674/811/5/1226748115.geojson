@@ -1,0 +1,73 @@
+{
+  "id": 1226748115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.09294,-15.53238,-69.09294,-15.53238",
+    "geom:latitude":-15.53238,
+    "geom:longitude":-69.09294,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tayplayca",
+    "gn:country_code":"BO",
+    "gn:dem":3865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916133,
+    "gn:latitude":-15.53238,
+    "gn:longitude":-69.09294,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Tayplayca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tayplayca"
+    ],
+    "name:spa_x_variant":[
+        "Estancia Taypi Ayca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916133
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"fee92ab2185f0b6b8f4cc0ec8615c4eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007003,
+            "locality_id":1226748115,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1226748115,
+    "wof:lastmodified":1537588078,
+    "wof:name":"Tayplayca",
+    "wof:parent_id":1092007003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.09294,
+    -15.53238,
+    -69.09294,
+    -15.53238
+],
+  "geometry": {"coordinates":[-69.09294,-15.53238],"type":"Point"}
+}

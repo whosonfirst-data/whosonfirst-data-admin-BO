@@ -1,0 +1,70 @@
+{
+  "id": 1243089707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.51887,-11.14631,-68.51887,-11.14631",
+    "geom:latitude":-11.14631,
+    "geom:longitude":-68.51887,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Comunidad Mara Newape",
+    "gn:country_code":"BO",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11498678,
+    "gn:latitude":-11.14631,
+    "gn:longitude":-68.51887,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Comunidad Mara Newape",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Comunidad Mara Newape"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11498678
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"65296df131a11b8a31f5bc37c3b5175a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008501,
+            "locality_id":1243089707,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1243089707,
+    "wof:lastmodified":1537588165,
+    "wof:name":"Comunidad Mara Newape",
+    "wof:parent_id":1092008501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.51886999999999,
+    -11.14631,
+    -68.51886999999999,
+    -11.14631
+],
+  "geometry": {"coordinates":[-68.51886999999999,-11.14631],"type":"Point"}
+}

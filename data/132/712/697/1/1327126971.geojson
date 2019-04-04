@@ -1,0 +1,70 @@
+{
+  "id": 1327126971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.80563,-11.36985,-68.80563,-11.36985",
+    "geom:latitude":-11.36985,
+    "geom:longitude":-68.80563,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Comunidad Mulata",
+    "gn:country_code":"BO",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11498780,
+    "gn:latitude":-11.36985,
+    "gn:longitude":-68.80563,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Comunidad Mulata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Comunidad Mulata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11498780
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ff4724bb752687e7a360bc9ee916a894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008461,
+            "locality_id":1327126971,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1327126971,
+    "wof:lastmodified":1537588168,
+    "wof:name":"Comunidad Mulata",
+    "wof:parent_id":1092008461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.80563000000001,
+    -11.36985,
+    -68.80563000000001,
+    -11.36985
+],
+  "geometry": {"coordinates":[-68.80563000000001,-11.36985],"type":"Point"}
+}

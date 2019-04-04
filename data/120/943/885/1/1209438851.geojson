@@ -1,0 +1,61 @@
+{
+  "id": 1209438851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.95,-17.36667,-68.95,-17.36667",
+    "geom:latitude":-17.36667,
+    "geom:longitude":-68.95,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jachaoko",
+    "gn:country_code":"BO",
+    "gn:dem":3969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913830,
+    "gn:latitude":-17.36667,
+    "gn:longitude":-68.95,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Jachaoko",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913830
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2235cfaf78ee73b8f837d5c2a8142dbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209438851
+        }
+    ],
+    "wof:id":1209438851,
+    "wof:lastmodified":1536287018,
+    "wof:name":"Jachaoko",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.95,
+    -17.366670000000006,
+    -68.95,
+    -17.366670000000006
+],
+  "geometry": {"coordinates":[-68.95,-17.36667000000001],"type":"Point"}
+}

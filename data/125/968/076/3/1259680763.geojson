@@ -1,0 +1,67 @@
+{
+  "id": 1259680763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.28333,-19.8,-68.28333,-19.8",
+    "geom:latitude":-19.8,
+    "geom:longitude":-68.28333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tuca",
+    "gn:country_code":"BO",
+    "gn:dem":3712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902337,
+    "gn:latitude":-19.8,
+    "gn:longitude":-68.28333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Tuca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902337
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8ff1af628fca4b64a0131b212126a06a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177659,
+            "locality_id":1259680763,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1259680763,
+    "wof:lastmodified":1537068007,
+    "wof:name":"Tuca",
+    "wof:parent_id":421177659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.28333,
+    -19.8,
+    -68.28333,
+    -19.8
+],
+  "geometry": {"coordinates":[-68.28333000000001,-19.8],"type":"Point"}
+}

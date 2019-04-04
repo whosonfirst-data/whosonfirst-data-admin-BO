@@ -1,0 +1,72 @@
+{
+  "id": 1225944807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.76667,-16.93333,-67.76667,-16.93333",
+    "geom:latitude":-16.93333,
+    "geom:longitude":-67.76667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chihuacalo",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920891,
+    "gn:latitude":-16.93333,
+    "gn:longitude":-67.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chihuacalo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chihuacal",
+        "Chihuacalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920891
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8e341b1abaee90b72c423206b135d30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182435,
+            "locality_id":1225944807,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1225944807,
+    "wof:lastmodified":1537588114,
+    "wof:name":"Chihuacalo",
+    "wof:parent_id":421182435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.76666999999999,
+    -16.93333,
+    -67.76666999999999,
+    -16.93333
+],
+  "geometry": {"coordinates":[-67.76666999999999,-16.93333],"type":"Point"}
+}

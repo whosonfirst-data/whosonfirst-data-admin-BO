@@ -1,0 +1,71 @@
+{
+  "id": 1293501547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.27339,-19.0589,-65.27339,-19.0589",
+    "geom:latitude":-19.0589,
+    "geom:longitude":-65.27339,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Tejar",
+    "gn:country_code":"BO",
+    "gn:dem":2705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918049,
+    "gn:latitude":-19.0589,
+    "gn:longitude":-65.27339,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"El Tejar",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tejar",
+        "El Tejar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918049
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8135911716e5a55aee2ee32094b23a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1293501547,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1293501547,
+    "wof:lastmodified":1537588082,
+    "wof:name":"El Tejar",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.27339,
+    -19.0589,
+    -65.27339,
+    -19.0589
+],
+  "geometry": {"coordinates":[-65.27339000000001,-19.0589],"type":"Point"}
+}

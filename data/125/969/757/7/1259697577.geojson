@@ -1,0 +1,67 @@
+{
+  "id": 1259697577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.30126,-21.32068,-65.30126,-21.32068",
+    "geom:latitude":-21.32068,
+    "geom:longitude":-65.30126,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tacapi",
+    "gn:country_code":"BO",
+    "gn:dem":2667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903768,
+    "gn:latitude":-21.32068,
+    "gn:longitude":-65.30126,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Tacapi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903768
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d2386a0207b060574b6b8a28f5e3b07b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006125,
+            "locality_id":1259697577,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1259697577,
+    "wof:lastmodified":1537044786,
+    "wof:name":"Tacapi",
+    "wof:parent_id":1092006125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.30126,
+    -21.32068,
+    -65.30126,
+    -21.32068
+],
+  "geometry": {"coordinates":[-65.30126,-21.32068],"type":"Point"}
+}

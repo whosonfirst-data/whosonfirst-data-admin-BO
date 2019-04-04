@@ -1,0 +1,72 @@
+{
+  "id": 1292897779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.83333,-19.58333,-65.83333,-19.58333",
+    "geom:latitude":-19.58333,
+    "geom:longitude":-65.83333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"San Bartolome",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905809,
+    "gn:latitude":-19.58333,
+    "gn:longitude":-65.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Bartolom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Bartolo",
+        "San Bartolom\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905809
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b83f00c2f849559d5b1ef2d2a40d90d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177665,
+            "locality_id":1292897779,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1292897779,
+    "wof:lastmodified":1537587961,
+    "wof:name":"San Bartolome",
+    "wof:parent_id":421177665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.83333,
+    -19.58333,
+    -65.83333,
+    -19.58333
+],
+  "geometry": {"coordinates":[-65.83333,-19.58333],"type":"Point"}
+}

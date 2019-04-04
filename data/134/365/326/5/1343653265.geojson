@@ -1,0 +1,67 @@
+{
+  "id": 1343653265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.74334,-19.25561,-65.74334,-19.25561",
+    "geom:latitude":-19.25561,
+    "geom:longitude":-65.74334,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Estancia Chaqui Chaqui",
+    "gn:country_code":"BO",
+    "gn:dem":3674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917494,
+    "gn:latitude":-19.25561,
+    "gn:longitude":-65.74334,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Chaqui Chaqui",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917494
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b1744959f9c50320ee6e5e7762150eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177665,
+            "locality_id":1343653265,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1343653265,
+    "wof:lastmodified":1536965250,
+    "wof:name":"Estancia Chaqui Chaqui",
+    "wof:parent_id":421177665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.74334,
+    -19.25561,
+    -65.74334,
+    -19.25561
+],
+  "geometry": {"coordinates":[-65.74334,-19.25561],"type":"Point"}
+}

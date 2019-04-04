@@ -1,0 +1,72 @@
+{
+  "id": 1243577843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.3,-17.31667,-69.3,-17.31667",
+    "geom:latitude":-17.31667,
+    "geom:longitude":-69.3,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Uma Jalsu",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902074,
+    "gn:latitude":-17.31667,
+    "gn:longitude":-69.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Uma Jalsu",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Uma Jalsu",
+        "Uma Jalsu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902074
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"deaf15bac63ac6d13cffd25a068db9d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007133,
+            "locality_id":1243577843,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1243577843,
+    "wof:lastmodified":1537587919,
+    "wof:name":"Uma Jalsu",
+    "wof:parent_id":1092007133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.3,
+    -17.31667,
+    -69.3,
+    -17.31667
+],
+  "geometry": {"coordinates":[-69.3,-17.31667],"type":"Point"}
+}

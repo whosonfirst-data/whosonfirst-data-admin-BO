@@ -1,0 +1,67 @@
+{
+  "id": 1260204645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.86667,-21.05,-65.86667,-21.05",
+    "geom:latitude":-21.05,
+    "geom:longitude":-65.86667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Turumayo",
+    "gn:country_code":"BO",
+    "gn:dem":4093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902176,
+    "gn:latitude":-21.05,
+    "gn:longitude":-65.86667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Turumayo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902176
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"05b73603a967c3a4aa185315f39fa59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1260204645,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1260204645,
+    "wof:lastmodified":1536818150,
+    "wof:name":"Turumayo",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.86667,
+    -21.05,
+    -65.86667,
+    -21.05
+],
+  "geometry": {"coordinates":[-65.86667,-21.05],"type":"Point"}
+}

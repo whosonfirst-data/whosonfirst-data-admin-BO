@@ -1,0 +1,61 @@
+{
+  "id": 1209216613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.63333,-13.08333,-62.63333,-13.08333",
+    "geom:latitude":-13.08333,
+    "geom:longitude":-62.63333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Puerto El Ojo",
+    "gn:country_code":"BO",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907246,
+    "gn:latitude":-13.08333,
+    "gn:longitude":-62.63333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Puerto El Ojo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907246
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"65d783eb698f5c99b23ecf299df6042d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209216613
+        }
+    ],
+    "wof:id":1209216613,
+    "wof:lastmodified":1536294110,
+    "wof:name":"Puerto El Ojo",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.63333000000001,
+    -13.08333,
+    -62.63333000000001,
+    -13.08333
+],
+  "geometry": {"coordinates":[-62.63333000000001,-13.08333],"type":"Point"}
+}

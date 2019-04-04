@@ -1,0 +1,72 @@
+{
+  "id": 1259705795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.33333,-10.66667,-66.33333,-10.66667",
+    "geom:latitude":-10.66667,
+    "geom:longitude":-66.33333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Montezuma",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909991,
+    "gn:latitude":-10.66667,
+    "gn:longitude":-66.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Montezuma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Montesuma",
+        "Montezuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        421177655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909991
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7e7ccf8c6de610af21497c0799e5c4e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177655,
+            "locality_id":1259705795,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1259705795,
+    "wof:lastmodified":1537588010,
+    "wof:name":"Montezuma",
+    "wof:parent_id":421177655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.33333,
+    -10.66667,
+    -66.33333,
+    -10.66667
+],
+  "geometry": {"coordinates":[-66.33333,-10.66667],"type":"Point"}
+}

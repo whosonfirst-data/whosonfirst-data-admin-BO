@@ -1,0 +1,67 @@
+{
+  "id": 1260279093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.36667,-16.5,-59.36667,-16.5",
+    "geom:latitude":-16.5,
+    "geom:longitude":-59.36667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Estancia Vista Hermosa",
+    "gn:country_code":"BO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3444460,
+    "gn:latitude":-16.5,
+    "gn:longitude":-59.36667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Vista Hermosa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3444460
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"23935acaf59e14dede4d03b91c673dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009511,
+            "locality_id":1260279093,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1260279093,
+    "wof:lastmodified":1536718210,
+    "wof:name":"Estancia Vista Hermosa",
+    "wof:parent_id":1092009511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.36666999999999,
+    -16.5,
+    -59.36666999999999,
+    -16.5
+],
+  "geometry": {"coordinates":[-59.36666999999999,-16.5],"type":"Point"}
+}

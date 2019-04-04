@@ -1,0 +1,67 @@
+{
+  "id": 1293305863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.11993,-17.42299,-65.11993,-17.42299",
+    "geom:latitude":-17.42299,
+    "geom:longitude":-65.11993,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Porvenir Amarillo",
+    "gn:country_code":"BO",
+    "gn:dem":1479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6618952,
+    "gn:latitude":-17.42299,
+    "gn:longitude":-65.11993,
+    "gn:modification_date":"2007-10-16",
+    "gn:name":"Porvenir Amarillo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618952
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"90f02d72b19721186e22393cbf17a35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1293305863,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1293305863,
+    "wof:lastmodified":1537046842,
+    "wof:name":"Porvenir Amarillo",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.11993000000001,
+    -17.42299,
+    -65.11993000000001,
+    -17.42299
+],
+  "geometry": {"coordinates":[-65.11993000000001,-17.42299],"type":"Point"}
+}

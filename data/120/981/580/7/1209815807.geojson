@@ -1,0 +1,72 @@
+{
+  "id": 1209815807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.93333,-16.83333,-68.93333,-16.83333",
+    "geom:latitude":-16.83333,
+    "geom:longitude":-68.93333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Aguallamaya",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3924423,
+    "gn:latitude":-16.83333,
+    "gn:longitude":-68.93333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aguallamaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huallamaya",
+        "Aguallamaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3924423
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"50db5e18b34455789bffc562de25b359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007213,
+            "locality_id":1209815807,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1209815807,
+    "wof:lastmodified":1537588158,
+    "wof:name":"Aguallamaya",
+    "wof:parent_id":1092007213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.93333,
+    -16.83333,
+    -68.93333,
+    -16.83333
+],
+  "geometry": {"coordinates":[-68.93333,-16.83333],"type":"Point"}
+}

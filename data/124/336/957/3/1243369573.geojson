@@ -1,0 +1,72 @@
+{
+  "id": 1243369573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.41667,-17.53333,-68.41667,-17.53333",
+    "geom:latitude":-17.53333,
+    "geom:longitude":-68.41667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Urcilla",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901990,
+    "gn:latitude":-17.53333,
+    "gn:longitude":-68.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Urcilla",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ursilla",
+        "Urcilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901990
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9b88d5ffb597cf2c2896e94037cd7134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1243369573,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1243369573,
+    "wof:lastmodified":1537587918,
+    "wof:name":"Urcilla",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.41667,
+    -17.53333,
+    -68.41667,
+    -17.53333
+],
+  "geometry": {"coordinates":[-68.41667,-17.53333],"type":"Point"}
+}

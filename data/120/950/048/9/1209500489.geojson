@@ -1,0 +1,64 @@
+{
+  "id": 1209500489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.79235,-14.74107,-62.79235,-14.74107",
+    "geom:latitude":-14.74107,
+    "geom:longitude":-62.79235,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Perseverancia",
+    "gn:country_code":"BO",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908091,
+    "gn:latitude":-14.74107,
+    "gn:longitude":-62.79235,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"Perseverancia",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Perserverancia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908091
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c0bf870a23d80c2d2f2c7d2d0b8473f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209500489
+        }
+    ],
+    "wof:id":1209500489,
+    "wof:lastmodified":1537587988,
+    "wof:name":"Perseverancia",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.79235,
+    -14.74107,
+    -62.79235,
+    -14.74107
+],
+  "geometry": {"coordinates":[-62.79235,-14.74107],"type":"Point"}
+}

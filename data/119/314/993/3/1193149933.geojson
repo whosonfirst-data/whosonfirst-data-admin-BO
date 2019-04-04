@@ -1,0 +1,67 @@
+{
+  "id": 1193149933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.6,-17.55,-65.6,-17.55",
+    "geom:latitude":-17.55,
+    "geom:longitude":-65.6,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cauca",
+    "gn:country_code":"BO",
+    "gn:dem":3692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921739,
+    "gn:latitude":-17.55,
+    "gn:longitude":-65.6,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Cauca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921739
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c24a181ff3b362586aa558c9f499c0b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006291,
+            "locality_id":1193149933,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1193149933,
+    "wof:lastmodified":1536379329,
+    "wof:name":"Cauca",
+    "wof:parent_id":1092006291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.6,
+    -17.55,
+    -65.6,
+    -17.55
+],
+  "geometry": {"coordinates":[-65.59999999999999,-17.55],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310009237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.83333,-17.85,-64.83333,-17.85",
+    "geom:latitude":-17.85,
+    "geom:longitude":-64.83333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"La Vina",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911640,
+    "gn:latitude":-17.85,
+    "gn:longitude":-64.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Vi\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vi\u00f1a",
+        "La Vi\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911640
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"791a1bcc393152f4b901de0abab75380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1310009237,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1310009237,
+    "wof:lastmodified":1537588027,
+    "wof:name":"La Vina",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.83333,
+    -17.85,
+    -64.83333,
+    -17.85
+],
+  "geometry": {"coordinates":[-64.83333,-17.85],"type":"Point"}
+}

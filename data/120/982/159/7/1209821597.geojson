@@ -1,0 +1,72 @@
+{
+  "id": 1209821597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.56667,-16.5,-68.56667,-16.5",
+    "geom:latitude":-16.5,
+    "geom:longitude":-68.56667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Calorio",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922516,
+    "gn:latitude":-16.5,
+    "gn:longitude":-68.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Calorio",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caloria",
+        "Calorio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421197575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922516
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2bb98f0be35413183d0a6f96dace85eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197575,
+            "locality_id":1209821597,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1209821597,
+    "wof:lastmodified":1537588136,
+    "wof:name":"Calorio",
+    "wof:parent_id":421197575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.56667,
+    -16.5,
+    -68.56667,
+    -16.5
+],
+  "geometry": {"coordinates":[-68.56667,-16.5],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293295733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.57739,-18.29663,-64.57739,-18.29663",
+    "geom:latitude":-18.29663,
+    "geom:longitude":-64.57739,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cabrera",
+    "gn:country_code":"BO",
+    "gn:dem":2196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922867,
+    "gn:latitude":-18.29663,
+    "gn:longitude":-64.57739,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Cabrera",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabrera Rancho",
+        "Cabrera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922867
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"024b0e9f00bf95d8be3e2e8e398ec61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006465,
+            "locality_id":1293295733,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1293295733,
+    "wof:lastmodified":1537588140,
+    "wof:name":"Cabrera",
+    "wof:parent_id":1092006465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.57739000000001,
+    -18.29663,
+    -64.57739000000001,
+    -18.29663
+],
+  "geometry": {"coordinates":[-64.57739000000001,-18.29663],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343679603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.75,-18.81667,-64.75,-18.81667",
+    "geom:latitude":-18.81667,
+    "geom:longitude":-64.75,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Torcotarca",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902623,
+    "gn:latitude":-18.81667,
+    "gn:longitude":-64.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Torcotarca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Torcotorca",
+        "Torco-torcoa",
+        "Torcotarca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902623
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"27eb540a14de00a7cfc14a6bd9d23ad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006241,
+            "locality_id":1343679603,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1343679603,
+    "wof:lastmodified":1537587928,
+    "wof:name":"Torcotarca",
+    "wof:parent_id":1092006241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.75,
+    -18.81667,
+    -64.75,
+    -18.81667
+],
+  "geometry": {"coordinates":[-64.75,-18.81667],"type":"Point"}
+}

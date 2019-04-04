@@ -1,0 +1,67 @@
+{
+  "id": 1326821925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.78968,-21.28162,-66.78968,-21.28162",
+    "geom:latitude":-21.28162,
+    "geom:longitude":-66.78968,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Thio Pata",
+    "gn:country_code":"BO",
+    "gn:dem":3881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903113,
+    "gn:latitude":-21.28162,
+    "gn:longitude":-66.78968,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Thio Pata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903113
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3bb52631825d36c7d552e516d56909ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193357,
+            "locality_id":1326821925,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1326821925,
+    "wof:lastmodified":1537060980,
+    "wof:name":"Thio Pata",
+    "wof:parent_id":421193357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.78968,
+    -21.28162,
+    -66.78968,
+    -21.28162
+],
+  "geometry": {"coordinates":[-66.78968,-21.28162],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277109665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.4,-17.31667,-67.4,-17.31667",
+    "geom:latitude":-17.31667,
+    "geom:longitude":-67.4,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Estancia Lerkho",
+    "gn:country_code":"BO",
+    "gn:dem":4061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916776,
+    "gn:latitude":-17.31667,
+    "gn:longitude":-67.4,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Lerkho",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916776
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b2d33bb50206bcbe0461b1ba350be867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182435,
+            "locality_id":1277109665,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1277109665,
+    "wof:lastmodified":1536729256,
+    "wof:name":"Estancia Lerkho",
+    "wof:parent_id":421182435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.4,
+    -17.31667,
+    -67.4,
+    -17.31667
+],
+  "geometry": {"coordinates":[-67.40000000000001,-17.31667],"type":"Point"}
+}

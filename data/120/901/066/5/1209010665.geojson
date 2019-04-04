@@ -1,0 +1,61 @@
+{
+  "id": 1209010665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.6,-16.93333,-67.6,-16.93333",
+    "geom:latitude":-16.93333,
+    "geom:longitude":-67.6,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tanapaca",
+    "gn:country_code":"BO",
+    "gn:dem":4091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903503,
+    "gn:latitude":-16.93333,
+    "gn:longitude":-67.6,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Tanapaca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903503
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4f01ed406a0cc2f594c37ce84eb78921",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209010665
+        }
+    ],
+    "wof:id":1209010665,
+    "wof:lastmodified":1536300457,
+    "wof:name":"Tanapaca",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.6,
+    -16.933329999999998,
+    -67.6,
+    -16.933329999999998
+],
+  "geometry": {"coordinates":[-67.59999999999999,-16.93333],"type":"Point"}
+}

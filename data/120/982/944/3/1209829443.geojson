@@ -1,0 +1,72 @@
+{
+  "id": 1209829443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.22713,-20.71234,-65.22713,-20.71234",
+    "geom:latitude":-20.71234,
+    "geom:longitude":-65.22713,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Quimtamba",
+    "gn:country_code":"BO",
+    "gn:dem":2372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906729,
+    "gn:latitude":-20.71234,
+    "gn:longitude":-65.22713,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Quimtamba",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quimbanda",
+        "Quimtanba",
+        "Quimtamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906729
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f9da46ba3ffddc07351731d0778b8f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006003,
+            "locality_id":1209829443,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1209829443,
+    "wof:lastmodified":1537587971,
+    "wof:name":"Quimtamba",
+    "wof:parent_id":1092006003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.22713,
+    -20.71234,
+    -65.22713,
+    -20.71234
+],
+  "geometry": {"coordinates":[-65.22713,-20.71234],"type":"Point"}
+}

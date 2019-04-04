@@ -1,0 +1,67 @@
+{
+  "id": 1343457895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.7773,-19.0474,-68.7773,-19.0474",
+    "geom:latitude":-19.0474,
+    "geom:longitude":-68.7773,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Estancia Matuta",
+    "gn:country_code":"BO",
+    "gn:dem":4143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916691,
+    "gn:latitude":-19.0474,
+    "gn:longitude":-68.7773,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Matuta",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092007975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916691
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7b83a8e61a6fad3ba99fc823a2ceaea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007975,
+            "locality_id":1343457895,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1343457895,
+    "wof:lastmodified":1536749767,
+    "wof:name":"Estancia Matuta",
+    "wof:parent_id":1092007975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.7773,
+    -19.0474,
+    -68.7773,
+    -19.0474
+],
+  "geometry": {"coordinates":[-68.7773,-19.0474],"type":"Point"}
+}

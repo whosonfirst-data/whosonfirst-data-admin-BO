@@ -1,0 +1,74 @@
+{
+  "id": 1260290827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.18333,-17.88333,-69.18333,-17.88333",
+    "geom:latitude":-17.88333,
+    "geom:longitude":-69.18333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pallallcollo",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908822,
+    "gn:latitude":-17.88333,
+    "gn:longitude":-69.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pallallcollo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Pallall Kkollu",
+        "Pallalkollo",
+        "Pallacollo",
+        "Pallallcollo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908822
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"62c7fefce801dffc9c687cd22720c760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1260290827,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1260290827,
+    "wof:lastmodified":1537587996,
+    "wof:name":"Pallallcollo",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.18333,
+    -17.88332999999999,
+    -69.18333,
+    -17.88332999999999
+],
+  "geometry": {"coordinates":[-69.18333,-17.88332999999999],"type":"Point"}
+}

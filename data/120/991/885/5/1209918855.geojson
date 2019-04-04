@@ -1,0 +1,67 @@
+{
+  "id": 1209918855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.23333,-18.28333,-67.23333,-18.28333",
+    "geom:latitude":-18.28333,
+    "geom:longitude":-67.23333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Polqueri",
+    "gn:country_code":"BO",
+    "gn:dem":3707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907724,
+    "gn:latitude":-18.28333,
+    "gn:longitude":-67.23333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Polqueri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        421187927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907724
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0df6e09e5dae4185b5bfcd2569f33c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187927,
+            "locality_id":1209918855,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1209918855,
+    "wof:lastmodified":1536370745,
+    "wof:name":"Polqueri",
+    "wof:parent_id":421187927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.23333000000001,
+    -18.28333,
+    -67.23333000000001,
+    -18.28333
+],
+  "geometry": {"coordinates":[-67.23333000000001,-18.28333],"type":"Point"}
+}

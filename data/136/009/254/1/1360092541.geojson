@@ -1,0 +1,72 @@
+{
+  "id": 1360092541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.96667,-13.88333,-63.96667,-13.88333",
+    "geom:latitude":-13.88333,
+    "geom:longitude":-63.96667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Puerto del Carmen",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907251,
+    "gn:latitude":-13.88333,
+    "gn:longitude":-63.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puerto del Carmen",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto C\u00e1rmen",
+        "Puerto del Carmen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907251
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c647b9721edb2eb04a45751c4c3c0878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005711,
+            "locality_id":1360092541,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1360092541,
+    "wof:lastmodified":1537587978,
+    "wof:name":"Puerto del Carmen",
+    "wof:parent_id":1092005711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.96666999999999,
+    -13.88333,
+    -63.96666999999999,
+    -13.88333
+],
+  "geometry": {"coordinates":[-63.96666999999999,-13.88333],"type":"Point"}
+}

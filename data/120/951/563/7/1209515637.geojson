@@ -1,0 +1,66 @@
+{
+  "id": 1209515637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.68659,-15.95424,-68.68659,-15.95424",
+    "geom:latitude":-15.95424,
+    "geom:longitude":-68.68659,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tahari",
+    "gn:country_code":"BO",
+    "gn:dem":3831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903322,
+    "gn:latitude":-15.95424,
+    "gn:longitude":-68.68659,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Tahari",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tavi",
+        "Tari",
+        "Tahari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903322
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"69f8e834afc472bea6cc2b40bd941a2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209515637
+        }
+    ],
+    "wof:id":1209515637,
+    "wof:lastmodified":1537587936,
+    "wof:name":"Tahari",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.68659,
+    -15.95424,
+    -68.68659,
+    -15.95424
+],
+  "geometry": {"coordinates":[-68.68659,-15.95424],"type":"Point"}
+}

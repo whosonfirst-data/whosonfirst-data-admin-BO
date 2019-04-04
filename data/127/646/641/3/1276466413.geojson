@@ -1,0 +1,67 @@
+{
+  "id": 1276466413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.18333,-16.41667,-61.18333,-16.41667",
+    "geom:latitude":-16.41667,
+    "geom:longitude":-61.18333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Comunidad San Juan Bautista",
+    "gn:country_code":"BO",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919450,
+    "gn:latitude":-16.41667,
+    "gn:longitude":-61.18333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Comunidad San Ju\u00e1n Bautista",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919450
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ad7b139faa5e616ada1a13eaa3a6f473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1276466413,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1276466413,
+    "wof:lastmodified":1537094372,
+    "wof:name":"Comunidad San Juan Bautista",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.18333000000001,
+    -16.41667,
+    -61.18333000000001,
+    -16.41667
+],
+  "geometry": {"coordinates":[-61.18333000000001,-16.41667],"type":"Point"}
+}

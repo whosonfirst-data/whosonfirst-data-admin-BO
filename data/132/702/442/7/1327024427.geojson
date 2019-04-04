@@ -1,0 +1,72 @@
+{
+  "id": 1327024427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.3,-21.33333,-63.3,-21.33333",
+    "geom:latitude":-21.33333,
+    "geom:longitude":-63.3,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Imboche",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914264,
+    "gn:latitude":-21.33333,
+    "gn:longitude":-63.3,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Imboche",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imbache",
+        "Imboche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421169235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914264
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6be3589f7f36aa3fb4f8bacd5e667ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169235,
+            "locality_id":1327024427,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1327024427,
+    "wof:lastmodified":1537588058,
+    "wof:name":"Imboche",
+    "wof:parent_id":421169235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.3,
+    -21.33333,
+    -63.3,
+    -21.33333
+],
+  "geometry": {"coordinates":[-63.3,-21.33333],"type":"Point"}
+}

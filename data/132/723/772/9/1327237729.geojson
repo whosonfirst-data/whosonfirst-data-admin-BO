@@ -1,0 +1,67 @@
+{
+  "id": 1327237729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.91667,-17.05,-67.91667,-17.05",
+    "geom:latitude":-17.05,
+    "geom:longitude":-67.91667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Estancia Wila Kkota",
+    "gn:country_code":"BO",
+    "gn:dem":4158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915917,
+    "gn:latitude":-17.05,
+    "gn:longitude":-67.91667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Wila Kkota",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092006923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915917
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"864b0c6b881b81123ce03851a33f8476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006923,
+            "locality_id":1327237729,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1327237729,
+    "wof:lastmodified":1536961712,
+    "wof:name":"Estancia Wila Kkota",
+    "wof:parent_id":1092006923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.91667,
+    -17.05,
+    -67.91667,
+    -17.05
+],
+  "geometry": {"coordinates":[-67.91667,-17.05],"type":"Point"}
+}

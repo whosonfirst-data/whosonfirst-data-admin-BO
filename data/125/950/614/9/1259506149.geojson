@@ -1,0 +1,67 @@
+{
+  "id": 1259506149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.33333,-17.83333,-68.33333,-17.83333",
+    "geom:latitude":-17.83333,
+    "geom:longitude":-68.33333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Estancia Pan de Azucarani",
+    "gn:country_code":"BO",
+    "gn:dem":3907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916529,
+    "gn:latitude":-17.83333,
+    "gn:longitude":-68.33333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Pan de Azucarani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092008123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916529
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"dcc6e5f5fcf93f20b76472d5cbd4b94b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008123,
+            "locality_id":1259506149,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1259506149,
+    "wof:lastmodified":1536825320,
+    "wof:name":"Estancia Pan de Azucarani",
+    "wof:parent_id":1092008123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.33333,
+    -17.83333,
+    -68.33333,
+    -17.83333
+],
+  "geometry": {"coordinates":[-68.33333,-17.83333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276876645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.7,-19.46667,-64.7,-19.46667",
+    "geom:latitude":-19.46667,
+    "geom:longitude":-64.7,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lajatranca",
+    "gn:country_code":"BO",
+    "gn:dem":3822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912085,
+    "gn:latitude":-19.46667,
+    "gn:longitude":-64.7,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Lajatranca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912085
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4dae67b2a11d30e31c1ffad755cb5b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006241,
+            "locality_id":1276876645,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1276876645,
+    "wof:lastmodified":1537043624,
+    "wof:name":"Lajatranca",
+    "wof:parent_id":1092006241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.7,
+    -19.46667,
+    -64.7,
+    -19.46667
+],
+  "geometry": {"coordinates":[-64.7,-19.46667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310702059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.75821,-15.76566,-68.75821,-15.76566",
+    "geom:latitude":-15.76566,
+    "geom:longitude":-68.75821,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tocotoconi",
+    "gn:country_code":"BO",
+    "gn:dem":3592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902808,
+    "gn:latitude":-15.76566,
+    "gn:longitude":-68.75821,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Tocotoconi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421187929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902808
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"62f06af96a69d644e15946b19023e883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187929,
+            "locality_id":1310702059,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1310702059,
+    "wof:lastmodified":1536631817,
+    "wof:name":"Tocotoconi",
+    "wof:parent_id":421187929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.75820999999999,
+    -15.76566,
+    -68.75820999999999,
+    -15.76566
+],
+  "geometry": {"coordinates":[-68.75820999999999,-15.76566],"type":"Point"}
+}

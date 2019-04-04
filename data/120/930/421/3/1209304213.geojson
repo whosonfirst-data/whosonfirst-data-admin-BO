@@ -1,0 +1,61 @@
+{
+  "id": 1209304213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.44258,-22.09329,-64.44258,-22.09329",
+    "geom:latitude":-22.09329,
+    "geom:longitude":-64.44258,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Nogalar",
+    "gn:country_code":"BO",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909504,
+    "gn:latitude":-22.09329,
+    "gn:longitude":-64.44258,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Nogalar",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909504
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b44ef9bdff05306b2afba8ba7211dde5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209304213
+        }
+    ],
+    "wof:id":1209304213,
+    "wof:lastmodified":1536291251,
+    "wof:name":"Nogalar",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.44258,
+    -22.09329,
+    -64.44258,
+    -22.09329
+],
+  "geometry": {"coordinates":[-64.44258000000001,-22.09329],"type":"Point"}
+}

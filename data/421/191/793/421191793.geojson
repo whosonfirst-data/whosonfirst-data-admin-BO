@@ -1,0 +1,309 @@
+{
+  "id": 421191793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.95,-16.36667,-60.95,-16.36667",
+    "geom:latitude":-16.36667,
+    "geom:longitude":-60.95,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0627\u063a\u0646\u0627\u0633\u064a\u0648 \u062f\u064a \u0641\u064a\u0644\u0627\u0633\u0643\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u0987\u0997\u09cd\u09a8\u09be\u09b8\u09bf\u0993 \u09a6\u09c7 \u09ad\u09c7\u09b2\u09be\u09b8\u09cd\u0995\u09cb"
+    ],
+    "name:cat_x_preferred":[
+        "San Ignacio de Velasco"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u4f0a\u683c\u7d0d\u897f\u5967"
+    ],
+    "name:dan_x_preferred":[
+        "San Ignacio de Velasco"
+    ],
+    "name:dut_x_preferred":[
+        "San Ignacio de Velasco"
+    ],
+    "name:eng_x_preferred":[
+        "San Ignacio de Velasco"
+    ],
+    "name:fin_x_preferred":[
+        "San Ignacio de Velasco"
+    ],
+    "name:fre_x_preferred":[
+        "San Ignacio de Velasco"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d8\u10d2\u10dc\u10d0\u10e1\u10d8\u10dd-\u10d3\u10d4-\u10d5\u10d4\u10da\u10d0\u10e1\u10d9\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "San Ignacio de Velasco"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bd \u0399\u03b3\u03bd\u03ac\u03c4\u03b9\u03bf \u03bd\u03c4\u03b5 \u0392\u03b5\u03bb\u03ac\u03c3\u03ba\u03bf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8 \u0a88\u0a97\u0acd\u0aa8\u0ac7\u0ab8\u0abf\u0aaf\u0acb \u0aa1\u0ac7 \u0ab5\u0ac7\u0ab2\u0abe\u0ab8\u0acd\u0a95\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u0907\u0917\u094d\u0928\u093e\u0938\u093f\u092f\u094b \u0926\u0947 \u0935\u093f\u0932\u093e\u0938\u0915\u094b"
+    ],
+    "name:ind_x_preferred":[
+        "San Ignacio de Velasco"
+    ],
+    "name:ita_x_preferred":[
+        "San Ignacio de Velasco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30a4\u30b0\u30ca\u30b7\u30aa\u30fb\u30c7\u30fb\u30d9\u30e9\u30b9\u30b3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0c87\u0c97\u0ccd\u0ca8\u0cbe\u0cb8\u0cbf\u0caf\u0ccb \u0ca1\u0cc6 \u0cb5\u0cc6\u0cb2\u0cbe\u0cb8\u0ccd\u0c95\u0cca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d8\u10d2\u10dc\u10d0\u10e1\u10d8\u10dd-\u10d3\u10d4-\u10d5\u10d4\u10da\u10d0\u10e1\u10d9\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0 \uc774\uadf8\ub098\uc2dc\uc624 \ub370 \ubca8\ub77c\uc2a4\ucf54"
+    ],
+    "name:lav_x_preferred":[
+        "Sanignasijo de Velaska"
+    ],
+    "name:lit_x_preferred":[
+        "San Ignasio de Velaskas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0945\u0928 \u0907\u0917\u094d\u0928\u093e\u0938\u093f\u0913 \u0926\u0947 \u0935\u0947\u0932\u093e\u0938\u094d\u0915\u094b"
+    ],
+    "name:may_x_preferred":[
+        "San Ignacio de Velasco"
+    ],
+    "name:nob_x_preferred":[
+        "San Ignacio de Velasco"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0646 \u0627\u06cc\u06af\u0646\u0627\u0633\u06cc\u0648 \u062f \u0648\u06cc\u0644\u0627\u0633\u06a9\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "San Ignacio de Velasco"
+    ],
+    "name:por_x_preferred":[
+        "San Ignacio de Velasco"
+    ],
+    "name:que_x_preferred":[
+        "San Inasyu"
+    ],
+    "name:rum_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0418\u0433\u043d\u0430\u0441\u0438\u043e-\u0434\u0435-\u0412\u0435\u043b\u0430\u0441\u043a\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca \u0d89\u0d9c\u0dd0\u0db1\u0dca\u0dc3\u0dd2\u0dba\u0ddd \u0daf\u0dd3 \u0dc0\u0dd9\u0dbd\u0dc3\u0dca\u0d9a\u0ddd"
+    ],
+    "name:spa_x_preferred":[
+        "San Ignacio de Velasco"
+    ],
+    "name:swe_x_preferred":[
+        "San Ignacio de Velasco"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd  \u0b87\u0b9e\u0b9a\u0bbf\u0baf\u0bcb \u0b9f\u0bc7  \u0bb5\u0bc6\u0bb2\u0bbe\u0bb8\u0bcd\u0b95\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c36\u0c3e\u0c28\u0c4d \u0c07\u0c17\u0c4d\u0c28\u0c3e\u0c38\u0c3f\u0c2f\u0c4b \u0c21\u0c3f \u0c35\u0c46\u0c32\u0c3e\u0c38\u0c4d\u0c15\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19 \u0e2d\u0e34\u0e01\u0e19\u0e32\u0e40\u0e0b\u0e35\u0e22\u0e27 \u0e40\u0e14 \u0e40\u0e1a\u0e25\u0e31\u0e2a\u0e42\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "San Ignacio de Velasco"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0406\u0433\u043d\u0430\u0441\u0456\u043e-\u0434\u0435-\u0412\u0435\u043b\u0430\u0441\u043a\u043e"
+    ],
+    "name:unk_x_variant":[
+        "San Ignacio Velasco"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0646 \u06cc\u062c\u0646\u0627\u06a9\u06cc\u0648 \u062f\u06d2 \u0648\u06cc\u0644\u0627\u0633\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "San Ignacio de Velasco"
+    ],
+    "name:war_x_preferred":[
+        "San Ignacio de Velasco"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f0a\u683c\u7d0d\u897f\u5967"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Bolivia",
+    "ne:ADM0_A3":"BOL",
+    "ne:ADM1NAME":"Santa Cruz",
+    "ne:ADMIN1_COD":8,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3905658,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"San Ignacio de Velasco",
+    "ne:GN_POP":23569,
+    "ne:GTOPO30":563.0,
+    "ne:ISO_A2":"BO",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":-16.369609,
+    "ne:LONGITUDE":-60.960011,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"San Ignacio",
+    "ne:MAX_AREAKM":21.0,
+    "ne:MAX_AREAMI":8.0,
+    "ne:MAX_BBXMAX":-60.925,
+    "ne:MAX_BBXMIN":-60.991667,
+    "ne:MAX_BBYMAX":-16.358333,
+    "ne:MAX_BBYMIN":-16.416667,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":29.0,
+    "ne:MAX_PERMI":18.0,
+    "ne:MAX_POP10":25391,
+    "ne:MAX_POP20":25391,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-60.960897,
+    "ne:MEAN_BBYC":-16.386859,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":21.0,
+    "ne:MIN_AREAMI":8.0,
+    "ne:MIN_BBXMAX":-60.925,
+    "ne:MIN_BBXMIN":-60.991667,
+    "ne:MIN_BBYMAX":-16.358333,
+    "ne:MIN_BBYMIN":-16.416667,
+    "ne:MIN_PERKM":29.0,
+    "ne:MIN_PERMI":18.0,
+    "ne:NAME":"San Ignacio",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"San Ignacio",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":25391,
+    "ne:POP_MIN":23569,
+    "ne:POP_OTHER":25391,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Bolivia",
+    "ne:SOV_A3":"BOL",
+    "ne:TIMEZONE":"America/La_Paz",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3905658,
+    "qs:gn_pop":23569,
+    "qs:name":"San Ignacio de Velasco",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"Santa Cruz",
+    "qs:photos":69,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":69,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1156089,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":419866,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-16.366667,
+    "wd:longitude":-60.95,
+    "wd:wordcount":280,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905658,
+        "gp:id":419866,
+        "qs:id":1156089,
+        "wd:id":"Q995752",
+        "wk:page":"San Ignacio de Velasco"
+    },
+    "wof:country":"BO",
+    "wof:created":1459009710,
+    "wof:geomhash":"46bfc7af106529bd87ccc8804253dd58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":421191793,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":421191793,
+    "wof:lastmodified":1553816380,
+    "wof:name":"San Ignacio de Velasco",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:population":23569,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.95,
+    -16.36667,
+    -60.95,
+    -16.36667
+],
+  "geometry": {"coordinates":[-60.95,-16.36667],"type":"Point"}
+}

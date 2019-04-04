@@ -1,0 +1,72 @@
+{
+  "id": 1343851423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.21667,-17.55,-63.21667,-17.55",
+    "geom:latitude":-17.55,
+    "geom:longitude":-63.21667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Collpa",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919850,
+    "gn:latitude":-17.55,
+    "gn:longitude":-63.21667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Collpa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colipa",
+        "Collpa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919850
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"86059a6d032836672dfb3de4ca0c93c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009959,
+            "locality_id":1343851423,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1343851423,
+    "wof:lastmodified":1537588102,
+    "wof:name":"Collpa",
+    "wof:parent_id":1092009959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.21666999999999,
+    -17.55,
+    -63.21666999999999,
+    -17.55
+],
+  "geometry": {"coordinates":[-63.21666999999999,-17.55],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226751765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.01667,-20.3,-64.01667,-20.3",
+    "geom:latitude":-20.3,
+    "geom:longitude":-64.01667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"San Pablo de Huacareta",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905191,
+    "gn:latitude":-20.3,
+    "gn:longitude":-64.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Pablo de Huacareta",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huacareta",
+        "San Pablo de Huacareta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905191
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a8ff9c0a85bb4870c4b60898df045ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005923,
+            "locality_id":1226751765,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1226751765,
+    "wof:lastmodified":1537587957,
+    "wof:name":"San Pablo de Huacareta",
+    "wof:parent_id":1092005923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.01666999999999,
+    -20.3,
+    -64.01666999999999,
+    -20.3
+],
+  "geometry": {"coordinates":[-64.01666999999999,-20.3],"type":"Point"}
+}

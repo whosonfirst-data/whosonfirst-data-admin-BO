@@ -1,0 +1,71 @@
+{
+  "id": 1293583867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.87467,-21.95256,-65.87467,-21.95256",
+    "geom:latitude":-21.95256,
+    "geom:longitude":-65.87467,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Casira",
+    "gn:country_code":"BO",
+    "gn:dem":3560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921829,
+    "gn:latitude":-21.95256,
+    "gn:longitude":-65.87467,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Casira",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cassira",
+        "Casira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921829
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d632eb74650c27a6751442f03a91928f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177661,
+            "locality_id":1293583867,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293583867,
+    "wof:lastmodified":1537588125,
+    "wof:name":"Casira",
+    "wof:parent_id":421177661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.87467,
+    -21.95256,
+    -65.87467,
+    -21.95256
+],
+  "geometry": {"coordinates":[-65.87466999999999,-21.95256],"type":"Point"}
+}

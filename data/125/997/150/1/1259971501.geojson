@@ -1,0 +1,72 @@
+{
+  "id": 1259971501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.73055,-20.95251,-65.73055,-20.95251",
+    "geom:latitude":-20.95251,
+    "geom:longitude":-65.73055,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Totora",
+    "gn:country_code":"BO",
+    "gn:dem":2910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902518,
+    "gn:latitude":-20.95251,
+    "gn:longitude":-65.73055,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Totora",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad Totora",
+        "Toctora",
+        "Totora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902518
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1fd47ee18ce2055748c72ad068f6cf54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1259971501,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1259971501,
+    "wof:lastmodified":1537587925,
+    "wof:name":"Totora",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.73055,
+    -20.95251,
+    -65.73055,
+    -20.95251
+],
+  "geometry": {"coordinates":[-65.73054999999999,-20.95251],"type":"Point"}
+}

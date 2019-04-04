@@ -1,0 +1,67 @@
+{
+  "id": 1326627897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.01961,-11.39249,-69.01961,-11.39249",
+    "geom:latitude":-11.39249,
+    "geom:longitude":-69.01961,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Azaisal",
+    "gn:country_code":"BO",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11441361,
+    "gn:latitude":-11.39249,
+    "gn:longitude":-69.01961,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Azaisal",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11441361
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a5d171464ee6d7a62de95926afa52e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008501,
+            "locality_id":1326627897,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1326627897,
+    "wof:lastmodified":1536845032,
+    "wof:name":"Azaisal",
+    "wof:parent_id":1092008501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.01961,
+    -11.39249,
+    -69.01961,
+    -11.39249
+],
+  "geometry": {"coordinates":[-69.01961,-11.39249],"type":"Point"}
+}

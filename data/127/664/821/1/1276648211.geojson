@@ -1,0 +1,67 @@
+{
+  "id": 1276648211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.64763,-21.32433,-67.64763,-21.32433",
+    "geom:latitude":-21.32433,
+    "geom:longitude":-67.64763,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Estancia Chakha",
+    "gn:country_code":"BO",
+    "gn:dem":3904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917536,
+    "gn:latitude":-21.32433,
+    "gn:longitude":-67.64763,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Chakha",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421175057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917536
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c56627c8580f1d82480786b187280163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421175057,
+            "locality_id":1276648211,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1276648211,
+    "wof:lastmodified":1536852811,
+    "wof:name":"Estancia Chakha",
+    "wof:parent_id":421175057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.64763,
+    -21.32433,
+    -67.64763,
+    -21.32433
+],
+  "geometry": {"coordinates":[-67.64763000000001,-21.32433],"type":"Point"}
+}

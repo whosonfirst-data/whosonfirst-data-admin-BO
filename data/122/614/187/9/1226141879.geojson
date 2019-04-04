@@ -1,0 +1,71 @@
+{
+  "id": 1226141879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.5735,-19.45153,-67.5735,-19.45153",
+    "geom:latitude":-19.45153,
+    "geom:longitude":-67.5735,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Chusquiri",
+    "gn:country_code":"BO",
+    "gn:dem":3683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920089,
+    "gn:latitude":-19.45153,
+    "gn:longitude":-67.5735,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Chusquiri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Chusiquiri",
+        "Chusquiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092007893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920089
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b09d9e8c7f41c7c61f0639137de1a272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007893,
+            "locality_id":1226141879,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1226141879,
+    "wof:lastmodified":1537588105,
+    "wof:name":"Chusquiri",
+    "wof:parent_id":1092007893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.5735,
+    -19.45153,
+    -67.5735,
+    -19.45153
+],
+  "geometry": {"coordinates":[-67.5735,-19.45153],"type":"Point"}
+}

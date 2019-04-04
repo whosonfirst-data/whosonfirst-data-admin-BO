@@ -1,0 +1,67 @@
+{
+  "id": 1344065537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.81667,-17.78333,-64.81667,-17.78333",
+    "geom:latitude":-17.78333,
+    "geom:longitude":-64.81667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Trampas",
+    "gn:country_code":"BO",
+    "gn:dem":2788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902471,
+    "gn:latitude":-17.78333,
+    "gn:longitude":-64.81667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Trampas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902471
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4de5381aa8600cba9486b6d28d32fd08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1344065537,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1344065537,
+    "wof:lastmodified":1536866887,
+    "wof:name":"Trampas",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.81667,
+    -17.78333,
+    -64.81667,
+    -17.78333
+],
+  "geometry": {"coordinates":[-64.81667,-17.78333],"type":"Point"}
+}

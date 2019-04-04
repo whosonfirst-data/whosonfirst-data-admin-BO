@@ -1,0 +1,67 @@
+{
+  "id": 1242695729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.22451,-20.05904,-65.22451,-20.05904",
+    "geom:latitude":-20.05904,
+    "geom:longitude":-65.22451,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Estancia Catawi",
+    "gn:country_code":"BO",
+    "gn:dem":3622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917569,
+    "gn:latitude":-20.05904,
+    "gn:longitude":-65.22451,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Catawi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917569
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d96332ebddb67cf4938a9d8139e45efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006003,
+            "locality_id":1242695729,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1242695729,
+    "wof:lastmodified":1536893344,
+    "wof:name":"Estancia Catawi",
+    "wof:parent_id":1092006003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.22451,
+    -20.05904,
+    -65.22451,
+    -20.05904
+],
+  "geometry": {"coordinates":[-65.22451,-20.05904],"type":"Point"}
+}

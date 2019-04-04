@@ -1,0 +1,65 @@
+{
+  "id": 1209228725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.94492,-20.82358,-64.94492,-20.82358",
+    "geom:latitude":-20.82358,
+    "geom:longitude":-64.94492,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"109.0",
+    "gn:admin3_code":"2.0",
+    "gn:admin4_code":"1.0",
+    "gn:asciiname":"Culpina",
+    "gn:country_code":"BO",
+    "gn:dem":2972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":3918678,
+    "gn:latitude":-20.82358,
+    "gn:longitude":-64.94492,
+    "gn:modification_date":"2012-08-15",
+    "gn:name":"Culpina",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918678,
+        "wk:page":"Culpina"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"edf3c50f70269ee649bac4c71b92d8c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209228725
+        }
+    ],
+    "wof:id":1209228725,
+    "wof:lastmodified":1537487925,
+    "wof:name":"Culpina",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.94492,
+    -20.82358,
+    -64.94492,
+    -20.82358
+],
+  "geometry": {"coordinates":[-64.94492,-20.82358],"type":"Point"}
+}

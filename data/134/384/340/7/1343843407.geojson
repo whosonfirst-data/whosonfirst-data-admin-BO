@@ -1,0 +1,72 @@
+{
+  "id": 1343843407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.08333,-19.71667,-63.08333,-19.71667",
+    "geom:latitude":-19.71667,
+    "geom:longitude":-63.08333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Carandayti",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922033,
+    "gn:latitude":-19.71667,
+    "gn:longitude":-63.08333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Carandayt\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carandaitimoza",
+        "Carandayt\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922033
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"70aba9804f876c1a026efe26af61198e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1343843407,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1343843407,
+    "wof:lastmodified":1537588129,
+    "wof:name":"Carandayti",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.08333,
+    -19.71667,
+    -63.08333,
+    -19.71667
+],
+  "geometry": {"coordinates":[-63.08333,-19.71667],"type":"Point"}
+}

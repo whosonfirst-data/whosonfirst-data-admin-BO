@@ -1,0 +1,61 @@
+{
+  "id": 1209621443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.75,-16.78333,-67.75,-16.78333",
+    "geom:latitude":-16.78333,
+    "geom:longitude":-67.75,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mutuguaya",
+    "gn:country_code":"BO",
+    "gn:dem":2024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909756,
+    "gn:latitude":-16.78333,
+    "gn:longitude":-67.75,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Mutuguaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909756
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f796d1dde7d7d25e07c7d08f1884dbab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209621443
+        }
+    ],
+    "wof:id":1209621443,
+    "wof:lastmodified":1536281504,
+    "wof:name":"Mutuguaya",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.75,
+    -16.78333,
+    -67.75,
+    -16.78333
+],
+  "geometry": {"coordinates":[-67.75,-16.78333],"type":"Point"}
+}

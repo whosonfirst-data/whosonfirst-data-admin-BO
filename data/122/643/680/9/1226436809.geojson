@@ -1,0 +1,72 @@
+{
+  "id": 1226436809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.9,-18.28333,-65.9,-18.28333",
+    "geom:latitude":-18.28333,
+    "geom:longitude":-65.9,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Limitambo",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911521,
+    "gn:latitude":-18.28333,
+    "gn:longitude":-65.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Limitambo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Limatambo",
+        "Limitambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911521
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"161d3e4231c2cdd5b682219d6a5a53a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008737,
+            "locality_id":1226436809,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1226436809,
+    "wof:lastmodified":1537588026,
+    "wof:name":"Limitambo",
+    "wof:parent_id":1092008737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.9,
+    -18.28333,
+    -65.9,
+    -18.28333
+],
+  "geometry": {"coordinates":[-65.90000000000001,-18.28333],"type":"Point"}
+}

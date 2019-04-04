@@ -1,0 +1,72 @@
+{
+  "id": 1209839837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.06667,-16.46667,-68.06667,-16.46667",
+    "geom:latitude":-16.46667,
+    "geom:longitude":-68.06667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chicani",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920939,
+    "gn:latitude":-16.46667,
+    "gn:longitude":-68.06667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chicani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chicar",
+        "Chicani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920939
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0bb203ce16ff8bc1f1be7c90730a04ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":1209839837,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1209839837,
+    "wof:lastmodified":1537588115,
+    "wof:name":"Chicani",
+    "wof:parent_id":421177667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.06667,
+    -16.46667,
+    -68.06667,
+    -16.46667
+],
+  "geometry": {"coordinates":[-68.06667,-16.46667],"type":"Point"}
+}

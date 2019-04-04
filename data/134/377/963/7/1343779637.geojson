@@ -1,0 +1,71 @@
+{
+  "id": 1343779637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.67889,-19.56589,-64.67889,-19.56589",
+    "geom:latitude":-19.56589,
+    "geom:longitude":-64.67889,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pupayoj",
+    "gn:country_code":"BO",
+    "gn:dem":3381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907040,
+    "gn:latitude":-19.56589,
+    "gn:longitude":-64.67889,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Pupayoj",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Pupayoj",
+        "Pupayoj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907040
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8896b90cfec0cfcd2012eada7eea409c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006241,
+            "locality_id":1343779637,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1343779637,
+    "wof:lastmodified":1537587975,
+    "wof:name":"Pupayoj",
+    "wof:parent_id":1092006241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.67889,
+    -19.56589,
+    -64.67889,
+    -19.56589
+],
+  "geometry": {"coordinates":[-64.67889,-19.56589],"type":"Point"}
+}

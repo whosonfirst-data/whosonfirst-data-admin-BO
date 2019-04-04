@@ -1,0 +1,67 @@
+{
+  "id": 1243168807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.73333,-20.38333,-66.73333,-20.38333",
+    "geom:latitude":-20.38333,
+    "geom:longitude":-66.73333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Coquenaloma",
+    "gn:country_code":"BO",
+    "gn:dem":4193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919144,
+    "gn:latitude":-20.38333,
+    "gn:longitude":-66.73333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Coquenaloma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919144
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5cbbdcec57b3bac2c3fc143934691e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177657,
+            "locality_id":1243168807,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1243168807,
+    "wof:lastmodified":1536709187,
+    "wof:name":"Coquenaloma",
+    "wof:parent_id":421177657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.73333000000001,
+    -20.38333,
+    -66.73333000000001,
+    -20.38333
+],
+  "geometry": {"coordinates":[-66.73333000000001,-20.38333],"type":"Point"}
+}

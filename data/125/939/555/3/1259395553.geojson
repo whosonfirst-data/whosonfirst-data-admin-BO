@@ -1,0 +1,72 @@
+{
+  "id": 1259395553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.13333,-17.83333,-66.13333,-17.83333",
+    "geom:latitude":-17.83333,
+    "geom:longitude":-66.13333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cocoma",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919945,
+    "gn:latitude":-17.83333,
+    "gn:longitude":-66.13333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cocoma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cocomo",
+        "Cocoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919945
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"462c52ddee7931449bebbe36d74c11d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006497,
+            "locality_id":1259395553,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1259395553,
+    "wof:lastmodified":1537588104,
+    "wof:name":"Cocoma",
+    "wof:parent_id":1092006497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.13333,
+    -17.83333,
+    -66.13333,
+    -17.83333
+],
+  "geometry": {"coordinates":[-66.13333,-17.83333],"type":"Point"}
+}

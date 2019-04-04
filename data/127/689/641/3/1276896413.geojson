@@ -1,0 +1,70 @@
+{
+  "id": 1276896413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.19417,-10.86787,-68.19417,-10.86787",
+    "geom:latitude":-10.86787,
+    "geom:longitude":-68.19417,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Larangina",
+    "gn:country_code":"BO",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11503899,
+    "gn:latitude":-10.86787,
+    "gn:longitude":-68.19417,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Larangina",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Larangina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11503899
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1ff88ff8f9b60b38df52f86669b66804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008501,
+            "locality_id":1276896413,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1276896413,
+    "wof:lastmodified":1537588178,
+    "wof:name":"Larangina",
+    "wof:parent_id":1092008501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.19417,
+    -10.86787,
+    -68.19417,
+    -10.86787
+],
+  "geometry": {"coordinates":[-68.19417,-10.86787],"type":"Point"}
+}

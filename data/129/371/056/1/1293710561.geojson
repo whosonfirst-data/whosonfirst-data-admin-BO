@@ -1,0 +1,70 @@
+{
+  "id": 1293710561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.49371,-20.16188,-65.49371,-20.16188",
+    "geom:latitude":-20.16188,
+    "geom:longitude":-65.49371,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Comunidad Molle Grande",
+    "gn:country_code":"BO",
+    "gn:dem":3043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919522,
+    "gn:latitude":-20.16188,
+    "gn:longitude":-65.49371,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Comunidad Molle Grande",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Molle Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919522
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e8ff897f7ddac209a0d1d086779bbe40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1293710561,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293710561,
+    "wof:lastmodified":1537588100,
+    "wof:name":"Comunidad Molle Grande",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.49371,
+    -20.16188,
+    -65.49371,
+    -20.16188
+],
+  "geometry": {"coordinates":[-65.49370999999999,-20.16188],"type":"Point"}
+}

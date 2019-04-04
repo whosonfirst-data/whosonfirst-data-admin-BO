@@ -1,0 +1,71 @@
+{
+  "id": 1226137353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.48354,-18.36654,-65.48354,-18.36654",
+    "geom:latitude":-18.36654,
+    "geom:longitude":-65.48354,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Aguada",
+    "gn:country_code":"BO",
+    "gn:dem":2869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3924476,
+    "gn:latitude":-18.36654,
+    "gn:longitude":-65.48354,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Aguada",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Punta Aquada",
+        "Aguada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3924476
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"14e3c770e88ed985054e376425b2e48f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008737,
+            "locality_id":1226137353,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1226137353,
+    "wof:lastmodified":1537588159,
+    "wof:name":"Aguada",
+    "wof:parent_id":1092008737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.48354,
+    -18.36654,
+    -65.48354,
+    -18.36654
+],
+  "geometry": {"coordinates":[-65.48354,-18.36654],"type":"Point"}
+}

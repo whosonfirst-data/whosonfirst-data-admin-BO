@@ -1,0 +1,72 @@
+{
+  "id": 1242778171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.08333,-17.4,-68.08333,-17.4",
+    "geom:latitude":-17.4,
+    "geom:longitude":-68.08333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Charahuaito",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921137,
+    "gn:latitude":-17.4,
+    "gn:longitude":-68.08333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Charahuaito",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carahuaito",
+        "Charahuaito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092006923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921137
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f72e67a9dd72c323fa7b3dd2e72080eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006923,
+            "locality_id":1242778171,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1242778171,
+    "wof:lastmodified":1537588117,
+    "wof:name":"Charahuaito",
+    "wof:parent_id":1092006923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.08333,
+    -17.4,
+    -68.08333,
+    -17.4
+],
+  "geometry": {"coordinates":[-68.08333,-17.4],"type":"Point"}
+}

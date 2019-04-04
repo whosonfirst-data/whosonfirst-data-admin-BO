@@ -1,0 +1,61 @@
+{
+  "id": 1209512059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.91667,-17.58333,-62.91667,-17.58333",
+    "geom:latitude":-17.58333,
+    "geom:longitude":-62.91667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tocomechi",
+    "gn:country_code":"BO",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902826,
+    "gn:latitude":-17.58333,
+    "gn:longitude":-62.91667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Tocomechi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902826
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7a83246717e3a4795f865753ba03ebe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209512059
+        }
+    ],
+    "wof:id":1209512059,
+    "wof:lastmodified":1536284851,
+    "wof:name":"Tocomechi",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.91667,
+    -17.58333,
+    -62.91667,
+    -17.58333
+],
+  "geometry": {"coordinates":[-62.91667,-17.58333],"type":"Point"}
+}

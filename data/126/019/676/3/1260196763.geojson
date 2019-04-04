@@ -1,0 +1,72 @@
+{
+  "id": 1260196763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.88333,-19.1,-64.88333,-19.1",
+    "geom:latitude":-19.1,
+    "geom:longitude":-64.88333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Quirusillas",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906675,
+    "gn:latitude":-19.1,
+    "gn:longitude":-64.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Quirusillas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quirucillas",
+        "Quirusillas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421188855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906675
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e7bcbec051103fa2c12fc88ed18f424e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421188855,
+            "locality_id":1260196763,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1260196763,
+    "wof:lastmodified":1537587970,
+    "wof:name":"Quirusillas",
+    "wof:parent_id":421188855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.88333,
+    -19.1,
+    -64.88333,
+    -19.1
+],
+  "geometry": {"coordinates":[-64.88333,-19.1],"type":"Point"}
+}

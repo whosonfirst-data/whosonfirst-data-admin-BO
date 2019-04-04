@@ -1,0 +1,67 @@
+{
+  "id": 1225845425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.68333,-16.31667,-68.68333,-16.31667",
+    "geom:latitude":-16.31667,
+    "geom:longitude":-68.68333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tirasca",
+    "gn:country_code":"BO",
+    "gn:dem":4009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902902,
+    "gn:latitude":-16.31667,
+    "gn:longitude":-68.68333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Tirasca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421197575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902902
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a99f2d529f5006e132133b491149c064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197575,
+            "locality_id":1225845425,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1225845425,
+    "wof:lastmodified":1537013428,
+    "wof:name":"Tirasca",
+    "wof:parent_id":421197575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.68333,
+    -16.31667,
+    -68.68333,
+    -16.31667
+],
+  "geometry": {"coordinates":[-68.68333,-16.31667],"type":"Point"}
+}

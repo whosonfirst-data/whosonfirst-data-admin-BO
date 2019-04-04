@@ -1,0 +1,72 @@
+{
+  "id": 1327330541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.9,-18.96667,-65.9,-18.96667",
+    "geom:latitude":-18.96667,
+    "geom:longitude":-65.9,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chiquisaquilla",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920638,
+    "gn:latitude":-18.96667,
+    "gn:longitude":-65.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chiquisaquilla",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chuquisaquilla",
+        "Chiquisaquilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920638
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0aee2ea14f26656450f3a38119fd5ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008791,
+            "locality_id":1327330541,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1327330541,
+    "wof:lastmodified":1537588111,
+    "wof:name":"Chiquisaquilla",
+    "wof:parent_id":1092008791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.9,
+    -18.96667,
+    -65.9,
+    -18.96667
+],
+  "geometry": {"coordinates":[-65.90000000000001,-18.96667],"type":"Point"}
+}

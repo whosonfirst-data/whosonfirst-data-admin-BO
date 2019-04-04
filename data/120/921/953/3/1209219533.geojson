@@ -1,0 +1,66 @@
+{
+  "id": 1209219533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.64104,-18.81936,-67.64104,-18.81936",
+    "geom:latitude":-18.81936,
+    "geom:longitude":-67.64104,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Belen de Anamarca",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923233,
+    "gn:latitude":-18.81936,
+    "gn:longitude":-67.64104,
+    "gn:modification_date":"2012-08-16",
+    "gn:name":"Bel\u00e9n de Anamarca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bel\u00e9n de Andamarca",
+        "Bel\u00e9n de Anamarca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923233
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8ed41d027c789f8a6b2d7c118e134218",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209219533
+        }
+    ],
+    "wof:id":1209219533,
+    "wof:lastmodified":1537588144,
+    "wof:name":"Belen de Anamarca",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.64104,
+    -18.81936,
+    -67.64104,
+    -18.81936
+],
+  "geometry": {"coordinates":[-67.64104,-18.81936],"type":"Point"}
+}

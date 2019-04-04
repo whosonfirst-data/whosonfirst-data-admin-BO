@@ -1,0 +1,67 @@
+{
+  "id": 1343675935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.87417,-20.80738,-64.87417,-20.80738",
+    "geom:latitude":-20.80738,
+    "geom:longitude":-64.87417,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rancho Pueblo Bajo",
+    "gn:country_code":"BO",
+    "gn:dem":2911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906579,
+    "gn:latitude":-20.80738,
+    "gn:longitude":-64.87417,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Rancho Pueblo Bajo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906579
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"45ce9007861f6c33add7fc9514bc28b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006087,
+            "locality_id":1343675935,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1343675935,
+    "wof:lastmodified":1536933429,
+    "wof:name":"Rancho Pueblo Bajo",
+    "wof:parent_id":1092006087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.87416999999999,
+    -20.80738,
+    -64.87416999999999,
+    -20.80738
+],
+  "geometry": {"coordinates":[-64.87416999999999,-20.80738],"type":"Point"}
+}

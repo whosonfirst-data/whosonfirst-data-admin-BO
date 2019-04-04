@@ -1,0 +1,68 @@
+{
+  "id": 1293133893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.55,-16.9,-67.55,-16.9",
+    "geom:latitude":-16.9,
+    "geom:longitude":-67.55,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cairoma",
+    "gn:country_code":"BO",
+    "gn:dem":3921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922732,
+    "gn:latitude":-16.9,
+    "gn:longitude":-67.55,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Cairoma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922732,
+        "wk:page":"Cairoma"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"304cbda92f11cb7931fd0a5a06cdedd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182435,
+            "locality_id":1293133893,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293133893,
+    "wof:lastmodified":1537487942,
+    "wof:name":"Cairoma",
+    "wof:parent_id":421182435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.55,
+    -16.9,
+    -67.55,
+    -16.9
+],
+  "geometry": {"coordinates":[-67.55,-16.9],"type":"Point"}
+}

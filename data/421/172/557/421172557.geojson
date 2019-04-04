@@ -1,0 +1,75 @@
+{
+  "id": 421172557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.829833,-20.456529,-66.829833,-20.456529",
+    "geom:latitude":-20.456529,
+    "geom:longitude":-66.829833,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Uyuni",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"Potos\u00ed",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":17,
+    "qs:photos_9r":12,
+    "qs:photos_all":3778,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1313623,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":55968025,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55968025,
+        "qs:id":1313623
+    },
+    "wof:country":"BO",
+    "wof:created":1459008946,
+    "wof:geomhash":"dd56056e1c4537cbe4a27947cf0cb18b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177657,
+            "localadmin_id":421172557,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":421172557,
+    "wof:lastmodified":1499929196,
+    "wof:name":"Uyuni",
+    "wof:parent_id":421177657,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.829833,
+    -20.456529,
+    -66.829833,
+    -20.456529
+],
+  "geometry": {"coordinates":[-66.82983299999999,-20.456529],"type":"Point"}
+}

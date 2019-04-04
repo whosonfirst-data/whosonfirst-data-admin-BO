@@ -1,0 +1,72 @@
+{
+  "id": 1327265381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.4,-17.95,-68.4,-17.95",
+    "geom:latitude":-17.95,
+    "geom:longitude":-68.4,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Chapiri",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921191,
+    "gn:latitude":-17.95,
+    "gn:longitude":-68.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chapiri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Chapiri",
+        "Chapiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        421204017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921191
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b5685f34f14fa8ce85d353277138386d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421204017,
+            "locality_id":1327265381,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1327265381,
+    "wof:lastmodified":1537588118,
+    "wof:name":"Chapiri",
+    "wof:parent_id":421204017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.4,
+    -17.95,
+    -68.4,
+    -17.95
+],
+  "geometry": {"coordinates":[-68.40000000000001,-17.95],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242896539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.39492,-18.20623,-68.39492,-18.20623",
+    "geom:latitude":-18.20623,
+    "geom:longitude":-68.39492,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Estancia Chuquillamaya",
+    "gn:country_code":"BO",
+    "gn:dem":4293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917384,
+    "gn:latitude":-18.20623,
+    "gn:longitude":-68.39492,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Chuquillamaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        421204017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917384
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"abdbc691d5d8f8c885ac560dea3ded3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421204017,
+            "locality_id":1242896539,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1242896539,
+    "wof:lastmodified":1536601093,
+    "wof:name":"Estancia Chuquillamaya",
+    "wof:parent_id":421204017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.39492,
+    -18.20623,
+    -68.39492,
+    -18.20623
+],
+  "geometry": {"coordinates":[-68.39492,-18.20623],"type":"Point"}
+}

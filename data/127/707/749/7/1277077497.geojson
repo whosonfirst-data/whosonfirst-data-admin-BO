@@ -1,0 +1,67 @@
+{
+  "id": 1277077497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.13333,-17.2,-66.13333,-17.2",
+    "geom:latitude":-17.2,
+    "geom:longitude":-66.13333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Estancia Condor Iquina",
+    "gn:country_code":"BO",
+    "gn:dem":3871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917338,
+    "gn:latitude":-17.2,
+    "gn:longitude":-66.13333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Condor Iqui\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        421172489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917338
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9ed834b900043011ea37563a5895ce95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421172489,
+            "locality_id":1277077497,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1277077497,
+    "wof:lastmodified":1536775767,
+    "wof:name":"Estancia Condor Iquina",
+    "wof:parent_id":421172489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.13333,
+    -17.2,
+    -66.13333,
+    -17.2
+],
+  "geometry": {"coordinates":[-66.13333,-17.2],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260192473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.30045,-21.26334,-65.30045,-21.26334",
+    "geom:latitude":-21.26334,
+    "geom:longitude":-65.30045,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Matanza",
+    "gn:country_code":"BO",
+    "gn:dem":2770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910617,
+    "gn:latitude":-21.26334,
+    "gn:longitude":-65.30045,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Matanza",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910617
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2d4cbc1ff74051393bf268a024099d47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006125,
+            "locality_id":1260192473,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1260192473,
+    "wof:lastmodified":1536834514,
+    "wof:name":"Matanza",
+    "wof:parent_id":1092006125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.30045,
+    -21.26334,
+    -65.30045,
+    -21.26334
+],
+  "geometry": {"coordinates":[-65.30045,-21.26334],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326750329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.28333,-17.3,-61.28333,-17.3",
+    "geom:latitude":-17.3,
+    "geom:longitude":-61.28333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Motacucito",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909886,
+    "gn:latitude":-17.3,
+    "gn:longitude":-61.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Motacucito",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Motac\u00fa",
+        "Motacucito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909886
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"30516e655e7142eb132879d0f2b41fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1326750329,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1326750329,
+    "wof:lastmodified":1537588008,
+    "wof:name":"Motacucito",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.28333000000001,
+    -17.3,
+    -61.28333000000001,
+    -17.3
+],
+  "geometry": {"coordinates":[-61.28333000000001,-17.3],"type":"Point"}
+}

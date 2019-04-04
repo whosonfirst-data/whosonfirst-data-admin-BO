@@ -1,0 +1,72 @@
+{
+  "id": 1276212307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.98333,-17.85,-62.98333,-17.85",
+    "geom:latitude":-17.85,
+    "geom:longitude":-62.98333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Cedro",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918305,
+    "gn:latitude":-17.85,
+    "gn:longitude":-62.98333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Cedro",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad El Cedro",
+        "El Cedro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421187923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918305
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"bf511e771a46c05365be1275011b0fa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187923,
+            "locality_id":1276212307,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1276212307,
+    "wof:lastmodified":1537588087,
+    "wof:name":"El Cedro",
+    "wof:parent_id":421187923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.98333,
+    -17.85,
+    -62.98333,
+    -17.85
+],
+  "geometry": {"coordinates":[-62.98333,-17.85],"type":"Point"}
+}

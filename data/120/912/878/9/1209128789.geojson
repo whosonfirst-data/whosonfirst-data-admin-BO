@@ -1,0 +1,61 @@
+{
+  "id": 1209128789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.82442,-18.61564,-66.82442,-18.61564",
+    "geom:latitude":-18.61564,
+    "geom:longitude":-66.82442,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Willki",
+    "gn:country_code":"BO",
+    "gn:dem":3972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901210,
+    "gn:latitude":-18.61564,
+    "gn:longitude":-66.82442,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Willki",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901210
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"23e706ff70ed2e032c7100198c4fadf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209128789
+        }
+    ],
+    "wof:id":1209128789,
+    "wof:lastmodified":1536296872,
+    "wof:name":"Willki",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.82441999999999,
+    -18.61564,
+    -66.82441999999999,
+    -18.61564
+],
+  "geometry": {"coordinates":[-66.82441999999999,-18.61564],"type":"Point"}
+}

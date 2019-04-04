@@ -1,0 +1,67 @@
+{
+  "id": 1327355877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.05866,-18.93679,-64.05866,-18.93679",
+    "geom:latitude":-18.93679,
+    "geom:longitude":-64.05866,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Ceja",
+    "gn:country_code":"BO",
+    "gn:dem":2147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472790,
+    "gn:latitude":-18.93679,
+    "gn:longitude":-64.05866,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"La Ceja",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421193471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472790
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9feb9eb3b5874f16d38cc6a8fbb0fb58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193471,
+            "locality_id":1327355877,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1327355877,
+    "wof:lastmodified":1536791744,
+    "wof:name":"La Ceja",
+    "wof:parent_id":421193471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.05866,
+    -18.93679,
+    -64.05866,
+    -18.93679
+],
+  "geometry": {"coordinates":[-64.05866,-18.93679],"type":"Point"}
+}

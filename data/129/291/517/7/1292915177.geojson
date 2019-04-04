@@ -1,0 +1,67 @@
+{
+  "id": 1292915177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.03333,-15.0,-65.03333,-15.0",
+    "geom:latitude":-15.0,
+    "geom:longitude":-65.03333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Aijurico",
+    "gn:country_code":"BO",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3924350,
+    "gn:latitude":-15.0,
+    "gn:longitude":-65.03333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Aijur\u00edco",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3924350
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6d200b81a5764a632dd86923cf6fa038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005839,
+            "locality_id":1292915177,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1292915177,
+    "wof:lastmodified":1536615653,
+    "wof:name":"Aijurico",
+    "wof:parent_id":1092005839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.03333,
+    -15.0,
+    -65.03333,
+    -15.0
+],
+  "geometry": {"coordinates":[-65.03333000000001,-15.0],"type":"Point"}
+}

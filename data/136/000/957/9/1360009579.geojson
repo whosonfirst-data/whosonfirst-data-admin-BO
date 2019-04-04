@@ -1,0 +1,70 @@
+{
+  "id": 1360009579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.71898,-15.59267,-68.71898,-15.59267",
+    "geom:latitude":-15.59267,
+    "geom:longitude":-68.71898,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chuluyapu",
+    "gn:country_code":"BO",
+    "gn:dem":3119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920239,
+    "gn:latitude":-15.59267,
+    "gn:longitude":-68.71898,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Chuluyapu",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chuluyapu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421187929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920239
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"21bd53ee83f717436bb0865c74464ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187929,
+            "locality_id":1360009579,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1360009579,
+    "wof:lastmodified":1537588107,
+    "wof:name":"Chuluyapu",
+    "wof:parent_id":421187929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.71898,
+    -15.59267,
+    -68.71898,
+    -15.59267
+],
+  "geometry": {"coordinates":[-68.71898,-15.59267],"type":"Point"}
+}

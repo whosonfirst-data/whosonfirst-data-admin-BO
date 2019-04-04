@@ -1,0 +1,67 @@
+{
+  "id": 1193273221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.80976,-11.60706,-68.80976,-11.60706",
+    "geom:latitude":-11.60706,
+    "geom:longitude":-68.80976,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Agua Dulce",
+    "gn:country_code":"BO",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11469104,
+    "gn:latitude":-11.60706,
+    "gn:longitude":-68.80976,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Agua Dulce",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11469104
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2622d222af36682e16d5bace4099ca6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008461,
+            "locality_id":1193273221,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1193273221,
+    "wof:lastmodified":1536368218,
+    "wof:name":"Agua Dulce",
+    "wof:parent_id":1092008461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.80976,
+    -11.60706,
+    -68.80976,
+    -11.60706
+],
+  "geometry": {"coordinates":[-68.80976,-11.60706],"type":"Point"}
+}

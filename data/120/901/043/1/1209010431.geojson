@@ -1,0 +1,61 @@
+{
+  "id": 1209010431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.9,-15.48333,-67.9,-15.48333",
+    "geom:latitude":-15.48333,
+    "geom:longitude":-67.9,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Merma",
+    "gn:country_code":"BO",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910459,
+    "gn:latitude":-15.48333,
+    "gn:longitude":-67.9,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Merma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910459
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f5de732bcaa55abdc4915c316d479f02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209010431
+        }
+    ],
+    "wof:id":1209010431,
+    "wof:lastmodified":1536300465,
+    "wof:name":"Merma",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.9,
+    -15.48333,
+    -67.9,
+    -15.48333
+],
+  "geometry": {"coordinates":[-67.90000000000001,-15.48333],"type":"Point"}
+}

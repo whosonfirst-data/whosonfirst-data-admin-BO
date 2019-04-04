@@ -1,0 +1,67 @@
+{
+  "id": 1309797633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.48475,-21.41757,-66.48475,-21.41757",
+    "geom:latitude":-21.41757,
+    "geom:longitude":-66.48475,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Cerillos",
+    "gn:country_code":"BO",
+    "gn:dem":4123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921616,
+    "gn:latitude":-21.41757,
+    "gn:longitude":-66.48475,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Cerillos",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921616
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9d3d65985b33b220a9bc8d5cb75e9b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193355,
+            "locality_id":1309797633,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1309797633,
+    "wof:lastmodified":1536943410,
+    "wof:name":"Cerillos",
+    "wof:parent_id":421193355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.48475,
+    -21.41757,
+    -66.48475,
+    -21.41757
+],
+  "geometry": {"coordinates":[-66.48475000000001,-21.41757],"type":"Point"}
+}

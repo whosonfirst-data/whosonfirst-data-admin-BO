@@ -1,0 +1,72 @@
+{
+  "id": 1293509695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.91667,-17.51667,-62.91667,-17.51667",
+    "geom:latitude":-17.51667,
+    "geom:longitude":-62.91667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Colonia Okinawa Numero Tres",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919789,
+    "gn:latitude":-17.51667,
+    "gn:longitude":-62.91667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Colonia Okinawa N\u00famero Tres",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia Okinawa Monte Cristo",
+        "Colonia Okinawa N\u00famero Tres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919789
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c3e94ed4ef2d9be17054ac7ddd3edb40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010083,
+            "locality_id":1293509695,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1293509695,
+    "wof:lastmodified":1537588102,
+    "wof:name":"Colonia Okinawa Numero Tres",
+    "wof:parent_id":1092010083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.91667,
+    -17.51667,
+    -62.91667,
+    -17.51667
+],
+  "geometry": {"coordinates":[-62.91667,-17.51667],"type":"Point"}
+}

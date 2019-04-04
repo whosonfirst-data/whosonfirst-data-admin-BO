@@ -1,0 +1,72 @@
+{
+  "id": 1276318877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.48333,-14.06667,-62.48333,-14.06667",
+    "geom:latitude":-14.06667,
+    "geom:longitude":-62.48333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"San Joaquin",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905609,
+    "gn:latitude":-14.06667,
+    "gn:longitude":-62.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Joaqu\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Juaquin",
+        "San Joaqu\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905609
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5da448d5912b41aa208a23034393ae6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009873,
+            "locality_id":1276318877,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1276318877,
+    "wof:lastmodified":1537587959,
+    "wof:name":"San Joaquin",
+    "wof:parent_id":1092009873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.48333,
+    -14.06667,
+    -62.48333,
+    -14.06667
+],
+  "geometry": {"coordinates":[-62.48333,-14.06667],"type":"Point"}
+}

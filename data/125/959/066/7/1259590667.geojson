@@ -1,0 +1,72 @@
+{
+  "id": 1259590667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.1,-15.25,-67.1,-15.25",
+    "geom:latitude":-15.25,
+    "geom:longitude":-67.1,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Muyuri",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909731,
+    "gn:latitude":-15.25,
+    "gn:longitude":-67.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Muyuri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miluri",
+        "Muyuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909731
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"dc34cbf487fe0a2efa80600fd4404b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005669,
+            "locality_id":1259590667,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1259590667,
+    "wof:lastmodified":1537588006,
+    "wof:name":"Muyuri",
+    "wof:parent_id":1092005669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.1,
+    -15.25,
+    -67.1,
+    -15.25
+],
+  "geometry": {"coordinates":[-67.09999999999999,-15.25],"type":"Point"}
+}

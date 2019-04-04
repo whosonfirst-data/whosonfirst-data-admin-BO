@@ -1,0 +1,72 @@
+{
+  "id": 1260299441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.35,-20.98333,-65.35,-20.98333",
+    "geom:latitude":-20.98333,
+    "geom:longitude":-65.35,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"La Cueva Chica",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912295,
+    "gn:latitude":-20.98333,
+    "gn:longitude":-65.35,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Cueva Chica",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cueva Chica",
+        "La Cueva Chica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912295
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2a2477b1a593df52348e71a56e8842df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006125,
+            "locality_id":1260299441,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1260299441,
+    "wof:lastmodified":1537588036,
+    "wof:name":"La Cueva Chica",
+    "wof:parent_id":1092006125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.35,
+    -20.98333,
+    -65.35,
+    -20.98333
+],
+  "geometry": {"coordinates":[-65.34999999999999,-20.98333],"type":"Point"}
+}

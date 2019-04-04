@@ -1,0 +1,69 @@
+{
+  "id": 1310591923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.0,-19.5,-58.0,-19.5",
+    "geom:latitude":-19.5,
+    "geom:longitude":-58.0,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Cristal",
+    "gn:country_code":"BO",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3444642,
+    "gn:latitude":-19.5,
+    "gn:longitude":-58.0,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Cristal",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681947,
+        102191577,
+        404558873,
+        85633009,
+        102055227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3444642
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e136ec13378a2e15a04f5a94b97f04dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102055227,
+            "localadmin_id":404558873,
+            "locality_id":1310591923,
+            "region_id":85681947
+        }
+    ],
+    "wof:id":1310591923,
+    "wof:lastmodified":1536792605,
+    "wof:name":"Cristal",
+    "wof:parent_id":404558873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.0,
+    -19.5,
+    -58.0,
+    -19.5
+],
+  "geometry": {"coordinates":[-58.0,-19.5],"type":"Point"}
+}

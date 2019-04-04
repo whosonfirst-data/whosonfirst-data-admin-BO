@@ -1,0 +1,67 @@
+{
+  "id": 1344177029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.21667,-17.26667,-63.21667,-17.26667",
+    "geom:latitude":-17.26667,
+    "geom:longitude":-63.21667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Santa Maria",
+    "gn:country_code":"BO",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904830,
+    "gn:latitude":-17.26667,
+    "gn:longitude":-63.21667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Santa Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904830
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"860b5682be3573b44cf2f078f35159b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009899,
+            "locality_id":1344177029,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1344177029,
+    "wof:lastmodified":1536707734,
+    "wof:name":"Santa Maria",
+    "wof:parent_id":1092009899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.21666999999999,
+    -17.26667,
+    -63.21666999999999,
+    -17.26667
+],
+  "geometry": {"coordinates":[-63.21666999999999,-17.26667],"type":"Point"}
+}

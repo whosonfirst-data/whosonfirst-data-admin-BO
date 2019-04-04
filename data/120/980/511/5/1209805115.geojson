@@ -1,0 +1,72 @@
+{
+  "id": 1209805115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.53333,-21.31667,-64.53333,-21.31667",
+    "geom:latitude":-21.31667,
+    "geom:longitude":-64.53333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Finca Achihuaypolla",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915758,
+    "gn:latitude":-21.31667,
+    "gn:longitude":-64.53333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Finca Achihuaypolla",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Finca de Achihuy Polla",
+        "Finca Achihuaypolla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        1092010287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915758
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"37c82d7cbda7f6a73af05deaa360a334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010287,
+            "locality_id":1209805115,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1209805115,
+    "wof:lastmodified":1537588076,
+    "wof:name":"Finca Achihuaypolla",
+    "wof:parent_id":1092010287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.53333,
+    -21.31667,
+    -64.53333,
+    -21.31667
+],
+  "geometry": {"coordinates":[-64.53333000000001,-21.31667],"type":"Point"}
+}

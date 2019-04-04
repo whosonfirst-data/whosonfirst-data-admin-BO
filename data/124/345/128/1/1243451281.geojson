@@ -1,0 +1,67 @@
+{
+  "id": 1243451281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.23073,-21.7647,-66.23073,-21.7647",
+    "geom:latitude":-21.7647,
+    "geom:longitude":-66.23073,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mollepunco",
+    "gn:country_code":"BO",
+    "gn:dem":3312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910133,
+    "gn:latitude":-21.7647,
+    "gn:longitude":-66.23073,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Mollepunco",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910133
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"90ceab991dae3e1f777d93bb24d1dd0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":1243451281,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1243451281,
+    "wof:lastmodified":1536798679,
+    "wof:name":"Mollepunco",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.23073000000001,
+    -21.7647,
+    -66.23073000000001,
+    -21.7647
+],
+  "geometry": {"coordinates":[-66.23073000000001,-21.7647],"type":"Point"}
+}

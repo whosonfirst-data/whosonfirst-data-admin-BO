@@ -1,0 +1,67 @@
+{
+  "id": 1292995261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.1351,-21.55687,-65.1351,-21.55687",
+    "geom:latitude":-21.55687,
+    "geom:longitude":-65.1351,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"San Luis de Palqui",
+    "gn:country_code":"BO",
+    "gn:dem":3295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905371,
+    "gn:latitude":-21.55687,
+    "gn:longitude":-65.1351,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"San Luis de Palqui",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        1092010137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905371
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8836caf1413a296621fb27de394566c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010137,
+            "locality_id":1292995261,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1292995261,
+    "wof:lastmodified":1536998924,
+    "wof:name":"San Luis de Palqui",
+    "wof:parent_id":1092010137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.1351,
+    -21.55687,
+    -65.1351,
+    -21.55687
+],
+  "geometry": {"coordinates":[-65.13509999999999,-21.55687],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242681019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.58032,-17.5752,-65.58032,-17.5752",
+    "geom:latitude":-17.5752,
+    "geom:longitude":-65.58032,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vacas",
+    "gn:country_code":"BO",
+    "gn:dem":3465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901894,
+    "gn:latitude":-17.5752,
+    "gn:longitude":-65.58032,
+    "gn:modification_date":"2012-08-15",
+    "gn:name":"Vacas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901894,
+        "wk:page":"Vacas%2C_Cochabamba"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"abe94b3c8b810a219da87423345c1d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006291,
+            "locality_id":1242681019,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1242681019,
+    "wof:lastmodified":1537487863,
+    "wof:name":"Vacas",
+    "wof:parent_id":1092006291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.58032,
+    -17.5752,
+    -65.58032,
+    -17.5752
+],
+  "geometry": {"coordinates":[-65.58032,-17.5752],"type":"Point"}
+}

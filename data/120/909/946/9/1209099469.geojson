@@ -1,0 +1,66 @@
+{
+  "id": 1209099469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.48333,-19.18333,-60.48333,-19.18333",
+    "geom:latitude":-19.18333,
+    "geom:longitude":-60.48333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Escorpion",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917892,
+    "gn:latitude":-19.18333,
+    "gn:longitude":-60.48333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Escorpi\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pascana Escorpi\u00f3n",
+        "Escorpi\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917892
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"99fbaf3bd2e8cf09522ed18d70b24916",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209099469
+        }
+    ],
+    "wof:id":1209099469,
+    "wof:lastmodified":1537588080,
+    "wof:name":"Escorpion",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.48333,
+    -19.18333,
+    -60.48333,
+    -19.18333
+],
+  "geometry": {"coordinates":[-60.48333,-19.18333],"type":"Point"}
+}

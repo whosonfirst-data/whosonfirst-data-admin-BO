@@ -1,0 +1,67 @@
+{
+  "id": 1226333895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.67547,-20.19141,-65.67547,-20.19141",
+    "geom:latitude":-20.19141,
+    "geom:longitude":-65.67547,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Estancia Charque",
+    "gn:country_code":"BO",
+    "gn:dem":2826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917480,
+    "gn:latitude":-20.19141,
+    "gn:longitude":-65.67547,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Charque",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917480
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3a4e3b3f73548adc5bfb7d41d3eb99dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008991,
+            "locality_id":1226333895,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1226333895,
+    "wof:lastmodified":1536806377,
+    "wof:name":"Estancia Charque",
+    "wof:parent_id":1092008991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.67546999999999,
+    -20.19141,
+    -65.67546999999999,
+    -20.19141
+],
+  "geometry": {"coordinates":[-65.67546999999999,-20.19141],"type":"Point"}
+}

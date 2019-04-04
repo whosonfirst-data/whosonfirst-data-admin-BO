@@ -1,0 +1,66 @@
+{
+  "id": 890437319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.2113,-17.68595,-65.2113,-17.68595",
+    "geom:latitude":-17.68595,
+    "geom:longitude":-65.2113,
+    "gn:country":"BO",
+    "gn:fcode":"PPL",
+    "gn:pop":298,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Coluyo Grande",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618534,
+        "gp:id":346111,
+        "qs:id":642844
+    },
+    "wof:country":"BO",
+    "wof:created":1469052146,
+    "wof:geomhash":"54932ffc8fd7a564496c6b4438a8b4eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":890437319,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":890437319,
+    "wof:lastmodified":1505343559,
+    "wof:name":"Coluyo Grande",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:population":298,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.2113,
+    -17.68595,
+    -65.2113,
+    -17.68595
+],
+  "geometry": {"coordinates":[-65.21129999999999,-17.68595],"type":"Point"}
+}

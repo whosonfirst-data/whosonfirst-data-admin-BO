@@ -1,0 +1,72 @@
+{
+  "id": 1293133823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.13013,-15.46876,-69.13013,-15.46876",
+    "geom:latitude":-15.46876,
+    "geom:longitude":-69.13013,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Humanata",
+    "gn:country_code":"BO",
+    "gn:dem":3995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914437,
+    "gn:latitude":-15.46876,
+    "gn:longitude":-69.13013,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Humanata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umanata",
+        "Humanata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914437,
+        "wk:page":"Umanata_Municipality"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"feb6729056ad1d352e4b5c39bbfbaaec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007003,
+            "locality_id":1293133823,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293133823,
+    "wof:lastmodified":1537588061,
+    "wof:name":"Humanata",
+    "wof:parent_id":1092007003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.13013000000001,
+    -15.46876,
+    -69.13013000000001,
+    -15.46876
+],
+  "geometry": {"coordinates":[-69.13013000000001,-15.46876],"type":"Point"}
+}

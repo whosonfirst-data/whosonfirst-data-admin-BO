@@ -1,0 +1,70 @@
+{
+  "id": 1310507387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.91312,-15.05844,-68.91312,-15.05844",
+    "geom:latitude":-15.05844,
+    "geom:longitude":-68.91312,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pulipata",
+    "gn:country_code":"BO",
+    "gn:dem":4450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907115,
+    "gn:latitude":-15.05844,
+    "gn:longitude":-68.91312,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Pulipata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092006969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907115
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6b0441b30e787e70b850b67cbaa9c2b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006969,
+            "locality_id":1310507387,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1310507387,
+    "wof:lastmodified":1537587976,
+    "wof:name":"Pulipata",
+    "wof:parent_id":1092006969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.91311999999999,
+    -15.05844,
+    -68.91311999999999,
+    -15.05844
+],
+  "geometry": {"coordinates":[-68.91311999999999,-15.05844],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125936625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.4,-16.36667,-58.4,-16.36667",
+    "geom:latitude":-16.36667,
+    "geom:longitude":-58.4,
+    "gn:gn_country":"BO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6352,
+    "gn:population":6352,
+    "iso:country":"BO",
+    "lbl:latitude":-16.36667,
+    "lbl:longitude":-58.4,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BO",
+    "qs_pg:gn_country":"BO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3444105,
+    "qs_pg:gn_pop":6352,
+    "qs_pg:name":"San Mat\u00edas",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1044762,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3444105,
+        "qs_pg:id":1044762
+    },
+    "wof:country":"BO",
+    "wof:created":1497296987,
+    "wof:geomhash":"215731597b9608b812a6d8f379ae148d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009511,
+            "locality_id":1125936625,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1125936625,
+    "wof:lastmodified":1509401751,
+    "wof:name":"San Mat\u00edas",
+    "wof:parent_id":1092009511,
+    "wof:placetype":"locality",
+    "wof:population":6352,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.4,
+    -16.36667,
+    -58.4,
+    -16.36667
+],
+  "geometry": {"coordinates":[-58.4,-16.36667],"type":"Point"}
+}

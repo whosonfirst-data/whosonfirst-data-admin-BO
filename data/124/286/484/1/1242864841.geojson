@@ -1,0 +1,67 @@
+{
+  "id": 1242864841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.13333,-14.4,-62.13333,-14.4",
+    "geom:latitude":-14.4,
+    "geom:longitude":-62.13333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Codicia",
+    "gn:country_code":"BO",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919943,
+    "gn:latitude":-14.4,
+    "gn:longitude":-62.13333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Codicia",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919943
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8101d87585db6c7dfcb3fc11beca761a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009873,
+            "locality_id":1242864841,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1242864841,
+    "wof:lastmodified":1536649684,
+    "wof:name":"Codicia",
+    "wof:parent_id":1092009873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.13333000000001,
+    -14.4,
+    -62.13333000000001,
+    -14.4
+],
+  "geometry": {"coordinates":[-62.13333000000001,-14.4],"type":"Point"}
+}

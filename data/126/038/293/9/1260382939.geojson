@@ -1,0 +1,67 @@
+{
+  "id": 1260382939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.3146,-20.14465,-66.3146,-20.14465",
+    "geom:latitude":-20.14465,
+    "geom:longitude":-66.3146,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ticatica",
+    "gn:country_code":"BO",
+    "gn:dem":3613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903026,
+    "gn:latitude":-20.14465,
+    "gn:longitude":-66.3146,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Ticatica",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903026
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8e5eff062646a850b762194d641c6139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177657,
+            "locality_id":1260382939,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1260382939,
+    "wof:lastmodified":1537072669,
+    "wof:name":"Ticatica",
+    "wof:parent_id":421177657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.3146,
+    -20.14465,
+    -66.3146,
+    -20.14465
+],
+  "geometry": {"coordinates":[-66.3146,-20.14465],"type":"Point"}
+}

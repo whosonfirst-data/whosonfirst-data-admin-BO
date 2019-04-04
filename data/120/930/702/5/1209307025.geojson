@@ -1,0 +1,64 @@
+{
+  "id": 1209307025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.20807,-10.84312,-67.20807,-10.84312",
+    "geom:latitude":-10.84312,
+    "geom:longitude":-67.20807,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Va Quien Quiera",
+    "gn:country_code":"BO",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11508135,
+    "gn:latitude":-10.84312,
+    "gn:longitude":-67.20807,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Va Quien Quiera",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Va Quien Quiera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11508135
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"febae42d07606e08e3ca1d5dea70cd94",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209307025
+        }
+    ],
+    "wof:id":1209307025,
+    "wof:lastmodified":1537588192,
+    "wof:name":"Va Quien Quiera",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.20806999999999,
+    -10.84312,
+    -67.20806999999999,
+    -10.84312
+],
+  "geometry": {"coordinates":[-67.20806999999999,-10.84312],"type":"Point"}
+}

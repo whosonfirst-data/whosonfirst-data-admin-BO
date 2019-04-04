@@ -1,0 +1,67 @@
+{
+  "id": 1327126817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25441,-11.45284,-69.25441,-11.45284",
+    "geom:latitude":-11.45284,
+    "geom:longitude":-69.25441,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Cashuero",
+    "gn:country_code":"BO",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11438971,
+    "gn:latitude":-11.45284,
+    "gn:longitude":-69.25441,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Cashuero",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11438971
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"05ac383593c8c2b84b586586f23e131c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008501,
+            "locality_id":1327126817,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1327126817,
+    "wof:lastmodified":1536622137,
+    "wof:name":"Cashuero",
+    "wof:parent_id":1092008501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25441,
+    -11.45284,
+    -69.25441,
+    -11.45284
+],
+  "geometry": {"coordinates":[-69.25440999999999,-11.45284],"type":"Point"}
+}

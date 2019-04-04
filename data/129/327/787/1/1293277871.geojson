@@ -1,0 +1,72 @@
+{
+  "id": 1293277871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.05,-15.43333,-61.05,-15.43333",
+    "geom:latitude":-15.43333,
+    "geom:longitude":-61.05,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Providencia",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907473,
+    "gn:latitude":-15.43333,
+    "gn:longitude":-61.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Providencia",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Providencia",
+        "Providencia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907473
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3a77179335b48bd827a38774d219892f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1293277871,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1293277871,
+    "wof:lastmodified":1537587981,
+    "wof:name":"Providencia",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.05,
+    -15.43333,
+    -61.05,
+    -15.43333
+],
+  "geometry": {"coordinates":[-61.05,-15.43333],"type":"Point"}
+}

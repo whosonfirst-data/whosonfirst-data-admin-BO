@@ -1,0 +1,67 @@
+{
+  "id": 1260273891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.90129,-18.76573,-63.90129,-18.76573",
+    "geom:latitude":-18.76573,
+    "geom:longitude":-63.90129,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Loma Larga",
+    "gn:country_code":"BO",
+    "gn:dem":1938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911235,
+    "gn:latitude":-18.76573,
+    "gn:longitude":-63.90129,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Loma Larga",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421193471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911235
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"632d45bf2cf158e1bc53af969fea486b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193471,
+            "locality_id":1260273891,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1260273891,
+    "wof:lastmodified":1536725183,
+    "wof:name":"Loma Larga",
+    "wof:parent_id":421193471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.90129,
+    -18.76573,
+    -63.90129,
+    -18.76573
+],
+  "geometry": {"coordinates":[-63.90129,-18.76573],"type":"Point"}
+}

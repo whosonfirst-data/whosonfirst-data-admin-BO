@@ -1,0 +1,67 @@
+{
+  "id": 1344271121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.58333,-20.86667,-64.58333,-20.86667",
+    "geom:latitude":-20.86667,
+    "geom:longitude":-64.58333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Teruca",
+    "gn:country_code":"BO",
+    "gn:dem":2702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903149,
+    "gn:latitude":-20.86667,
+    "gn:longitude":-64.58333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Teruca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903149
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1161b8e090c9a1411b914b73f3354aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006087,
+            "locality_id":1344271121,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1344271121,
+    "wof:lastmodified":1537065775,
+    "wof:name":"Teruca",
+    "wof:parent_id":1092006087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.58333,
+    -20.86667000000001,
+    -64.58333,
+    -20.86667000000001
+],
+  "geometry": {"coordinates":[-64.58333,-20.86667000000001],"type":"Point"}
+}

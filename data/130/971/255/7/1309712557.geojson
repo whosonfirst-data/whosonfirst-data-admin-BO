@@ -1,0 +1,72 @@
+{
+  "id": 1309712557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.3,-17.66667,-68.3,-17.66667",
+    "geom:latitude":-17.66667,
+    "geom:longitude":-68.3,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Challuma",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921317,
+    "gn:latitude":-17.66667,
+    "gn:longitude":-68.3,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Challuma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Challuma",
+        "Challuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092008123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921317
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3db6aaab0b0331b9e64a417339d2b1dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008123,
+            "locality_id":1309712557,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1309712557,
+    "wof:lastmodified":1537588119,
+    "wof:name":"Challuma",
+    "wof:parent_id":1092008123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.3,
+    -17.66667,
+    -68.3,
+    -17.66667
+],
+  "geometry": {"coordinates":[-68.3,-17.66667],"type":"Point"}
+}

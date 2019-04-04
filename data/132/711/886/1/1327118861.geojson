@@ -1,0 +1,67 @@
+{
+  "id": 1327118861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.41667,-21.36667,-64.41667,-21.36667",
+    "geom:latitude":-21.36667,
+    "geom:longitude":-64.41667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"San Lorencito",
+    "gn:country_code":"BO",
+    "gn:dem":2577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905440,
+    "gn:latitude":-21.36667,
+    "gn:longitude":-64.41667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"San Lorencito",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421169233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905440
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3a89e0e20c31ab7981c4da7d8ee28b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169233,
+            "locality_id":1327118861,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1327118861,
+    "wof:lastmodified":1536634391,
+    "wof:name":"San Lorencito",
+    "wof:parent_id":421169233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.41667,
+    -21.36667000000001,
+    -64.41667,
+    -21.36667000000001
+],
+  "geometry": {"coordinates":[-64.41667,-21.36667000000001],"type":"Point"}
+}

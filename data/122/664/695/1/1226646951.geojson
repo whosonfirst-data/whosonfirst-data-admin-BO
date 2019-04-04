@@ -1,0 +1,67 @@
+{
+  "id": 1226646951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.21667,-17.1,-68.21667,-17.1",
+    "geom:latitude":-17.1,
+    "geom:longitude":-68.21667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Estancia Taypuma",
+    "gn:country_code":"BO",
+    "gn:dem":4128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916126,
+    "gn:latitude":-17.1,
+    "gn:longitude":-68.21667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Taypuma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916126
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"762aa27de81ffc1acf79eebe4dcb255f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1226646951,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1226646951,
+    "wof:lastmodified":1536856440,
+    "wof:name":"Estancia Taypuma",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.21667,
+    -17.1,
+    -68.21667,
+    -17.1
+],
+  "geometry": {"coordinates":[-68.21666999999999,-17.1],"type":"Point"}
+}

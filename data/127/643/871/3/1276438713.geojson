@@ -1,0 +1,71 @@
+{
+  "id": 1276438713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.88699,-20.62609,-65.88699,-20.62609",
+    "geom:latitude":-20.62609,
+    "geom:longitude":-65.88699,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chawisa",
+    "gn:country_code":"BO",
+    "gn:dem":2968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921033,
+    "gn:latitude":-20.62609,
+    "gn:longitude":-65.88699,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Chawisa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Chahuisa",
+        "Chawisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921033
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c9adb74d0c387358b7c8fcec520f3a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1276438713,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1276438713,
+    "wof:lastmodified":1537588116,
+    "wof:name":"Chawisa",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.88699,
+    -20.62609,
+    -65.88699,
+    -20.62609
+],
+  "geometry": {"coordinates":[-65.88699,-20.62609],"type":"Point"}
+}

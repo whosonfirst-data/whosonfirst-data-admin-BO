@@ -1,0 +1,68 @@
+{
+  "id": 1209307153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.19616,-10.33848,-67.19616,-10.33848",
+    "geom:latitude":-10.33848,
+    "geom:longitude":-67.19616,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Rapirran",
+    "gn:country_code":"BO",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923324,
+    "gn:latitude":-10.33848,
+    "gn:longitude":-67.19616,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Rapirran",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rupirrani",
+        "Barraca Riparran",
+        "Barraca Repirran",
+        "Barraca Rapirr\u00e1n",
+        "Rapirran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923324
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4dd2a73bc7e8d9a465d6c0adf555ea4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209307153
+        }
+    ],
+    "wof:id":1209307153,
+    "wof:lastmodified":1537588146,
+    "wof:name":"Rapirran",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.19615999999999,
+    -10.33848,
+    -67.19615999999999,
+    -10.33848
+],
+  "geometry": {"coordinates":[-67.19615999999999,-10.33848],"type":"Point"}
+}

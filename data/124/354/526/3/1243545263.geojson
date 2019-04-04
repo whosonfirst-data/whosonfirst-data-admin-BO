@@ -1,0 +1,67 @@
+{
+  "id": 1243545263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.31667,-18.18333,-63.31667,-18.18333",
+    "geom:latitude":-18.18333,
+    "geom:longitude":-63.31667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Percheles",
+    "gn:country_code":"BO",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908127,
+    "gn:latitude":-18.18333,
+    "gn:longitude":-63.31667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Percheles",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421187923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908127
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a84b2e1d47977a63f9ace38f19a6e483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187923,
+            "locality_id":1243545263,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1243545263,
+    "wof:lastmodified":1536663153,
+    "wof:name":"Percheles",
+    "wof:parent_id":421187923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.31667,
+    -18.18333,
+    -63.31667,
+    -18.18333
+],
+  "geometry": {"coordinates":[-63.31667,-18.18333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293395909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.43333,-16.8,-68.43333,-16.8",
+    "geom:latitude":-16.8,
+    "geom:longitude":-68.43333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jilata",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913330,
+    "gn:latitude":-16.8,
+    "gn:longitude":-68.43333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jilata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vilata",
+        "Jilata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913330
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"93df0c30b1add3499422be4b37fa28a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007213,
+            "locality_id":1293395909,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293395909,
+    "wof:lastmodified":1537588047,
+    "wof:name":"Jilata",
+    "wof:parent_id":1092007213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.43333,
+    -16.8,
+    -68.43333,
+    -16.8
+],
+  "geometry": {"coordinates":[-68.43333,-16.8],"type":"Point"}
+}

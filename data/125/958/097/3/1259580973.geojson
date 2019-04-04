@@ -1,0 +1,67 @@
+{
+  "id": 1259580973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.8,-15.91667,-61.8,-15.91667",
+    "geom:latitude":-15.91667,
+    "geom:longitude":-61.8,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"San Pedrito",
+    "gn:country_code":"BO",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905184,
+    "gn:latitude":-15.91667,
+    "gn:longitude":-61.8,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"San Pedrito",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905184
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4fdccc1440b1b78e222b2e096b9640e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009873,
+            "locality_id":1259580973,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1259580973,
+    "wof:lastmodified":1536718840,
+    "wof:name":"San Pedrito",
+    "wof:parent_id":1092009873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.8,
+    -15.91667,
+    -61.8,
+    -15.91667
+],
+  "geometry": {"coordinates":[-61.8,-15.91667],"type":"Point"}
+}

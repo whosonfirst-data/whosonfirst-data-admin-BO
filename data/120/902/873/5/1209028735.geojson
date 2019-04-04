@@ -1,0 +1,61 @@
+{
+  "id": 1209028735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.32149,-10.94823,-69.32149,-10.94823",
+    "geom:latitude":-10.94823,
+    "geom:longitude":-69.32149,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Morada Nueva",
+    "gn:country_code":"BO",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11438622,
+    "gn:latitude":-10.94823,
+    "gn:longitude":-69.32149,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Morada Nueva",
+    "gn:population":0,
+    "gn:timezone":"America/Rio_Branco",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11438622
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"189e87ae6c7d3e4454c198552a372019",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209028735
+        }
+    ],
+    "wof:id":1209028735,
+    "wof:lastmodified":1536299912,
+    "wof:name":"Morada Nueva",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.32149,
+    -10.94823,
+    -69.32149,
+    -10.94823
+],
+  "geometry": {"coordinates":[-69.32149,-10.94823],"type":"Point"}
+}

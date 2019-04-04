@@ -1,0 +1,71 @@
+{
+  "id": 1276357471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.89964,-19.38787,-64.89964,-19.38787",
+    "geom:latitude":-19.38787,
+    "geom:longitude":-64.89964,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Candelaria",
+    "gn:country_code":"BO",
+    "gn:dem":2054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922245,
+    "gn:latitude":-19.38787,
+    "gn:longitude":-64.89964,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Candelaria",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Candelaria",
+        "Candelaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922245
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c8a90c85ecf596a83d4f88abab74bc00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008843,
+            "locality_id":1276357471,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1276357471,
+    "wof:lastmodified":1537588133,
+    "wof:name":"Candelaria",
+    "wof:parent_id":1092008843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.89964,
+    -19.38787,
+    -64.89964,
+    -19.38787
+],
+  "geometry": {"coordinates":[-64.89964000000001,-19.38787],"type":"Point"}
+}

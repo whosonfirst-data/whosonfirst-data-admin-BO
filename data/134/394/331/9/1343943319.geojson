@@ -1,0 +1,67 @@
+{
+  "id": 1343943319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.08333,-17.93333,-63.08333,-17.93333",
+    "geom:latitude":-17.93333,
+    "geom:longitude":-63.08333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lomitas",
+    "gn:country_code":"BO",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911222,
+    "gn:latitude":-17.93333,
+    "gn:longitude":-63.08333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Lomitas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421187923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911222
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"05a68e0a4709cbe701faeb571250e18d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187923,
+            "locality_id":1343943319,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1343943319,
+    "wof:lastmodified":1537043036,
+    "wof:name":"Lomitas",
+    "wof:parent_id":421187923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.08333,
+    -17.93332999999999,
+    -63.08333,
+    -17.93332999999999
+],
+  "geometry": {"coordinates":[-63.08333,-17.93332999999999],"type":"Point"}
+}

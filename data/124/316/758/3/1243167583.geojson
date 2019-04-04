@@ -1,0 +1,72 @@
+{
+  "id": 1243167583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.9,-17.65,-62.9,-17.65",
+    "geom:latitude":-17.65,
+    "geom:longitude":-62.9,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Biz",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923124,
+    "gn:latitude":-17.65,
+    "gn:longitude":-62.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Biz",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Bis",
+        "Biz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421187923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923124
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ea2c6c8632708c16be27f86ea1342a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187923,
+            "locality_id":1243167583,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1243167583,
+    "wof:lastmodified":1537588143,
+    "wof:name":"Biz",
+    "wof:parent_id":421187923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.9,
+    -17.65,
+    -62.9,
+    -17.65
+],
+  "geometry": {"coordinates":[-62.9,-17.65],"type":"Point"}
+}

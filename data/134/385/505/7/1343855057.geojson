@@ -1,0 +1,72 @@
+{
+  "id": 1343855057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.73333,-16.55,-63.73333,-16.55",
+    "geom:latitude":-16.55,
+    "geom:longitude":-63.73333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Puerto Velarde",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907172,
+    "gn:latitude":-16.55,
+    "gn:longitude":-63.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puerto Velarde",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rojas",
+        "Puerto Velarde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907172
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c04f97218287bcf7056a4a1d1407c6d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009899,
+            "locality_id":1343855057,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1343855057,
+    "wof:lastmodified":1537587977,
+    "wof:name":"Puerto Velarde",
+    "wof:parent_id":1092009899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.73333,
+    -16.55,
+    -63.73333,
+    -16.55
+],
+  "geometry": {"coordinates":[-63.73333,-16.55],"type":"Point"}
+}

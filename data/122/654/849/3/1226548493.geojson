@@ -1,0 +1,67 @@
+{
+  "id": 1226548493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.48333,-17.95,-66.48333,-17.95",
+    "geom:latitude":-17.95,
+    "geom:longitude":-66.48333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Estancia Uray Viluyo",
+    "gn:country_code":"BO",
+    "gn:dem":4211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916002,
+    "gn:latitude":-17.95,
+    "gn:longitude":-66.48333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Uray Viluyo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916002
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"27d1775e496a65752a589ec5fe5bdd58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006427,
+            "locality_id":1226548493,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1226548493,
+    "wof:lastmodified":1536993159,
+    "wof:name":"Estancia Uray Viluyo",
+    "wof:parent_id":1092006427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.48333000000001,
+    -17.95,
+    -66.48333000000001,
+    -17.95
+],
+  "geometry": {"coordinates":[-66.48333000000001,-17.95],"type":"Point"}
+}

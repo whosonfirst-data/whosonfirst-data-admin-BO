@@ -1,0 +1,74 @@
+{
+  "id": 1309726345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.96667,-20.81667,-63.96667,-20.81667",
+    "geom:latitude":-20.81667,
+    "geom:longitude":-63.96667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cuba",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918800,
+    "gn:latitude":-20.81667,
+    "gn:longitude":-63.96667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cuba",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F. Cuva",
+        "E. Cuba",
+        "F. Cuba",
+        "Cuba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918800
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"68be380fc7c41be3c67ad40b7550a794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005923,
+            "locality_id":1309726345,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1309726345,
+    "wof:lastmodified":1537588093,
+    "wof:name":"Cuba",
+    "wof:parent_id":1092005923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.96666999999999,
+    -20.81667,
+    -63.96666999999999,
+    -20.81667
+],
+  "geometry": {"coordinates":[-63.96666999999999,-20.81667],"type":"Point"}
+}

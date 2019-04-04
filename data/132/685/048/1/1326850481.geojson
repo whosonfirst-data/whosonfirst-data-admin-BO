@@ -1,0 +1,67 @@
+{
+  "id": 1326850481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.71667,-16.61667,-60.71667,-16.61667",
+    "geom:latitude":-16.61667,
+    "geom:longitude":-60.71667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Estancia San Roque",
+    "gn:country_code":"BO",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916270,
+    "gn:latitude":-16.61667,
+    "gn:longitude":-60.71667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia San Roque",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916270
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"992fdd648aa85f15fdd2ee8434e45c76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1326850481,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1326850481,
+    "wof:lastmodified":1537021564,
+    "wof:name":"Estancia San Roque",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.71666999999999,
+    -16.61667000000001,
+    -60.71666999999999,
+    -16.61667000000001
+],
+  "geometry": {"coordinates":[-60.71666999999999,-16.61667000000001],"type":"Point"}
+}

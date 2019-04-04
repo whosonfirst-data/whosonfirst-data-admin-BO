@@ -1,0 +1,73 @@
+{
+  "id": 1243551315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.61738,-21.09324,-67.61738,-21.09324",
+    "geom:latitude":-21.09324,
+    "geom:longitude":-67.61738,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Turincha",
+    "gn:country_code":"BO",
+    "gn:dem":3764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902193,
+    "gn:latitude":-21.09324,
+    "gn:longitude":-67.61738,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Turincha",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Turuncha",
+        "Turinchi",
+        "Turincha",
+        "Toroncha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902193
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0b24bd721f6ca7db65cac1186d84eb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193357,
+            "locality_id":1243551315,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1243551315,
+    "wof:lastmodified":1537587920,
+    "wof:name":"Turincha",
+    "wof:parent_id":421193357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.61738000000001,
+    -21.09324,
+    -67.61738000000001,
+    -21.09324
+],
+  "geometry": {"coordinates":[-67.61738000000001,-21.09324],"type":"Point"}
+}

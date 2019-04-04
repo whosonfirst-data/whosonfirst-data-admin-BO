@@ -1,0 +1,67 @@
+{
+  "id": 1293263111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.04694,-18.34083,-58.04694,-18.34083",
+    "geom:latitude":-18.34083,
+    "geom:longitude":-58.04694,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Itanorte",
+    "gn:country_code":"BO",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6317326,
+    "gn:latitude":-18.34083,
+    "gn:longitude":-58.04694,
+    "gn:modification_date":"2018-07-24",
+    "gn:name":"Itanorte",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421183095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6317326
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"cca61ed7de12fd02e984a561d5c3df50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421183095,
+            "locality_id":1293263111,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1293263111,
+    "wof:lastmodified":1536610997,
+    "wof:name":"Itanorte",
+    "wof:parent_id":421183095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.04694,
+    -18.34083,
+    -58.04694,
+    -18.34083
+],
+  "geometry": {"coordinates":[-58.04694,-18.34083],"type":"Point"}
+}

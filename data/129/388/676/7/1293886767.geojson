@@ -1,0 +1,73 @@
+{
+  "id": 1293886767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.65,-16.93333,-66.65,-16.93333",
+    "geom:latitude":-16.93333,
+    "geom:longitude":-66.65,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Vizcaino",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901337,
+    "gn:latitude":-16.93333,
+    "gn:longitude":-66.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vizca\u00edno",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Viscaino",
+        "Vizeaino",
+        "Vizca\u00edno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901337
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7ebdc36fe896d8764bb0a60e11902cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006381,
+            "locality_id":1293886767,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1293886767,
+    "wof:lastmodified":1537587909,
+    "wof:name":"Vizcaino",
+    "wof:parent_id":1092006381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.65,
+    -16.93333,
+    -66.65,
+    -16.93333
+],
+  "geometry": {"coordinates":[-66.65000000000001,-16.93333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276144355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.69803,-11.24994,-68.69803,-11.24994",
+    "geom:latitude":-11.24994,
+    "geom:longitude":-68.69803,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Choro",
+    "gn:country_code":"BO",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11498762,
+    "gn:latitude":-11.24994,
+    "gn:longitude":-68.69803,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"El Choro",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Choro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11498762
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"bd9c549b4b4402619fdb29bbf3674f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008501,
+            "locality_id":1276144355,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1276144355,
+    "wof:lastmodified":1537588167,
+    "wof:name":"El Choro",
+    "wof:parent_id":1092008501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.69803,
+    -11.24994,
+    -68.69803,
+    -11.24994
+],
+  "geometry": {"coordinates":[-68.69803,-11.24994],"type":"Point"}
+}

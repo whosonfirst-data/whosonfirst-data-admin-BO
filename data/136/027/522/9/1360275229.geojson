@@ -1,0 +1,67 @@
+{
+  "id": 1360275229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.33333,-22.05,-64.33333,-22.05",
+    "geom:latitude":-22.05,
+    "geom:longitude":-64.33333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Talaba",
+    "gn:country_code":"BO",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903624,
+    "gn:latitude":-22.05,
+    "gn:longitude":-64.33333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Talaba",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421182443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903624
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b24e99acb8a2a79a8915ec0e7941feae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182443,
+            "locality_id":1360275229,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1360275229,
+    "wof:lastmodified":1536671295,
+    "wof:name":"Talaba",
+    "wof:parent_id":421182443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.33333,
+    -22.05,
+    -64.33333,
+    -22.05
+],
+  "geometry": {"coordinates":[-64.33333,-22.05],"type":"Point"}
+}

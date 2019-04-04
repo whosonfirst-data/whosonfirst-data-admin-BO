@@ -1,0 +1,66 @@
+{
+  "id": 1209521797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.6,-14.35,-67.6,-14.35",
+    "geom:latitude":-14.35,
+    "geom:longitude":-67.6,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Puerto Brais",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907272,
+    "gn:latitude":-14.35,
+    "gn:longitude":-67.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puerto Brais",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Braiso",
+        "Puerto Brais"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907272
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b6577aec9d086c5cdd3caeda2bbc0b7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209521797
+        }
+    ],
+    "wof:id":1209521797,
+    "wof:lastmodified":1537587979,
+    "wof:name":"Puerto Brais",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.6,
+    -14.35,
+    -67.6,
+    -14.35
+],
+  "geometry": {"coordinates":[-67.59999999999999,-14.35],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293884245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.75,-16.7,-67.75,-16.7",
+    "geom:latitude":-16.7,
+    "geom:longitude":-67.75,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Caimbaya",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922745,
+    "gn:latitude":-16.7,
+    "gn:longitude":-67.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Caimbaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad Caimbaya",
+        "Caimbaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922745
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"59ed5f06e54c8f6085c729a800089ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":1293884245,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293884245,
+    "wof:lastmodified":1537588139,
+    "wof:name":"Caimbaya",
+    "wof:parent_id":421177667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.75,
+    -16.7,
+    -67.75,
+    -16.7
+],
+  "geometry": {"coordinates":[-67.75,-16.7],"type":"Point"}
+}

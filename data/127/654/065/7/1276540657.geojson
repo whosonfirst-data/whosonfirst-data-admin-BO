@@ -1,0 +1,67 @@
+{
+  "id": 1276540657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.78333,-20.75,-65.78333,-20.75",
+    "geom:latitude":-20.75,
+    "geom:longitude":-65.78333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Calasaya",
+    "gn:country_code":"BO",
+    "gn:dem":3391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922631,
+    "gn:latitude":-20.75,
+    "gn:longitude":-65.78333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Calasaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922631
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"58e9ee8e78c72448ca00a07edde5c817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1276540657,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1276540657,
+    "wof:lastmodified":1536997452,
+    "wof:name":"Calasaya",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.78333,
+    -20.75,
+    -65.78333,
+    -20.75
+],
+  "geometry": {"coordinates":[-65.78333000000001,-20.75],"type":"Point"}
+}

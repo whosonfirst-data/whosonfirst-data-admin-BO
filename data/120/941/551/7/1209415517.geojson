@@ -1,0 +1,65 @@
+{
+  "id": 1209415517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.76714,-15.32417,-68.76714,-15.32417",
+    "geom:latitude":-15.32417,
+    "geom:longitude":-68.76714,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Luquisani",
+    "gn:country_code":"BO",
+    "gn:dem":2836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911017,
+    "gn:latitude":-15.32417,
+    "gn:longitude":-68.76714,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Luquisani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liquisani",
+        "Luquisani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911017
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"534cec76986eba5a387ae4b8174e3b50",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209415517
+        }
+    ],
+    "wof:id":1209415517,
+    "wof:lastmodified":1537588020,
+    "wof:name":"Luquisani",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.76714,
+    -15.32417,
+    -68.76714,
+    -15.32417
+],
+  "geometry": {"coordinates":[-68.76714,-15.32417],"type":"Point"}
+}

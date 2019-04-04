@@ -1,0 +1,67 @@
+{
+  "id": 1293022155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.38333,-20.08333,-68.38333,-20.08333",
+    "geom:latitude":-20.08333,
+    "geom:longitude":-68.38333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Camacha",
+    "gn:country_code":"BO",
+    "gn:dem":3783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922468,
+    "gn:latitude":-20.08333,
+    "gn:longitude":-68.38333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Camacha",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922468
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"fc8c58a633756216daf17b1fa245cf35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177659,
+            "locality_id":1293022155,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293022155,
+    "wof:lastmodified":1536960873,
+    "wof:name":"Camacha",
+    "wof:parent_id":421177659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.38333,
+    -20.08333,
+    -68.38333,
+    -20.08333
+],
+  "geometry": {"coordinates":[-68.38333,-20.08333],"type":"Point"}
+}

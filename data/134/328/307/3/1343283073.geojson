@@ -1,0 +1,67 @@
+{
+  "id": 1343283073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.57441,-20.42552,-65.57441,-20.42552",
+    "geom:latitude":-20.42552,
+    "geom:longitude":-65.57441,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Comunidad Orcola",
+    "gn:country_code":"BO",
+    "gn:dem":2960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919502,
+    "gn:latitude":-20.42552,
+    "gn:longitude":-65.57441,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Comunidad Orcola",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919502
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"aba5d442673fb907adf618b868a7988f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1343283073,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1343283073,
+    "wof:lastmodified":1537001581,
+    "wof:name":"Comunidad Orcola",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.57441,
+    -20.42552,
+    -65.57441,
+    -20.42552
+],
+  "geometry": {"coordinates":[-65.57441,-20.42552],"type":"Point"}
+}

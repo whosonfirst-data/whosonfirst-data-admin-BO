@@ -1,0 +1,104 @@
+{
+  "id": 890445139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.51667,-17.58333,-67.51667,-17.58333",
+    "geom:latitude":-17.58333,
+    "geom:longitude":-67.51667,
+    "gn:country":"BO",
+    "gn:fcode":"PPL",
+    "gn:pop":2373,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Eucaliptus"
+    ],
+    "name:chi_x_preferred":[
+        "\u6b50\u5361\u5229\u666e\u5716\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Eucaliptus"
+    ],
+    "name:eng_x_preferred":[
+        "Eucaliptus"
+    ],
+    "name:fre_x_preferred":[
+        "Eucaliptus"
+    ],
+    "name:ger_x_preferred":[
+        "Eucaliptus"
+    ],
+    "name:que_x_preferred":[
+        "Kalistu llaqta"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0443\u043a\u0430\u043b\u0438\u043f\u0442\u0443\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Eucaliptus"
+    ],
+    "name:swe_x_preferred":[
+        "Eucaliptus"
+    ],
+    "name:war_x_preferred":[
+        "Eucaliptus"
+    ],
+    "qs:name":"Eucaliptus",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:latitude":"-17.6",
+    "wd:longitude":"-67.516666666",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092008287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902685,
+        "gp:id":345111,
+        "qs:id":1047134,
+        "wd:id":"Q1016533",
+        "wk:page":"Eucaliptus"
+    },
+    "wof:country":"BO",
+    "wof:created":1469052499,
+    "wof:geomhash":"9f783af8cfe18f91402ab1ef587ac395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008287,
+            "locality_id":890445139,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":890445139,
+    "wof:lastmodified":1527792871,
+    "wof:name":"Eucaliptus",
+    "wof:parent_id":1092008287,
+    "wof:placetype":"locality",
+    "wof:population":2373,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.51667,
+    -17.58333,
+    -67.51667,
+    -17.58333
+],
+  "geometry": {"coordinates":[-67.51667,-17.58333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276236895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.1,-17.78333,-66.1,-17.78333",
+    "geom:latitude":-17.78333,
+    "geom:longitude":-66.1,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tayatasa",
+    "gn:country_code":"BO",
+    "gn:dem":3009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903237,
+    "gn:latitude":-17.78333,
+    "gn:longitude":-66.1,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Tayatasa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        421185047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903237
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ec137f491b8cb2fb0df8e8b9333acd43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421185047,
+            "locality_id":1276236895,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1276236895,
+    "wof:lastmodified":1536908088,
+    "wof:name":"Tayatasa",
+    "wof:parent_id":421185047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.1,
+    -17.78333,
+    -66.1,
+    -17.78333
+],
+  "geometry": {"coordinates":[-66.09999999999999,-17.78333],"type":"Point"}
+}

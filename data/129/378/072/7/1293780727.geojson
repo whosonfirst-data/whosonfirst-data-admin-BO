@@ -1,0 +1,67 @@
+{
+  "id": 1293780727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.43335,-21.87965,-66.43335,-21.87965",
+    "geom:latitude":-21.87965,
+    "geom:longitude":-66.43335,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Viscachani",
+    "gn:country_code":"BO",
+    "gn:dem":4003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901378,
+    "gn:latitude":-21.87965,
+    "gn:longitude":-66.43335,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Viscachani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901378
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3c026a4dd91ff98ef149293659fb7b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193355,
+            "locality_id":1293780727,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293780727,
+    "wof:lastmodified":1536860058,
+    "wof:name":"Viscachani",
+    "wof:parent_id":421193355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.43335,
+    -21.87965,
+    -66.43335,
+    -21.87965
+],
+  "geometry": {"coordinates":[-66.43335,-21.87965],"type":"Point"}
+}

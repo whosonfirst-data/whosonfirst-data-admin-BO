@@ -1,0 +1,67 @@
+{
+  "id": 1193150001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.39021,-18.26076,-65.39021,-18.26076",
+    "geom:latitude":-18.26076,
+    "geom:longitude":-65.39021,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Molinero",
+    "gn:country_code":"BO",
+    "gn:dem":2503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910184,
+    "gn:latitude":-18.26076,
+    "gn:longitude":-65.39021,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Molinero",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910184
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"803dcc01153b8723f2efa02ed2a677c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006697,
+            "locality_id":1193150001,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1193150001,
+    "wof:lastmodified":1536379252,
+    "wof:name":"Molinero",
+    "wof:parent_id":1092006697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.39021,
+    -18.26076,
+    -65.39021,
+    -18.26076
+],
+  "geometry": {"coordinates":[-65.39021,-18.26076],"type":"Point"}
+}

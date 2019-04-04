@@ -1,0 +1,73 @@
+{
+  "id": 1310190733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.85,-18.05,-60.85,-18.05",
+    "geom:latitude":-18.05,
+    "geom:longitude":-60.85,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Agua Zande",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3924367,
+    "gn:latitude":-18.05,
+    "gn:longitude":-60.85,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Agua Zande",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agua Panda",
+        "Agua Pande",
+        "Agua Zande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3924367
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0894912b8d73a905cfd4a08372f9db8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009543,
+            "locality_id":1310190733,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1310190733,
+    "wof:lastmodified":1537588158,
+    "wof:name":"Agua Zande",
+    "wof:parent_id":1092009543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.85,
+    -18.05,
+    -60.85,
+    -18.05
+],
+  "geometry": {"coordinates":[-60.85,-18.05],"type":"Point"}
+}

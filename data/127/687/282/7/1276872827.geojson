@@ -1,0 +1,67 @@
+{
+  "id": 1276872827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.35,-17.4,-67.35,-17.4",
+    "geom:latitude":-17.4,
+    "geom:longitude":-67.35,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Estancia Tankhani",
+    "gn:country_code":"BO",
+    "gn:dem":4078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916159,
+    "gn:latitude":-17.4,
+    "gn:longitude":-67.35,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Tankhani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916159
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d39993844c335d7892ecd05dd30351c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182435,
+            "locality_id":1276872827,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1276872827,
+    "wof:lastmodified":1537048534,
+    "wof:name":"Estancia Tankhani",
+    "wof:parent_id":421182435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.35,
+    -17.4,
+    -67.35,
+    -17.4
+],
+  "geometry": {"coordinates":[-67.34999999999999,-17.4],"type":"Point"}
+}

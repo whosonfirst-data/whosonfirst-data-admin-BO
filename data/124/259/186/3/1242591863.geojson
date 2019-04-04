@@ -1,0 +1,72 @@
+{
+  "id": 1242591863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.68333,-19.18333,-64.68333,-19.18333",
+    "geom:latitude":-19.18333,
+    "geom:longitude":-64.68333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rosasmayo",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906261,
+    "gn:latitude":-19.18333,
+    "gn:longitude":-64.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rosasmayo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rosamayo",
+        "Rosasmayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906261
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"271e28fb1058dc65df0f469f7d67e115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006241,
+            "locality_id":1242591863,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1242591863,
+    "wof:lastmodified":1537587966,
+    "wof:name":"Rosasmayo",
+    "wof:parent_id":1092006241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.68333,
+    -19.18333,
+    -64.68333,
+    -19.18333
+],
+  "geometry": {"coordinates":[-64.68333,-19.18333],"type":"Point"}
+}

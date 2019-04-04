@@ -1,0 +1,67 @@
+{
+  "id": 1360187641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.15,-17.53333,-65.15,-17.53333",
+    "geom:latitude":-17.53333,
+    "geom:longitude":-65.15,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Punta Escalon",
+    "gn:country_code":"BO",
+    "gn:dem":3710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907063,
+    "gn:latitude":-17.53333,
+    "gn:longitude":-65.15,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Punta Escal\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907063
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"33471349f7b8a65f8b4cc34de38893ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1360187641,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1360187641,
+    "wof:lastmodified":1536797809,
+    "wof:name":"Punta Escalon",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.15,
+    -17.53333,
+    -65.15,
+    -17.53333
+],
+  "geometry": {"coordinates":[-65.15000000000001,-17.53333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344078101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.30225,-20.11818,-68.30225,-20.11818",
+    "geom:latitude":-20.11818,
+    "geom:longitude":-68.30225,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sigsihua",
+    "gn:country_code":"BO",
+    "gn:dem":3767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904327,
+    "gn:latitude":-20.11818,
+    "gn:longitude":-68.30225,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Sigsihua",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siusigua",
+        "Sicsigua",
+        "Sigsihua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904327
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f63a33236b93f7422f626fd4118af885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177659,
+            "locality_id":1344078101,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1344078101,
+    "wof:lastmodified":1537587949,
+    "wof:name":"Sigsihua",
+    "wof:parent_id":421177659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.30225,
+    -20.11818,
+    -68.30225,
+    -20.11818
+],
+  "geometry": {"coordinates":[-68.30225,-20.11818],"type":"Point"}
+}

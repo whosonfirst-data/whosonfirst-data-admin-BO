@@ -1,0 +1,67 @@
+{
+  "id": 1292991521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.53373,-19.91106,-63.53373,-19.91106",
+    "geom:latitude":-19.91106,
+    "geom:longitude":-63.53373,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Itacua",
+    "gn:country_code":"BO",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913949,
+    "gn:latitude":-19.91106,
+    "gn:longitude":-63.53373,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Itacua",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913949
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"928332be4ea252b27c6f55b825790665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1292991521,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1292991521,
+    "wof:lastmodified":1537004287,
+    "wof:name":"Itacua",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.53373000000001,
+    -19.91106,
+    -63.53373000000001,
+    -19.91106
+],
+  "geometry": {"coordinates":[-63.53373000000001,-19.91106],"type":"Point"}
+}

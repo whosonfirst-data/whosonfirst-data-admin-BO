@@ -1,0 +1,67 @@
+{
+  "id": 1309715445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.86667,-18.13333,-64.86667,-18.13333",
+    "geom:latitude":-18.13333,
+    "geom:longitude":-64.86667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Media Luna",
+    "gn:country_code":"BO",
+    "gn:dem":1586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910530,
+    "gn:latitude":-18.13333,
+    "gn:longitude":-64.86667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Media Luna",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910530
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"622335820ac5907f68542992b5868765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006465,
+            "locality_id":1309715445,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1309715445,
+    "wof:lastmodified":1537058796,
+    "wof:name":"Media Luna",
+    "wof:parent_id":1092006465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.86667,
+    -18.13333,
+    -64.86667,
+    -18.13333
+],
+  "geometry": {"coordinates":[-64.86667,-18.13333],"type":"Point"}
+}

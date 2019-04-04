@@ -1,0 +1,67 @@
+{
+  "id": 1242597653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.98333,-17.88333,-62.98333,-17.88333",
+    "geom:latitude":-17.88333,
+    "geom:longitude":-62.98333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tundy",
+    "gn:country_code":"BO",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902231,
+    "gn:latitude":-17.88333,
+    "gn:longitude":-62.98333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Tundy",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421187923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902231
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b467a9dd12a1e882ddd814e937ea1eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187923,
+            "locality_id":1242597653,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1242597653,
+    "wof:lastmodified":1537033379,
+    "wof:name":"Tundy",
+    "wof:parent_id":421187923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.98333,
+    -17.88332999999999,
+    -62.98333,
+    -17.88332999999999
+],
+  "geometry": {"coordinates":[-62.98333,-17.88332999999999],"type":"Point"}
+}

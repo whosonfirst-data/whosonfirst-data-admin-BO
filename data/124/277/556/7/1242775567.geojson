@@ -1,0 +1,70 @@
+{
+  "id": 1242775567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.63188,-11.18896,-67.63188,-11.18896",
+    "geom:latitude":-11.18896,
+    "geom:longitude":-67.63188,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"San Jorge",
+    "gn:country_code":"BO",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504667,
+    "gn:latitude":-11.18896,
+    "gn:longitude":-67.63188,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"San Jorge",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jorge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504667
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"788a0880d584607dd0a15f809d51216b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008461,
+            "locality_id":1242775567,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1242775567,
+    "wof:lastmodified":1537588187,
+    "wof:name":"San Jorge",
+    "wof:parent_id":1092008461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.63188000000001,
+    -11.18896,
+    -67.63188000000001,
+    -11.18896
+],
+  "geometry": {"coordinates":[-67.63188000000001,-11.18896],"type":"Point"}
+}

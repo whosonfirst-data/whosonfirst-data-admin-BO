@@ -1,0 +1,67 @@
+{
+  "id": 1293305639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.91021,-18.2942,-64.91021,-18.2942",
+    "geom:latitude":-18.2942,
+    "geom:longitude":-64.91021,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Estancia Lagunillas",
+    "gn:country_code":"BO",
+    "gn:dem":1939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916816,
+    "gn:latitude":-18.2942,
+    "gn:longitude":-64.91021,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Lagunillas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916816
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c8cf5d096cb084cca213ae010061e615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006465,
+            "locality_id":1293305639,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1293305639,
+    "wof:lastmodified":1537047140,
+    "wof:name":"Estancia Lagunillas",
+    "wof:parent_id":1092006465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.91020999999999,
+    -18.2942,
+    -64.91020999999999,
+    -18.2942
+],
+  "geometry": {"coordinates":[-64.91020999999999,-18.2942],"type":"Point"}
+}

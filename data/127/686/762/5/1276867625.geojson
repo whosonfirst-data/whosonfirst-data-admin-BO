@@ -1,0 +1,67 @@
+{
+  "id": 1276867625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.64113,-14.54954,-61.64113,-14.54954",
+    "geom:latitude":-14.54954,
+    "geom:longitude":-61.64113,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Alianza",
+    "gn:country_code":"BO",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3924259,
+    "gn:latitude":-14.54954,
+    "gn:longitude":-61.64113,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"Alianza",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3924259
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ad9cc8f0c4ed24d47844b6dc124a5662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1276867625,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1276867625,
+    "wof:lastmodified":1537055203,
+    "wof:name":"Alianza",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.64113,
+    -14.54954,
+    -61.64113,
+    -14.54954
+],
+  "geometry": {"coordinates":[-61.64113,-14.54954],"type":"Point"}
+}

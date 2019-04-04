@@ -1,0 +1,67 @@
+{
+  "id": 1243163625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.43333,-21.13333,-66.43333,-21.13333",
+    "geom:latitude":-21.13333,
+    "geom:longitude":-66.43333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ticaticaniloma",
+    "gn:country_code":"BO",
+    "gn:dem":4093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903024,
+    "gn:latitude":-21.13333,
+    "gn:longitude":-66.43333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Ticaticaniloma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903024
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"39183c6196e9e5fcce9c8cfb8605844b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193357,
+            "locality_id":1243163625,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1243163625,
+    "wof:lastmodified":1536716702,
+    "wof:name":"Ticaticaniloma",
+    "wof:parent_id":421193357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.43333,
+    -21.13333,
+    -66.43333,
+    -21.13333
+],
+  "geometry": {"coordinates":[-66.43333,-21.13333],"type":"Point"}
+}

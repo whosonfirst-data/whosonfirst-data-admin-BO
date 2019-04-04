@@ -1,0 +1,72 @@
+{
+  "id": 1360187665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.08333,-17.78333,-65.08333,-17.78333",
+    "geom:latitude":-17.78333,
+    "geom:longitude":-65.08333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Villa Vita",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901506,
+    "gn:latitude":-17.78333,
+    "gn:longitude":-65.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Villa Vita",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vila Vila",
+        "Villa Vita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901506
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"36c7b5ec970120e7c850f5118da222a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1360187665,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1360187665,
+    "wof:lastmodified":1537587911,
+    "wof:name":"Villa Vita",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.08333,
+    -17.78333,
+    -65.08333,
+    -17.78333
+],
+  "geometry": {"coordinates":[-65.08333,-17.78333],"type":"Point"}
+}

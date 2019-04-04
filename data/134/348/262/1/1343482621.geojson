@@ -1,0 +1,71 @@
+{
+  "id": 1343482621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.48254,-19.62934,-65.48254,-19.62934",
+    "geom:latitude":-19.62934,
+    "geom:longitude":-65.48254,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chuitaluyo",
+    "gn:country_code":"BO",
+    "gn:dem":3267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920316,
+    "gn:latitude":-19.62934,
+    "gn:longitude":-65.48254,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Chuitaluyo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad Chuitaluyo",
+        "Chuitaluyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920316
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"eba842bda44e7410316ee7c1be606fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008843,
+            "locality_id":1343482621,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1343482621,
+    "wof:lastmodified":1537588108,
+    "wof:name":"Chuitaluyo",
+    "wof:parent_id":1092008843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.48254,
+    -19.62934,
+    -65.48254,
+    -19.62934
+],
+  "geometry": {"coordinates":[-65.48254,-19.62934],"type":"Point"}
+}

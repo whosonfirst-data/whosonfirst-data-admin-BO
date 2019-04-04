@@ -1,0 +1,72 @@
+{
+  "id": 1242578129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.35,-17.03333,-68.35,-17.03333",
+    "geom:latitude":-17.03333,
+    "geom:longitude":-68.35,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chiar-Kaua",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920960,
+    "gn:latitude":-17.03333,
+    "gn:longitude":-68.35,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chiar-Kaua",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chia Kaua",
+        "Chiar-Kaua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920960
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"24be49e85080cefaa56d06489914d3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1242578129,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1242578129,
+    "wof:lastmodified":1537588115,
+    "wof:name":"Chiar-Kaua",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.35,
+    -17.03333,
+    -68.35,
+    -17.03333
+],
+  "geometry": {"coordinates":[-68.34999999999999,-17.03333],"type":"Point"}
+}

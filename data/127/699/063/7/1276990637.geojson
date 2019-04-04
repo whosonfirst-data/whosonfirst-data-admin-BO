@@ -1,0 +1,67 @@
+{
+  "id": 1276990637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.15,-19.51667,-64.15,-19.51667",
+    "geom:latitude":-19.51667,
+    "geom:longitude":-64.15,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Montecanto",
+    "gn:country_code":"BO",
+    "gn:dem":1967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910085,
+    "gn:latitude":-19.51667,
+    "gn:longitude":-64.15,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Montecanto",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421169227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910085
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3350575b672cdf8a53669e95f12644b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169227,
+            "locality_id":1276990637,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1276990637,
+    "wof:lastmodified":1536892254,
+    "wof:name":"Montecanto",
+    "wof:parent_id":421169227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.15,
+    -19.51667,
+    -64.15,
+    -19.51667
+],
+  "geometry": {"coordinates":[-64.15000000000001,-19.51667],"type":"Point"}
+}

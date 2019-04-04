@@ -1,0 +1,72 @@
+{
+  "id": 1343581261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.26667,-17.55,-63.26667,-17.55",
+    "geom:latitude":-17.55,
+    "geom:longitude":-63.26667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Banduria",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923358,
+    "gn:latitude":-17.55,
+    "gn:longitude":-63.26667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Banduria",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia La Bandurria",
+        "Banduria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923358
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ca2bd83d880548253a8c1807607fde4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009959,
+            "locality_id":1343581261,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1343581261,
+    "wof:lastmodified":1537588146,
+    "wof:name":"Banduria",
+    "wof:parent_id":1092009959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.26667,
+    -17.55,
+    -63.26667,
+    -17.55
+],
+  "geometry": {"coordinates":[-63.26667,-17.55],"type":"Point"}
+}

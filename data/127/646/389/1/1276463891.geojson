@@ -1,0 +1,72 @@
+{
+  "id": 1276463891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.16667,-17.66667,-63.16667,-17.66667",
+    "geom:latitude":-17.66667,
+    "geom:longitude":-63.16667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Isla del Mono",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913986,
+    "gn:latitude":-17.66667,
+    "gn:longitude":-63.16667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Isla del Mono",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Isla de Monos",
+        "Isla del Mono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913986
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0e22403e653960e603aa1f106c069bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010083,
+            "locality_id":1276463891,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1276463891,
+    "wof:lastmodified":1537588055,
+    "wof:name":"Isla del Mono",
+    "wof:parent_id":1092010083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.16667,
+    -17.66667,
+    -63.16667,
+    -17.66667
+],
+  "geometry": {"coordinates":[-63.16667,-17.66667],"type":"Point"}
+}

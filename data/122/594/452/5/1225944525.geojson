@@ -1,0 +1,67 @@
+{
+  "id": 1225944525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.13333,-13.05,-68.13333,-13.05",
+    "geom:latitude":-13.05,
+    "geom:longitude":-68.13333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Esmeralda",
+    "gn:country_code":"BO",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917879,
+    "gn:latitude":-13.05,
+    "gn:longitude":-68.13333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Esmeralda",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421190245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917879
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a356d8e5b5facf2b9b41cf4c575aad03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190245,
+            "locality_id":1225944525,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1225944525,
+    "wof:lastmodified":1536870019,
+    "wof:name":"Esmeralda",
+    "wof:parent_id":421190245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.13333,
+    -13.05,
+    -68.13333,
+    -13.05
+],
+  "geometry": {"coordinates":[-68.13333,-13.05],"type":"Point"}
+}

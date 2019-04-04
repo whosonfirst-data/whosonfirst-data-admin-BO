@@ -1,0 +1,72 @@
+{
+  "id": 1242685225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.31667,-11.93333,-66.31667,-11.93333",
+    "geom:latitude":-11.93333,
+    "geom:longitude":-66.31667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cortez",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919019,
+    "gn:latitude":-11.93333,
+    "gn:longitude":-66.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cortez",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cortes",
+        "Cortez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919019
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"af6ee1d2f6c3b43a582b17c57d1f2fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005669,
+            "locality_id":1242685225,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1242685225,
+    "wof:lastmodified":1537588096,
+    "wof:name":"Cortez",
+    "wof:parent_id":1092005669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.31667,
+    -11.93333,
+    -66.31667,
+    -11.93333
+],
+  "geometry": {"coordinates":[-66.31667,-11.93333],"type":"Point"}
+}

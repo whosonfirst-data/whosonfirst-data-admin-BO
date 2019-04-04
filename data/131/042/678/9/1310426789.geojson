@@ -1,0 +1,67 @@
+{
+  "id": 1310426789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.65,-20.65,-65.65,-20.65",
+    "geom:latitude":-20.65,
+    "geom:longitude":-65.65,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Escara Rancho",
+    "gn:country_code":"BO",
+    "gn:dem":2812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917907,
+    "gn:latitude":-20.65,
+    "gn:longitude":-65.65,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Escara Rancho",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917907
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2825ac763e7b5400f65300e38b82ab28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1310426789,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1310426789,
+    "wof:lastmodified":1537029322,
+    "wof:name":"Escara Rancho",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.65,
+    -20.65,
+    -65.65,
+    -20.65
+],
+  "geometry": {"coordinates":[-65.65000000000001,-20.65],"type":"Point"}
+}

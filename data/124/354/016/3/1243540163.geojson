@@ -1,0 +1,75 @@
+{
+  "id": 1243540163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.05,-17.66667,-59.05,-17.66667",
+    "geom:latitude":-17.66667,
+    "geom:longitude":-59.05,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Guspasal",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3444434,
+    "gn:latitude":-17.66667,
+    "gn:longitude":-59.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Guspasal",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guspazal",
+        "Guapasal",
+        "Guapasa",
+        "Guspasol",
+        "Guspasal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3444434
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f82c7a3ae1a4b126d39b61e11c59a9b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009511,
+            "locality_id":1243540163,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1243540163,
+    "wof:lastmodified":1537587900,
+    "wof:name":"Guspasal",
+    "wof:parent_id":1092009511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.05,
+    -17.66667,
+    -59.05,
+    -17.66667
+],
+  "geometry": {"coordinates":[-59.05,-17.66667],"type":"Point"}
+}

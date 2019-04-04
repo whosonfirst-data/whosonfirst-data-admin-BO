@@ -1,0 +1,67 @@
+{
+  "id": 1343482597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.96667,-20.75,-65.96667,-20.75",
+    "geom:latitude":-20.75,
+    "geom:longitude":-65.96667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Challihuiri",
+    "gn:country_code":"BO",
+    "gn:dem":3648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921324,
+    "gn:latitude":-20.75,
+    "gn:longitude":-65.96667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Challihuiri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921324
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ed6ee7ef14fcd349ac9995a268d9c976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1343482597,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1343482597,
+    "wof:lastmodified":1536714559,
+    "wof:name":"Challihuiri",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.96667,
+    -20.75,
+    -65.96667,
+    -20.75
+],
+  "geometry": {"coordinates":[-65.96666999999999,-20.75],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343970917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.03333,-15.91667,-67.03333,-15.91667",
+    "geom:latitude":-15.91667,
+    "geom:longitude":-67.03333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Campamento del Palmar",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922398,
+    "gn:latitude":-15.91667,
+    "gn:longitude":-67.03333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Campamento del Palmar",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campamento del Palmito",
+        "Campamento del Palmar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421168083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922398
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"85adc5d406d4a9e41912546d357b57f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421168083,
+            "locality_id":1343970917,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1343970917,
+    "wof:lastmodified":1537588134,
+    "wof:name":"Campamento del Palmar",
+    "wof:parent_id":421168083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.03333,
+    -15.91667,
+    -67.03333,
+    -15.91667
+],
+  "geometry": {"coordinates":[-67.03333000000001,-15.91667],"type":"Point"}
+}

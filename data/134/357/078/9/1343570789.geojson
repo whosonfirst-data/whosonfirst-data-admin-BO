@@ -1,0 +1,67 @@
+{
+  "id": 1343570789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.2,-20.18333,-64.2,-20.18333",
+    "geom:latitude":-20.18333,
+    "geom:longitude":-64.2,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Yerba Buena",
+    "gn:country_code":"BO",
+    "gn:dem":1918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3900981,
+    "gn:latitude":-20.18333,
+    "gn:longitude":-64.2,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Yerba Buena",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3900981
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5be90f74b749b7c174e3d66e1f629e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005923,
+            "locality_id":1343570789,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1343570789,
+    "wof:lastmodified":1537081329,
+    "wof:name":"Yerba Buena",
+    "wof:parent_id":1092005923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.2,
+    -20.18333,
+    -64.2,
+    -20.18333
+],
+  "geometry": {"coordinates":[-64.2,-20.18333],"type":"Point"}
+}

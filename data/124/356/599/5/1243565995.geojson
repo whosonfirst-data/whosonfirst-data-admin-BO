@@ -1,0 +1,72 @@
+{
+  "id": 1243565995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.61667,-14.16667,-65.61667,-14.16667",
+    "geom:latitude":-14.16667,
+    "geom:longitude":-65.61667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Tacuaral",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918057,
+    "gn:latitude":-14.16667,
+    "gn:longitude":-65.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Tacuaral",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Tucuaral",
+        "El Tacuaral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918057
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7533c07d2a67953bfdba6a90fd778411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005879,
+            "locality_id":1243565995,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1243565995,
+    "wof:lastmodified":1537588083,
+    "wof:name":"El Tacuaral",
+    "wof:parent_id":1092005879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.61667,
+    -14.16667,
+    -65.61667,
+    -14.16667
+],
+  "geometry": {"coordinates":[-65.61667,-14.16667],"type":"Point"}
+}

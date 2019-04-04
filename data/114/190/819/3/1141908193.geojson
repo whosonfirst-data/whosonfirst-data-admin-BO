@@ -1,0 +1,185 @@
+{
+  "id": 1141908193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.1666673194,-15.4995849418,-69.1666673194,-15.4995849418",
+    "geom:latitude":-15.499585,
+    "geom:longitude":-69.166667,
+    "iso:country":"BO",
+    "lbl:latitude":-15.499585,
+    "lbl:longitude":-69.166667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u963f\u79d1\u65af\u5854\u6e2f"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Acosta"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Acosta"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto Acosta"
+    ],
+    "name:ger_x_preferred":[
+        "Puerto Acosta"
+    ],
+    "name:nob_x_preferred":[
+        "Puerto Acosta"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto Acosta"
+    ],
+    "name:que_x_preferred":[
+        "Waychu llaqta"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Acosta"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Acosta"
+    ],
+    "name:war_x_preferred":[
+        "Puerto Acosta"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Bolivia",
+    "ne:ADM0_A3":"BOL",
+    "ne:ADM1NAME":"La Paz",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"BO",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":-15.499585,
+    "ne:LONGITUDE":-69.166667,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":"Puerto Acosta",
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Puerto Acosta",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Puerto Acosta",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":1123,
+    "ne:POP_MIN":1123,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":3,
+    "ne:RANK_MIN":3,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Bolivia",
+    "ne:SOV_A3":"BOL",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
+    "reversegeo:latitude":-15.499585,
+    "reversegeo:longitude":-69.166667,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1866555"
+    },
+    "wof:country":"BO",
+    "wof:created":1499130846,
+    "wof:geomhash":"c6ceb3a5dfbb859a55595243ea5e133c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007003,
+            "locality_id":1141908193,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1141908193,
+    "wof:lastmodified":1513900913,
+    "wof:name":"Puerto Acosta",
+    "wof:parent_id":1092007003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.16666731939961,
+    -15.49958494177736,
+    -69.16666731939961,
+    -15.49958494177736
+],
+  "geometry": {"coordinates":[-69.16666731939961,-15.49958494177736],"type":"Point"}
+}

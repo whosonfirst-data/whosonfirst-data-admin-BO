@@ -1,0 +1,67 @@
+{
+  "id": 1310519365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.36322,-19.25788,-65.36322,-19.25788",
+    "geom:latitude":-19.25788,
+    "geom:longitude":-65.36322,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chintara",
+    "gn:country_code":"BO",
+    "gn:dem":2429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3970256,
+    "gn:latitude":-19.25788,
+    "gn:longitude":-65.36322,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Chintara",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3970256
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5163e6bac0a5f35ce460a99b3d4244ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1310519365,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1310519365,
+    "wof:lastmodified":1536896748,
+    "wof:name":"Chintara",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.36322,
+    -19.25788,
+    -65.36322,
+    -19.25788
+],
+  "geometry": {"coordinates":[-65.36322,-19.25788],"type":"Point"}
+}

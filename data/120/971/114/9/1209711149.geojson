@@ -1,0 +1,72 @@
+{
+  "id": 1209711149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.95,-17.23333,-62.95,-17.23333",
+    "geom:latitude":-17.23333,
+    "geom:longitude":-62.95,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Cortes",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919020,
+    "gn:latitude":-17.23333,
+    "gn:longitude":-62.95,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cort\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cort\u00e9z",
+        "Cort\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919020
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"98f977621243a141c53cb0a208117edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010083,
+            "locality_id":1209711149,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1209711149,
+    "wof:lastmodified":1537588096,
+    "wof:name":"Cortes",
+    "wof:parent_id":1092010083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.95,
+    -17.23333,
+    -62.95,
+    -17.23333
+],
+  "geometry": {"coordinates":[-62.95,-17.23333],"type":"Point"}
+}

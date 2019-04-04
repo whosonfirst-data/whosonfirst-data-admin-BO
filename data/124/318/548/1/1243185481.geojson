@@ -1,0 +1,67 @@
+{
+  "id": 1243185481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.24539,-17.7026,-65.24539,-17.7026",
+    "geom:latitude":-17.7026,
+    "geom:longitude":-65.24539,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tipas K'uchu",
+    "gn:country_code":"BO",
+    "gn:dem":2880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6618978,
+    "gn:latitude":-17.7026,
+    "gn:longitude":-65.24539,
+    "gn:modification_date":"2007-10-16",
+    "gn:name":"Tipas K'uchu",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618978
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"fb6b17bb579dcbfc1b7489e3f189709c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1243185481,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1243185481,
+    "wof:lastmodified":1536684674,
+    "wof:name":"Tipas K'uchu",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.24539,
+    -17.7026,
+    -65.24539,
+    -17.7026
+],
+  "geometry": {"coordinates":[-65.24539,-17.7026],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293276659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.51667,-22.46667,-64.51667,-22.46667",
+    "geom:latitude":-22.46667,
+    "geom:longitude":-64.51667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Pozala Laja Pozo",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907531,
+    "gn:latitude":-22.46667,
+    "gn:longitude":-64.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pozala Laja Pozo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pozo de Laja",
+        "Pozala Laja Pozo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        85668049,
+        421181251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907531
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"02d507d9a9f42136cda96669fa099c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421181251,
+            "locality_id":1293276659,
+            "region_id":85668049
+        }
+    ],
+    "wof:id":1293276659,
+    "wof:lastmodified":1537587981,
+    "wof:name":"Pozala Laja Pozo",
+    "wof:parent_id":421181251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.51666999999999,
+    -22.46667,
+    -64.51666999999999,
+    -22.46667
+],
+  "geometry": {"coordinates":[-64.51666999999999,-22.46667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209922917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.55,-17.0,-66.55,-17.0",
+    "geom:latitude":-17.0,
+    "geom:longitude":-66.55,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Estancia Caliente",
+    "gn:country_code":"BO",
+    "gn:dem":4279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917641,
+    "gn:latitude":-17.0,
+    "gn:longitude":-66.55,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Caliente",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917641
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c0258ca2b6548ee1ceb5ffc56a7418aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006381,
+            "locality_id":1209922917,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1209922917,
+    "wof:lastmodified":1536396198,
+    "wof:name":"Estancia Caliente",
+    "wof:parent_id":1092006381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.55,
+    -17.0,
+    -66.55,
+    -17.0
+],
+  "geometry": {"coordinates":[-66.55,-17.0],"type":"Point"}
+}

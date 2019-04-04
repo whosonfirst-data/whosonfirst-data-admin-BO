@@ -1,0 +1,73 @@
+{
+  "id": 1293574853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.33333,-17.63333,-63.33333,-17.63333",
+    "geom:latitude":-17.63333,
+    "geom:longitude":-63.33333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Honda",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912126,
+    "gn:latitude":-17.63333,
+    "gn:longitude":-63.33333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Honda",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia La Honda",
+        "Lan Honda",
+        "La Honda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421187923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912126
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"00f5b6a88e15dfc8cc72ac75e7ffbe12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187923,
+            "locality_id":1293574853,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1293574853,
+    "wof:lastmodified":1537588033,
+    "wof:name":"La Honda",
+    "wof:parent_id":421187923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.33333,
+    -17.63332999999999,
+    -63.33333,
+    -17.63332999999999
+],
+  "geometry": {"coordinates":[-63.33333,-17.63332999999999],"type":"Point"}
+}

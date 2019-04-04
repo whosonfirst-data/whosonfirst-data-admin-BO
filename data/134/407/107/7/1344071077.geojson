@@ -1,0 +1,67 @@
+{
+  "id": 1344071077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.1,-20.91667,-64.1,-20.91667",
+    "geom:latitude":-20.91667,
+    "geom:longitude":-64.1,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pirapi",
+    "gn:country_code":"BO",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907875,
+    "gn:latitude":-20.91667,
+    "gn:longitude":-64.1,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Pirap\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907875
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"55839ed6b7c4692cff509e68dd47d6ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005923,
+            "locality_id":1344071077,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1344071077,
+    "wof:lastmodified":1536858848,
+    "wof:name":"Pirapi",
+    "wof:parent_id":1092005923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.1,
+    -20.91667,
+    -64.1,
+    -20.91667
+],
+  "geometry": {"coordinates":[-64.09999999999999,-20.91667],"type":"Point"}
+}

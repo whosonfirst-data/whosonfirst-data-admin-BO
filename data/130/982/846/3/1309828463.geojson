@@ -1,0 +1,67 @@
+{
+  "id": 1309828463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.66667,-16.53333,-58.66667,-16.53333",
+    "geom:latitude":-16.53333,
+    "geom:longitude":-58.66667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Estancia Londrina",
+    "gn:country_code":"BO",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3444527,
+    "gn:latitude":-16.53333,
+    "gn:longitude":-58.66667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Londri\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3444527
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"dbfcd03b2e6c929269f11be3ca6184d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009511,
+            "locality_id":1309828463,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1309828463,
+    "wof:lastmodified":1536898421,
+    "wof:name":"Estancia Londrina",
+    "wof:parent_id":1092009511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.66667,
+    -16.53333,
+    -58.66667,
+    -16.53333
+],
+  "geometry": {"coordinates":[-58.66667,-16.53333],"type":"Point"}
+}

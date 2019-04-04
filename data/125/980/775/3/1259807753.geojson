@@ -1,0 +1,72 @@
+{
+  "id": 1259807753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.5,-16.63333,-68.5,-16.63333",
+    "geom:latitude":-16.63333,
+    "geom:longitude":-68.5,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Quentupata",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906874,
+    "gn:latitude":-16.63333,
+    "gn:longitude":-68.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Quentupata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quantupata",
+        "Quentupata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421197575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906874
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"061dc4c75bb4b831e5c651f8df1f5b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197575,
+            "locality_id":1259807753,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1259807753,
+    "wof:lastmodified":1537587973,
+    "wof:name":"Quentupata",
+    "wof:parent_id":421197575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.5,
+    -16.63332999999999,
+    -68.5,
+    -16.63332999999999
+],
+  "geometry": {"coordinates":[-68.5,-16.63332999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327134611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.58008,-15.95919,-68.58008,-15.95919",
+    "geom:latitude":-15.95919,
+    "geom:longitude":-68.58008,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Condor Jahuira",
+    "gn:country_code":"BO",
+    "gn:dem":4279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919297,
+    "gn:latitude":-15.95919,
+    "gn:longitude":-68.58008,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Condor Jahuira",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Condor Jahuira"
+    ],
+    "name:spa_x_variant":[
+        "Condorhahuira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919297
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0181ceef4e85ee5b468d7620f727e669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007507,
+            "locality_id":1327134611,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1327134611,
+    "wof:lastmodified":1537588099,
+    "wof:name":"Condor Jahuira",
+    "wof:parent_id":1092007507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.58008000000001,
+    -15.95919,
+    -68.58008000000001,
+    -15.95919
+],
+  "geometry": {"coordinates":[-68.58008000000001,-15.95919],"type":"Point"}
+}

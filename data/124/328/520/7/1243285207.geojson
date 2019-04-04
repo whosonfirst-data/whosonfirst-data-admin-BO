@@ -1,0 +1,71 @@
+{
+  "id": 1243285207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.76053,-21.54365,-65.76053,-21.54365",
+    "geom:latitude":-21.54365,
+    "geom:longitude":-65.76053,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Titihoyo",
+    "gn:country_code":"BO",
+    "gn:dem":2929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902878,
+    "gn:latitude":-21.54365,
+    "gn:longitude":-65.76053,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Titihoyo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Titijoyoc",
+        "Titihoyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902878
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"abb8b72ce80ca7554775280ff210c504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":1243285207,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1243285207,
+    "wof:lastmodified":1537587931,
+    "wof:name":"Titihoyo",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.76053,
+    -21.54365,
+    -65.76053,
+    -21.54365
+],
+  "geometry": {"coordinates":[-65.76053,-21.54365],"type":"Point"}
+}

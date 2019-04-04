@@ -1,0 +1,72 @@
+{
+  "id": 1243254301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.76667,-14.76667,-61.76667,-14.76667",
+    "geom:latitude":-14.76667,
+    "geom:longitude":-61.76667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tacuma",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903703,
+    "gn:latitude":-14.76667,
+    "gn:longitude":-61.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tacuma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarum\u00e1",
+        "Tacuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903703
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ef36a2ff38d1b98f325c21a755663ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009873,
+            "locality_id":1243254301,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1243254301,
+    "wof:lastmodified":1537587941,
+    "wof:name":"Tacuma",
+    "wof:parent_id":1092009873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.76667,
+    -14.76667,
+    -61.76667,
+    -14.76667
+],
+  "geometry": {"coordinates":[-61.76667,-14.76667],"type":"Point"}
+}

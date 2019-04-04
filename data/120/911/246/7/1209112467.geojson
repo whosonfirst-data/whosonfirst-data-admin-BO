@@ -1,0 +1,61 @@
+{
+  "id": 1209112467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.93333,-17.63333,-67.93333,-17.63333",
+    "geom:latitude":-17.63333,
+    "geom:longitude":-67.93333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Estancia Chajma Huita",
+    "gn:country_code":"BO",
+    "gn:dem":3796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917542,
+    "gn:latitude":-17.63333,
+    "gn:longitude":-67.93333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Chajma Huita",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917542
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9b6879e4bac46e8e55ec5b23022eb530",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209112467
+        }
+    ],
+    "wof:id":1209112467,
+    "wof:lastmodified":1536297361,
+    "wof:name":"Estancia Chajma Huita",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.93333,
+    -17.633329999999994,
+    -67.93333,
+    -17.633329999999994
+],
+  "geometry": {"coordinates":[-67.93333,-17.63332999999999],"type":"Point"}
+}

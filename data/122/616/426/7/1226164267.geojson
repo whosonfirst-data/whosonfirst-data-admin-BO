@@ -1,0 +1,72 @@
+{
+  "id": 1226164267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.06667,-19.63333,-65.06667,-19.63333",
+    "geom:latitude":-19.63333,
+    "geom:longitude":-65.06667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Potosi Orko",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907577,
+    "gn:latitude":-19.63333,
+    "gn:longitude":-65.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Potos\u00ed Orko",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Potosi Okko",
+        "Potos\u00ed Orko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907577
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a2f12515bf128591b4bcb56ececfa82d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008991,
+            "locality_id":1226164267,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1226164267,
+    "wof:lastmodified":1537587982,
+    "wof:name":"Potosi Orko",
+    "wof:parent_id":1092008991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.06667,
+    -19.63333,
+    -65.06667,
+    -19.63333
+],
+  "geometry": {"coordinates":[-65.06667,-19.63333],"type":"Point"}
+}

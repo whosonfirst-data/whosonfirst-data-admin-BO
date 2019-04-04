@@ -1,0 +1,62 @@
+{
+  "id": 1209106657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.5,-16.43333,-67.5,-16.43333",
+    "geom:latitude":-16.43333,
+    "geom:longitude":-67.5,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cutusuma",
+    "gn:country_code":"BO",
+    "gn:dem":1322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918509,
+    "gn:latitude":-16.43333,
+    "gn:longitude":-67.5,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cutusuma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918509,
+        "wk:page":"Cutusuma"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1bc2e9b10dc26f62b71455b9371c3712",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209106657
+        }
+    ],
+    "wof:id":1209106657,
+    "wof:lastmodified":1537487924,
+    "wof:name":"Cutusuma",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.5,
+    -16.43333,
+    -67.5,
+    -16.43333
+],
+  "geometry": {"coordinates":[-67.5,-16.43333],"type":"Point"}
+}

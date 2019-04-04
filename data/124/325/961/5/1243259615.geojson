@@ -1,0 +1,72 @@
+{
+  "id": 1243259615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.61667,-16.66667,-63.61667,-16.66667",
+    "geom:latitude":-16.66667,
+    "geom:longitude":-63.61667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Galpon Suarez",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915633,
+    "gn:latitude":-16.66667,
+    "gn:longitude":-63.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Galp\u00f3n Su\u00e1rez",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Galp\u00f3n Su\u00e1ez",
+        "Galp\u00f3n Su\u00e1rez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915633
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7b5563e240d16168993e3840e8b03060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009899,
+            "locality_id":1243259615,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1243259615,
+    "wof:lastmodified":1537588074,
+    "wof:name":"Galpon Suarez",
+    "wof:parent_id":1092009899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.61666999999999,
+    -16.66667,
+    -63.61666999999999,
+    -16.66667
+],
+  "geometry": {"coordinates":[-63.61666999999999,-16.66667],"type":"Point"}
+}

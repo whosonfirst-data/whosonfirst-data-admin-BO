@@ -1,0 +1,71 @@
+{
+  "id": 1193025587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.72865,-19.39148,-64.72865,-19.39148",
+    "geom:latitude":-19.39148,
+    "geom:longitude":-64.72865,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jatun",
+    "gn:country_code":"BO",
+    "gn:dem":2806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913489,
+    "gn:latitude":-19.39148,
+    "gn:longitude":-64.72865,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Jatun",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Jatun Mayu",
+        "Jatun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913489
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ee1a948fe23050cdc78aa0c09d27e826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006241,
+            "locality_id":1193025587,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1193025587,
+    "wof:lastmodified":1537588048,
+    "wof:name":"Jatun",
+    "wof:parent_id":1092006241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.72865,
+    -19.39148,
+    -64.72865,
+    -19.39148
+],
+  "geometry": {"coordinates":[-64.72865,-19.39148],"type":"Point"}
+}

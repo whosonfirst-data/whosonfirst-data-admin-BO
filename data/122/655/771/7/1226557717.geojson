@@ -1,0 +1,72 @@
+{
+  "id": 1226557717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.21667,-20.96667,-64.21667,-20.96667",
+    "geom:latitude":-20.96667,
+    "geom:longitude":-64.21667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Palmas",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908762,
+    "gn:latitude":-20.96667,
+    "gn:longitude":-64.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Palmas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palmer",
+        "Palmas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908762
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"70f74c99e2d9389045c0a1b0e72a1fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006087,
+            "locality_id":1226557717,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1226557717,
+    "wof:lastmodified":1537587995,
+    "wof:name":"Palmas",
+    "wof:parent_id":1092006087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.21667,
+    -20.96667,
+    -64.21667,
+    -20.96667
+],
+  "geometry": {"coordinates":[-64.21666999999999,-20.96667],"type":"Point"}
+}

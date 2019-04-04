@@ -1,0 +1,71 @@
+{
+  "id": 1293803843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.5956,-19.64766,-62.5956,-19.64766",
+    "geom:latitude":-19.64766,
+    "geom:longitude":-62.5956,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Capeatindi",
+    "gn:country_code":"BO",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922152,
+    "gn:latitude":-19.64766,
+    "gn:longitude":-62.5956,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Capeatindi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Capealindi",
+        "Capeatindi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922152
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"388f18834e72ce97d51ed5fc39ad6141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1293803843,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1293803843,
+    "wof:lastmodified":1537588131,
+    "wof:name":"Capeatindi",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.5956,
+    -19.64766,
+    -62.5956,
+    -19.64766
+],
+  "geometry": {"coordinates":[-62.5956,-19.64766],"type":"Point"}
+}

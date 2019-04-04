@@ -1,0 +1,71 @@
+{
+  "id": 1243558523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.87522,-19.12412,-64.87522,-19.12412",
+    "geom:latitude":-19.12412,
+    "geom:longitude":-64.87522,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sicclla",
+    "gn:country_code":"BO",
+    "gn:dem":3118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904352,
+    "gn:latitude":-19.12412,
+    "gn:longitude":-64.87522,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Sicclla",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siclla",
+        "Sicclla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421188855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904352
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a0b8a1c3c7cfafcdbd4261bdf627b7e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421188855,
+            "locality_id":1243558523,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1243558523,
+    "wof:lastmodified":1537587949,
+    "wof:name":"Sicclla",
+    "wof:parent_id":421188855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.87522,
+    -19.12412,
+    -64.87522,
+    -19.12412
+],
+  "geometry": {"coordinates":[-64.87522,-19.12412],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276543613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.37529,-21.20297,-66.37529,-21.20297",
+    "geom:latitude":-21.20297,
+    "geom:longitude":-66.37529,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Huano Pujro",
+    "gn:country_code":"BO",
+    "gn:dem":4287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914848,
+    "gn:latitude":-21.20297,
+    "gn:longitude":-66.37529,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Huano Pujro",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914848
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e7664b0349cb9be1f7a2ace255cb29ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193357,
+            "locality_id":1276543613,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1276543613,
+    "wof:lastmodified":1536993442,
+    "wof:name":"Huano Pujro",
+    "wof:parent_id":421193357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.37529,
+    -21.20297,
+    -66.37529,
+    -21.20297
+],
+  "geometry": {"coordinates":[-66.37529000000001,-21.20297],"type":"Point"}
+}

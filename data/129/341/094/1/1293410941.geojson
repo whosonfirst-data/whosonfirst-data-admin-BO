@@ -1,0 +1,73 @@
+{
+  "id": 1293410941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.4612,-18.44857,-66.4612,-18.44857",
+    "geom:latitude":-18.44857,
+    "geom:longitude":-66.4612,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chayanta",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921028,
+    "gn:latitude":-18.44857,
+    "gn:longitude":-66.4612,
+    "gn:modification_date":"2012-08-16",
+    "gn:name":"Chayanta",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chayanti",
+        "Chayanta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921028,
+        "wk:page":"Chayanta_Municipality"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5dce2612726d6deaa09606e89e6732d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009153,
+            "locality_id":1293410941,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293410941,
+    "wof:lastmodified":1537588116,
+    "wof:name":"Chayanta",
+    "wof:parent_id":1092009153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.4612,
+    -18.44857,
+    -66.4612,
+    -18.44857
+],
+  "geometry": {"coordinates":[-66.46120000000001,-18.44857],"type":"Point"}
+}

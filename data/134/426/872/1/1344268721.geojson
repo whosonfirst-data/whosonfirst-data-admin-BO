@@ -1,0 +1,73 @@
+{
+  "id": 1344268721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.96667,-14.23333,-66.96667,-14.23333",
+    "geom:latitude":-14.23333,
+    "geom:longitude":-66.96667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bibosi",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923139,
+    "gn:latitude":-14.23333,
+    "gn:longitude":-66.96667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bibosi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bivosis",
+        "Bibosis",
+        "Bibosi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923139
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"18ea9d4efb72c6b0c276ac9f83f41c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005669,
+            "locality_id":1344268721,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1344268721,
+    "wof:lastmodified":1537588144,
+    "wof:name":"Bibosi",
+    "wof:parent_id":1092005669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.96667,
+    -14.23333,
+    -66.96667,
+    -14.23333
+],
+  "geometry": {"coordinates":[-66.96666999999999,-14.23333],"type":"Point"}
+}

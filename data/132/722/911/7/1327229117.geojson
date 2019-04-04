@@ -1,0 +1,70 @@
+{
+  "id": 1327229117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.35212,-11.10179,-69.35212,-11.10179",
+    "geom:latitude":-11.10179,
+    "geom:longitude":-69.35212,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"La Cruz",
+    "gn:country_code":"BO",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912330,
+    "gn:latitude":-11.10179,
+    "gn:longitude":-69.35212,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"La Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cruz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912330
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b578c6ac9a9312a70ffee33a1b15eafe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008501,
+            "locality_id":1327229117,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1327229117,
+    "wof:lastmodified":1537588036,
+    "wof:name":"La Cruz",
+    "wof:parent_id":1092008501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.35212,
+    -11.10179,
+    -69.35212,
+    -11.10179
+],
+  "geometry": {"coordinates":[-69.35212,-11.10179],"type":"Point"}
+}

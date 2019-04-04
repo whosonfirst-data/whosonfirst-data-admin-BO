@@ -1,0 +1,68 @@
+{
+  "id": 1293689901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.96036,-17.52966,-65.96036,-17.52966",
+    "geom:latitude":-17.52966,
+    "geom:longitude":-65.96036,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tolata",
+    "gn:country_code":"BO",
+    "gn:dem":2731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902726,
+    "gn:latitude":-17.52966,
+    "gn:longitude":-65.96036,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Tolata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        421177651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902726,
+        "wk:page":"Tolata%2C_Cochabamba"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4fa710caf418e2cc98e6925cb117e59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177651,
+            "locality_id":1293689901,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1293689901,
+    "wof:lastmodified":1537487867,
+    "wof:name":"Tolata",
+    "wof:parent_id":421177651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.96036,
+    -17.52966,
+    -65.96036,
+    -17.52966
+],
+  "geometry": {"coordinates":[-65.96035999999999,-17.52966],"type":"Point"}
+}

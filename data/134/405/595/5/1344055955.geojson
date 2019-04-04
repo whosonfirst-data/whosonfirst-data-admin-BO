@@ -1,0 +1,72 @@
+{
+  "id": 1344055955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.41498,-19.54562,-68.41498,-19.54562",
+    "geom:latitude":-19.54562,
+    "geom:longitude":-68.41498,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Unidas",
+    "gn:country_code":"BO",
+    "gn:dem":3690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902018,
+    "gn:latitude":-19.54562,
+    "gn:longitude":-68.41498,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Unidas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Unidas",
+        "Unidas",
+        "Laqueca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902018
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e3b8a59f5ba55abc4bcbf4b0efca0ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177659,
+            "locality_id":1344055955,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1344055955,
+    "wof:lastmodified":1537587918,
+    "wof:name":"Unidas",
+    "wof:parent_id":421177659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.41498,
+    -19.54562,
+    -68.41498,
+    -19.54562
+],
+  "geometry": {"coordinates":[-68.41498,-19.54562],"type":"Point"}
+}

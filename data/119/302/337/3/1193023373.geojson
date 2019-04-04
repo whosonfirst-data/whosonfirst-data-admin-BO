@@ -1,0 +1,67 @@
+{
+  "id": 1193023373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.7,-11.66667,-66.7,-11.66667",
+    "geom:latitude":-11.66667,
+    "geom:longitude":-66.7,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Capihuara",
+    "gn:country_code":"BO",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922147,
+    "gn:latitude":-11.66667,
+    "gn:longitude":-66.7,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Capihuara",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922147
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"be24b7755a6703875c24449139604022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005669,
+            "locality_id":1193023373,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1193023373,
+    "wof:lastmodified":1536370790,
+    "wof:name":"Capihuara",
+    "wof:parent_id":1092005669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.7,
+    -11.66667,
+    -66.7,
+    -11.66667
+],
+  "geometry": {"coordinates":[-66.7,-11.66667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226263953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.3,-19.10389,-65.3,-19.10389",
+    "geom:latitude":-19.10389,
+    "geom:longitude":-65.3,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"San Sebastian",
+    "gn:country_code":"BO",
+    "gn:dem":2553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905039,
+    "gn:latitude":-19.10389,
+    "gn:longitude":-65.3,
+    "gn:modification_date":"1999-12-01",
+    "gn:name":"San Sebasti\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905039
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1b7538acfd4d276dc4c07a2b2dc44c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1226263953,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1226263953,
+    "wof:lastmodified":1536907726,
+    "wof:name":"San Sebastian",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.3,
+    -19.10389,
+    -65.3,
+    -19.10389
+],
+  "geometry": {"coordinates":[-65.3,-19.10389],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310190585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.95498,-14.70422,-62.95498,-14.70422",
+    "geom:latitude":-14.70422,
+    "geom:longitude":-62.95498,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Estrella",
+    "gn:country_code":"BO",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915853,
+    "gn:latitude":-14.70422,
+    "gn:longitude":-62.95498,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"Estrella",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Estrella",
+        "Estrella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915853
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5b49d80f521243ae93976aa51246007f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009737,
+            "locality_id":1310190585,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1310190585,
+    "wof:lastmodified":1537588077,
+    "wof:name":"Estrella",
+    "wof:parent_id":1092009737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.95498000000001,
+    -14.70422,
+    -62.95498000000001,
+    -14.70422
+],
+  "geometry": {"coordinates":[-62.95498000000001,-14.70422],"type":"Point"}
+}

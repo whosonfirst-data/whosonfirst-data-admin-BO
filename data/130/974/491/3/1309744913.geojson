@@ -1,0 +1,67 @@
+{
+  "id": 1309744913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.61667,-15.85,-67.61667,-15.85",
+    "geom:latitude":-15.85,
+    "geom:longitude":-67.61667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Crucero",
+    "gn:country_code":"BO",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918899,
+    "gn:latitude":-15.85,
+    "gn:longitude":-67.61667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Crucero",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918899
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6a94eff3bb05ffe61cdf05d65546e902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007051,
+            "locality_id":1309744913,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1309744913,
+    "wof:lastmodified":1537018205,
+    "wof:name":"Crucero",
+    "wof:parent_id":1092007051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.61667,
+    -15.85,
+    -67.61667,
+    -15.85
+],
+  "geometry": {"coordinates":[-67.61667,-15.85],"type":"Point"}
+}

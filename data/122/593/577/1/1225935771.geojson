@@ -1,0 +1,67 @@
+{
+  "id": 1225935771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.21264,-21.13011,-66.21264,-21.13011",
+    "geom:latitude":-21.13011,
+    "geom:longitude":-66.21264,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kollpa Huasi",
+    "gn:country_code":"BO",
+    "gn:dem":4095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912544,
+    "gn:latitude":-21.13011,
+    "gn:longitude":-66.21264,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Kollpa Huasi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912544
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ec20e42c8bedbbfd35b018db519c66b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":1225935771,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1225935771,
+    "wof:lastmodified":1536883233,
+    "wof:name":"Kollpa Huasi",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.21264000000001,
+    -21.13011,
+    -66.21264000000001,
+    -21.13011
+],
+  "geometry": {"coordinates":[-66.21264000000001,-21.13011],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225830749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.25,-18.36667,-58.25,-18.36667",
+    "geom:latitude":-18.36667,
+    "geom:longitude":-58.25,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tapera",
+    "gn:country_code":"BO",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3444024,
+    "gn:latitude":-18.36667,
+    "gn:longitude":-58.25,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Tapera",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421183095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3444024
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f0d10a22e8c2978f77dc252638fd4a24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421183095,
+            "locality_id":1225830749,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1225830749,
+    "wof:lastmodified":1537033848,
+    "wof:name":"Tapera",
+    "wof:parent_id":421183095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.25,
+    -18.36667000000001,
+    -58.25,
+    -18.36667000000001
+],
+  "geometry": {"coordinates":[-58.25,-18.36667000000001],"type":"Point"}
+}

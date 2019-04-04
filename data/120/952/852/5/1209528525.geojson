@@ -1,0 +1,66 @@
+{
+  "id": 1209528525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.45,-17.63333,-66.45,-17.63333",
+    "geom:latitude":-17.63333,
+    "geom:longitude":-66.45,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lampaya",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911983,
+    "gn:latitude":-17.63333,
+    "gn:longitude":-66.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lampaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Lampaya",
+        "Lampaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911983
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b452da6c590b638e451d036f626deaba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209528525
+        }
+    ],
+    "wof:id":1209528525,
+    "wof:lastmodified":1537588032,
+    "wof:name":"Lampaya",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.45,
+    -17.63332999999999,
+    -66.45,
+    -17.63332999999999
+],
+  "geometry": {"coordinates":[-66.45,-17.63332999999999],"type":"Point"}
+}

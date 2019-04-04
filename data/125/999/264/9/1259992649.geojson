@@ -1,0 +1,68 @@
+{
+  "id": 1259992649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.4,-17.65,-65.4,-17.65",
+    "geom:latitude":-17.65,
+    "geom:longitude":-65.4,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pocona",
+    "gn:country_code":"BO",
+    "gn:dem":3175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907761,
+    "gn:latitude":-17.65,
+    "gn:longitude":-65.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pocona",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907761,
+        "wk:page":"Pocona"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"90b06c93c19a86294308ae1ac4c5b81d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1259992649,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1259992649,
+    "wof:lastmodified":1537487886,
+    "wof:name":"Pocona",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.4,
+    -17.65,
+    -65.4,
+    -17.65
+],
+  "geometry": {"coordinates":[-65.40000000000001,-17.65],"type":"Point"}
+}

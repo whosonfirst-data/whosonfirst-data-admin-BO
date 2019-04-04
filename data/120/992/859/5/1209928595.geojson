@@ -1,0 +1,75 @@
+{
+  "id": 1209928595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.52861,-19.00556,-65.52861,-19.00556",
+    "geom:latitude":-19.00556,
+    "geom:longitude":-65.52861,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"8.0",
+    "gn:asciiname":"Potolo",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":3907589,
+    "gn:latitude":-19.00556,
+    "gn:longitude":-65.52861,
+    "gn:modification_date":"2011-07-31",
+    "gn:name":"Potolo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad Potolo",
+        "Potolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907589
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c40e8116d723f67141e45071eef997bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1209928595,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1209928595,
+    "wof:lastmodified":1537587982,
+    "wof:name":"Potolo",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.52861,
+    -19.00556,
+    -65.52861,
+    -19.00556
+],
+  "geometry": {"coordinates":[-65.52861,-19.00556],"type":"Point"}
+}

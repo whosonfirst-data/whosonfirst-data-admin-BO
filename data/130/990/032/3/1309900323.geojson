@@ -1,0 +1,67 @@
+{
+  "id": 1309900323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.55,-20.68333,-65.55,-20.68333",
+    "geom:latitude":-20.68333,
+    "geom:longitude":-65.55,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chapi",
+    "gn:country_code":"BO",
+    "gn:dem":3023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921203,
+    "gn:latitude":-20.68333,
+    "gn:longitude":-65.55,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Chapi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921203
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"dea615a898518be3e52b63ad4e267afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1309900323,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1309900323,
+    "wof:lastmodified":1536795079,
+    "wof:name":"Chapi",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.55,
+    -20.68333,
+    -65.55,
+    -20.68333
+],
+  "geometry": {"coordinates":[-65.55,-20.68333],"type":"Point"}
+}

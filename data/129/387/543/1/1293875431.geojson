@@ -1,0 +1,72 @@
+{
+  "id": 1293875431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.8,-20.88333,-65.8,-20.88333",
+    "geom:latitude":-20.88333,
+    "geom:longitude":-65.8,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Patujali",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908283,
+    "gn:latitude":-20.88333,
+    "gn:longitude":-65.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Patujali",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Patuyati",
+        "Patujali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908283
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8cbc06324cbdef4d06836de7087c61cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1293875431,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293875431,
+    "wof:lastmodified":1537587990,
+    "wof:name":"Patujali",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.8,
+    -20.88333,
+    -65.8,
+    -20.88333
+],
+  "geometry": {"coordinates":[-65.8,-20.88333],"type":"Point"}
+}

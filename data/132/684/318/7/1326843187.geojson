@@ -1,0 +1,67 @@
+{
+  "id": 1326843187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.33663,-18.48486,-64.33663,-18.48486",
+    "geom:latitude":-18.48486,
+    "geom:longitude":-64.33663,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sausalera",
+    "gn:country_code":"BO",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904528,
+    "gn:latitude":-18.48486,
+    "gn:longitude":-64.33663,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Sausalera",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904528
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7a600ebf398c1b99ed1a2360acac4b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006465,
+            "locality_id":1326843187,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1326843187,
+    "wof:lastmodified":1537031532,
+    "wof:name":"Sausalera",
+    "wof:parent_id":1092006465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.33663,
+    -18.48486,
+    -64.33663,
+    -18.48486
+],
+  "geometry": {"coordinates":[-64.33663,-18.48486],"type":"Point"}
+}

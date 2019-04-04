@@ -1,0 +1,67 @@
+{
+  "id": 1226165695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.55985,-19.20681,-68.55985,-19.20681",
+    "geom:latitude":-19.20681,
+    "geom:longitude":-68.55985,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Estancia Beralinez",
+    "gn:country_code":"BO",
+    "gn:dem":3709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917691,
+    "gn:latitude":-19.20681,
+    "gn:longitude":-68.55985,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Beralinez",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092008039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917691
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"04a32b6f501d80bcaebc5dc9bb51b82d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008039,
+            "locality_id":1226165695,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1226165695,
+    "wof:lastmodified":1537046991,
+    "wof:name":"Estancia Beralinez",
+    "wof:parent_id":1092008039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.55985,
+    -19.20681,
+    -68.55985,
+    -19.20681
+],
+  "geometry": {"coordinates":[-68.55985,-19.20681],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209205343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.3,-14.3,-62.3,-14.3",
+    "geom:latitude":-14.3,
+    "geom:longitude":-62.3,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Almacen",
+    "gn:country_code":"BO",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3924219,
+    "gn:latitude":-14.3,
+    "gn:longitude":-62.3,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Almac\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3924219
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4478f7a611e905914386ff99b7b71ee2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209205343
+        }
+    ],
+    "wof:id":1209205343,
+    "wof:lastmodified":1536294474,
+    "wof:name":"Almacen",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.3,
+    -14.3,
+    -62.3,
+    -14.3
+],
+  "geometry": {"coordinates":[-62.3,-14.3],"type":"Point"}
+}

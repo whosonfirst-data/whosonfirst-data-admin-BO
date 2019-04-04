@@ -1,0 +1,71 @@
+{
+  "id": 1293286993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.2139,-20.2975,-66.2139,-20.2975",
+    "geom:latitude":-20.2975,
+    "geom:longitude":-66.2139,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Viscachani",
+    "gn:country_code":"BO",
+    "gn:dem":3762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901386,
+    "gn:latitude":-20.2975,
+    "gn:longitude":-66.2139,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Viscachani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Viscachani",
+        "Viscachani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901386
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c630bd2458db969f2883e68e2bc26a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177657,
+            "locality_id":1293286993,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293286993,
+    "wof:lastmodified":1537587909,
+    "wof:name":"Viscachani",
+    "wof:parent_id":421177657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.2139,
+    -20.2975,
+    -66.2139,
+    -20.2975
+],
+  "geometry": {"coordinates":[-66.2139,-20.2975],"type":"Point"}
+}

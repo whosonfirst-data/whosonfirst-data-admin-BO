@@ -1,0 +1,70 @@
+{
+  "id": 1209808015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.07533,-11.87897,-68.07533,-11.87897",
+    "geom:latitude":-11.87897,
+    "geom:longitude":-68.07533,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Barranquilla",
+    "gn:country_code":"BO",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11503785,
+    "gn:latitude":-11.87897,
+    "gn:longitude":-68.07533,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Barranquilla",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Barranquilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11503785
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c4c60a34ef2bbe5ed58d2dd1b961a365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008461,
+            "locality_id":1209808015,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1209808015,
+    "wof:lastmodified":1537588177,
+    "wof:name":"Barranquilla",
+    "wof:parent_id":1092008461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.07533000000001,
+    -11.87897,
+    -68.07533000000001,
+    -11.87897
+],
+  "geometry": {"coordinates":[-68.07533000000001,-11.87897],"type":"Point"}
+}

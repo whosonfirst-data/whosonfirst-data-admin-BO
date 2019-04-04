@@ -1,0 +1,72 @@
+{
+  "id": 1326915923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.03333,-17.91667,-64.03333,-17.91667",
+    "geom:latitude":-17.91667,
+    "geom:longitude":-64.03333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Chape",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918285,
+    "gn:latitude":-17.91667,
+    "gn:longitude":-64.03333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Chape",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Chape",
+        "El Chape"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918285
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a6fc428db7a274b82ce631f9e03796a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009661,
+            "locality_id":1326915923,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1326915923,
+    "wof:lastmodified":1537588086,
+    "wof:name":"El Chape",
+    "wof:parent_id":1092009661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.03333,
+    -17.91667,
+    -64.03333,
+    -17.91667
+],
+  "geometry": {"coordinates":[-64.03333000000001,-17.91667],"type":"Point"}
+}

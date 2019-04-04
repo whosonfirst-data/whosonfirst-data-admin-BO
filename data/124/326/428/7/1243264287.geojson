@@ -1,0 +1,72 @@
+{
+  "id": 1243264287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.01667,-17.41667,-67.01667,-17.41667",
+    "geom:latitude":-17.41667,
+    "geom:longitude":-67.01667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kelkata",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912925,
+    "gn:latitude":-17.41667,
+    "gn:longitude":-67.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kelkata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Khelcata",
+        "Kelkata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912925
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d50f228dd3a333b603e718563c15decd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007257,
+            "locality_id":1243264287,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1243264287,
+    "wof:lastmodified":1537588042,
+    "wof:name":"Kelkata",
+    "wof:parent_id":1092007257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.01666999999999,
+    -17.41667,
+    -67.01666999999999,
+    -17.41667
+],
+  "geometry": {"coordinates":[-67.01666999999999,-17.41667],"type":"Point"}
+}

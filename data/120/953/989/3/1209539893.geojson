@@ -1,0 +1,61 @@
+{
+  "id": 1209539893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.13333,-16.66667,-68.13333,-16.66667",
+    "geom:latitude":-16.66667,
+    "geom:longitude":-68.13333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Estancia Tuni",
+    "gn:country_code":"BO",
+    "gn:dem":4090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916027,
+    "gn:latitude":-16.66667,
+    "gn:longitude":-68.13333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Tuni",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916027
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4a3c1d5598cc558f0e5ace23876bdcee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209539893
+        }
+    ],
+    "wof:id":1209539893,
+    "wof:lastmodified":1536284019,
+    "wof:name":"Estancia Tuni",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.13333,
+    -16.66667,
+    -68.13333,
+    -16.66667
+],
+  "geometry": {"coordinates":[-68.13333,-16.66667],"type":"Point"}
+}

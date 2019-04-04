@@ -1,0 +1,73 @@
+{
+  "id": 1293595321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.35,-16.61667,-68.35,-16.61667",
+    "geom:latitude":-16.61667,
+    "geom:longitude":-68.35,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pallina Grande",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908808,
+    "gn:latitude":-16.61667,
+    "gn:longitude":-68.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pallina Grande",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad Pallina Grande",
+        "Palma Chica",
+        "Pallina Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908808
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7ba19177639c858626ed0f4f9477c99c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007213,
+            "locality_id":1293595321,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293595321,
+    "wof:lastmodified":1537587995,
+    "wof:name":"Pallina Grande",
+    "wof:parent_id":1092007213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.35,
+    -16.61667000000001,
+    -68.35,
+    -16.61667000000001
+],
+  "geometry": {"coordinates":[-68.34999999999999,-16.61667000000001],"type":"Point"}
+}

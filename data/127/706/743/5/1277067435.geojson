@@ -1,0 +1,67 @@
+{
+  "id": 1277067435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.03333,-19.23333,-58.03333,-19.23333",
+    "geom:latitude":-19.23333,
+    "geom:longitude":-58.03333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Chalera",
+    "gn:country_code":"BO",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3444407,
+    "gn:latitude":-19.23333,
+    "gn:longitude":-58.03333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"La Chalera",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421183095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3444407
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0cc45788d754dfc633379371c289b17c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421183095,
+            "locality_id":1277067435,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1277067435,
+    "wof:lastmodified":1536790028,
+    "wof:name":"La Chalera",
+    "wof:parent_id":421183095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.03333000000001,
+    -19.23333,
+    -58.03333000000001,
+    -19.23333
+],
+  "geometry": {"coordinates":[-58.03333000000001,-19.23333],"type":"Point"}
+}

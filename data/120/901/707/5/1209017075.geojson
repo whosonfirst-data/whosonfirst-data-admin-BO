@@ -1,0 +1,66 @@
+{
+  "id": 1209017075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.56667,-18.05,-64.56667,-18.05",
+    "geom:latitude":-18.05,
+    "geom:longitude":-64.56667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Las Carreras",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911816,
+    "gn:latitude":-18.05,
+    "gn:longitude":-64.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Las Carreras",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carreras",
+        "Las Carreras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911816
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"928be30ff9a6859fe8e6554b429e2f1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209017075
+        }
+    ],
+    "wof:id":1209017075,
+    "wof:lastmodified":1537588030,
+    "wof:name":"Las Carreras",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.56667,
+    -18.05,
+    -64.56667,
+    -18.05
+],
+  "geometry": {"coordinates":[-64.56667,-18.05],"type":"Point"}
+}

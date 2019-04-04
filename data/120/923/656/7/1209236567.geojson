@@ -1,0 +1,61 @@
+{
+  "id": 1209236567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.46667,-11.16667,-68.46667,-11.16667",
+    "geom:latitude":-11.16667,
+    "geom:longitude":-68.46667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Muymanito",
+    "gn:country_code":"BO",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909747,
+    "gn:latitude":-11.16667,
+    "gn:longitude":-68.46667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Muymanito",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909747
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b45431a37884a351b1b31a555267c57a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209236567
+        }
+    ],
+    "wof:id":1209236567,
+    "wof:lastmodified":1536293459,
+    "wof:name":"Muymanito",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.46667,
+    -11.16667,
+    -68.46667,
+    -11.16667
+],
+  "geometry": {"coordinates":[-68.46666999999999,-11.16667],"type":"Point"}
+}

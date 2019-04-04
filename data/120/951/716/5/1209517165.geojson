@@ -1,0 +1,66 @@
+{
+  "id": 1209517165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.28333,-14.2,-65.28333,-14.2",
+    "geom:latitude":-14.2,
+    "geom:longitude":-65.28333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nazareth",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909602,
+    "gn:latitude":-14.2,
+    "gn:longitude":-65.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nazareth",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazaret",
+        "Nazareth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909602
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"454c6342f17929e94d99cfbfbf4e9484",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209517165
+        }
+    ],
+    "wof:id":1209517165,
+    "wof:lastmodified":1537588004,
+    "wof:name":"Nazareth",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.28333,
+    -14.2,
+    -65.28333,
+    -14.2
+],
+  "geometry": {"coordinates":[-65.28333000000001,-14.2],"type":"Point"}
+}

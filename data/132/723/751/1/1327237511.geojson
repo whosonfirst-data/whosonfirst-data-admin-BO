@@ -1,0 +1,67 @@
+{
+  "id": 1327237511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.31667,-17.01667,-69.31667,-17.01667",
+    "geom:latitude":-17.01667,
+    "geom:longitude":-69.31667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Estancia Taruja Amaya",
+    "gn:country_code":"BO",
+    "gn:dem":3990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916144,
+    "gn:latitude":-17.01667,
+    "gn:longitude":-69.31667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Taruja Amaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916144
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"216c099d9b75a1c61f8f8013e83b0df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007133,
+            "locality_id":1327237511,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1327237511,
+    "wof:lastmodified":1536962017,
+    "wof:name":"Estancia Taruja Amaya",
+    "wof:parent_id":1092007133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.31667,
+    -17.01667,
+    -69.31667,
+    -17.01667
+],
+  "geometry": {"coordinates":[-69.31667,-17.01667],"type":"Point"}
+}

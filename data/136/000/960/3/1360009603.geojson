@@ -1,0 +1,67 @@
+{
+  "id": 1360009603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.01667,-12.96667,-67.01667,-12.96667",
+    "geom:latitude":-12.96667,
+    "geom:longitude":-67.01667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"La Paz",
+    "gn:country_code":"BO",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911927,
+    "gn:latitude":-12.96667,
+    "gn:longitude":-67.01667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"La Paz",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911927
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"1e570751b61e7bfe06fb4b22f39b0446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005669,
+            "locality_id":1360009603,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1360009603,
+    "wof:lastmodified":1537052337,
+    "wof:name":"La Paz",
+    "wof:parent_id":1092005669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.01666999999999,
+    -12.96667,
+    -67.01666999999999,
+    -12.96667
+],
+  "geometry": {"coordinates":[-67.01666999999999,-12.96667],"type":"Point"}
+}

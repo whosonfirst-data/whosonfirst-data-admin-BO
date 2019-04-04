@@ -1,0 +1,74 @@
+{
+  "id": 1276339503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.37903,-18.21518,-68.37903,-18.21518",
+    "geom:latitude":-18.21518,
+    "geom:longitude":-68.37903,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Huajriri",
+    "gn:country_code":"BO",
+    "gn:dem":4151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914982,
+    "gn:latitude":-18.21518,
+    "gn:longitude":-68.37903,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Huajriri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Huajriri",
+        "Huacriri",
+        "Huagriri",
+        "Guagiri",
+        "Huajriri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        421204017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914982
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"bf49444c29128c975e6e98c65322872b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421204017,
+            "locality_id":1276339503,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1276339503,
+    "wof:lastmodified":1537588067,
+    "wof:name":"Huajriri",
+    "wof:parent_id":421204017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.37903,
+    -18.21518,
+    -68.37903,
+    -18.21518
+],
+  "geometry": {"coordinates":[-68.37903,-18.21518],"type":"Point"}
+}

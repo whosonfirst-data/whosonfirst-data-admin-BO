@@ -1,0 +1,75 @@
+{
+  "id": 1293586077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.26667,-19.33333,-65.26667,-19.33333",
+    "geom:latitude":-19.33333,
+    "geom:longitude":-65.26667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Saavedra",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906206,
+    "gn:latitude":-19.33333,
+    "gn:longitude":-65.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Saavedra",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0430\u0432\u0435\u0434\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tuero",
+        "Saavedra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906206
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"39eada8ef3e9d9491d68133c1242232f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008843,
+            "locality_id":1293586077,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293586077,
+    "wof:lastmodified":1537587965,
+    "wof:name":"Saavedra",
+    "wof:parent_id":1092008843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.26666999999999,
+    -19.33333,
+    -65.26666999999999,
+    -19.33333
+],
+  "geometry": {"coordinates":[-65.26666999999999,-19.33333],"type":"Point"}
+}

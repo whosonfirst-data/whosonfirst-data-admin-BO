@@ -1,0 +1,71 @@
+{
+  "id": 1225947289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.32318,-18.26071,-65.32318,-18.26071",
+    "geom:latitude":-18.26071,
+    "geom:longitude":-65.32318,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Thola Mokho",
+    "gn:country_code":"BO",
+    "gn:dem":2811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903085,
+    "gn:latitude":-18.26071,
+    "gn:longitude":-65.32318,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Thola Mokho",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Thola Mokho",
+        "Thola Mokho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903085
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"21b5e4f925897c3dcaee53b382d9cfb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006465,
+            "locality_id":1225947289,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1225947289,
+    "wof:lastmodified":1537587934,
+    "wof:name":"Thola Mokho",
+    "wof:parent_id":1092006465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.32318000000001,
+    -18.26071,
+    -65.32318000000001,
+    -18.26071
+],
+  "geometry": {"coordinates":[-65.32318000000001,-18.26071],"type":"Point"}
+}

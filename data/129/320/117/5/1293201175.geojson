@@ -1,0 +1,72 @@
+{
+  "id": 1293201175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.13333,-17.6,-68.13333,-17.6",
+    "geom:latitude":-17.6,
+    "geom:longitude":-68.13333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tara Huta",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903372,
+    "gn:latitude":-17.6,
+    "gn:longitude":-68.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tara Huta",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Tara Huta",
+        "Tara Huta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903372
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c310ce915fdc362ab72b7e21cbe53e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007165,
+            "locality_id":1293201175,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293201175,
+    "wof:lastmodified":1537587937,
+    "wof:name":"Tara Huta",
+    "wof:parent_id":1092007165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.13333,
+    -17.6,
+    -68.13333,
+    -17.6
+],
+  "geometry": {"coordinates":[-68.13333,-17.6],"type":"Point"}
+}

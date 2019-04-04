@@ -1,0 +1,67 @@
+{
+  "id": 1242877367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.5,-17.56667,-65.5,-17.56667",
+    "geom:latitude":-17.56667,
+    "geom:longitude":-65.5,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Paredones",
+    "gn:country_code":"BO",
+    "gn:dem":4164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908474,
+    "gn:latitude":-17.56667,
+    "gn:longitude":-65.5,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Paredones",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908474
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d6d4404803d9e5f6d7b749bcf68060c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1242877367,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1242877367,
+    "wof:lastmodified":1536630270,
+    "wof:name":"Paredones",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.5,
+    -17.56667,
+    -65.5,
+    -17.56667
+],
+  "geometry": {"coordinates":[-65.5,-17.56667],"type":"Point"}
+}

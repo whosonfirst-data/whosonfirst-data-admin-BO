@@ -1,0 +1,72 @@
+{
+  "id": 1310600373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.98333,-18.06667,-67.98333,-18.06667",
+    "geom:latitude":-18.06667,
+    "geom:longitude":-67.98333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pujio",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907140,
+    "gn:latitude":-18.06667,
+    "gn:longitude":-67.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pujio",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Copa Pujio",
+        "Pujio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092007807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907140
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"069becd517b48a97a5913ba0b2f4eca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007807,
+            "locality_id":1310600373,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1310600373,
+    "wof:lastmodified":1537587976,
+    "wof:name":"Pujio",
+    "wof:parent_id":1092007807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.98333000000001,
+    -18.06667,
+    -67.98333000000001,
+    -18.06667
+],
+  "geometry": {"coordinates":[-67.98333000000001,-18.06667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243256035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.6716,-10.97354,-67.6716,-10.97354",
+    "geom:latitude":-10.97354,
+    "geom:longitude":-67.6716,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tosdalva",
+    "gn:country_code":"BO",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504015,
+    "gn:latitude":-10.97354,
+    "gn:longitude":-67.6716,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tosdalva",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tosdalva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504015
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7fb60682ce9230f8056da7897c3f87c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008501,
+            "locality_id":1243256035,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1243256035,
+    "wof:lastmodified":1537588182,
+    "wof:name":"Tosdalva",
+    "wof:parent_id":1092008501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.6716,
+    -10.97354,
+    -67.6716,
+    -10.97354
+],
+  "geometry": {"coordinates":[-67.6716,-10.97354],"type":"Point"}
+}

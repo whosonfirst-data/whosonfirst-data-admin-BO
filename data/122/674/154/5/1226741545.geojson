@@ -1,0 +1,72 @@
+{
+  "id": 1226741545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.55,-21.18333,-66.55,-21.18333",
+    "geom:latitude":-21.18333,
+    "geom:longitude":-66.55,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Casacienega",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921869,
+    "gn:latitude":-21.18333,
+    "gn:longitude":-66.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Casaci\u00e9nega",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casaci\u00e9naga",
+        "Casaci\u00e9nega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921869
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a9587527d678893699307a955a51f1e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193357,
+            "locality_id":1226741545,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1226741545,
+    "wof:lastmodified":1537588126,
+    "wof:name":"Casacienega",
+    "wof:parent_id":421193357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.55,
+    -21.18333,
+    -66.55,
+    -21.18333
+],
+  "geometry": {"coordinates":[-66.55,-21.18333],"type":"Point"}
+}

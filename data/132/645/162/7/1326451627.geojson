@@ -1,0 +1,71 @@
+{
+  "id": 1326451627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.55031,-19.79884,-68.55031,-19.79884",
+    "geom:latitude":-19.79884,
+    "geom:longitude":-68.55031,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bella Vista",
+    "gn:country_code":"BO",
+    "gn:dem":3830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923191,
+    "gn:latitude":-19.79884,
+    "gn:longitude":-68.55031,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Bella Vista",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buena Vista",
+        "Bella Vista"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923191
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4d0a55cc82e0a2d563c6f329fe6a78ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177659,
+            "locality_id":1326451627,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1326451627,
+    "wof:lastmodified":1537588144,
+    "wof:name":"Bella Vista",
+    "wof:parent_id":421177659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.55031,
+    -19.79884,
+    -68.55031,
+    -19.79884
+],
+  "geometry": {"coordinates":[-68.55031,-19.79884],"type":"Point"}
+}

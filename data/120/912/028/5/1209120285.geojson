@@ -1,0 +1,61 @@
+{
+  "id": 1209120285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.33333,-20.53333,-64.33333,-20.53333",
+    "geom:latitude":-20.53333,
+    "geom:longitude":-64.33333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Huaclaya",
+    "gn:country_code":"BO",
+    "gn:dem":1593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915046,
+    "gn:latitude":-20.53333,
+    "gn:longitude":-64.33333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Huaclaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915046
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"cd1467f249fd7565d74ea40a66744863",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209120285
+        }
+    ],
+    "wof:id":1209120285,
+    "wof:lastmodified":1536297122,
+    "wof:name":"Huaclaya",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.33333,
+    -20.53333,
+    -64.33333,
+    -20.53333
+],
+  "geometry": {"coordinates":[-64.33333,-20.53333],"type":"Point"}
+}

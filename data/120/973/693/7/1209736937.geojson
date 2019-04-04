@@ -1,0 +1,67 @@
+{
+  "id": 1209736937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.09059,-20.0152,-66.09059,-20.0152",
+    "geom:latitude":-20.0152,
+    "geom:longitude":-66.09059,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Estancia Paranchaka",
+    "gn:country_code":"BO",
+    "gn:dem":3415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916521,
+    "gn:latitude":-20.0152,
+    "gn:longitude":-66.09059,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Paranchaka",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916521
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d1c312ba623b3b94dcc5f68ffb97dab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177657,
+            "locality_id":1209736937,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1209736937,
+    "wof:lastmodified":1536372704,
+    "wof:name":"Estancia Paranchaka",
+    "wof:parent_id":421177657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.09059,
+    -20.0152,
+    -66.09059,
+    -20.0152
+],
+  "geometry": {"coordinates":[-66.09059000000001,-20.0152],"type":"Point"}
+}

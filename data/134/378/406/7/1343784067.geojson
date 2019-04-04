@@ -1,0 +1,67 @@
+{
+  "id": 1343784067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.36672,-10.94785,-69.36672,-10.94785",
+    "geom:latitude":-10.94785,
+    "geom:longitude":-69.36672,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Kiosko",
+    "gn:country_code":"BO",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11438618,
+    "gn:latitude":-10.94785,
+    "gn:longitude":-69.36672,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"El Kiosko",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11438618
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"aa37a905496058a0e779b49ff3cbbdbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008501,
+            "locality_id":1343784067,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1343784067,
+    "wof:lastmodified":1536777511,
+    "wof:name":"El Kiosko",
+    "wof:parent_id":1092008501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.36672,
+    -10.94785,
+    -69.36672,
+    -10.94785
+],
+  "geometry": {"coordinates":[-69.36672,-10.94785],"type":"Point"}
+}

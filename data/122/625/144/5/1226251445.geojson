@@ -1,0 +1,67 @@
+{
+  "id": 1226251445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.18262,-17.88565,-65.18262,-17.88565",
+    "geom:latitude":-17.88565,
+    "geom:longitude":-65.18262,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Challa Grande",
+    "gn:country_code":"BO",
+    "gn:dem":2256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6618975,
+    "gn:latitude":-17.88565,
+    "gn:longitude":-65.18262,
+    "gn:modification_date":"2007-10-16",
+    "gn:name":"Challa Grande",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618975
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"df66791372c8aeee53563e69aa0bb5eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1226251445,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1226251445,
+    "wof:lastmodified":1536926034,
+    "wof:name":"Challa Grande",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.18262,
+    -17.88565,
+    -65.18262,
+    -17.88565
+],
+  "geometry": {"coordinates":[-65.18262,-17.88565],"type":"Point"}
+}

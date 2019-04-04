@@ -1,0 +1,72 @@
+{
+  "id": 1310705203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.81667,-17.73333,-64.81667,-17.73333",
+    "geom:latitude":-17.73333,
+    "geom:longitude":-64.81667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pojrata",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907741,
+    "gn:latitude":-17.73333,
+    "gn:longitude":-64.81667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pojrata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pejrata",
+        "Pojrata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907741
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"18686e1e5996189e74f87a7ec2595e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1310705203,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1310705203,
+    "wof:lastmodified":1537587984,
+    "wof:name":"Pojrata",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.81667,
+    -17.73333,
+    -64.81667,
+    -17.73333
+],
+  "geometry": {"coordinates":[-64.81667,-17.73333],"type":"Point"}
+}

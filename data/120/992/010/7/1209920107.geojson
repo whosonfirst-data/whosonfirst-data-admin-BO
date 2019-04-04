@@ -1,0 +1,73 @@
+{
+  "id": 1209920107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.61667,-17.38333,-68.61667,-17.38333",
+    "geom:latitude":-17.38333,
+    "geom:longitude":-68.61667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Huaychu",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914690,
+    "gn:latitude":-17.38333,
+    "gn:longitude":-68.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Huaychu",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huaichu",
+        "Huaycho",
+        "Huaychu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914690
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ac10b525b1a5d76805da26b93c0cda01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1209920107,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1209920107,
+    "wof:lastmodified":1537588063,
+    "wof:name":"Huaychu",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.61667,
+    -17.38332999999999,
+    -68.61667,
+    -17.38332999999999
+],
+  "geometry": {"coordinates":[-68.61667,-17.38332999999999],"type":"Point"}
+}

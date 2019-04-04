@@ -1,0 +1,72 @@
+{
+  "id": 1343558647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.39544,-9.71828,-65.39544,-9.71828",
+    "geom:latitude":-9.71828,
+    "geom:longitude":-65.39544,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3915598.0",
+    "gn:asciiname":"Nueva Manoa",
+    "gn:country_code":"BO",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3661530,
+    "gn:latitude":-9.71828,
+    "gn:longitude":-65.39544,
+    "gn:modification_date":"2014-07-28",
+    "gn:name":"Nueva Manoa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nuevo Manoa",
+        "Nueva Manoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        421177655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3661530
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6228c171d3885e26d6fb72e838f4f328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177655,
+            "locality_id":1343558647,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1343558647,
+    "wof:lastmodified":1537587902,
+    "wof:name":"Nueva Manoa",
+    "wof:parent_id":421177655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.39544000000001,
+    -9.71828,
+    -65.39544000000001,
+    -9.71828
+],
+  "geometry": {"coordinates":[-65.39544000000001,-9.71828],"type":"Point"}
+}

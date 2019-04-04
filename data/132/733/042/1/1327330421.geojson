@@ -1,0 +1,72 @@
+{
+  "id": 1327330421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.7,-20.35,-66.7,-20.35",
+    "geom:latitude":-20.35,
+    "geom:longitude":-66.7,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pacamayo",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909139,
+    "gn:latitude":-20.35,
+    "gn:longitude":-66.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pacamayo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paca Mayu",
+        "Pacamayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909139
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c75061ab66b25295ea5f283bea402c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177657,
+            "locality_id":1327330421,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1327330421,
+    "wof:lastmodified":1537587999,
+    "wof:name":"Pacamayo",
+    "wof:parent_id":421177657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.7,
+    -20.35,
+    -66.7,
+    -20.35
+],
+  "geometry": {"coordinates":[-66.7,-20.35],"type":"Point"}
+}

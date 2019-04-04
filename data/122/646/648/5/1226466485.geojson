@@ -1,0 +1,72 @@
+{
+  "id": 1226466485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.63333,-15.1,-68.63333,-15.1",
+    "geom:latitude":-15.1,
+    "geom:longitude":-68.63333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Huritaya",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914421,
+    "gn:latitude":-15.1,
+    "gn:longitude":-68.63333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Huritaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uritaya",
+        "Huritaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092006969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914421
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"abe1d2d2093a547381a524014531c618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006969,
+            "locality_id":1226466485,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1226466485,
+    "wof:lastmodified":1537588060,
+    "wof:name":"Huritaya",
+    "wof:parent_id":1092006969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.63333,
+    -15.1,
+    -68.63333,
+    -15.1
+],
+  "geometry": {"coordinates":[-68.63333,-15.1],"type":"Point"}
+}

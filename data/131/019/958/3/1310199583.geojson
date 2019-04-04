@@ -1,0 +1,67 @@
+{
+  "id": 1310199583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.28333,-20.25,-68.28333,-20.25",
+    "geom:latitude":-20.25,
+    "geom:longitude":-68.28333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yani",
+    "gn:country_code":"BO",
+    "gn:dem":4015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901083,
+    "gn:latitude":-20.25,
+    "gn:longitude":-68.28333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Yani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901083
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"df4f4b9dba38bd4f93d0372cd4f689fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177659,
+            "locality_id":1310199583,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1310199583,
+    "wof:lastmodified":1536859486,
+    "wof:name":"Yani",
+    "wof:parent_id":421177659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.28333,
+    -20.25,
+    -68.28333,
+    -20.25
+],
+  "geometry": {"coordinates":[-68.28333000000001,-20.25],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226445661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.43333,-17.65,-65.43333,-17.65",
+    "geom:latitude":-17.65,
+    "geom:longitude":-65.43333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Quehuinal",
+    "gn:country_code":"BO",
+    "gn:dem":3106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906927,
+    "gn:latitude":-17.65,
+    "gn:longitude":-65.43333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Quehui\u00f1al",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906927
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ec9484756b6eb4369ae4e3676f8366a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1226445661,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1226445661,
+    "wof:lastmodified":1536644992,
+    "wof:name":"Quehuinal",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.43333,
+    -17.65,
+    -65.43333,
+    -17.65
+],
+  "geometry": {"coordinates":[-65.43333,-17.65],"type":"Point"}
+}

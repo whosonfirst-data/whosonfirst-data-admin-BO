@@ -1,0 +1,70 @@
+{
+  "id": 1326452363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.64133,-10.96383,-67.64133,-10.96383",
+    "geom:latitude":-10.96383,
+    "geom:longitude":-67.64133,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Barro Alto",
+    "gn:country_code":"BO",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504022,
+    "gn:latitude":-10.96383,
+    "gn:longitude":-67.64133,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Barro Alto",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Barro Alto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504022
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c7dccb7877e1cb39f63dc652e719d52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008501,
+            "locality_id":1326452363,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1326452363,
+    "wof:lastmodified":1537588182,
+    "wof:name":"Barro Alto",
+    "wof:parent_id":1092008501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.64133000000001,
+    -10.96383,
+    -67.64133000000001,
+    -10.96383
+],
+  "geometry": {"coordinates":[-67.64133000000001,-10.96383],"type":"Point"}
+}

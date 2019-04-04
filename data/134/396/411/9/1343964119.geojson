@@ -1,0 +1,73 @@
+{
+  "id": 1343964119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.03122,-15.21131,-69.03122,-15.21131",
+    "geom:latitude":-15.21131,
+    "geom:longitude":-69.03122,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mamillon",
+    "gn:country_code":"BO",
+    "gn:dem":4079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916712,
+    "gn:latitude":-15.21131,
+    "gn:longitude":-69.03122,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Mamillon",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mamillon"
+    ],
+    "name:spa_x_variant":[
+        "Estancia Mamilluni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092006969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916712
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b80ea7acf48f6147032121319c40f9fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006969,
+            "locality_id":1343964119,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1343964119,
+    "wof:lastmodified":1537588078,
+    "wof:name":"Mamillon",
+    "wof:parent_id":1092006969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.03121999999999,
+    -15.21131,
+    -69.03121999999999,
+    -15.21131
+],
+  "geometry": {"coordinates":[-69.03121999999999,-15.21131],"type":"Point"}
+}

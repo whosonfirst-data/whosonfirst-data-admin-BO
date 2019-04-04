@@ -1,0 +1,67 @@
+{
+  "id": 1260183117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.98333,-16.06667,-67.98333,-16.06667",
+    "geom:latitude":-16.06667,
+    "geom:longitude":-67.98333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cahua Chico",
+    "gn:country_code":"BO",
+    "gn:dem":2155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922781,
+    "gn:latitude":-16.06667,
+    "gn:longitude":-67.98333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Cahua Chico",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922781
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5b2cb58d4d6929989c6d159f1d474874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":1260183117,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1260183117,
+    "wof:lastmodified":1536847354,
+    "wof:name":"Cahua Chico",
+    "wof:parent_id":421177667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.98333000000001,
+    -16.06667,
+    -67.98333000000001,
+    -16.06667
+],
+  "geometry": {"coordinates":[-67.98333000000001,-16.06667],"type":"Point"}
+}

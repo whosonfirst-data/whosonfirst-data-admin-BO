@@ -1,0 +1,67 @@
+{
+  "id": 1344179445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.6,-17.98333,-64.6,-17.98333",
+    "geom:latitude":-17.98333,
+    "geom:longitude":-64.6,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chilon",
+    "gn:country_code":"BO",
+    "gn:dem":1749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920756,
+    "gn:latitude":-17.98333,
+    "gn:longitude":-64.6,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Chil\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        421186229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920756
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"71de87116afd1209b66debe32b993202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421186229,
+            "locality_id":1344179445,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1344179445,
+    "wof:lastmodified":1536704226,
+    "wof:name":"Chilon",
+    "wof:parent_id":421186229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.6,
+    -17.98333,
+    -64.6,
+    -17.98333
+],
+  "geometry": {"coordinates":[-64.59999999999999,-17.98333],"type":"Point"}
+}

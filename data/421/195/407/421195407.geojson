@@ -1,0 +1,106 @@
+{
+  "id": 421195407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.16667,-16.58333,-68.16667,-16.58333",
+    "geom:latitude":-16.58333,
+    "geom:longitude":-68.16667,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Achocalla"
+    ],
+    "name:deu_x_preferred":[
+        "Achocalla"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0686\u0648\u06a9\u0627\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Achocalla"
+    ],
+    "name:nor_x_preferred":[
+        "Achocalla"
+    ],
+    "name:pol_x_preferred":[
+        "Achocalla"
+    ],
+    "name:que_x_preferred":[
+        "Achuqalla llaqta"
+    ],
+    "name:swe_x_preferred":[
+        "Achocalla"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u55ac\u5361\u4e9e"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3924569,
+    "qs:gn_pop":0,
+    "qs:name":"Achocalla",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":65,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":65,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":150830,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":346268,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3924569,
+        "gp:id":346268,
+        "qs:id":150830,
+        "wd:id":"Q340576",
+        "wk:page":"Achocalla"
+    },
+    "wof:country":"BO",
+    "wof:created":1459009847,
+    "wof:geomhash":"b5b6728e6a287c20cf5ee81680228c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":421195407,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":421195407,
+    "wof:lastmodified":1527716120,
+    "wof:name":"Achocalla",
+    "wof:parent_id":421177667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.16667,
+    -16.58333,
+    -68.16667,
+    -16.58333
+],
+  "geometry": {"coordinates":[-68.16667,-16.58333],"type":"Point"}
+}

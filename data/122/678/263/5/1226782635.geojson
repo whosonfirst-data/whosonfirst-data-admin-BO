@@ -1,0 +1,67 @@
+{
+  "id": 1226782635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.69876,-15.69207,-68.69876,-15.69207",
+    "geom:latitude":-15.69207,
+    "geom:longitude":-68.69876,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tarani",
+    "gn:country_code":"BO",
+    "gn:dem":2640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903359,
+    "gn:latitude":-15.69207,
+    "gn:longitude":-68.69876,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Tarani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421187929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903359
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"363bba9ee88c750dd625a1ca73e6d3a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187929,
+            "locality_id":1226782635,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1226782635,
+    "wof:lastmodified":1536662469,
+    "wof:name":"Tarani",
+    "wof:parent_id":421187929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.69876,
+    -15.69207,
+    -68.69876,
+    -15.69207
+],
+  "geometry": {"coordinates":[-68.69875999999999,-15.69207],"type":"Point"}
+}

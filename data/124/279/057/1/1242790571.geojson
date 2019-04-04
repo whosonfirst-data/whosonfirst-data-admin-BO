@@ -1,0 +1,72 @@
+{
+  "id": 1242790571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.17604,-18.621,-65.17604,-18.621",
+    "geom:latitude":-18.621,
+    "geom:longitude":-65.17604,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Carapiri",
+    "gn:country_code":"BO",
+    "gn:dem":1526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921999,
+    "gn:latitude":-18.621,
+    "gn:longitude":-65.17604,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Carapiri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Carapiri",
+        "Carapiri",
+        "Carapar\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921999
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b0410d1472810f69b7a3d996ceec04cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1242790571,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1242790571,
+    "wof:lastmodified":1537588128,
+    "wof:name":"Carapiri",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.17604,
+    -18.621,
+    -65.17604,
+    -18.621
+],
+  "geometry": {"coordinates":[-65.17604,-18.621],"type":"Point"}
+}

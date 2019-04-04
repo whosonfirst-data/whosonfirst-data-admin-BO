@@ -1,0 +1,67 @@
+{
+  "id": 1276253203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25,-17.28333,-69.25,-17.28333",
+    "geom:latitude":-17.28333,
+    "geom:longitude":-69.25,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Estancia Tuniri",
+    "gn:country_code":"BO",
+    "gn:dem":4093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916026,
+    "gn:latitude":-17.28333,
+    "gn:longitude":-69.25,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Tuniri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916026
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0841bc0f8198bfb9a236da306ecdff06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007133,
+            "locality_id":1276253203,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1276253203,
+    "wof:lastmodified":1536885562,
+    "wof:name":"Estancia Tuniri",
+    "wof:parent_id":1092007133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25,
+    -17.28333,
+    -69.25,
+    -17.28333
+],
+  "geometry": {"coordinates":[-69.25,-17.28333],"type":"Point"}
+}

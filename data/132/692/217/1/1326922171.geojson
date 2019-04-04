@@ -1,0 +1,73 @@
+{
+  "id": 1326922171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.24572,-21.68934,-66.24572,-21.68934",
+    "geom:latitude":-21.68934,
+    "geom:longitude":-66.24572,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tres Cruces",
+    "gn:country_code":"BO",
+    "gn:dem":3654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3902424,
+    "gn:latitude":-21.68934,
+    "gn:longitude":-66.24572,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Tres Cruces",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Kimsa Kurusati"
+    ],
+    "name:spa_x_preferred":[
+        "Tres Cruces"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902424
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e52edd26fa3886505809aa5ff8f10a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":1326922171,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1326922171,
+    "wof:lastmodified":1537587924,
+    "wof:name":"Tres Cruces",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.24571999999999,
+    -21.68934,
+    -66.24571999999999,
+    -21.68934
+],
+  "geometry": {"coordinates":[-66.24571999999999,-21.68934],"type":"Point"}
+}

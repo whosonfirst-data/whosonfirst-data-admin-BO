@@ -1,0 +1,67 @@
+{
+  "id": 1226039709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.48333,-20.6,-65.48333,-20.6",
+    "geom:latitude":-20.6,
+    "geom:longitude":-65.48333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ara",
+    "gn:country_code":"BO",
+    "gn:dem":2879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923789,
+    "gn:latitude":-20.6,
+    "gn:longitude":-65.48333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Ara",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923789
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7640b77ce1348e6780e3ca807b3d8872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1226039709,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1226039709,
+    "wof:lastmodified":1536734103,
+    "wof:name":"Ara",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.48333000000001,
+    -20.6,
+    -65.48333000000001,
+    -20.6
+],
+  "geometry": {"coordinates":[-65.48333000000001,-20.6],"type":"Point"}
+}

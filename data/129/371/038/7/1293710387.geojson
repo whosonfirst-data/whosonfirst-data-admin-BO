@@ -1,0 +1,67 @@
+{
+  "id": 1293710387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.35,-21.75,-66.35,-21.75",
+    "geom:latitude":-21.75,
+    "geom:longitude":-66.35,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"San Agustin",
+    "gn:country_code":"BO",
+    "gn:dem":3602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905921,
+    "gn:latitude":-21.75,
+    "gn:longitude":-66.35,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"San Agust\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092009203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905921
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"306eade1f8ad62c36fcd6f142d0c3e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009203,
+            "locality_id":1293710387,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1293710387,
+    "wof:lastmodified":1536962990,
+    "wof:name":"San Agustin",
+    "wof:parent_id":1092009203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.35,
+    -21.75,
+    -66.35,
+    -21.75
+],
+  "geometry": {"coordinates":[-66.34999999999999,-21.75],"type":"Point"}
+}

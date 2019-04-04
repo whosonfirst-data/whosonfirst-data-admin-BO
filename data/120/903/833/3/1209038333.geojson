@@ -1,0 +1,61 @@
+{
+  "id": 1209038333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.83412,-18.01486,-67.83412,-18.01486",
+    "geom:latitude":-18.01486,
+    "geom:longitude":-67.83412,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Estancia San Jose",
+    "gn:country_code":"BO",
+    "gn:dem":3997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916300,
+    "gn:latitude":-18.01486,
+    "gn:longitude":-67.83412,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia San Jose",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916300
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"fcea18bbd57515717fc8d511d24bb8da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209038333
+        }
+    ],
+    "wof:id":1209038333,
+    "wof:lastmodified":1536299627,
+    "wof:name":"Estancia San Jose",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.83412,
+    -18.01486,
+    -67.83412,
+    -18.01486
+],
+  "geometry": {"coordinates":[-67.83412,-18.01486],"type":"Point"}
+}

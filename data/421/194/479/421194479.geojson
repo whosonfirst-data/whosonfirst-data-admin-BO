@@ -1,0 +1,105 @@
+{
+  "id": 421194479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.55,-16.95,-67.55,-16.95",
+    "geom:latitude":-16.95,
+    "geom:longitude":-67.55,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Viloco"
+    ],
+    "name:deu_x_preferred":[
+        "Viloco"
+    ],
+    "name:dut_x_preferred":[
+        "Viloco"
+    ],
+    "name:eng_x_preferred":[
+        "Viloco"
+    ],
+    "name:ger_x_preferred":[
+        "Viloco"
+    ],
+    "name:spa_x_preferred":[
+        "Viloco"
+    ],
+    "name:swe_x_preferred":[
+        "Viloco"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3901485,
+    "qs:gn_pop":1900,
+    "qs:name":"Viloco",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1205474,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":345758,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-16.931111,
+    "wd:longitude":-67.561667,
+    "wd:wordcount":75,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901485,
+        "gp:id":345758,
+        "qs:id":1205474,
+        "wd:id":"Q2526299",
+        "wk:page":"Viloco"
+    },
+    "wof:country":"BO",
+    "wof:created":1459009807,
+    "wof:geomhash":"b2815832b30e8606aa3ef2a9d54903c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182435,
+            "locality_id":421194479,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":421194479,
+    "wof:lastmodified":1527716129,
+    "wof:name":"Viloco",
+    "wof:parent_id":421182435,
+    "wof:placetype":"locality",
+    "wof:population":1900,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.55,
+    -16.95,
+    -67.55,
+    -16.95
+],
+  "geometry": {"coordinates":[-67.55,-16.95],"type":"Point"}
+}

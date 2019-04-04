@@ -1,0 +1,73 @@
+{
+  "id": 1276663695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.23333,-16.25,-68.23333,-16.25",
+    "geom:latitude":-16.25,
+    "geom:longitude":-68.23333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"La Union",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911669,
+    "gn:latitude":-16.25,
+    "gn:longitude":-68.23333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Uni\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campamento La Uni\u00f3n",
+        "Mina La Union",
+        "La Uni\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421197575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911669
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"dbdb60fff040f0709dc20c0b2015d1c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197575,
+            "locality_id":1276663695,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1276663695,
+    "wof:lastmodified":1537588027,
+    "wof:name":"La Union",
+    "wof:parent_id":421197575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.23333000000001,
+    -16.25,
+    -68.23333000000001,
+    -16.25
+],
+  "geometry": {"coordinates":[-68.23333000000001,-16.25],"type":"Point"}
+}

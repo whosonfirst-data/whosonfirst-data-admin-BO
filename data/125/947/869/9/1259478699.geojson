@@ -1,0 +1,73 @@
+{
+  "id": 1259478699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.26667,-17.7,-60.26667,-17.7",
+    "geom:latitude":-17.7,
+    "geom:longitude":-60.26667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zapalluca",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3900816,
+    "gn:latitude":-17.7,
+    "gn:longitude":-60.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zapalluca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zapallaca",
+        "Zacavaca",
+        "Zapalluca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3900816
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"254ce8fb158f24fe874713bed1007755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009543,
+            "locality_id":1259478699,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1259478699,
+    "wof:lastmodified":1537587903,
+    "wof:name":"Zapalluca",
+    "wof:parent_id":1092009543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.26667,
+    -17.7,
+    -60.26667,
+    -17.7
+],
+  "geometry": {"coordinates":[-60.26667,-17.7],"type":"Point"}
+}

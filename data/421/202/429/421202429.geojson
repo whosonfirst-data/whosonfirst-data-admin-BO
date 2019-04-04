@@ -1,0 +1,89 @@
+{
+  "id": 421202429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.68108,-16.55228,-68.68108,-16.55228",
+    "geom:latitude":-16.55228,
+    "geom:longitude":-68.68108,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0443\u0430\u043d\u0430\u043a\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0438\u0430\u0443\u0430\u043d\u0430\u043a\u043e",
+        "\u0422\u0438\u0443\u0430\u043d\u0430\u043a\u0443",
+        "\u0422\u0438\u0432\u0430\u043d\u0430\u043a\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Tiahuanaco"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3902857,
+    "qs:gn_pop":0,
+    "qs:name":"Tiwanacu",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":1103,
+    "qs:photos_1k":224,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1103,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":222196,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":346647,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3902857,
+        "gp:id":346647,
+        "qs:id":222196,
+        "wd:id":"Q681960",
+        "wk:page":"Tiwanaku Municipality"
+    },
+    "wof:country":"BO",
+    "wof:created":1459010117,
+    "wof:geomhash":"e153078d141e4dad7d5c341c0de8aaea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007213,
+            "locality_id":421202429,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":421202429,
+    "wof:lastmodified":1501269211,
+    "wof:name":"Tiwanacu",
+    "wof:parent_id":1092007213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.68108,
+    -16.55228,
+    -68.68108,
+    -16.55228
+],
+  "geometry": {"coordinates":[-68.68107999999999,-16.55228],"type":"Point"}
+}

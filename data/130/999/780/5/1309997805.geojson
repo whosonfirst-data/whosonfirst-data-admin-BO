@@ -1,0 +1,71 @@
+{
+  "id": 1309997805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.26376,-19.7727,-65.26376,-19.7727",
+    "geom:latitude":-19.7727,
+    "geom:longitude":-65.26376,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chumasi",
+    "gn:country_code":"BO",
+    "gn:dem":2892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920236,
+    "gn:latitude":-19.7727,
+    "gn:longitude":-65.26376,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Chumasi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Yumasi",
+        "Chumasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920236
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"86dfe5956661ffa99907b8a05721f11e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008991,
+            "locality_id":1309997805,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1309997805,
+    "wof:lastmodified":1537588106,
+    "wof:name":"Chumasi",
+    "wof:parent_id":1092008991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.26375999999999,
+    -19.7727,
+    -65.26375999999999,
+    -19.7727
+],
+  "geometry": {"coordinates":[-65.26375999999999,-19.7727],"type":"Point"}
+}

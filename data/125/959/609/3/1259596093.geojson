@@ -1,0 +1,67 @@
+{
+  "id": 1259596093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.6,-17.38333,-65.6,-17.38333",
+    "geom:latitude":-17.38333,
+    "geom:longitude":-65.6,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tauca",
+    "gn:country_code":"BO",
+    "gn:dem":3717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903252,
+    "gn:latitude":-17.38333,
+    "gn:longitude":-65.6,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Tauca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903252
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"620ed6aeda2c226bdfeaa257011c2f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006851,
+            "locality_id":1259596093,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1259596093,
+    "wof:lastmodified":1536696768,
+    "wof:name":"Tauca",
+    "wof:parent_id":1092006851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.6,
+    -17.38332999999999,
+    -65.6,
+    -17.38332999999999
+],
+  "geometry": {"coordinates":[-65.59999999999999,-17.38332999999999],"type":"Point"}
+}

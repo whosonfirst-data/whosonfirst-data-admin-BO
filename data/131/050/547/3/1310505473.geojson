@@ -1,0 +1,71 @@
+{
+  "id": 1310505473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.17909,-18.89805,-65.17909,-18.89805",
+    "geom:latitude":-18.89805,
+    "geom:longitude":-65.17909,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bella Vista",
+    "gn:country_code":"BO",
+    "gn:dem":2077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923193,
+    "gn:latitude":-18.89805,
+    "gn:longitude":-65.17909,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Bella Vista",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Bella Vista",
+        "Bella Vista"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923193
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"dcca8ae6aab35a5685298bc98fd937b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1310505473,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1310505473,
+    "wof:lastmodified":1537588144,
+    "wof:name":"Bella Vista",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.17909,
+    -18.89805,
+    -65.17909,
+    -18.89805
+],
+  "geometry": {"coordinates":[-65.17909,-18.89805],"type":"Point"}
+}

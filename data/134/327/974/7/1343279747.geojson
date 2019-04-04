@@ -1,0 +1,67 @@
+{
+  "id": 1343279747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.51156,-18.52994,-65.51156,-18.52994",
+    "geom:latitude":-18.52994,
+    "geom:longitude":-65.51156,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Estancia Uli Pampa",
+    "gn:country_code":"BO",
+    "gn:dem":2745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916016,
+    "gn:latitude":-18.52994,
+    "gn:longitude":-65.51156,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Uli Pampa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916016
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8301bf89158c3bb3e0096df839671402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1343279747,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1343279747,
+    "wof:lastmodified":1537006345,
+    "wof:name":"Estancia Uli Pampa",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.51156,
+    -18.52994,
+    -65.51156,
+    -18.52994
+],
+  "geometry": {"coordinates":[-65.51156,-18.52994],"type":"Point"}
+}

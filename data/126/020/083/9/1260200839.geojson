@@ -1,0 +1,67 @@
+{
+  "id": 1260200839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.0537,-19.23395,-65.0537,-19.23395",
+    "geom:latitude":-19.23395,
+    "geom:longitude":-65.0537,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Comunidad Chamicle",
+    "gn:country_code":"BO",
+    "gn:dem":2671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3970222,
+    "gn:latitude":-19.23395,
+    "gn:longitude":-65.0537,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Comunidad Chamicle",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421188855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3970222
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d7ddd6fecf28729856040ee3cf4f12f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421188855,
+            "locality_id":1260200839,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1260200839,
+    "wof:lastmodified":1536823284,
+    "wof:name":"Comunidad Chamicle",
+    "wof:parent_id":421188855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.0537,
+    -19.23395,
+    -65.0537,
+    -19.23395
+],
+  "geometry": {"coordinates":[-65.05370000000001,-19.23395],"type":"Point"}
+}

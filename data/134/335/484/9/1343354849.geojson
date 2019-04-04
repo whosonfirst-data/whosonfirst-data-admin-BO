@@ -1,0 +1,70 @@
+{
+  "id": 1343354849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.34716,-10.65765,-67.34716,-10.65765",
+    "geom:latitude":-10.65765,
+    "geom:longitude":-67.34716,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tenaco",
+    "gn:country_code":"BO",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11508100,
+    "gn:latitude":-10.65765,
+    "gn:longitude":-67.34716,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tenaco",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tenaco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11508100
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0f6c5d64bfc3ed624da45e37098957e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008329,
+            "locality_id":1343354849,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1343354849,
+    "wof:lastmodified":1537588191,
+    "wof:name":"Tenaco",
+    "wof:parent_id":1092008329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.34716,
+    -10.65765,
+    -67.34716,
+    -10.65765
+],
+  "geometry": {"coordinates":[-67.34716,-10.65765],"type":"Point"}
+}

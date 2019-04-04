@@ -1,0 +1,67 @@
+{
+  "id": 1293403723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.67557,-19.99515,-64.67557,-19.99515",
+    "geom:latitude":-19.99515,
+    "geom:longitude":-64.67557,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Comunidad Molle Molle",
+    "gn:country_code":"BO",
+    "gn:dem":2341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919519,
+    "gn:latitude":-19.99515,
+    "gn:longitude":-64.67557,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Comunidad Molle Molle",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919519
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8460f7c9bd26d4c8f6d5e2bec7ceab0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006003,
+            "locality_id":1293403723,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1293403723,
+    "wof:lastmodified":1536907975,
+    "wof:name":"Comunidad Molle Molle",
+    "wof:parent_id":1092006003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.67557,
+    -19.99515,
+    -64.67557,
+    -19.99515
+],
+  "geometry": {"coordinates":[-64.67556999999999,-19.99515],"type":"Point"}
+}

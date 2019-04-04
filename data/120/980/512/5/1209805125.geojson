@@ -1,0 +1,71 @@
+{
+  "id": 1209805125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.69963,-20.99874,-64.69963,-20.99874",
+    "geom:latitude":-20.99874,
+    "geom:longitude":-64.69963,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jarca",
+    "gn:country_code":"BO",
+    "gn:dem":2326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913553,
+    "gn:latitude":-20.99874,
+    "gn:longitude":-64.69963,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Jarca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Jarca Cancha",
+        "Jarca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        1092010287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913553
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b95b8f2261774bb6a58cd3346a512efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010287,
+            "locality_id":1209805125,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1209805125,
+    "wof:lastmodified":1537588049,
+    "wof:name":"Jarca",
+    "wof:parent_id":1092010287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.69963,
+    -20.99874,
+    -64.69963,
+    -20.99874
+],
+  "geometry": {"coordinates":[-64.69963,-20.99874],"type":"Point"}
+}

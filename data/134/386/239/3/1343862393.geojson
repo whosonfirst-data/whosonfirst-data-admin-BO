@@ -1,0 +1,67 @@
+{
+  "id": 1343862393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.53141,-19.24145,-64.53141,-19.24145",
+    "geom:latitude":-19.24145,
+    "geom:longitude":-64.53141,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Estancia Pajcha Pata",
+    "gn:country_code":"BO",
+    "gn:dem":2498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916563,
+    "gn:latitude":-19.24145,
+    "gn:longitude":-64.53141,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Pajcha Pata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421169227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916563
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"168079153585815b7c52a6ec68b717db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169227,
+            "locality_id":1343862393,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1343862393,
+    "wof:lastmodified":1536663798,
+    "wof:name":"Estancia Pajcha Pata",
+    "wof:parent_id":421169227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.53141,
+    -19.24145,
+    -64.53141,
+    -19.24145
+],
+  "geometry": {"coordinates":[-64.53140999999999,-19.24145],"type":"Point"}
+}

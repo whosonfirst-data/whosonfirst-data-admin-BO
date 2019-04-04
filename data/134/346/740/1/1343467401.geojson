@@ -1,0 +1,72 @@
+{
+  "id": 1343467401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.61667,-17.83333,-66.61667,-17.83333",
+    "geom:latitude":-17.83333,
+    "geom:longitude":-66.61667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kollpa",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912558,
+    "gn:latitude":-17.83333,
+    "gn:longitude":-66.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kollpa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Suntura",
+        "Kollpa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912558
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8f0119b627e7b82120b78ca6dd398675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006343,
+            "locality_id":1343467401,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1343467401,
+    "wof:lastmodified":1537588039,
+    "wof:name":"Kollpa",
+    "wof:parent_id":1092006343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.61667,
+    -17.83333,
+    -66.61667,
+    -17.83333
+],
+  "geometry": {"coordinates":[-66.61667,-17.83333],"type":"Point"}
+}

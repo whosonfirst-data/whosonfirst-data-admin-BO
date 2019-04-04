@@ -1,0 +1,62 @@
+{
+  "id": 1209096853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.90666,-16.32619,-62.90666,-16.32619",
+    "geom:latitude":-16.32619,
+    "geom:longitude":-62.90666,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Puente",
+    "gn:country_code":"BO",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918100,
+    "gn:latitude":-16.32619,
+    "gn:longitude":-62.90666,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"El Puente",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918100,
+        "wk:page":"El_Puente_%28Guarayos%29"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4d98d10bac08df4af202c1527a7a5390",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209096853
+        }
+    ],
+    "wof:id":1209096853,
+    "wof:lastmodified":1537487922,
+    "wof:name":"El Puente",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.90666,
+    -16.32619,
+    -62.90666,
+    -16.32619
+],
+  "geometry": {"coordinates":[-62.90666,-16.32619],"type":"Point"}
+}

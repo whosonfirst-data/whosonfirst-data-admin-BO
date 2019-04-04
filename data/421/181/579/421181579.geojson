@@ -1,0 +1,207 @@
+{
+  "id": 421181579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.75,-17.85,-60.75,-17.85",
+    "geom:latitude":-17.85,
+    "geom:longitude":-60.75,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u0648\u0633\u064a\u0647 \u062f\u064a \u062a\u0634\u064a\u0643\u064a\u062a\u0648\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u099c\u09c1\u09b8\u09c7 \u09a1\u09bf \u099a\u09bf\u0995\u09cb\u0987\u09a4\u09cb\u09b8"
+    ],
+    "name:ceb_x_preferred":[
+        "San Jos\u00e9 de Chiquitos"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u4f55\u585e\u5fb7\u5947\u57fa\u6258\u65af"
+    ],
+    "name:dan_x_preferred":[
+        "San Jos\u00e9 de Chiquitos"
+    ],
+    "name:deu_x_preferred":[
+        "San Jos\u00e9 de Chiquitos"
+    ],
+    "name:dut_x_preferred":[
+        "San Jos\u00e9 de Chiquitos"
+    ],
+    "name:eng_x_preferred":[
+        "San Jos\u00e9 de Chiquitos"
+    ],
+    "name:fin_x_preferred":[
+        "San Jos\u00e9 de Chiquitos"
+    ],
+    "name:fra_x_preferred":[
+        "San Jos\u00e9 de Chiquitos"
+    ],
+    "name:fre_x_preferred":[
+        "San Jos\u00e9 de Chiquitos"
+    ],
+    "name:ger_x_preferred":[
+        "San Jos\u00e9 de Chiquitos"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c3\u03ad \u03bd\u03c4\u03b5 \u03a4\u03c3\u03b9\u03ba\u03bf\u03c5\u03af\u03c4\u03bf\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0aa8 \u0a9c\u0acb\u0ab8 \u0aa1\u0ac7 \u0a9a\u0abf\u0a95\u0acd\u0ab5\u0abf\u0a9f\u0acb\u0ab8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u0939\u094b\u0938\u0947 \u0926\u0947 \u091a\u093f\u0915\u0940\u091f\u094b\u091c\u093c"
+    ],
+    "name:ind_x_preferred":[
+        "San Jos\u00e9 de Chiquitos"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9 de Chiquitos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30db\u30bb\u30fb\u30c7\u30fb\u30c1\u30ad\u30c8\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0c9c\u0ccb\u0cb8\u0ccd \u0ca1\u0cbf \u0c9a\u0cc1\u0c95\u0ccd\u0cb5\u0cbf\u0c9f\u0ccb\u0cb8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0 \ud638\uc138 \ub370 \uce58\ud0a4\ud1a0\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Sanhos\u0113 de \u010cikitos"
+    ],
+    "name:lit_x_preferred":[
+        "San Chos\u0117 de \u010cikitosas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0945\u0928 \u0939\u094b\u091d \u0921\u0940 \u091a\u093f\u0915\u094d\u0924\u093f\u0913\u0938"
+    ],
+    "name:may_x_preferred":[
+        "San Jose de Chiquitos"
+    ],
+    "name:nob_x_preferred":[
+        "San Jose de Chiquitos"
+    ],
+    "name:pol_x_preferred":[
+        "San Jos\u00e9 de Chiquitos"
+    ],
+    "name:por_x_preferred":[
+        "San Jos\u00e9 de Chiquitos"
+    ],
+    "name:que_x_preferred":[
+        "San Jos\u00e9 Chikitus"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435-\u0434\u0435-\u0427\u0438\u043a\u0438\u0442\u043e\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca \u0da2\u0ddc\u0dc3\u0dda \u0da9\u0dd2 \u0da0\u0dd2\u0d9a\u0dd2\u0da7\u0ddd\u0dc3\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 de Chiquitos"
+    ],
+    "name:swe_x_preferred":[
+        "San Jos\u00e9 de Chiquitos"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd  \u0b9c\u0bcb\u0bb8\u0bcd \u0b9f\u0bc7  \u0b9a\u0bbf\u0b95\u0bc1\u0baf\u0bcd\u0b9f\u0bcd\u0b9f\u0bcb\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c36\u0c3e\u0c28\u0c4d \u0c1c\u0c4b\u0c38\u0c4d \u0c21\u0c3f \u0c1a\u0c3f\u0c15\u0c3f\u0c1f\u0c4b\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19 \u0e42\u0e08\u0e40\u0e0b\u0e48 \u0e40\u0e14\u0e2d \u0e0a\u0e34\u0e04\u0e27\u0e34\u0e17\u0e2d\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "San Jos\u00e9 de Chiquitos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435-\u0434\u0435-\u0427\u0456\u043a\u0456\u043e\u0442\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "San Jos\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0646 \u062c\u0648\u0633\u06cc \u062f\u06d2 \u0686\u06cc\u0642\u0648\u06cc\u062a\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "San Jos\u00e9 de Chiquitos"
+    ],
+    "name:war_x_preferred":[
+        "San Jos\u00e9 de Chiquitos"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f55\u585e\u5fb7\u5947\u57fa\u6258\u65af"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3905542,
+    "qs:gn_pop":0,
+    "qs:name":"San Jos\u00e9 de Chiquitos",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"Santa Cruz",
+    "qs:photos":21,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":21,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":495134,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":346100,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-17.85,
+    "wd:longitude":-60.75,
+    "wd:wordcount":74,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905542,
+        "gp:id":346100,
+        "qs:id":495134,
+        "wd:id":"Q2143101",
+        "wk:page":"San Jos\u00e9 de Chiquitos"
+    },
+    "wof:country":"BO",
+    "wof:created":1459009300,
+    "wof:geomhash":"c7c797ddaae72bd4aa11673766dedb1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009543,
+            "locality_id":421181579,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":421181579,
+    "wof:lastmodified":1527716333,
+    "wof:name":"San Jos\u00e9 de Chiquitos",
+    "wof:parent_id":1092009543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.75,
+    -17.85,
+    -60.75,
+    -17.85
+],
+  "geometry": {"coordinates":[-60.75,-17.85],"type":"Point"}
+}

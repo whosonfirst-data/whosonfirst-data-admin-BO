@@ -1,0 +1,67 @@
+{
+  "id": 1309720643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.38855,-17.5451,-65.38855,-17.5451",
+    "geom:latitude":-17.5451,
+    "geom:longitude":-65.38855,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jatun Pampa",
+    "gn:country_code":"BO",
+    "gn:dem":3145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8354597,
+    "gn:latitude":-17.5451,
+    "gn:longitude":-65.38855,
+    "gn:modification_date":"2012-08-01",
+    "gn:name":"Jatun Pampa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8354597
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a40eb559720f89b2654fdbbc370525ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1309720643,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1309720643,
+    "wof:lastmodified":1537051601,
+    "wof:name":"Jatun Pampa",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.38855,
+    -17.5451,
+    -65.38855,
+    -17.5451
+],
+  "geometry": {"coordinates":[-65.38855,-17.5451],"type":"Point"}
+}

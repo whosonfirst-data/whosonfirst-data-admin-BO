@@ -1,0 +1,72 @@
+{
+  "id": 1226545895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.01667,-16.71667,-68.01667,-16.71667",
+    "geom:latitude":-16.71667,
+    "geom:longitude":-68.01667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guayguasi",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915344,
+    "gn:latitude":-16.71667,
+    "gn:longitude":-68.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Guayguasi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huayhuasi",
+        "Guayguasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915344
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"62d7a2f2345d831e30a4f2b21c9180e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":1226545895,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1226545895,
+    "wof:lastmodified":1537588071,
+    "wof:name":"Guayguasi",
+    "wof:parent_id":421177667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.01666999999999,
+    -16.71667,
+    -68.01666999999999,
+    -16.71667
+],
+  "geometry": {"coordinates":[-68.01666999999999,-16.71667],"type":"Point"}
+}

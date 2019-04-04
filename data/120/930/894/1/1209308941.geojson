@@ -1,0 +1,61 @@
+{
+  "id": 1209308941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.83333,-21.66667,-65.83333,-21.66667",
+    "geom:latitude":-21.66667,
+    "geom:longitude":-65.83333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ispacaya",
+    "gn:country_code":"BO",
+    "gn:dem":3064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913969,
+    "gn:latitude":-21.66667,
+    "gn:longitude":-65.83333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Ispacaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913969
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2197202465572b1b4da994f7fc1db090",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209308941
+        }
+    ],
+    "wof:id":1209308941,
+    "wof:lastmodified":1536291097,
+    "wof:name":"Ispacaya",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.83333,
+    -21.66667,
+    -65.83333,
+    -21.66667
+],
+  "geometry": {"coordinates":[-65.83333,-21.66667],"type":"Point"}
+}

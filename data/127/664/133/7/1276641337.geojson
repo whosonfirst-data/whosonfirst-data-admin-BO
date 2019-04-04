@@ -1,0 +1,74 @@
+{
+  "id": 1276641337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.38333,-18.46667,-59.38333,-18.46667",
+    "geom:latitude":-18.46667,
+    "geom:longitude":-59.38333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tapama",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3444028,
+    "gn:latitude":-18.46667,
+    "gn:longitude":-59.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tapama",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamama",
+        "Tuname",
+        "Tunama",
+        "Tapama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3444028
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"673b00d88a0ba82abcf56ae74f59320f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009543,
+            "locality_id":1276641337,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1276641337,
+    "wof:lastmodified":1537587897,
+    "wof:name":"Tapama",
+    "wof:parent_id":1092009543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.38333000000001,
+    -18.46667,
+    -59.38333000000001,
+    -18.46667
+],
+  "geometry": {"coordinates":[-59.38333000000001,-18.46667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226147071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.6,-19.13333,-64.6,-19.13333",
+    "geom:latitude":-19.13333,
+    "geom:longitude":-64.6,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Saucemayo",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904549,
+    "gn:latitude":-19.13333,
+    "gn:longitude":-64.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Saucemayo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saucemayu",
+        "Saucemayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092006241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904549
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7e4cf9e9de0c1420c0fa1dc4f1a434d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006241,
+            "locality_id":1226147071,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1226147071,
+    "wof:lastmodified":1537587951,
+    "wof:name":"Saucemayo",
+    "wof:parent_id":1092006241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.6,
+    -19.13333,
+    -64.6,
+    -19.13333
+],
+  "geometry": {"coordinates":[-64.59999999999999,-19.13333],"type":"Point"}
+}

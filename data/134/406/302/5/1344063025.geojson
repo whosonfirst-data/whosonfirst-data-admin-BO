@@ -1,0 +1,74 @@
+{
+  "id": 1344063025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.21598,-15.67165,-69.21598,-15.67165",
+    "geom:latitude":-15.67165,
+    "geom:longitude":-69.21598,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Wiquiquisa",
+    "gn:country_code":"BO",
+    "gn:dem":3839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919592,
+    "gn:latitude":-15.67165,
+    "gn:longitude":-69.21598,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Wiquiquisa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Wiquiquisa"
+    ],
+    "name:spa_x_variant":[
+        "Comunidad Huikikisa",
+        "Estancia Kuikikisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919592
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f361af6e0e3ee13aa52ca8dc0ad92d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007003,
+            "locality_id":1344063025,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1344063025,
+    "wof:lastmodified":1537588100,
+    "wof:name":"Wiquiquisa",
+    "wof:parent_id":1092007003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.21598,
+    -15.67165,
+    -69.21598,
+    -15.67165
+],
+  "geometry": {"coordinates":[-69.21598,-15.67165],"type":"Point"}
+}

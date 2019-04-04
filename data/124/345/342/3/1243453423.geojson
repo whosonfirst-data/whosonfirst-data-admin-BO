@@ -1,0 +1,72 @@
+{
+  "id": 1243453423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.81667,-19.31667,-66.81667,-19.31667",
+    "geom:latitude":-19.31667,
+    "geom:longitude":-66.81667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tacata",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903759,
+    "gn:latitude":-19.31667,
+    "gn:longitude":-66.81667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tacata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tacala",
+        "Tacata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092007777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903759
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"50c9d4d2e9efdb3c83d7424c4fb64186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007777,
+            "locality_id":1243453423,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1243453423,
+    "wof:lastmodified":1537587942,
+    "wof:name":"Tacata",
+    "wof:parent_id":1092007777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.81667,
+    -19.31667,
+    -66.81667,
+    -19.31667
+],
+  "geometry": {"coordinates":[-66.81667,-19.31667],"type":"Point"}
+}

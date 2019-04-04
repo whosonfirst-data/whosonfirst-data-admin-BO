@@ -1,0 +1,72 @@
+{
+  "id": 1293294757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.48333,-14.88333,-64.48333,-14.88333",
+    "geom:latitude":-14.88333,
+    "geom:longitude":-64.48333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Infernillo",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914190,
+    "gn:latitude":-14.88333,
+    "gn:longitude":-64.48333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Infernillo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Infiernillo",
+        "Infernillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        421191613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914190
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c0769640561682b125e03b31750baea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421191613,
+            "locality_id":1293294757,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1293294757,
+    "wof:lastmodified":1537588057,
+    "wof:name":"Infernillo",
+    "wof:parent_id":421191613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.48333000000001,
+    -14.88333,
+    -64.48333000000001,
+    -14.88333
+],
+  "geometry": {"coordinates":[-64.48333000000001,-14.88333],"type":"Point"}
+}

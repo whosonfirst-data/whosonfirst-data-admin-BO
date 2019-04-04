@@ -1,0 +1,72 @@
+{
+  "id": 1276223999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.7,-18.68333,-65.7,-18.68333",
+    "geom:latitude":-18.68333,
+    "geom:longitude":-65.7,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pitantora",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907811,
+    "gn:latitude":-18.68333,
+    "gn:longitude":-65.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pitantora",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pilantoca",
+        "Pitantora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907811
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f16e8e7149b3601421cf569e3c8ff084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008791,
+            "locality_id":1276223999,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1276223999,
+    "wof:lastmodified":1537587985,
+    "wof:name":"Pitantora",
+    "wof:parent_id":1092008791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.7,
+    -18.68333,
+    -65.7,
+    -18.68333
+],
+  "geometry": {"coordinates":[-65.7,-18.68333],"type":"Point"}
+}

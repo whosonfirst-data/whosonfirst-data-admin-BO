@@ -1,0 +1,75 @@
+{
+  "id": 1276357531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.89772,-19.49358,-65.89772,-19.49358",
+    "geom:latitude":-19.49358,
+    "geom:longitude":-65.89772,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Paco Grande",
+    "gn:country_code":"BO",
+    "gn:dem":3895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909092,
+    "gn:latitude":-19.49358,
+    "gn:longitude":-65.89772,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Paco Grande",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paco Grande"
+    ],
+    "name:und_x_variant":[
+        "Estancia Paco Grande",
+        "Paco",
+        "Mina Paco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909092
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"80c4d6e44a7aec6056a61ec88bc34be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177665,
+            "locality_id":1276357531,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1276357531,
+    "wof:lastmodified":1537587999,
+    "wof:name":"Paco Grande",
+    "wof:parent_id":421177665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.89771999999999,
+    -19.49358,
+    -65.89771999999999,
+    -19.49358
+],
+  "geometry": {"coordinates":[-65.89771999999999,-19.49358],"type":"Point"}
+}

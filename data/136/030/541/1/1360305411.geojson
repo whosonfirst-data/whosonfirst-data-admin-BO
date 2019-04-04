@@ -1,0 +1,72 @@
+{
+  "id": 1360305411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.01667,-16.31667,-61.01667,-16.31667",
+    "geom:latitude":-16.31667,
+    "geom:longitude":-61.01667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"San Lorencito",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905441,
+    "gn:latitude":-16.31667,
+    "gn:longitude":-61.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Lorencito",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia San Lorencito",
+        "San Lorencito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905441
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"260c8ec2feccfe575d91eea5d63ca5ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1360305411,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1360305411,
+    "wof:lastmodified":1537587958,
+    "wof:name":"San Lorencito",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.01667,
+    -16.31667,
+    -61.01667,
+    -16.31667
+],
+  "geometry": {"coordinates":[-61.01667,-16.31667],"type":"Point"}
+}

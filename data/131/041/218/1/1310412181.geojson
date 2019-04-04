@@ -1,0 +1,67 @@
+{
+  "id": 1310412181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.63333,-16.63333,-67.63333,-16.63333",
+    "geom:latitude":-16.63333,
+    "geom:longitude":-67.63333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pariguaya",
+    "gn:country_code":"BO",
+    "gn:dem":2363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908463,
+    "gn:latitude":-16.63333,
+    "gn:longitude":-67.63333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Pariguaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421168083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908463
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c9ff0f20e26c00bd1c4dfbd256a7a15f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421168083,
+            "locality_id":1310412181,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1310412181,
+    "wof:lastmodified":1537049505,
+    "wof:name":"Pariguaya",
+    "wof:parent_id":421168083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.63333,
+    -16.63332999999999,
+    -67.63333,
+    -16.63332999999999
+],
+  "geometry": {"coordinates":[-67.63333,-16.63332999999999],"type":"Point"}
+}

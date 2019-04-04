@@ -1,0 +1,67 @@
+{
+  "id": 1310406077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.93333,-17.25,-68.93333,-17.25",
+    "geom:latitude":-17.25,
+    "geom:longitude":-68.93333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Estancia Lanquiri",
+    "gn:country_code":"BO",
+    "gn:dem":3968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916802,
+    "gn:latitude":-17.25,
+    "gn:longitude":-68.93333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Lanquiri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916802
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"fb1812826cfae2e0be27e7bdd8a89403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1310406077,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1310406077,
+    "wof:lastmodified":1537057917,
+    "wof:name":"Estancia Lanquiri",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.93333,
+    -17.25,
+    -68.93333,
+    -17.25
+],
+  "geometry": {"coordinates":[-68.93333,-17.25],"type":"Point"}
+}

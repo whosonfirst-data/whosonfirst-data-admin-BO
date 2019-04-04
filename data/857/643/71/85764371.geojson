@@ -1,0 +1,111 @@
+{
+  "id": 85764371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":7268078.524798,
+    "geom:bbox":"-68.166103,-16.482549,-68.166103,-16.482549",
+    "geom:latitude":-16.482549,
+    "geom:longitude":-68.166103,
+    "gn:latitude":-16.48333,
+    "gn:longitude":-68.16667,
+    "iso:country":"BO",
+    "lbl:latitude":-16.482549,
+    "lbl:longitude":-68.166103,
+    "mps:latitude":-16.474378,
+    "mps:longitude":-68.170028,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "Pura Pura"
+    ],
+    "name:unk_x_variant":[
+        "Pura Pura"
+    ],
+    "qs:gn_adm0_cc":"BO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3911925,
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Pura Pura",
+    "qs:local_max":3411,
+    "qs:local_sum":7300,
+    "qs:localhoods":7,
+    "qs:name":"Pura Pura",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"La Paz",
+    "qs:name_adm2":"Pedro Domingo Murillo",
+    "qs:name_lau":"La Paz",
+    "qs:name_local":"La Paz",
+    "qs:photo_max":13,
+    "qs:photo_sum":25,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424762,
+    "qs:woe_adm1":2344804,
+    "qs:woe_adm2":55967857,
+    "qs:woe_lau":55968149,
+    "qs:woe_local":346057,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85669409,
+        102191577,
+        85632623,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907020,
+        "gp:id":342835,
+        "qs:id":887586
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0f1185a3ce59a2b06e30db7fb2314fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":-1,
+            "neighbourhood_id":85764371,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":85764371,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379236,
+    "wof:name":"Pura Pura",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[
+        1126109791
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.166103,
+    -16.482549,
+    -68.166103,
+    -16.482549
+],
+  "geometry": {"coordinates":[-68.16610300000001,-16.482549],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209336547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.66534,-10.67328,-67.66534,-10.67328",
+    "geom:latitude":-10.67328,
+    "geom:longitude":-67.66534,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"La Union",
+    "gn:country_code":"BO",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504047,
+    "gn:latitude":-10.67328,
+    "gn:longitude":-67.66534,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"La Uni\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Uni\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504047
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d8bd2606a695a3a8ec6464a8f616d2ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209336547
+        }
+    ],
+    "wof:id":1209336547,
+    "wof:lastmodified":1537588183,
+    "wof:name":"La Union",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.66534,
+    -10.67328,
+    -67.66534,
+    -10.67328
+],
+  "geometry": {"coordinates":[-67.66534,-10.67328],"type":"Point"}
+}

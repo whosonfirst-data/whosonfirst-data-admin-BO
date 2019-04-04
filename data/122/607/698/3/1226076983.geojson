@@ -1,0 +1,71 @@
+{
+  "id": 1226076983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.98033,-19.72639,-67.98033,-19.72639",
+    "geom:latitude":-19.72639,
+    "geom:longitude":-67.98033,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mira Flores",
+    "gn:country_code":"BO",
+    "gn:dem":3824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910333,
+    "gn:latitude":-19.72639,
+    "gn:longitude":-67.98033,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Mira Flores",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Mikh Flores",
+        "Mira Flores"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910333
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"be3307fbab1068f993b70c6dbf0543fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177659,
+            "locality_id":1226076983,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1226076983,
+    "wof:lastmodified":1537588013,
+    "wof:name":"Mira Flores",
+    "wof:parent_id":421177659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.98033000000001,
+    -19.72639,
+    -67.98033000000001,
+    -19.72639
+],
+  "geometry": {"coordinates":[-67.98033000000001,-19.72639],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243075065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.51667,-12.53333,-66.51667,-12.53333",
+    "geom:latitude":-12.53333,
+    "geom:longitude":-66.51667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Borochi",
+    "gn:country_code":"BO",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923032,
+    "gn:latitude":-12.53333,
+    "gn:longitude":-66.51667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Borochi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923032
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"66c0979be0b9c66e07dcd05852f7f171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005669,
+            "locality_id":1243075065,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1243075065,
+    "wof:lastmodified":1536842800,
+    "wof:name":"Borochi",
+    "wof:parent_id":1092005669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.51666999999999,
+    -12.53333,
+    -66.51666999999999,
+    -12.53333
+],
+  "geometry": {"coordinates":[-66.51666999999999,-12.53333],"type":"Point"}
+}

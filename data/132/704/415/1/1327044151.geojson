@@ -1,0 +1,67 @@
+{
+  "id": 1327044151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.68333,-20.63333,-63.68333,-20.63333",
+    "geom:latitude":-20.63333,
+    "geom:longitude":-63.68333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Carantani",
+    "gn:country_code":"BO",
+    "gn:dem":1351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922023,
+    "gn:latitude":-20.63333,
+    "gn:longitude":-63.68333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Carantani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922023
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"54e189929d85ac892e46ece0426e37cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005959,
+            "locality_id":1327044151,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1327044151,
+    "wof:lastmodified":1536743158,
+    "wof:name":"Carantani",
+    "wof:parent_id":1092005959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.68333000000001,
+    -20.63333,
+    -63.68333000000001,
+    -20.63333
+],
+  "geometry": {"coordinates":[-63.68333000000001,-20.63333],"type":"Point"}
+}

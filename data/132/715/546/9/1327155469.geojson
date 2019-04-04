@@ -1,0 +1,67 @@
+{
+  "id": 1327155469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.77578,-20.58263,-65.77578,-20.58263",
+    "geom:latitude":-20.58263,
+    "geom:longitude":-65.77578,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Estancia Palca",
+    "gn:country_code":"BO",
+    "gn:dem":3143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916552,
+    "gn:latitude":-20.58263,
+    "gn:longitude":-65.77578,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Palca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916552
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"92136e7389c06d571ae90e7d35d2c6bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1327155469,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1327155469,
+    "wof:lastmodified":1537077585,
+    "wof:name":"Estancia Palca",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.77578000000001,
+    -20.58263,
+    -65.77578000000001,
+    -20.58263
+],
+  "geometry": {"coordinates":[-65.77578000000001,-20.58263],"type":"Point"}
+}

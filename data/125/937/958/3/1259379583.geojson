@@ -1,0 +1,73 @@
+{
+  "id": 1259379583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.5,-19.71667,-68.5,-19.71667",
+    "geom:latitude":-19.71667,
+    "geom:longitude":-68.5,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chacmuco",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921519,
+    "gn:latitude":-19.71667,
+    "gn:longitude":-68.5,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chacmuco",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaimuco",
+        "Chajmuco",
+        "Chacmuco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921519
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"bd4e3d4adccd600c10f5da400c87eaf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177659,
+            "locality_id":1259379583,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1259379583,
+    "wof:lastmodified":1537588121,
+    "wof:name":"Chacmuco",
+    "wof:parent_id":421177659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.5,
+    -19.71667,
+    -68.5,
+    -19.71667
+],
+  "geometry": {"coordinates":[-68.5,-19.71667],"type":"Point"}
+}

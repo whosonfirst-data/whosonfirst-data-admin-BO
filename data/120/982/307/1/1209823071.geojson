@@ -1,0 +1,67 @@
+{
+  "id": 1209823071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.15,-11.23333,-66.15,-11.23333",
+    "geom:latitude":-11.23333,
+    "geom:longitude":-66.15,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pailon",
+    "gn:country_code":"BO",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909013,
+    "gn:latitude":-11.23333,
+    "gn:longitude":-66.15,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Pail\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909013
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ccdbff76cb4c5e076082784514f43831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005877,
+            "locality_id":1209823071,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1209823071,
+    "wof:lastmodified":1536376652,
+    "wof:name":"Pailon",
+    "wof:parent_id":1092005877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.15,
+    -11.23333,
+    -66.15,
+    -11.23333
+],
+  "geometry": {"coordinates":[-66.15000000000001,-11.23333],"type":"Point"}
+}

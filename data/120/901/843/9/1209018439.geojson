@@ -1,0 +1,61 @@
+{
+  "id": 1209018439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.38333,-20.13333,-64.38333,-20.13333",
+    "geom:latitude":-20.13333,
+    "geom:longitude":-64.38333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pichacani",
+    "gn:country_code":"BO",
+    "gn:dem":2484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908017,
+    "gn:latitude":-20.13333,
+    "gn:longitude":-64.38333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Pichacani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908017
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8004671ea7b4e6ad57dc3dbca2665d33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209018439
+        }
+    ],
+    "wof:id":1209018439,
+    "wof:lastmodified":1536300221,
+    "wof:name":"Pichacani",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.38333,
+    -20.13333,
+    -64.38333,
+    -20.13333
+],
+  "geometry": {"coordinates":[-64.38333,-20.13333],"type":"Point"}
+}

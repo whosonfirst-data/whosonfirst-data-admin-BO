@@ -1,0 +1,67 @@
+{
+  "id": 1242589289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.51667,-14.4,-67.51667,-14.4",
+    "geom:latitude":-14.4,
+    "geom:longitude":-67.51667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pascana San Borja",
+    "gn:country_code":"BO",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908397,
+    "gn:latitude":-14.4,
+    "gn:longitude":-67.51667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Pascana San Borja",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908397
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2038c96bbef510d0468c511ec0feb764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005669,
+            "locality_id":1242589289,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1242589289,
+    "wof:lastmodified":1537044884,
+    "wof:name":"Pascana San Borja",
+    "wof:parent_id":1092005669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.51666999999999,
+    -14.4,
+    -67.51666999999999,
+    -14.4
+],
+  "geometry": {"coordinates":[-67.51666999999999,-14.4],"type":"Point"}
+}

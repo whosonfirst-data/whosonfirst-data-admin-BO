@@ -1,0 +1,67 @@
+{
+  "id": 1292915159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.11667,-14.48333,-63.11667,-14.48333",
+    "geom:latitude":-14.48333,
+    "geom:longitude":-63.11667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Puerto Luis",
+    "gn:country_code":"BO",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907218,
+    "gn:latitude":-14.48333,
+    "gn:longitude":-63.11667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Puerto Luis",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907218
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"88cb3b8b2ef9d211cc28ae806084b70f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009737,
+            "locality_id":1292915159,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1292915159,
+    "wof:lastmodified":1536615686,
+    "wof:name":"Puerto Luis",
+    "wof:parent_id":1092009737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.11666999999999,
+    -14.48333,
+    -63.11666999999999,
+    -14.48333
+],
+  "geometry": {"coordinates":[-63.11666999999999,-14.48333],"type":"Point"}
+}

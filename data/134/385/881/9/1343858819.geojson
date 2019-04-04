@@ -1,0 +1,67 @@
+{
+  "id": 1343858819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.45,-15.68333,-68.45,-15.68333",
+    "geom:latitude":-15.68333,
+    "geom:longitude":-68.45,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pampana",
+    "gn:country_code":"BO",
+    "gn:dem":3318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908652,
+    "gn:latitude":-15.68333,
+    "gn:longitude":-68.45,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Pampana",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421187929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908652
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"c49ba2acba3e23ce5d0e31efc6062991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187929,
+            "locality_id":1343858819,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1343858819,
+    "wof:lastmodified":1536668977,
+    "wof:name":"Pampana",
+    "wof:parent_id":421187929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.45,
+    -15.68333,
+    -68.45,
+    -15.68333
+],
+  "geometry": {"coordinates":[-68.45,-15.68333],"type":"Point"}
+}

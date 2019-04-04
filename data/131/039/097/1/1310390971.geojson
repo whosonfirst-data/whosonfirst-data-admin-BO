@@ -1,0 +1,67 @@
+{
+  "id": 1310390971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.98333,-17.33333,-60.98333,-17.33333",
+    "geom:latitude":-17.33333,
+    "geom:longitude":-60.98333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Guanema",
+    "gn:country_code":"BO",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915428,
+    "gn:latitude":-17.33333,
+    "gn:longitude":-60.98333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Guanema",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915428
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"88e9182e7df9966e7db6cf99663dd528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009543,
+            "locality_id":1310390971,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1310390971,
+    "wof:lastmodified":1537079071,
+    "wof:name":"Guanema",
+    "wof:parent_id":1092009543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.98333,
+    -17.33333,
+    -60.98333,
+    -17.33333
+],
+  "geometry": {"coordinates":[-60.98333,-17.33333],"type":"Point"}
+}

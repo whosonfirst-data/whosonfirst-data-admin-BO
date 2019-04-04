@@ -1,0 +1,71 @@
+{
+  "id": 1226263819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.90766,-18.94146,-65.90766,-18.94146",
+    "geom:latitude":-18.94146,
+    "geom:longitude":-65.90766,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Llavisa",
+    "gn:country_code":"BO",
+    "gn:dem":4364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911341,
+    "gn:latitude":-18.94146,
+    "gn:longitude":-65.90766,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Llavisa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Llavis",
+        "Llavisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911341
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f7c95a8cd272cc94d628bb5406c90dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008791,
+            "locality_id":1226263819,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1226263819,
+    "wof:lastmodified":1537588024,
+    "wof:name":"Llavisa",
+    "wof:parent_id":1092008791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.90765999999999,
+    -18.94146,
+    -65.90765999999999,
+    -18.94146
+],
+  "geometry": {"coordinates":[-65.90765999999999,-18.94146],"type":"Point"}
+}

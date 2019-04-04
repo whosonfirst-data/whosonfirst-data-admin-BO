@@ -1,0 +1,72 @@
+{
+  "id": 1293277805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.8,-18.48333,-62.8,-18.48333",
+    "geom:latitude":-18.48333,
+    "geom:longitude":-62.8,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Puquio",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918094,
+    "gn:latitude":-18.48333,
+    "gn:longitude":-62.8,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Puquio",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Puquito",
+        "El Puquio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918094
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e87bbe90d304386f2500523b6042e4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1293277805,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1293277805,
+    "wof:lastmodified":1537588083,
+    "wof:name":"El Puquio",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.8,
+    -18.48333,
+    -62.8,
+    -18.48333
+],
+  "geometry": {"coordinates":[-62.8,-18.48333],"type":"Point"}
+}

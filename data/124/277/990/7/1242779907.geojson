@@ -1,0 +1,72 @@
+{
+  "id": 1242779907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.76667,-14.41667,-64.76667,-14.41667",
+    "geom:latitude":-14.41667,
+    "geom:longitude":-64.76667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Motacusal",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909882,
+    "gn:latitude":-14.41667,
+    "gn:longitude":-64.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Motacusal",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Motacusal",
+        "Motacusal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        421191613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909882
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"097afa2fe46bf496ba1ebc9ef0b34512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421191613,
+            "locality_id":1242779907,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1242779907,
+    "wof:lastmodified":1537588008,
+    "wof:name":"Motacusal",
+    "wof:parent_id":421191613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.76666999999999,
+    -14.41667,
+    -64.76666999999999,
+    -14.41667
+],
+  "geometry": {"coordinates":[-64.76666999999999,-14.41667],"type":"Point"}
+}

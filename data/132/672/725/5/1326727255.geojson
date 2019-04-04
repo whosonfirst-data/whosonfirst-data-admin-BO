@@ -1,0 +1,71 @@
+{
+  "id": 1326727255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.38927,-20.07415,-65.38927,-20.07415",
+    "geom:latitude":-20.07415,
+    "geom:longitude":-65.38927,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ichurata",
+    "gn:country_code":"BO",
+    "gn:dem":3441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914327,
+    "gn:latitude":-20.07415,
+    "gn:longitude":-65.38927,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Ichurata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Ichurata",
+        "Ichurata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914327
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2e395b21a95090683e9fbc854826cd5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1326727255,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1326727255,
+    "wof:lastmodified":1537588058,
+    "wof:name":"Ichurata",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.38927,
+    -20.07415,
+    -65.38927,
+    -20.07415
+],
+  "geometry": {"coordinates":[-65.38927,-20.07415],"type":"Point"}
+}

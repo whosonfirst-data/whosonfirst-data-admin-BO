@@ -1,0 +1,68 @@
+{
+  "id": 1209098719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.63418,-11.83766,-68.63418,-11.83766",
+    "geom:latitude":-11.83766,
+    "geom:longitude":-68.63418,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Barraca San Silvestre",
+    "gn:country_code":"BO",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905034,
+    "gn:latitude":-11.83766,
+    "gn:longitude":-68.63418,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Barraca San Silvestre",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Barraca San Silvestre"
+    ],
+    "name:und_x_variant":[
+        "San Silvester",
+        "San Silvestre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905034
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"25bfe6ef4a0d1055ac8d642344a10b44",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209098719
+        }
+    ],
+    "wof:id":1209098719,
+    "wof:lastmodified":1537587955,
+    "wof:name":"Barraca San Silvestre",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.63418,
+    -11.83766,
+    -68.63418,
+    -11.83766
+],
+  "geometry": {"coordinates":[-68.63418,-11.83766],"type":"Point"}
+}

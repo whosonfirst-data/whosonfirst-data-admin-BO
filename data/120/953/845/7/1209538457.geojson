@@ -1,0 +1,61 @@
+{
+  "id": 1209538457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.98333,-17.55,-66.98333,-17.55",
+    "geom:latitude":-17.55,
+    "geom:longitude":-66.98333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Estancia Jankho Kkota",
+    "gn:country_code":"BO",
+    "gn:dem":4159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917045,
+    "gn:latitude":-17.55,
+    "gn:longitude":-66.98333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Jankho Kkota",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917045
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ba5ee294f961be2941d93fcfeb48758a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209538457
+        }
+    ],
+    "wof:id":1209538457,
+    "wof:lastmodified":1536284062,
+    "wof:name":"Estancia Jankho Kkota",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.98333000000001,
+    -17.55,
+    -66.98333000000001,
+    -17.55
+],
+  "geometry": {"coordinates":[-66.98333000000001,-17.55],"type":"Point"}
+}

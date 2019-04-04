@@ -1,0 +1,67 @@
+{
+  "id": 1242971321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.01667,-15.36667,-68.01667,-15.36667",
+    "geom:latitude":-15.36667,
+    "geom:longitude":-68.01667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Negra Huata",
+    "gn:country_code":"BO",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909591,
+    "gn:latitude":-15.36667,
+    "gn:longitude":-68.01667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Negra Huata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421187929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909591
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"734a9dcbb01a06f12c08d58ebc86412a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187929,
+            "locality_id":1242971321,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1242971321,
+    "wof:lastmodified":1536992734,
+    "wof:name":"Negra Huata",
+    "wof:parent_id":421187929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.01666999999999,
+    -15.36667,
+    -68.01666999999999,
+    -15.36667
+],
+  "geometry": {"coordinates":[-68.01666999999999,-15.36667],"type":"Point"}
+}

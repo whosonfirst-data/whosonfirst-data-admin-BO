@@ -1,0 +1,72 @@
+{
+  "id": 1326552875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.88333,-19.31667,-66.88333,-19.31667",
+    "geom:latitude":-19.31667,
+    "geom:longitude":-66.88333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Huanacri",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914934,
+    "gn:latitude":-19.31667,
+    "gn:longitude":-66.88333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Huanacri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huancuri",
+        "Huanacri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092007777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914934
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"763affd1c3cd8a93a935ae46823bcdb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007777,
+            "locality_id":1326552875,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1326552875,
+    "wof:lastmodified":1537588066,
+    "wof:name":"Huanacri",
+    "wof:parent_id":1092007777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.88333,
+    -19.31667,
+    -66.88333,
+    -19.31667
+],
+  "geometry": {"coordinates":[-66.88333,-19.31667],"type":"Point"}
+}

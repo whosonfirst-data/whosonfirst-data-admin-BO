@@ -1,0 +1,72 @@
+{
+  "id": 1242679403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.11667,-14.4,-67.11667,-14.4",
+    "geom:latitude":-14.4,
+    "geom:longitude":-67.11667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Baichuje",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923416,
+    "gn:latitude":-14.4,
+    "gn:longitude":-67.11667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Baichuje",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baichuja",
+        "Baichuje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923416
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"989a06339d8f35f8693aaec46b219d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005669,
+            "locality_id":1242679403,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1242679403,
+    "wof:lastmodified":1537588147,
+    "wof:name":"Baichuje",
+    "wof:parent_id":1092005669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.11667,
+    -14.4,
+    -67.11667,
+    -14.4
+],
+  "geometry": {"coordinates":[-67.11667,-14.4],"type":"Point"}
+}

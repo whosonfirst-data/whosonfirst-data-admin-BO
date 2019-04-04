@@ -1,0 +1,67 @@
+{
+  "id": 1259999683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.06667,-15.25,-63.06667,-15.25",
+    "geom:latitude":-15.25,
+    "geom:longitude":-63.06667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"San Roque",
+    "gn:country_code":"BO",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905060,
+    "gn:latitude":-15.25,
+    "gn:longitude":-63.06667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"San Roque",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905060
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"abeb63e9bc38c2aa35b5d95d3ef86498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009737,
+            "locality_id":1259999683,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1259999683,
+    "wof:lastmodified":1536609158,
+    "wof:name":"San Roque",
+    "wof:parent_id":1092009737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.06667,
+    -15.25,
+    -63.06667,
+    -15.25
+],
+  "geometry": {"coordinates":[-63.06667,-15.25],"type":"Point"}
+}

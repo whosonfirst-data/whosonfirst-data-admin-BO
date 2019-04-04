@@ -1,0 +1,72 @@
+{
+  "id": 1310602031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.61667,-17.36667,-68.61667,-17.36667",
+    "geom:latitude":-17.36667,
+    "geom:longitude":-68.61667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Limari",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911527,
+    "gn:latitude":-17.36667,
+    "gn:longitude":-68.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Limari",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Limara",
+        "Limari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421182439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911527
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"413a9c4abd4d03e4e7336024d2ee49f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421182439,
+            "locality_id":1310602031,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1310602031,
+    "wof:lastmodified":1537588026,
+    "wof:name":"Limari",
+    "wof:parent_id":421182439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.61667,
+    -17.36667000000001,
+    -68.61667,
+    -17.36667000000001
+],
+  "geometry": {"coordinates":[-68.61667,-17.36667000000001],"type":"Point"}
+}

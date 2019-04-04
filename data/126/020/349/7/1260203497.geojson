@@ -1,0 +1,67 @@
+{
+  "id": 1260203497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.03333,-17.2,-63.03333,-17.2",
+    "geom:latitude":-17.2,
+    "geom:longitude":-63.03333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Santa Cecilia",
+    "gn:country_code":"BO",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904928,
+    "gn:latitude":-17.2,
+    "gn:longitude":-63.03333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Santa Cecilia",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904928
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e55ab94c5a650cfc56759df615d5a59c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010083,
+            "locality_id":1260203497,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1260203497,
+    "wof:lastmodified":1536819688,
+    "wof:name":"Santa Cecilia",
+    "wof:parent_id":1092010083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.03333000000001,
+    -17.2,
+    -63.03333000000001,
+    -17.2
+],
+  "geometry": {"coordinates":[-63.03333000000001,-17.2],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310608477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.63333,-13.45278,-66.63333,-13.45278",
+    "geom:latitude":-13.45278,
+    "geom:longitude":-66.63333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Las Palmas",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911750,
+    "gn:latitude":-13.45278,
+    "gn:longitude":-66.63333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Las Palmas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siete Palmas",
+        "Las Palmas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911750
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"deb8fb8e882f3c9aec28e955da3df6b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005669,
+            "locality_id":1310608477,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1310608477,
+    "wof:lastmodified":1537588029,
+    "wof:name":"Las Palmas",
+    "wof:parent_id":1092005669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.63333,
+    -13.45278,
+    -66.63333,
+    -13.45278
+],
+  "geometry": {"coordinates":[-66.63333,-13.45278],"type":"Point"}
+}

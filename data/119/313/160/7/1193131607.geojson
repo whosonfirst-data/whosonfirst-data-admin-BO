@@ -1,0 +1,72 @@
+{
+  "id": 1193131607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.48333,-20.63333,-65.48333,-20.63333",
+    "geom:latitude":-20.63333,
+    "geom:longitude":-65.48333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Jaripalca",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913543,
+    "gn:latitude":-20.63333,
+    "gn:longitude":-65.48333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jaripalca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haripalca",
+        "Jaripalca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421166639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913543
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e1274620ec3175a5f65acb0c0f07d9b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421166639,
+            "locality_id":1193131607,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1193131607,
+    "wof:lastmodified":1537588049,
+    "wof:name":"Jaripalca",
+    "wof:parent_id":421166639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.48333000000001,
+    -20.63333,
+    -65.48333000000001,
+    -20.63333
+],
+  "geometry": {"coordinates":[-65.48333000000001,-20.63333],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 421167813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.66667,-17.45,-63.66667,-17.45",
+    "geom:latitude":-17.45,
+    "geom:longitude":-63.66667,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5e03\u57c3\u7d0d\u7dad\u65af\u5854"
+    ],
+    "name:dut_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:eng_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:fre_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:ger_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:que_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:spa_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:swe_x_preferred":[
+        "Buena Vista"
+    ],
+    "name:unk_x_variant":[
+        "Buena Vista"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0648\u06cc\u0646\u0627 \u0648\u0633\u0679\u0627\u060c \u0627\u0686\u06cc\u0644\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Buena Vista"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3922965,
+    "qs:gn_pop":4282,
+    "qs:name":"Bella Vista",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"Santa Cruz",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":150813,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":346301,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922965,
+        "gp:id":346301,
+        "qs:id":150813,
+        "wd:id":"Q1001758",
+        "wk:page":"Buena Vista, Ichilo"
+    },
+    "wof:country":"BO",
+    "wof:created":1459008744,
+    "wof:geomhash":"69063b896abb607409c18dcdd6c97b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009785,
+            "locality_id":421167813,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":421167813,
+    "wof:lastmodified":1553816355,
+    "wof:name":"Bella Vista",
+    "wof:parent_id":1092009785,
+    "wof:placetype":"locality",
+    "wof:population":4282,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.66667,
+    -17.45,
+    -63.66667,
+    -17.45
+],
+  "geometry": {"coordinates":[-63.66667,-17.45],"type":"Point"}
+}

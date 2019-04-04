@@ -1,0 +1,77 @@
+{
+  "id": 1193033607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.46667,-19.01667,-65.46667,-19.01667",
+    "geom:latitude":-19.01667,
+    "geom:longitude":-65.46667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"3.0",
+    "gn:asciiname":"Chaunaca",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":3921062,
+    "gn:latitude":-19.01667,
+    "gn:longitude":-65.46667,
+    "gn:modification_date":"2011-07-31",
+    "gn:name":"Chaunaca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Chaunaca",
+        "Chahunaca",
+        "Chahuanaca",
+        "Chaunaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921062
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3b021c165b0e686e0af6892110eff09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1193033607,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1193033607,
+    "wof:lastmodified":1537588117,
+    "wof:name":"Chaunaca",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.46667,
+    -19.01667,
+    -65.46667,
+    -19.01667
+],
+  "geometry": {"coordinates":[-65.46666999999999,-19.01667],"type":"Point"}
+}

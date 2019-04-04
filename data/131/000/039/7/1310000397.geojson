@@ -1,0 +1,73 @@
+{
+  "id": 1310000397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.56667,-20.35,-66.56667,-20.35",
+    "geom:latitude":-20.35,
+    "geom:longitude":-66.56667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Calerias",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922596,
+    "gn:latitude":-20.35,
+    "gn:longitude":-66.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Caler\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Caler\u00edas",
+        "Galerias",
+        "Caler\u00edas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922596
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3bc3deead0549cc4616bdcda573c24da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177657,
+            "locality_id":1310000397,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1310000397,
+    "wof:lastmodified":1537588137,
+    "wof:name":"Calerias",
+    "wof:parent_id":421177657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.56667,
+    -20.35,
+    -66.56667,
+    -20.35
+],
+  "geometry": {"coordinates":[-66.56667,-20.35],"type":"Point"}
+}

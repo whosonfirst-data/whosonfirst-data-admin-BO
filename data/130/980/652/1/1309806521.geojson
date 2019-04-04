@@ -1,0 +1,75 @@
+{
+  "id": 1309806521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.91667,-17.51667,-65.91667,-17.51667",
+    "geom:latitude":-17.51667,
+    "geom:longitude":-65.91667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"San Benito",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905800,
+    "gn:latitude":-17.51667,
+    "gn:longitude":-65.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Benito",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jos\u00e9 Quit\u00edn Mendoza",
+        "Quint\u00edn Mendoza",
+        "Villa Jos\u00e9 Quint\u00edn Mendoza",
+        "San Benito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905800,
+        "wk:page":"San_Benito%2C_Cochabamba"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5b8a06b33809190eb40ca4c8db06cb37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006749,
+            "locality_id":1309806521,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1309806521,
+    "wof:lastmodified":1537587961,
+    "wof:name":"San Benito",
+    "wof:parent_id":1092006749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.91667,
+    -17.51667,
+    -65.91667,
+    -17.51667
+],
+  "geometry": {"coordinates":[-65.91667,-17.51667],"type":"Point"}
+}

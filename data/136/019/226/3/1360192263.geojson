@@ -1,0 +1,63 @@
+{
+  "id": 1360192263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.26667,-10.96667,-65.26667,-10.96667",
+    "geom:latitude":-10.96667,
+    "geom:longitude":-65.26667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Colon",
+    "gn:country_code":"BO",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919811,
+    "gn:latitude":-10.96667,
+    "gn:longitude":-65.26667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Col\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919811
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a4f237aeeb0e8ba6f61b76aca2e585f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1360192263,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360192263,
+    "wof:lastmodified":1536791352,
+    "wof:name":"Colon",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.26666999999999,
+    -10.96667,
+    -65.26666999999999,
+    -10.96667
+],
+  "geometry": {"coordinates":[-65.26666999999999,-10.96667],"type":"Point"}
+}

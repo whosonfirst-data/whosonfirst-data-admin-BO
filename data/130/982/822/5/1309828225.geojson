@@ -1,0 +1,67 @@
+{
+  "id": 1309828225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.09226,-10.70632,-68.09226,-10.70632",
+    "geom:latitude":-10.70632,
+    "geom:longitude":-68.09226,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"San Antonio",
+    "gn:country_code":"BO",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3905892,
+    "gn:latitude":-10.70632,
+    "gn:longitude":-68.09226,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905892
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f9db53859e7f4d8d288b30535fb009d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008501,
+            "locality_id":1309828225,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1309828225,
+    "wof:lastmodified":1536898779,
+    "wof:name":"San Antonio",
+    "wof:parent_id":1092008501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.09226,
+    -10.70632,
+    -68.09226,
+    -10.70632
+],
+  "geometry": {"coordinates":[-68.09226,-10.70632],"type":"Point"}
+}

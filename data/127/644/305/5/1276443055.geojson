@@ -1,0 +1,67 @@
+{
+  "id": 1276443055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.61667,-16.33333,-67.61667,-16.33333",
+    "geom:latitude":-16.33333,
+    "geom:longitude":-67.61667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Estancia Machacamarca",
+    "gn:country_code":"BO",
+    "gn:dem":1606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916730,
+    "gn:latitude":-16.33333,
+    "gn:longitude":-67.61667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Machacamarca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916730
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"08da7a2745de4feb952f133ee98d79b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007459,
+            "locality_id":1276443055,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1276443055,
+    "wof:lastmodified":1536629931,
+    "wof:name":"Estancia Machacamarca",
+    "wof:parent_id":1092007459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.61667,
+    -16.33333,
+    -67.61667,
+    -16.33333
+],
+  "geometry": {"coordinates":[-67.61667,-16.33333],"type":"Point"}
+}

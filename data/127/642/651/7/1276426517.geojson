@@ -1,0 +1,72 @@
+{
+  "id": 1276426517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.88333,-17.28333,-62.88333,-17.28333",
+    "geom:latitude":-17.28333,
+    "geom:longitude":-62.88333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Monte Verde",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910004,
+    "gn:latitude":-17.28333,
+    "gn:longitude":-62.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Monte Verde",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Medio Monte",
+        "Monte Verde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910004
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"4ea7b17225d2c8b3a9a3c472c61dd5af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010083,
+            "locality_id":1276426517,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1276426517,
+    "wof:lastmodified":1537588010,
+    "wof:name":"Monte Verde",
+    "wof:parent_id":1092010083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.88333000000001,
+    -17.28333,
+    -62.88333000000001,
+    -17.28333
+],
+  "geometry": {"coordinates":[-62.88333000000001,-17.28333],"type":"Point"}
+}

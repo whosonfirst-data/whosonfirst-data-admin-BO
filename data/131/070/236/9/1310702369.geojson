@@ -1,0 +1,67 @@
+{
+  "id": 1310702369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.48333,-16.26667,-68.48333,-16.26667",
+    "geom:latitude":-16.26667,
+    "geom:longitude":-68.48333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Suriquina",
+    "gn:country_code":"BO",
+    "gn:dem":4136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903864,
+    "gn:latitude":-16.26667,
+    "gn:longitude":-68.48333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Suriqui\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421197575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903864
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"42dff3ed56e0a42bdf114bd288074b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197575,
+            "locality_id":1310702369,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1310702369,
+    "wof:lastmodified":1536631334,
+    "wof:name":"Suriquina",
+    "wof:parent_id":421197575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.48333000000001,
+    -16.26667,
+    -68.48333000000001,
+    -16.26667
+],
+  "geometry": {"coordinates":[-68.48333000000001,-16.26667],"type":"Point"}
+}

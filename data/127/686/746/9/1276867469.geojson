@@ -1,0 +1,71 @@
+{
+  "id": 1276867469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.03145,-14.42207,-61.03145,-14.42207",
+    "geom:latitude":-14.42207,
+    "geom:longitude":-61.03145,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Bahia",
+    "gn:country_code":"BO",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912427,
+    "gn:latitude":-14.42207,
+    "gn:longitude":-61.03145,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"La Bah\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Bahia Blanca",
+        "La Bah\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092010025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912427
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2b01581de0fa89717e9dc72568eb0e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010025,
+            "locality_id":1276867469,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1276867469,
+    "wof:lastmodified":1537588038,
+    "wof:name":"La Bahia",
+    "wof:parent_id":1092010025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.03145,
+    -14.42207,
+    -61.03145,
+    -14.42207
+],
+  "geometry": {"coordinates":[-61.03145,-14.42207],"type":"Point"}
+}

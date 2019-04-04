@@ -1,0 +1,67 @@
+{
+  "id": 1310610561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.52027,-19.42069,-64.52027,-19.42069",
+    "geom:latitude":-19.42069,
+    "geom:longitude":-64.52027,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Paslapaya Chico",
+    "gn:country_code":"BO",
+    "gn:dem":2235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908388,
+    "gn:latitude":-19.42069,
+    "gn:longitude":-64.52027,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Paslapaya Chico",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421169227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908388
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b2d79e07bef07c83890fddd0ce4ee3ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169227,
+            "locality_id":1310610561,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1310610561,
+    "wof:lastmodified":1536765687,
+    "wof:name":"Paslapaya Chico",
+    "wof:parent_id":421169227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.52027,
+    -19.42069,
+    -64.52027,
+    -19.42069
+],
+  "geometry": {"coordinates":[-64.52027,-19.42069],"type":"Point"}
+}

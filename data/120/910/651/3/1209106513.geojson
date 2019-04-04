@@ -1,0 +1,68 @@
+{
+  "id": 1209106513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.33333,-17.31667,-67.33333,-17.31667",
+    "geom:latitude":-17.31667,
+    "geom:longitude":-67.33333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Urnuni",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901977,
+    "gn:latitude":-17.31667,
+    "gn:longitude":-67.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Urnuni",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hornuni",
+        "Urmiri",
+        "Urauni",
+        "Urnuni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901977
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9add6b512316c23ac5c4744a89b47994",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209106513
+        }
+    ],
+    "wof:id":1209106513,
+    "wof:lastmodified":1537587918,
+    "wof:name":"Urnuni",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.33333,
+    -17.31667,
+    -67.33333,
+    -17.31667
+],
+  "geometry": {"coordinates":[-67.33333,-17.31667],"type":"Point"}
+}

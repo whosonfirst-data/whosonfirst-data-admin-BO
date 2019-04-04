@@ -1,0 +1,72 @@
+{
+  "id": 1276463767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.66667,-16.71667,-63.66667,-16.71667",
+    "geom:latitude":-16.71667,
+    "geom:longitude":-63.66667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Puerto Saipina",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907186,
+    "gn:latitude":-16.71667,
+    "gn:longitude":-63.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puerto Saipina",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Sapina",
+        "Puerto Saipina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907186
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"53f94d8744676356d37000fd5da477f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009959,
+            "locality_id":1276463767,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1276463767,
+    "wof:lastmodified":1537587977,
+    "wof:name":"Puerto Saipina",
+    "wof:parent_id":1092009959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.66667,
+    -16.71667,
+    -63.66667,
+    -16.71667
+],
+  "geometry": {"coordinates":[-63.66667,-16.71667],"type":"Point"}
+}

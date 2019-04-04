@@ -1,0 +1,67 @@
+{
+  "id": 1276898587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.03333,-16.11667,-68.03333,-16.11667",
+    "geom:latitude":-16.11667,
+    "geom:longitude":-68.03333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zongo",
+    "gn:country_code":"BO",
+    "gn:dem":2464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3900790,
+    "gn:latitude":-16.11667,
+    "gn:longitude":-68.03333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Zongo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421177667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3900790
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8ae00267032fa201c908866b6b3de36b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":1276898587,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1276898587,
+    "wof:lastmodified":1537015391,
+    "wof:name":"Zongo",
+    "wof:parent_id":421177667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.03333,
+    -16.11667000000001,
+    -68.03333,
+    -16.11667000000001
+],
+  "geometry": {"coordinates":[-68.03333000000001,-16.11667000000001],"type":"Point"}
+}

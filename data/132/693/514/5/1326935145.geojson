@@ -1,0 +1,71 @@
+{
+  "id": 1326935145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.27434,-19.22946,-66.27434,-19.22946",
+    "geom:latitude":-19.22946,
+    "geom:longitude":-66.27434,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lagunillas",
+    "gn:country_code":"BO",
+    "gn:dem":4096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912152,
+    "gn:latitude":-19.22946,
+    "gn:longitude":-66.27434,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Lagunillas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lagunilas",
+        "Lagunillas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092008219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912152
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d03308601d18a27649bc8f856f45d2d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008219,
+            "locality_id":1326935145,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1326935145,
+    "wof:lastmodified":1537588034,
+    "wof:name":"Lagunillas",
+    "wof:parent_id":1092008219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.27434000000001,
+    -19.22946,
+    -66.27434000000001,
+    -19.22946
+],
+  "geometry": {"coordinates":[-66.27434000000001,-19.22946],"type":"Point"}
+}

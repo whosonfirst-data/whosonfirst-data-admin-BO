@@ -1,0 +1,72 @@
+{
+  "id": 1243564145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.76667,-19.95,-63.76667,-19.95",
+    "geom:latitude":-19.95,
+    "geom:longitude":-63.76667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chacatial",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921542,
+    "gn:latitude":-19.95,
+    "gn:longitude":-63.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chacatial",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chacatal",
+        "Chacatial"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        1092005959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921542
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"a214505c764caef9a64662a8ec6cb8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005959,
+            "locality_id":1243564145,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1243564145,
+    "wof:lastmodified":1537588122,
+    "wof:name":"Chacatial",
+    "wof:parent_id":1092005959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.76667,
+    -19.95,
+    -63.76667,
+    -19.95
+],
+  "geometry": {"coordinates":[-63.76667,-19.95],"type":"Point"}
+}

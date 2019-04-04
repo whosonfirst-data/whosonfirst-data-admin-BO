@@ -1,0 +1,67 @@
+{
+  "id": 1293312625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.55,-16.45,-58.55,-16.45",
+    "geom:latitude":-16.45,
+    "geom:longitude":-58.55,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Estancia Las Nieves",
+    "gn:country_code":"BO",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3444528,
+    "gn:latitude":-16.45,
+    "gn:longitude":-58.55,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Las Nieves",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3444528
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"745c086618c579ff0977cac746d0fc3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009511,
+            "locality_id":1293312625,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1293312625,
+    "wof:lastmodified":1537037580,
+    "wof:name":"Estancia Las Nieves",
+    "wof:parent_id":1092009511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.55,
+    -16.45,
+    -58.55,
+    -16.45
+],
+  "geometry": {"coordinates":[-58.55,-16.45],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226265395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.80079,-18.57383,-67.80079,-18.57383",
+    "geom:latitude":-18.57383,
+    "geom:longitude":-67.80079,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Cruz de Lupe",
+    "gn:country_code":"BO",
+    "gn:dem":3781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918856,
+    "gn:latitude":-18.57383,
+    "gn:longitude":-67.80079,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Cruz de Lupe",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Cruz de Lupe",
+        "Cruz de Lupe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669413,
+        1092007807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918856
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9780151733a55d6b477634254a35e1b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007807,
+            "locality_id":1226265395,
+            "region_id":85669413
+        }
+    ],
+    "wof:id":1226265395,
+    "wof:lastmodified":1537588094,
+    "wof:name":"Cruz de Lupe",
+    "wof:parent_id":1092007807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.80079,
+    -18.57383,
+    -67.80079,
+    -18.57383
+],
+  "geometry": {"coordinates":[-67.80079000000001,-18.57383],"type":"Point"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 421180539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.23333,-17.71667,-66.23333,-17.71667",
+    "geom:latitude":-17.71667,
+    "geom:longitude":-66.23333,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Capinota"
+    ],
+    "name:deu_x_preferred":[
+        "Capinota"
+    ],
+    "name:fra_x_preferred":[
+        "Capinota"
+    ],
+    "name:nor_x_preferred":[
+        "Capinota"
+    ],
+    "name:pol_x_preferred":[
+        "Capinota"
+    ],
+    "name:por_x_preferred":[
+        "Capinota"
+    ],
+    "name:que_x_preferred":[
+        "Kapinuta"
+    ],
+    "name:sco_x_preferred":[
+        "Capinota"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Capinota"
+    ],
+    "name:swe_x_preferred":[
+        "Capinota"
+    ],
+    "name:war_x_preferred":[
+        "Villa Capinota"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u76ae\u8afe\u5854"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3922125,
+    "qs:gn_pop":5157,
+    "qs:name":"Capinota",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"Cochabamba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1205539,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":346327,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-17.714722,
+    "wd:longitude":-66.263056,
+    "wd:wordcount":707,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922125,
+        "gp:id":346327,
+        "qs:id":1205539,
+        "wd:id":"Q1034638",
+        "wk:page":"Capinota"
+    },
+    "wof:country":"BO",
+    "wof:created":1459009262,
+    "wof:geomhash":"887ee1788a224722acc660af3f4cade1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006497,
+            "locality_id":421180539,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":421180539,
+    "wof:lastmodified":1527716238,
+    "wof:name":"Capinota",
+    "wof:parent_id":1092006497,
+    "wof:placetype":"locality",
+    "wof:population":5157,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.23333,
+    -17.71667,
+    -66.23333,
+    -17.71667
+],
+  "geometry": {"coordinates":[-66.23333,-17.71667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226760595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.81667,-17.86667,-64.81667,-17.86667",
+    "geom:latitude":-17.86667,
+    "geom:longitude":-64.81667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"La Vina Perdida",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3911636,
+    "gn:latitude":-17.86667,
+    "gn:longitude":-64.81667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Vi\u00f1a Perdida",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Vi\u00f1a",
+        "La Vi\u00f1a Perdida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3911636
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"54ff5da14ad83d29c374acbd86edfb61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006537,
+            "locality_id":1226760595,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1226760595,
+    "wof:lastmodified":1537588027,
+    "wof:name":"La Vina Perdida",
+    "wof:parent_id":1092006537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.81667,
+    -17.86667000000001,
+    -64.81667,
+    -17.86667000000001
+],
+  "geometry": {"coordinates":[-64.81667,-17.86667000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327319279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.3,-19.83333,-63.3,-19.83333",
+    "geom:latitude":-19.83333,
+    "geom:longitude":-63.3,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ibami",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914401,
+    "gn:latitude":-19.83333,
+    "gn:longitude":-63.3,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ibami",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibomi",
+        "Ibami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914401
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ed68ce1bc0c5c4e10b783c5f15a8bbc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1327319279,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1327319279,
+    "wof:lastmodified":1537588060,
+    "wof:name":"Ibami",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.3,
+    -19.83333,
+    -63.3,
+    -19.83333
+],
+  "geometry": {"coordinates":[-63.3,-19.83333],"type":"Point"}
+}

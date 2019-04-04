@@ -1,0 +1,67 @@
+{
+  "id": 1310525593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.01667,-15.11667,-69.01667,-15.11667",
+    "geom:latitude":-15.11667,
+    "geom:longitude":-69.01667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Estancia Opinuaya",
+    "gn:country_code":"BO",
+    "gn:dem":3840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916592,
+    "gn:latitude":-15.11667,
+    "gn:longitude":-69.01667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Opinuaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092006969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916592
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"59e05850448bc6d43f97caa2e0fe8b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006969,
+            "locality_id":1310525593,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1310525593,
+    "wof:lastmodified":1536887484,
+    "wof:name":"Estancia Opinuaya",
+    "wof:parent_id":1092006969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.01666999999999,
+    -15.11667,
+    -69.01666999999999,
+    -15.11667
+],
+  "geometry": {"coordinates":[-69.01666999999999,-15.11667],"type":"Point"}
+}

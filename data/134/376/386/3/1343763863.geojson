@@ -1,0 +1,67 @@
+{
+  "id": 1343763863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.16667,-12.65,-64.16667,-12.65",
+    "geom:latitude":-12.65,
+    "geom:longitude":-64.16667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"La Granja",
+    "gn:country_code":"BO",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912210,
+    "gn:latitude":-12.65,
+    "gn:longitude":-64.16667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"La Granja",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912210
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9801427548c2ce9f9131cb041f5019bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005711,
+            "locality_id":1343763863,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1343763863,
+    "wof:lastmodified":1536805852,
+    "wof:name":"La Granja",
+    "wof:parent_id":1092005711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.16667,
+    -12.65,
+    -64.16667,
+    -12.65
+],
+  "geometry": {"coordinates":[-64.16667,-12.65],"type":"Point"}
+}

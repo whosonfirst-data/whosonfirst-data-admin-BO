@@ -1,0 +1,61 @@
+{
+  "id": 1209421091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.68333,-17.13333,-68.68333,-17.13333",
+    "geom:latitude":-17.13333,
+    "geom:longitude":-68.68333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Huincuri",
+    "gn:country_code":"BO",
+    "gn:dem":3866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914487,
+    "gn:latitude":-17.13333,
+    "gn:longitude":-68.68333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Huincuri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914487
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b19df3ae42276f12de21713913146087",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209421091
+        }
+    ],
+    "wof:id":1209421091,
+    "wof:lastmodified":1536287529,
+    "wof:name":"Huincuri",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.68333,
+    -17.133329999999994,
+    -68.68333,
+    -17.133329999999994
+],
+  "geometry": {"coordinates":[-68.68333,-17.13332999999999],"type":"Point"}
+}

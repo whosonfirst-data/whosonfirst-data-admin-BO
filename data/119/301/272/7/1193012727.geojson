@@ -1,0 +1,67 @@
+{
+  "id": 1193012727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.35,-21.33333,-67.35,-21.33333",
+    "geom:latitude":-21.33333,
+    "geom:longitude":-67.35,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Canchas Blancas",
+    "gn:country_code":"BO",
+    "gn:dem":3771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922269,
+    "gn:latitude":-21.33333,
+    "gn:longitude":-67.35,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Canchas Blancas",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922269
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"6f44729709dea9f67d19f236fa826a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193357,
+            "locality_id":1193012727,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1193012727,
+    "wof:lastmodified":1536381796,
+    "wof:name":"Canchas Blancas",
+    "wof:parent_id":421193357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.35,
+    -21.33333,
+    -67.35,
+    -21.33333
+],
+  "geometry": {"coordinates":[-67.34999999999999,-21.33333],"type":"Point"}
+}

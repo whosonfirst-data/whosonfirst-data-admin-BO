@@ -1,0 +1,67 @@
+{
+  "id": 1225849925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.20577,-19.32739,-66.20577,-19.32739",
+    "geom:latitude":-19.32739,
+    "geom:longitude":-66.20577,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ocupampa",
+    "gn:country_code":"BO",
+    "gn:dem":4054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3909394,
+    "gn:latitude":-19.32739,
+    "gn:longitude":-66.20577,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Ocupampa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3909394
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"efc10c242961739bb3be65b970aac4c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177665,
+            "locality_id":1225849925,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1225849925,
+    "wof:lastmodified":1537006881,
+    "wof:name":"Ocupampa",
+    "wof:parent_id":421177665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.20577,
+    -19.32739,
+    -66.20577,
+    -19.32739
+],
+  "geometry": {"coordinates":[-66.20577,-19.32739],"type":"Point"}
+}

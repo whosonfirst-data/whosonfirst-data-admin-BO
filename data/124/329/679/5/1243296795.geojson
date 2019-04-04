@@ -1,0 +1,67 @@
+{
+  "id": 1243296795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.91667,-13.28333,-68.91667,-13.28333",
+    "geom:latitude":-13.28333,
+    "geom:longitude":-68.91667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guarayos",
+    "gn:country_code":"BO",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915384,
+    "gn:latitude":-13.28333,
+    "gn:longitude":-68.91667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Guarayos",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        1108805617,
+        1108693913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915384
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"dba9168809bcfdea77297149f9ed4710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":1108693913,
+            "locality_id":1243296795,
+            "region_id":1108805617
+        }
+    ],
+    "wof:id":1243296795,
+    "wof:lastmodified":1537020373,
+    "wof:name":"Guarayos",
+    "wof:parent_id":1108693913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.91667,
+    -13.28333,
+    -68.91667,
+    -13.28333
+],
+  "geometry": {"coordinates":[-68.91667,-13.28333],"type":"Point"}
+}

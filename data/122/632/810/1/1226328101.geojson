@@ -1,0 +1,67 @@
+{
+  "id": 1226328101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.68333,-17.46667,-62.68333,-17.46667",
+    "geom:latitude":-17.46667,
+    "geom:longitude":-62.68333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Uruma",
+    "gn:country_code":"BO",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3901951,
+    "gn:latitude":-17.46667,
+    "gn:longitude":-62.68333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Uruma",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3901951
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"b211cb0aee13245e57a008b64298f43b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009873,
+            "locality_id":1226328101,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1226328101,
+    "wof:lastmodified":1536814254,
+    "wof:name":"Uruma",
+    "wof:parent_id":1092009873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.68333000000001,
+    -17.46667,
+    -62.68333000000001,
+    -17.46667
+],
+  "geometry": {"coordinates":[-62.68333000000001,-17.46667],"type":"Point"}
+}

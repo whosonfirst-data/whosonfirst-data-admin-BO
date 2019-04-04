@@ -1,0 +1,72 @@
+{
+  "id": 1277080525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.45,-16.3,-68.45,-16.3",
+    "geom:latitude":-16.3,
+    "geom:longitude":-68.45,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Corqueamaya",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919059,
+    "gn:latitude":-16.3,
+    "gn:longitude":-68.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Corqueamaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corcomaya",
+        "Corqueamaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421197575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919059
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"21714f05dd730c74ad1132dd858cf32a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421197575,
+            "locality_id":1277080525,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1277080525,
+    "wof:lastmodified":1537588097,
+    "wof:name":"Corqueamaya",
+    "wof:parent_id":421197575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.45,
+    -16.3,
+    -68.45,
+    -16.3
+],
+  "geometry": {"coordinates":[-68.45,-16.3],"type":"Point"}
+}

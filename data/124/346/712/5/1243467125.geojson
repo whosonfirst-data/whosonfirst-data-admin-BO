@@ -1,0 +1,73 @@
+{
+  "id": 1243467125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.22342,-18.38719,-65.22342,-18.38719",
+    "geom:latitude":-18.38719,
+    "geom:longitude":-65.22342,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chinguri",
+    "gn:country_code":"BO",
+    "gn:dem":1974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3920693,
+    "gn:latitude":-18.38719,
+    "gn:longitude":-65.22342,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Chinguri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Chinguri",
+        "Chinguari",
+        "Chingura",
+        "Chinguri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3920693
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3c8a127d72c89d1cf656bb0b1a2309e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006465,
+            "locality_id":1243467125,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1243467125,
+    "wof:lastmodified":1537588112,
+    "wof:name":"Chinguri",
+    "wof:parent_id":1092006465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.22341999999999,
+    -18.38719,
+    -65.22341999999999,
+    -18.38719
+],
+  "geometry": {"coordinates":[-65.22341999999999,-18.38719],"type":"Point"}
+}

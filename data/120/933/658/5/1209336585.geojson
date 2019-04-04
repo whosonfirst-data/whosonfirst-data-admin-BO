@@ -1,0 +1,64 @@
+{
+  "id": 1209336585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.35494,-10.61256,-67.35494,-10.61256",
+    "geom:latitude":-10.61256,
+    "geom:longitude":-67.35494,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Brasilia",
+    "gn:country_code":"BO",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11508109,
+    "gn:latitude":-10.61256,
+    "gn:longitude":-67.35494,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Brasilia",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Brasilia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11508109
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3b07f7ada2da2f83fccffe48401cd6c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209336585
+        }
+    ],
+    "wof:id":1209336585,
+    "wof:lastmodified":1537588191,
+    "wof:name":"Brasilia",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.35494,
+    -10.61256,
+    -67.35494,
+    -10.61256
+],
+  "geometry": {"coordinates":[-67.35494,-10.61256],"type":"Point"}
+}

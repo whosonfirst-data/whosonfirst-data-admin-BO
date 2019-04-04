@@ -1,0 +1,67 @@
+{
+  "id": 1293584739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.96667,-15.1,-61.96667,-15.1",
+    "geom:latitude":-15.1,
+    "geom:longitude":-61.96667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Consuelo",
+    "gn:country_code":"BO",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918267,
+    "gn:latitude":-15.1,
+    "gn:longitude":-61.96667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"El Consuelo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918267
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"02966a002bf4d3acc7a9f8b015d70d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009873,
+            "locality_id":1293584739,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1293584739,
+    "wof:lastmodified":1536646506,
+    "wof:name":"El Consuelo",
+    "wof:parent_id":1092009873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.96666999999999,
+    -15.1,
+    -61.96666999999999,
+    -15.1
+],
+  "geometry": {"coordinates":[-61.96666999999999,-15.1],"type":"Point"}
+}

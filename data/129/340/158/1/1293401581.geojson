@@ -1,0 +1,72 @@
+{
+  "id": 1293401581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.74528,-13.1925,-66.74528,-13.1925",
+    "geom:latitude":-13.1925,
+    "geom:longitude":-66.74528,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Corralito",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3919050,
+    "gn:latitude":-13.1925,
+    "gn:longitude":-66.74528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Corralito",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carralito",
+        "Corralito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3919050
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"fcddc6fbbb9e551a3dca8502cbf6d3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005669,
+            "locality_id":1293401581,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1293401581,
+    "wof:lastmodified":1537588096,
+    "wof:name":"Corralito",
+    "wof:parent_id":1092005669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.74528000000001,
+    -13.1925,
+    -66.74528000000001,
+    -13.1925
+],
+  "geometry": {"coordinates":[-66.74528000000001,-13.1925],"type":"Point"}
+}

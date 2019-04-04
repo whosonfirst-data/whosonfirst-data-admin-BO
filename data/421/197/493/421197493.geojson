@@ -1,0 +1,135 @@
+{
+  "id": 421197493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.26667,-17.71667,-66.26667,-17.71667",
+    "geom:latitude":-17.71667,
+    "geom:longitude":-66.26667,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f0a\u723e\u5e15\u4f0a\u723e\u5e15"
+    ],
+    "name:dan_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:deu_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:dut_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:eng_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:fra_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:fre_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:ger_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:ita_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:nno_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:nob_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:nor_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:pol_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:que_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:swe_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u723e\u5e15\u4f0a\u723e\u5e15"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3914084,
+    "qs:gn_pop":2968,
+    "qs:name":"Irpa Irpa",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"Cochabamba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":287732,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":339579,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-17.716667,
+    "wd:longitude":-66.283333,
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914084,
+        "gp:id":339579,
+        "qs:id":287732,
+        "wd:id":"Q1673170",
+        "wk:page":"Irpa Irpa"
+    },
+    "wof:country":"BO",
+    "wof:created":1459009915,
+    "wof:geomhash":"ff5c373a82b4c901adbbe520d532ddf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006497,
+            "locality_id":421197493,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":421197493,
+    "wof:lastmodified":1527716406,
+    "wof:name":"Irpa Irpa",
+    "wof:parent_id":1092006497,
+    "wof:placetype":"locality",
+    "wof:population":2968,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.26667,
+    -17.71667,
+    -66.26667,
+    -17.71667
+],
+  "geometry": {"coordinates":[-66.26667,-17.71667],"type":"Point"}
+}

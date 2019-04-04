@@ -1,0 +1,65 @@
+{
+  "id": 1209224279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.94109,-18.7723,-64.94109,-18.7723",
+    "geom:latitude":-18.7723,
+    "geom:longitude":-64.94109,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pasopaya",
+    "gn:country_code":"BO",
+    "gn:dem":2475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908379,
+    "gn:latitude":-18.7723,
+    "gn:longitude":-64.94109,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Pasopaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pesopaya",
+        "Pasopaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908379
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9be612e13e62b2d8b8a3752ee546e476",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209224279
+        }
+    ],
+    "wof:id":1209224279,
+    "wof:lastmodified":1537587991,
+    "wof:name":"Pasopaya",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.94109,
+    -18.7723,
+    -64.94109,
+    -18.7723
+],
+  "geometry": {"coordinates":[-64.94109,-18.7723],"type":"Point"}
+}

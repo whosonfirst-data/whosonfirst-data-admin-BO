@@ -1,0 +1,67 @@
+{
+  "id": 1327155645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.88832,-18.23518,-65.88832,-18.23518",
+    "geom:latitude":-18.23518,
+    "geom:longitude":-65.88832,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Estancia Pucara Khasa",
+    "gn:country_code":"BO",
+    "gn:dem":3276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916419,
+    "gn:latitude":-18.23518,
+    "gn:longitude":-65.88832,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Pucara Khasa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916419
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"dcc8599d4e08e3862f5c50ef062fb082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008737,
+            "locality_id":1327155645,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1327155645,
+    "wof:lastmodified":1537077342,
+    "wof:name":"Estancia Pucara Khasa",
+    "wof:parent_id":1092008737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.88832,
+    -18.23518,
+    -65.88832,
+    -18.23518
+],
+  "geometry": {"coordinates":[-65.88831999999999,-18.23518],"type":"Point"}
+}

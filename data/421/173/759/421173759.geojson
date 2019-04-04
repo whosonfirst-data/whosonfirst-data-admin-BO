@@ -1,0 +1,86 @@
+{
+  "id": 421173759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.76667,-20.98333,-67.76667,-20.98333",
+    "geom:latitude":-20.98333,
+    "geom:longitude":-67.76667,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "San Juan"
+    ],
+    "name:eng_x_preferred":[
+        "San Juan"
+    ],
+    "name:ger_x_preferred":[
+        "San Juan"
+    ],
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3905499,
+    "qs:gn_pop":0,
+    "qs:name":"San Juan",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"Potos\u00ed",
+    "qs:photos":32,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":32,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":298388,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":343627,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905499,
+        "gp:id":343627,
+        "qs:id":298388,
+        "wd:id":"Q1672402"
+    },
+    "wof:country":"BO",
+    "wof:created":1459009005,
+    "wof:geomhash":"aad6cf59b2697bb32389d4e90a7a6eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193357,
+            "locality_id":421173759,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":421173759,
+    "wof:lastmodified":1513900981,
+    "wof:name":"San Juan",
+    "wof:parent_id":421193357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.76667,
+    -20.98333,
+    -67.76667,
+    -20.98333
+],
+  "geometry": {"coordinates":[-67.76667,-20.98333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309796711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.48402,-19.80136,-63.48402,-19.80136",
+    "geom:latitude":-19.80136,
+    "geom:longitude":-63.48402,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ibamirapuijta",
+    "gn:country_code":"BO",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3914397,
+    "gn:latitude":-19.80136,
+    "gn:longitude":-63.48402,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Ibamirapuijta",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibamirapinta",
+        "Ibamirapiugta",
+        "Ibamirapuijta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669427,
+        1092009601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3914397
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"51f7b8d2133d226a52a890991e271166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092009601,
+            "locality_id":1309796711,
+            "region_id":85669427
+        }
+    ],
+    "wof:id":1309796711,
+    "wof:lastmodified":1537588059,
+    "wof:name":"Ibamirapuijta",
+    "wof:parent_id":1092009601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.48402,
+    -19.80136,
+    -63.48402,
+    -19.80136
+],
+  "geometry": {"coordinates":[-63.48402,-19.80136],"type":"Point"}
+}

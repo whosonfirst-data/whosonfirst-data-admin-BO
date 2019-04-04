@@ -1,0 +1,72 @@
+{
+  "id": 1243575499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.35,-21.31667,-66.35,-21.31667",
+    "geom:latitude":-21.31667,
+    "geom:longitude":-66.35,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Caruani",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":4327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3921881,
+    "gn:latitude":-21.31667,
+    "gn:longitude":-66.35,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Caruani",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Curhuani",
+        "Caruani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421193357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3921881
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"299eacc8b15b03f5fd1f5bff919921b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421193357,
+            "locality_id":1243575499,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1243575499,
+    "wof:lastmodified":1537588127,
+    "wof:name":"Caruani",
+    "wof:parent_id":421193357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.35,
+    -21.31667,
+    -66.35,
+    -21.31667
+],
+  "geometry": {"coordinates":[-66.34999999999999,-21.31667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209105265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.57432,-19.00737,-68.57432,-19.00737",
+    "geom:latitude":-19.00737,
+    "geom:longitude":-68.57432,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Estancia Sullavi",
+    "gn:country_code":"BO",
+    "gn:dem":3804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916197,
+    "gn:latitude":-19.00737,
+    "gn:longitude":-68.57432,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Sullavi",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916197
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"137cdc854e57efcd13bab90634673596",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209105265
+        }
+    ],
+    "wof:id":1209105265,
+    "wof:lastmodified":1536297595,
+    "wof:name":"Estancia Sullavi",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.57432,
+    -19.00737,
+    -68.57432,
+    -19.00737
+],
+  "geometry": {"coordinates":[-68.57432,-19.00737],"type":"Point"}
+}

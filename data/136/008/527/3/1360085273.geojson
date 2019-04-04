@@ -1,0 +1,70 @@
+{
+  "id": 1360085273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.2567,-15.66586,-69.2567,-15.66586",
+    "geom:latitude":-15.66586,
+    "geom:longitude":-69.2567,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Estancia Iquicondori",
+    "gn:country_code":"BO",
+    "gn:dem":3913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917117,
+    "gn:latitude":-15.66586,
+    "gn:longitude":-69.2567,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Estancia Iquicondori",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Estancia Iquicondori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917117
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"e9b265292493cf078d4580b012f46ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007003,
+            "locality_id":1360085273,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1360085273,
+    "wof:lastmodified":1537588079,
+    "wof:name":"Estancia Iquicondori",
+    "wof:parent_id":1092007003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.2567,
+    -15.66586,
+    -69.2567,
+    -15.66586
+],
+  "geometry": {"coordinates":[-69.2567,-15.66586],"type":"Point"}
+}

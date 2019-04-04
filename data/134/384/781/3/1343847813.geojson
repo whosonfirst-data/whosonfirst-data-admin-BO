@@ -1,0 +1,67 @@
+{
+  "id": 1343847813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.06667,-21.61667,-65.06667,-21.61667",
+    "geom:latitude":-21.61667,
+    "geom:longitude":-65.06667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Faldeo",
+    "gn:country_code":"BO",
+    "gn:dem":4102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3915805,
+    "gn:latitude":-21.61667,
+    "gn:longitude":-65.06667,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Faldeo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        1092010137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3915805
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"8876a7142893d6e32a819346e7dc3d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092010137,
+            "locality_id":1343847813,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1343847813,
+    "wof:lastmodified":1536684838,
+    "wof:name":"Faldeo",
+    "wof:parent_id":1092010137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.06667,
+    -21.61667000000001,
+    -65.06667,
+    -21.61667000000001
+],
+  "geometry": {"coordinates":[-65.06667,-21.61667000000001],"type":"Point"}
+}

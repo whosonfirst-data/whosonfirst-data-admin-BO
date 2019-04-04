@@ -1,0 +1,67 @@
+{
+  "id": 1277081765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.29666,-13.74343,-62.29666,-13.74343",
+    "geom:latitude":-13.74343,
+    "geom:longitude":-62.29666,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Saucedo",
+    "gn:country_code":"BO",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3904550,
+    "gn:latitude":-13.74343,
+    "gn:longitude":-62.29666,
+    "gn:modification_date":"2013-02-09",
+    "gn:name":"Saucedo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3904550
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"0a3025370fb5c1e5774fb9284cd36d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005711,
+            "locality_id":1277081765,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1277081765,
+    "wof:lastmodified":1536769463,
+    "wof:name":"Saucedo",
+    "wof:parent_id":1092005711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.29666,
+    -13.74343,
+    -62.29666,
+    -13.74343
+],
+  "geometry": {"coordinates":[-62.29666,-13.74343],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243075037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.86526,-11.8347,-66.86526,-11.8347",
+    "geom:latitude":-11.8347,
+    "geom:longitude":-66.86526,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Esperanza",
+    "gn:country_code":"BO",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917858,
+    "gn:latitude":-11.8347,
+    "gn:longitude":-66.86526,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917858
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"bf1108dbc5e0ae2fd4ba0ee8f2be5e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005669,
+            "locality_id":1243075037,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1243075037,
+    "wof:lastmodified":1536842841,
+    "wof:name":"Esperanza",
+    "wof:parent_id":1092005669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.86525999999999,
+    -11.8347,
+    -66.86525999999999,
+    -11.8347
+],
+  "geometry": {"coordinates":[-66.86525999999999,-11.8347],"type":"Point"}
+}

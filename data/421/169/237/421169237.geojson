@@ -1,0 +1,76 @@
+{
+  "id": 421169237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.25767,-19.03694,-65.25767,-19.03694",
+    "geom:latitude":-19.03694,
+    "geom:longitude":-65.25767,
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BO",
+    "qs:gn_fcode":"ADM4",
+    "qs:gn_id":6621292,
+    "qs:gn_pop":0,
+    "qs:name":"Sucre",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"Chuquisaca",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":14,
+    "qs:photos_9r":11,
+    "qs:photos_all":3265,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1200765,
+    "qs:woe_adm0":23424762,
+    "qs:woe_id":55967875,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6621292,
+        "gp:id":55967875,
+        "qs:id":1200765
+    },
+    "wof:country":"BO",
+    "wof:created":1459008800,
+    "wof:geomhash":"95ad512ba03e6c654cd6a11fe3aa1d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "localadmin_id":421169237,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":421169237,
+    "wof:lastmodified":1499927409,
+    "wof:name":"Sucre",
+    "wof:parent_id":421190241,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.25767,
+    -19.03694,
+    -65.25767,
+    -19.03694
+],
+  "geometry": {"coordinates":[-65.25767,-19.03694],"type":"Point"}
+}

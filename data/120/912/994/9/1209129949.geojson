@@ -1,0 +1,61 @@
+{
+  "id": 1209129949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.1,-17.85,-69.1,-17.85",
+    "geom:latitude":-17.85,
+    "geom:longitude":-69.1,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Estancia Huanuri",
+    "gn:country_code":"BO",
+    "gn:dem":4290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917180,
+    "gn:latitude":-17.85,
+    "gn:longitude":-69.1,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Huanuri",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917180
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"117a90a43ca1ba303a9f67c1ea1492a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209129949
+        }
+    ],
+    "wof:id":1209129949,
+    "wof:lastmodified":1536296835,
+    "wof:name":"Estancia Huanuri",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.1,
+    -17.85,
+    -69.1,
+    -17.85
+],
+  "geometry": {"coordinates":[-69.09999999999999,-17.85],"type":"Point"}
+}

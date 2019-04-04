@@ -1,0 +1,72 @@
+{
+  "id": 1293698489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.55,-14.43333,-64.55,-14.43333",
+    "geom:latitude":-14.43333,
+    "geom:longitude":-64.55,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Botin Quemado",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3923019,
+    "gn:latitude":-14.43333,
+    "gn:longitude":-64.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bot\u00edn Quemado",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batun Quemado",
+        "Bot\u00edn Quemado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        421191613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3923019
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"36adb2d299e383b011bb7673cb9712da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421191613,
+            "locality_id":1293698489,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1293698489,
+    "wof:lastmodified":1537588142,
+    "wof:name":"Botin Quemado",
+    "wof:parent_id":421191613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.55,
+    -14.43333,
+    -64.55,
+    -14.43333
+],
+  "geometry": {"coordinates":[-64.55,-14.43333],"type":"Point"}
+}

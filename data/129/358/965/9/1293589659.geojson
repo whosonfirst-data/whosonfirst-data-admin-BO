@@ -1,0 +1,72 @@
+{
+  "id": 1293589659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.85,-16.06667,-68.85,-16.06667",
+    "geom:latitude":-16.06667,
+    "geom:longitude":-68.85,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Momo",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3910110,
+    "gn:latitude":-16.06667,
+    "gn:longitude":-68.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Momo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Comunidad Momo",
+        "Momo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3910110
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"5c793b8494e3731831a7ae3c596985ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007507,
+            "locality_id":1293589659,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1293589659,
+    "wof:lastmodified":1537588010,
+    "wof:name":"Momo",
+    "wof:parent_id":1092007507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.85,
+    -16.06667,
+    -68.85,
+    -16.06667
+],
+  "geometry": {"coordinates":[-68.84999999999999,-16.06667],"type":"Point"}
+}

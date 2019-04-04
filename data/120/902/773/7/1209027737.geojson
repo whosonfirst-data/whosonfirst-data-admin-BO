@@ -1,0 +1,65 @@
+{
+  "id": 1209027737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.97952,-19.4419,-65.97952,-19.4419",
+    "geom:latitude":-19.4419,
+    "geom:longitude":-65.97952,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Turqui",
+    "gn:country_code":"BO",
+    "gn:dem":3933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918019,
+    "gn:latitude":-19.4419,
+    "gn:longitude":-65.97952,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"El Turqui",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mina El Turqui",
+        "El Turqui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918019
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9b3761cb73f722fde1e71e41ce84e24c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209027737
+        }
+    ],
+    "wof:id":1209027737,
+    "wof:lastmodified":1537588082,
+    "wof:name":"El Turqui",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.97952,
+    -19.4419,
+    -65.97952,
+    -19.4419
+],
+  "geometry": {"coordinates":[-65.97951999999999,-19.4419],"type":"Point"}
+}

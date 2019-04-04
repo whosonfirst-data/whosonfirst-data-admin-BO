@@ -1,0 +1,70 @@
+{
+  "id": 1226440049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.93897,-11.30668,-68.93897,-11.30668",
+    "geom:latitude":-11.30668,
+    "geom:longitude":-68.93897,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Escondido",
+    "gn:country_code":"BO",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11498727,
+    "gn:latitude":-11.30668,
+    "gn:longitude":-68.93897,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Escondido",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Escondido"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11498727
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"287beec52e96aa6b821349eee67d5cae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008501,
+            "locality_id":1226440049,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1226440049,
+    "wof:lastmodified":1537588167,
+    "wof:name":"Escondido",
+    "wof:parent_id":1092008501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.93897,
+    -11.30668,
+    -68.93897,
+    -11.30668
+],
+  "geometry": {"coordinates":[-68.93897,-11.30668],"type":"Point"}
+}

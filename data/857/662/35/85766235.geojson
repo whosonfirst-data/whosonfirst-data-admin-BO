@@ -1,0 +1,103 @@
+{
+  "id": 85766235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":19235453.475113,
+    "geom:bbox":"-68.188843,-16.510079,-68.188843,-16.510079",
+    "geom:latitude":-16.510079,
+    "geom:longitude":-68.188843,
+    "gn:id":"",
+    "iso:country":"BO",
+    "lbl:latitude":-16.510079,
+    "lbl:longitude":-68.188843,
+    "mps:latitude":-16.511529,
+    "mps:longitude":-68.195406,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "El Alto"
+    ],
+    "name:unk_x_variant":[
+        "El Alto"
+    ],
+    "qs:gn_adm0_cc":"BO",
+    "qs:gn_id":0,
+    "qs:gn_local":3911925,
+    "qs:local_max":3411,
+    "qs:local_sum":7300,
+    "qs:localhoods":7,
+    "qs:name":"El Alto",
+    "qs:name_adm0":"Bolivia",
+    "qs:name_adm1":"La Paz",
+    "qs:name_adm2":"Pedro Domingo Murillo",
+    "qs:name_lau":"La Paz",
+    "qs:name_local":"La Paz",
+    "qs:photo_max":35,
+    "qs:photo_sum":75,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424762,
+    "qs:woe_adm1":2344804,
+    "qs:woe_adm2":55967857,
+    "qs:woe_lau":55968149,
+    "qs:woe_local":346057,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        421177667,
+        85669409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29396889,
+        "qs:id":1324513
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"ac0de71f155321fe810fdeed7548d919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177667,
+            "locality_id":-1,
+            "neighbourhood_id":85766235,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":85766235,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531859063,
+    "wof:name":"El Alto",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.188843,
+    -16.510079,
+    -68.188843,
+    -16.510079
+],
+  "geometry": {"coordinates":[-68.18884300000001,-16.510079],"type":"Point"}
+}

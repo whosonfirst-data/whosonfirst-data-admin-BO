@@ -1,0 +1,67 @@
+{
+  "id": 1276585541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.03333,-15.78333,-68.03333,-15.78333",
+    "geom:latitude":-15.78333,
+    "geom:longitude":-68.03333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rio Talasuyo",
+    "gn:country_code":"BO",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3903618,
+    "gn:latitude":-15.78333,
+    "gn:longitude":-68.03333,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"R\u00edo Talasuyo",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        421187929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3903618
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"bc7dff9ebb7db9a4efa4f2d750b6a332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421187929,
+            "locality_id":1276585541,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1276585541,
+    "wof:lastmodified":1536939114,
+    "wof:name":"Rio Talasuyo",
+    "wof:parent_id":421187929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.03333,
+    -15.78333,
+    -68.03333,
+    -15.78333
+],
+  "geometry": {"coordinates":[-68.03333000000001,-15.78333],"type":"Point"}
+}

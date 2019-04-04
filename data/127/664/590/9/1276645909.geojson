@@ -1,0 +1,72 @@
+{
+  "id": 1276645909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.67489,-21.49135,-63.67489,-21.49135",
+    "geom:latitude":-21.49135,
+    "geom:longitude":-63.67489,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Perombyuy Bereti",
+    "gn:country_code":"BO",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3908099,
+    "gn:latitude":-21.49135,
+    "gn:longitude":-63.67489,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Perombyuy Bereti",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Porombuyuy",
+        "Porombiyuy",
+        "Perombyuy Bereti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421169235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3908099
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"853cc756097e682e67a856fcb8c3ea07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169235,
+            "locality_id":1276645909,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1276645909,
+    "wof:lastmodified":1537587988,
+    "wof:name":"Perombyuy Bereti",
+    "wof:parent_id":421169235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.67489000000001,
+    -21.49135,
+    -63.67489000000001,
+    -21.49135
+],
+  "geometry": {"coordinates":[-63.67489000000001,-21.49135],"type":"Point"}
+}

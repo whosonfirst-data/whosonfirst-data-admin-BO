@@ -1,0 +1,67 @@
+{
+  "id": 1277068513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.47925,-20.06609,-66.47925,-20.06609",
+    "geom:latitude":-20.06609,
+    "geom:longitude":-66.47925,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Estancia Cullcu",
+    "gn:country_code":"BO",
+    "gn:dem":3871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917300,
+    "gn:latitude":-20.06609,
+    "gn:longitude":-66.47925,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Cullcu",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        421177657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917300
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"d9d36470d3975b2a0c0c46af981ca3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421177657,
+            "locality_id":1277068513,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1277068513,
+    "wof:lastmodified":1536788609,
+    "wof:name":"Estancia Cullcu",
+    "wof:parent_id":421177657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.47925,
+    -20.06609,
+    -66.47925,
+    -20.06609
+],
+  "geometry": {"coordinates":[-66.47924999999999,-20.06609],"type":"Point"}
+}

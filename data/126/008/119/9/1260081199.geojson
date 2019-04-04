@@ -1,0 +1,74 @@
+{
+  "id": 1260081199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.25,-15.55,-69.25,-15.55",
+    "geom:latitude":-15.55,
+    "geom:longitude":-69.25,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jachapata",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":3960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3913826,
+    "gn:latitude":-15.55,
+    "gn:longitude":-69.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jachapata",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huaycho",
+        "Huaicho",
+        "Huaycno",
+        "Jachapata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3913826
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"9ee674822d796d944e19a38fb3bef41c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007003,
+            "locality_id":1260081199,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1260081199,
+    "wof:lastmodified":1537588052,
+    "wof:name":"Jachapata",
+    "wof:parent_id":1092007003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.25,
+    -15.55,
+    -69.25,
+    -15.55
+],
+  "geometry": {"coordinates":[-69.25,-15.55],"type":"Point"}
+}

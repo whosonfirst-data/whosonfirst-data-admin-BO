@@ -1,0 +1,68 @@
+{
+  "id": 1209615833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.13066,-15.49039,-69.13066,-15.49039",
+    "geom:latitude":-15.49039,
+    "geom:longitude":-69.13066,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Comunidad Jajaya",
+    "gn:country_code":"BO",
+    "gn:dem":3972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917081,
+    "gn:latitude":-15.49039,
+    "gn:longitude":-69.13066,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Comunidad Jajaya",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Comunidad Jajaya"
+    ],
+    "name:spa_x_variant":[
+        "Estancia Jajaya",
+        "Jajaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917081
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"744dd5f3fb5030b99fed36c4a6f6fb63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632623,
+            "locality_id":1209615833
+        }
+    ],
+    "wof:id":1209615833,
+    "wof:lastmodified":1537588079,
+    "wof:name":"Comunidad Jajaya",
+    "wof:parent_id":85632623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.13065999999999,
+    -15.49039,
+    -69.13065999999999,
+    -15.49039
+],
+  "geometry": {"coordinates":[-69.13065999999999,-15.49039],"type":"Point"}
+}

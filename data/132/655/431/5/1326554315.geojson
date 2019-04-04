@@ -1,0 +1,67 @@
+{
+  "id": 1326554315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.3,-17.28333,-67.3,-17.28333",
+    "geom:latitude":-17.28333,
+    "geom:longitude":-67.3,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Estancia Huanica",
+    "gn:country_code":"BO",
+    "gn:dem":4082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3917187,
+    "gn:latitude":-17.28333,
+    "gn:longitude":-67.3,
+    "gn:modification_date":"1993-12-12",
+    "gn:name":"Estancia Hua\u00f1ica",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669409,
+        1092007257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3917187
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"617625838965090597fb13f28cb25be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092007257,
+            "locality_id":1326554315,
+            "region_id":85669409
+        }
+    ],
+    "wof:id":1326554315,
+    "wof:lastmodified":1536952338,
+    "wof:name":"Estancia Huanica",
+    "wof:parent_id":1092007257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.3,
+    -17.28333,
+    -67.3,
+    -17.28333
+],
+  "geometry": {"coordinates":[-67.3,-17.28333],"type":"Point"}
+}

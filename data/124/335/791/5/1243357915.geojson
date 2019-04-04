@@ -1,0 +1,72 @@
+{
+  "id": 1243357915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.6,-18.21667,-65.6,-18.21667",
+    "geom:latitude":-18.21667,
+    "geom:longitude":-65.6,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Quinamarca",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":2081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3906725,
+    "gn:latitude":-18.21667,
+    "gn:longitude":-65.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Quinamarca",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quinamara",
+        "Quinamarca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3906725
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"3bbbccb0b3214abdc5f20284f650a73f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008737,
+            "locality_id":1243357915,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1243357915,
+    "wof:lastmodified":1537587971,
+    "wof:name":"Quinamarca",
+    "wof:parent_id":1092008737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.6,
+    -18.21667,
+    -65.6,
+    -18.21667
+],
+  "geometry": {"coordinates":[-65.59999999999999,-18.21667],"type":"Point"}
+}

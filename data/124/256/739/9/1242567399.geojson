@@ -1,0 +1,71 @@
+{
+  "id": 1242567399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.61568,-21.87999,-63.61568,-21.87999",
+    "geom:latitude":-21.87999,
+    "geom:longitude":-63.61568,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Palmar",
+    "gn:country_code":"BO",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3918152,
+    "gn:latitude":-21.87999,
+    "gn:longitude":-63.61568,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"El Palmar",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palmar",
+        "El Palmar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669431,
+        421169235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3918152
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"edb0ceff16646b5c31c5d1fddb56f2c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421169235,
+            "locality_id":1242567399,
+            "region_id":85669431
+        }
+    ],
+    "wof:id":1242567399,
+    "wof:lastmodified":1537588084,
+    "wof:name":"El Palmar",
+    "wof:parent_id":421169235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.61568000000001,
+    -21.87999,
+    -63.61568000000001,
+    -21.87999
+],
+  "geometry": {"coordinates":[-63.61568000000001,-21.87999],"type":"Point"}
+}

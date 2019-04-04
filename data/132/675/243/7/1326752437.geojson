@@ -1,0 +1,73 @@
+{
+  "id": 1326752437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.17367,-11.08255,-66.17367,-11.08255",
+    "geom:latitude":-11.08255,
+    "geom:longitude":-66.17367,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Puerto Gonzalo Moreno",
+    "gn:cc2":"BO",
+    "gn:country_code":"BO",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3907237,
+    "gn:latitude":-11.08255,
+    "gn:longitude":-66.17367,
+    "gn:modification_date":"2012-08-15",
+    "gn:name":"Puerto Gonzalo Moreno",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pekin",
+        "Puerto Gonzalo Moreno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669417,
+        1092008411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3907237,
+        "wk:page":"Puerto_Gonzalo_Moreno"
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"2a5f8f2e9f01e2fbe40ab00abb4d13a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008411,
+            "locality_id":1326752437,
+            "region_id":85669417
+        }
+    ],
+    "wof:id":1326752437,
+    "wof:lastmodified":1537587978,
+    "wof:name":"Puerto Gonzalo Moreno",
+    "wof:parent_id":1092008411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.17367,
+    -11.08255,
+    -66.17367,
+    -11.08255
+],
+  "geometry": {"coordinates":[-66.17367,-11.08255],"type":"Point"}
+}

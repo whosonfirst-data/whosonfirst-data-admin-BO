@@ -1,0 +1,67 @@
+{
+  "id": 1276679875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.29921,-18.15114,-66.29921,-18.15114",
+    "geom:latitude":-18.15114,
+    "geom:longitude":-66.29921,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kea Kea",
+    "gn:country_code":"BO",
+    "gn:dem":4079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3912952,
+    "gn:latitude":-18.15114,
+    "gn:longitude":-66.29921,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Kea Kea",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669421,
+        1092008665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3912952
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"fe047cae2ea5f3b76cdc4d791e1db4bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092008665,
+            "locality_id":1276679875,
+            "region_id":85669421
+        }
+    ],
+    "wof:id":1276679875,
+    "wof:lastmodified":1536810931,
+    "wof:name":"Kea Kea",
+    "wof:parent_id":1092008665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.29921,
+    -18.15114,
+    -66.29921,
+    -18.15114
+],
+  "geometry": {"coordinates":[-66.29921,-18.15114],"type":"Point"}
+}

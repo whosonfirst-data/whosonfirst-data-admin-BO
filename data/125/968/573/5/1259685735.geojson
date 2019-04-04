@@ -1,0 +1,67 @@
+{
+  "id": 1259685735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.26847,-12.71599,-63.26847,-12.71599",
+    "geom:latitude":-12.71599,
+    "geom:longitude":-63.26847,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"San Martin",
+    "gn:country_code":"BO",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3905341,
+    "gn:latitude":-12.71599,
+    "gn:longitude":-63.26847,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"San Mart\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669403,
+        1092005711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3905341
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"7f9075fa867068698f22e45066925ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092005711,
+            "locality_id":1259685735,
+            "region_id":85669403
+        }
+    ],
+    "wof:id":1259685735,
+    "wof:lastmodified":1537061051,
+    "wof:name":"San Martin",
+    "wof:parent_id":1092005711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.26846999999999,
+    -12.71599,
+    -63.26846999999999,
+    -12.71599
+],
+  "geometry": {"coordinates":[-63.26846999999999,-12.71599],"type":"Point"}
+}

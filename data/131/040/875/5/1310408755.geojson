@@ -1,0 +1,67 @@
+{
+  "id": 1310408755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.38486,-18.33291,-65.38486,-18.33291",
+    "geom:latitude":-18.33291,
+    "geom:longitude":-65.38486,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Estancia Kharalayoj",
+    "gn:country_code":"BO",
+    "gn:dem":2997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3916916,
+    "gn:latitude":-18.33291,
+    "gn:longitude":-65.38486,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estancia Kharalayoj",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669395,
+        1092006697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3916916
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"469c56d88ee0e519f7d9bbc1d64dd916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":1092006697,
+            "locality_id":1310408755,
+            "region_id":85669395
+        }
+    ],
+    "wof:id":1310408755,
+    "wof:lastmodified":1537054213,
+    "wof:name":"Estancia Kharalayoj",
+    "wof:parent_id":1092006697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.38486,
+    -18.33291,
+    -65.38486,
+    -18.33291
+],
+  "geometry": {"coordinates":[-65.38486,-18.33291],"type":"Point"}
+}

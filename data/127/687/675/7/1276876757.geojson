@@ -1,0 +1,70 @@
+{
+  "id": 1276876757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.21048,-19.28493,-65.21048,-19.28493",
+    "geom:latitude":-19.28493,
+    "geom:longitude":-65.21048,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Canchapampa",
+    "gn:country_code":"BO",
+    "gn:dem":2949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3922274,
+    "gn:latitude":-19.28493,
+    "gn:longitude":-65.21048,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Canchapampa",
+    "gn:population":0,
+    "gn:timezone":"America/La_Paz",
+    "iso:country":"BO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estancia Cancha Pampa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632623,
+        85669399,
+        421190241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3922274
+    },
+    "wof:country":"BO",
+    "wof:geomhash":"f79a0521a076a109f4eb155d71dfff10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632623,
+            "county_id":421190241,
+            "locality_id":1276876757,
+            "region_id":85669399
+        }
+    ],
+    "wof:id":1276876757,
+    "wof:lastmodified":1537588133,
+    "wof:name":"Canchapampa",
+    "wof:parent_id":421190241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.21048,
+    -19.28493,
+    -65.21048,
+    -19.28493
+],
+  "geometry": {"coordinates":[-65.21048,-19.28493],"type":"Point"}
+}
