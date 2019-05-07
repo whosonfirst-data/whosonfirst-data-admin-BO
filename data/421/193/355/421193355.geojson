@@ -10,6 +10,18 @@
     "geom:latitude":-22.121916,
     "geom:longitude":-67.165214,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Sur Lipez Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Sud Lpez"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Sud Lpez"
+    ],
     "lbl:latitude":-22.297338,
     "lbl:longitude":-67.305516,
     "meso:admin_1":"Potosi",
@@ -42,7 +54,7 @@
         "Sud L\u00edpez"
     ],
     "name:eng_x_preferred":[
-        "Sud L\u00edpez"
+        "Sur Lipez"
     ],
     "name:eng_x_variant":[
         "Sur Lipez",
@@ -54,6 +66,9 @@
         "Province de Sud L\u00edpez"
     ],
     "name:fre_x_preferred":[
+        "Sud L\u00edpez"
+    ],
+    "name:fre_x_variant":[
         "province de Sud L\u00edpez"
     ],
     "name:geo_x_preferred":[
@@ -93,10 +108,11 @@
         "Sur L\u00edpez Province"
     ],
     "name:spa_x_preferred":[
-        "Provincia de Sud L\u00edpez"
+        "Sud L\u00edpez"
     ],
     "name:spa_x_variant":[
-        "Sur L\u00edpez"
+        "Sur L\u00edpez",
+        "Sud L\u00edpez"
     ],
     "name:swe_x_preferred":[
         "Sud L\u00edpez"
@@ -168,7 +184,7 @@
         }
     ],
     "wof:id":421193355,
-    "wof:lastmodified":1536616105,
+    "wof:lastmodified":1555047016,
     "wof:name":"Sur Lipez",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

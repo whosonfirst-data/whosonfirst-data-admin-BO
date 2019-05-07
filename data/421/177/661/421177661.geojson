@@ -10,6 +10,18 @@
     "geom:latitude":-21.914561,
     "geom:longitude":-65.640702,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Modesto Omiste Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Modesto Omiste"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Modesto Omiste"
+    ],
     "lbl:latitude":-21.91324,
     "lbl:longitude":-65.647774,
     "meso:admin_1":"Potosi",
@@ -55,6 +67,9 @@
         "Province de Modesto Omiste"
     ],
     "name:fre_x_preferred":[
+        "Modesto Omiste"
+    ],
+    "name:fre_x_variant":[
         "province de Modesto Omiste"
     ],
     "name:geo_x_preferred":[
@@ -88,6 +103,9 @@
         "Modesto Omiste Province"
     ],
     "name:spa_x_preferred":[
+        "Modesto Omiste"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Modesto Omiste"
     ],
     "name:swe_x_preferred":[
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":421177661,
-    "wof:lastmodified":1536615960,
+    "wof:lastmodified":1555047011,
     "wof:name":"Modesto Omiste",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

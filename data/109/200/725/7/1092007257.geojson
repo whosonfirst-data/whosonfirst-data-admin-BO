@@ -10,6 +10,18 @@
     "geom:latitude":-16.87131,
     "geom:longitude":-67.096316,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Inquisivi Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Inquisivi"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Inquisivi"
+    ],
     "lbl:latitude":-16.745195,
     "lbl:longitude":-67.203386,
     "meso:admin_1":"La Paz",
@@ -45,6 +57,9 @@
         "Inquisivi Province"
     ],
     "name:fre_x_preferred":[
+        "Inquisivi"
+    ],
+    "name:fre_x_variant":[
         "province d'Inquisivi"
     ],
     "name:geo_x_preferred":[
@@ -72,6 +87,9 @@
         "Inquisivi Province"
     ],
     "name:spa_x_preferred":[
+        "Inquisivi"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Inquisivi"
     ],
     "name:swe_x_preferred":[
@@ -116,7 +134,7 @@
         }
     ],
     "wof:id":1092007257,
-    "wof:lastmodified":1536615053,
+    "wof:lastmodified":1555047027,
     "wof:name":"Inquisivi",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

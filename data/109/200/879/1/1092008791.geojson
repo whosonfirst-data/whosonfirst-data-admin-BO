@@ -10,6 +10,18 @@
     "geom:latitude":-18.764452,
     "geom:longitude":-65.891355,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Chayanta Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Chayanta"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Chayanta"
+    ],
     "lbl:latitude":-18.767526,
     "lbl:longitude":-65.900275,
     "meso:admin_1":"Potosi",
@@ -45,6 +57,9 @@
         "Chayanta Province"
     ],
     "name:fre_x_preferred":[
+        "Chayanta"
+    ],
+    "name:fre_x_variant":[
         "province de Chayanta"
     ],
     "name:geo_x_preferred":[
@@ -72,6 +87,9 @@
         "Chayanta Province"
     ],
     "name:spa_x_preferred":[
+        "Chayanta"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Chayanta"
     ],
     "name:swe_x_preferred":[
@@ -116,7 +134,7 @@
         }
     ],
     "wof:id":1092008791,
-    "wof:lastmodified":1536615061,
+    "wof:lastmodified":1555047036,
     "wof:name":"Chayanta",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

@@ -10,6 +10,18 @@
     "geom:latitude":-16.734705,
     "geom:longitude":-63.454765,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Obispo Santisteban Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Obispo Santistevan"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Obispo Santistevan"
+    ],
     "lbl:latitude":-16.86814,
     "lbl:longitude":-63.294883,
     "meso:admin_1":"Santa Cruz",
@@ -35,7 +47,7 @@
         "Obispo Santistevan"
     ],
     "name:eng_x_preferred":[
-        "Obispo Santistevan"
+        "Obispo Santisteban"
     ],
     "name:eng_x_variant":[
         "Obispo Santisteban",
@@ -43,6 +55,9 @@
         "Obispo Santistevan Province"
     ],
     "name:fre_x_preferred":[
+        "Obispo Santistevan"
+    ],
+    "name:fre_x_variant":[
         "province d'Obispo Santistevan"
     ],
     "name:ger_x_preferred":[
@@ -67,6 +82,9 @@
         "\u041e\u0431\u0438\u0441\u043f\u043e \u0421\u0430\u043d\u0442\u0438\u0448\u0442\u0435\u0431\u0430\u043d"
     ],
     "name:spa_x_preferred":[
+        "Obispo Santistevan"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Obispo Santistevan"
     ],
     "name:swe_x_preferred":[
@@ -111,7 +129,7 @@
         }
     ],
     "wof:id":1092009899,
-    "wof:lastmodified":1536615069,
+    "wof:lastmodified":1555047044,
     "wof:name":"Obispo Santisteban",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

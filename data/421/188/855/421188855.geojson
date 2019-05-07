@@ -10,6 +10,18 @@
     "geom:latitude":-19.164478,
     "geom:longitude":-64.971151,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Yamparaez Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Yamparez"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Yamparez"
+    ],
     "lbl:latitude":-19.168296,
     "lbl:longitude":-64.947273,
     "meso:admin_1":"Chuquisaca",
@@ -42,7 +54,7 @@
         "Yampar\u00e1ez"
     ],
     "name:eng_x_preferred":[
-        "Yampar\u00e1ez"
+        "Yamparaez"
     ],
     "name:eng_x_variant":[
         "Yamparaez",
@@ -53,6 +65,9 @@
         "Province de Yampar\u00e1ez"
     ],
     "name:fre_x_preferred":[
+        "Yampar\u00e1ez"
+    ],
+    "name:fre_x_variant":[
         "province de Yampar\u00e1ez"
     ],
     "name:geo_x_preferred":[
@@ -83,10 +98,11 @@
         "Yampara pruwinsya"
     ],
     "name:spa_x_preferred":[
-        "Provincia de Yampar\u00e1ez"
+        "Yampar\u00e1ez"
     ],
     "name:spa_x_variant":[
-        "Yamparaez"
+        "Yamparaez",
+        "Yampar\u00e1ez"
     ],
     "name:swe_x_preferred":[
         "Yampar\u00e1ez"
@@ -164,7 +180,7 @@
         }
     ],
     "wof:id":421188855,
-    "wof:lastmodified":1536616073,
+    "wof:lastmodified":1555047015,
     "wof:name":"Yamparaez",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

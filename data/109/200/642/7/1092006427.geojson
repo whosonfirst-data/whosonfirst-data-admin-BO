@@ -10,6 +10,18 @@
     "geom:latitude":-18.005618,
     "geom:longitude":-66.631687,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Bolivar Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Arque"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Arque"
+    ],
     "lbl:latitude":-18.007841,
     "lbl:longitude":-66.61721,
     "meso:admin_1":"Cochabamba",
@@ -35,13 +47,17 @@
         "Arque"
     ],
     "name:eng_x_preferred":[
-        "Arque Province"
+        "Bolivar"
     ],
     "name:eng_x_variant":[
         "Bolivar",
-        "Arque"
+        "Arque",
+        "Bolivar"
     ],
     "name:fre_x_preferred":[
+        "Arque"
+    ],
+    "name:fre_x_variant":[
         "province d'Arque"
     ],
     "name:geo_x_preferred":[
@@ -66,6 +82,9 @@
         "Arque Province"
     ],
     "name:spa_x_preferred":[
+        "Arque"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Arque"
     ],
     "name:swe_x_preferred":[
@@ -101,10 +120,11 @@
         }
     ],
     "wof:id":1092006427,
-    "wof:lastmodified":1536615049,
+    "wof:lastmodified":1555047023,
     "wof:name":"Bolivar",
     "wof:parent_id":85669395,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"AQ",
     "wof:superseded_by":[],

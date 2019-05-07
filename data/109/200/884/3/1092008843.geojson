@@ -10,6 +10,18 @@
     "geom:latitude":-19.41187,
     "geom:longitude":-65.35999,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Cornelio Saavedra Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Cornelio Saavedra"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Cornelio Saavedra"
+    ],
     "lbl:latitude":-19.443492,
     "lbl:longitude":-65.36013,
     "meso:admin_1":"Potosi",
@@ -45,6 +57,9 @@
         "Cornelio Saavedra Province"
     ],
     "name:fre_x_preferred":[
+        "Cornelio Saavedra"
+    ],
+    "name:fre_x_variant":[
         "province de Cornelio Saavedra"
     ],
     "name:geo_x_preferred":[
@@ -69,6 +84,9 @@
         "Cornelio Saavedra Province"
     ],
     "name:spa_x_preferred":[
+        "Cornelio Saavedra"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Cornelio Saavedra"
     ],
     "name:swe_x_preferred":[
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":1092008843,
-    "wof:lastmodified":1536615062,
+    "wof:lastmodified":1555047037,
     "wof:name":"Cornelio Saavedra",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

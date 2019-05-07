@@ -10,6 +10,18 @@
     "geom:latitude":-17.435089,
     "geom:longitude":-68.778648,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Pacajes Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Pacajes"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Pacajes"
+    ],
     "lbl:latitude":-17.413321,
     "lbl:longitude":-68.76833,
     "meso:admin_1":"La Paz",
@@ -39,12 +51,16 @@
         "Pacajes"
     ],
     "name:eng_x_preferred":[
-        "Pacajes Province"
+        "Pacajes"
     ],
     "name:eng_x_variant":[
+        "Pacajes",
         "Pacajes"
     ],
     "name:fre_x_preferred":[
+        "Pacajes"
+    ],
+    "name:fre_x_variant":[
         "province de Pacajes"
     ],
     "name:geo_x_preferred":[
@@ -69,6 +85,9 @@
         "Pakaqi pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Pacajes"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Pacajes"
     ],
     "name:swe_x_preferred":[
@@ -129,10 +148,11 @@
         }
     ],
     "wof:id":421182439,
-    "wof:lastmodified":1536615986,
+    "wof:lastmodified":1555047012,
     "wof:name":"Pacajes",
     "wof:parent_id":85669409,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"PC",
     "wof:superseded_by":[],

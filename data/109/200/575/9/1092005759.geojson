@@ -10,6 +10,18 @@
     "geom:latitude":-13.188258,
     "geom:longitude":-64.713271,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Mamore Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Mamor"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Mamor"
+    ],
     "lbl:latitude":-13.577821,
     "lbl:longitude":-64.724077,
     "meso:admin_1":"Beni",
@@ -35,7 +47,7 @@
         "Mamor\u00e9"
     ],
     "name:eng_x_preferred":[
-        "Mamor\u00e9"
+        "Mamore"
     ],
     "name:eng_x_variant":[
         "Mamore",
@@ -46,6 +58,9 @@
         "Provinco Mamor\u00e9"
     ],
     "name:fre_x_preferred":[
+        "Mamor\u00e9"
+    ],
+    "name:fre_x_variant":[
         "province de Mamor\u00e9"
     ],
     "name:geo_x_preferred":[
@@ -82,6 +97,9 @@
         "Mamor\u00e9 Province"
     ],
     "name:spa_x_preferred":[
+        "Mamor\u00e9"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Mamor\u00e9"
     ],
     "name:swe_x_preferred":[
@@ -135,7 +153,7 @@
         }
     ],
     "wof:id":1092005759,
-    "wof:lastmodified":1536615046,
+    "wof:lastmodified":1555047019,
     "wof:name":"Mamore",
     "wof:parent_id":85669403,
     "wof:placetype":"county",

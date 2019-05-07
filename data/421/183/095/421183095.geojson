@@ -10,6 +10,15 @@
     "geom:latitude":-18.774908,
     "geom:longitude":-58.356682,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "German Busch Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Germn Busch Becerra"
+    ],
     "lbl:latitude":-18.663946,
     "lbl:longitude":-58.295397,
     "meso:admin_1":"Santa Cruz",
@@ -31,6 +40,9 @@
     ],
     "name:deu_x_preferred":[
         "Germ\u00e1n Busch Becerra"
+    ],
+    "name:eng_x_preferred":[
+        "German Busch"
     ],
     "name:eng_x_variant":[
         "German Busch",
@@ -108,10 +120,11 @@
         }
     ],
     "wof:id":421183095,
-    "wof:lastmodified":1536616007,
+    "wof:lastmodified":1555047013,
     "wof:name":"German Busch",
     "wof:parent_id":85669427,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"CQ",
     "wof:superseded_by":[],

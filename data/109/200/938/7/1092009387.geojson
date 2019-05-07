@@ -10,6 +10,18 @@
     "geom:latitude":-20.171071,
     "geom:longitude":-67.590143,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Salar de Uyuni Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Nor Lpez"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Nor Lpez"
+    ],
     "lbl:latitude":-20.158666,
     "lbl:longitude":-67.420428,
     "meso:admin_1":"SALAR",
@@ -38,13 +50,17 @@
         "Nor L\u00edpez"
     ],
     "name:eng_x_preferred":[
-        "Nor L\u00edpez Province"
+        "Salar de Uyuni"
     ],
     "name:eng_x_variant":[
         "Nor Lipez",
-        "Nor L\u00edpez"
+        "Nor L\u00edpez",
+        "Salar de Uyuni"
     ],
     "name:fre_x_preferred":[
+        "Nor L\u00edpez"
+    ],
+    "name:fre_x_variant":[
         "province de Nor L\u00edpez"
     ],
     "name:geo_x_preferred":[
@@ -72,6 +88,9 @@
         "Nor L\u00edpez Province"
     ],
     "name:spa_x_preferred":[
+        "Nor L\u00edpez"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Nor L\u00edpez"
     ],
     "name:swe_x_preferred":[
@@ -104,10 +123,11 @@
         }
     ],
     "wof:id":1092009387,
-    "wof:lastmodified":1536615064,
+    "wof:lastmodified":1555047040,
     "wof:name":"Salar de Uyuni",
     "wof:parent_id":85669421,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"NL",
     "wof:superseded_by":[],

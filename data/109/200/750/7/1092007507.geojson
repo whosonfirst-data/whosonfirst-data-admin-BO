@@ -10,6 +10,18 @@
     "geom:latitude":-16.013804,
     "geom:longitude":-68.71818,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Omasuyos Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Omasuyos"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Omasuyos"
+    ],
     "lbl:latitude":-16.075346,
     "lbl:longitude":-68.651806,
     "meso:admin_1":"La Paz",
@@ -38,12 +50,16 @@
         "Omasuyos"
     ],
     "name:eng_x_preferred":[
-        "Omasuyos Province"
+        "Omasuyos"
     ],
     "name:eng_x_variant":[
+        "Omasuyos",
         "Omasuyos"
     ],
     "name:fre_x_preferred":[
+        "Omasuyos"
+    ],
+    "name:fre_x_variant":[
         "province d'Omasuyos"
     ],
     "name:geo_x_preferred":[
@@ -71,6 +87,9 @@
         "Omasuyos Province"
     ],
     "name:spa_x_preferred":[
+        "Omasuyos"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Omasuyos"
     ],
     "name:swe_x_preferred":[
@@ -103,10 +122,11 @@
         }
     ],
     "wof:id":1092007507,
-    "wof:lastmodified":1536615054,
+    "wof:lastmodified":1555047028,
     "wof:name":"Omasuyos",
     "wof:parent_id":85669409,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"OM",
     "wof:superseded_by":[],

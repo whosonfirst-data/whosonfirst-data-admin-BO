@@ -10,6 +10,18 @@
     "geom:latitude":-13.870538,
     "geom:longitude":-66.814979,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "General Jose Balliv Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Jos Ballivin"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia del General Jos Ballivin Segurola"
+    ],
     "lbl:latitude":-14.087371,
     "lbl:longitude":-66.971074,
     "meso:admin_1":"Beni",
@@ -35,17 +47,21 @@
         "Jos\u00e9 Ballivi\u00e1n"
     ],
     "name:eng_x_preferred":[
-        "Jos\u00e9 Ballivi\u00e1n"
+        "General Jose Balliv"
     ],
     "name:eng_x_variant":[
         "General Jose Ballivi",
         "Jos\u00e9 Ballivi\u00e1n",
-        "Jos\u00e9 Ballivi\u00e1n Province"
+        "Jos\u00e9 Ballivi\u00e1n Province",
+        "General Jose Balliv"
     ],
     "name:epo_x_preferred":[
         "Provinco Jos\u00e9 Ballivi\u00e1n"
     ],
     "name:fre_x_preferred":[
+        "Jos\u00e9 Ballivi\u00e1n"
+    ],
+    "name:fre_x_variant":[
         "province de Jos\u00e9 Ballivi\u00e1n"
     ],
     "name:geo_x_preferred":[
@@ -132,7 +148,7 @@
         }
     ],
     "wof:id":1092005669,
-    "wof:lastmodified":1536615045,
+    "wof:lastmodified":1555047018,
     "wof:name":"General Jose Balliv",
     "wof:parent_id":85669403,
     "wof:placetype":"county",

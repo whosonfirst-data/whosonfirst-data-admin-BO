@@ -10,6 +10,18 @@
     "geom:latitude":-15.081568,
     "geom:longitude":-68.810462,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Bautista Saavedra Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Bautista Saavedra"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Bautista Saavedra"
+    ],
     "lbl:latitude":-15.011995,
     "lbl:longitude":-68.773783,
     "meso:admin_1":"La Paz",
@@ -45,6 +57,9 @@
         "Bautista Saavedra Province"
     ],
     "name:fre_x_preferred":[
+        "Bautista Saavedra"
+    ],
+    "name:fre_x_variant":[
         "province de Bautista Saavedra"
     ],
     "name:geo_x_preferred":[
@@ -69,6 +84,9 @@
         "Bautista Saavedra pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Bautista Saavedra"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Bautista Saavedra"
     ],
     "name:swe_x_preferred":[
@@ -116,7 +134,7 @@
         }
     ],
     "wof:id":1092006969,
-    "wof:lastmodified":1536615052,
+    "wof:lastmodified":1555047026,
     "wof:name":"Bautista Saavedra",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

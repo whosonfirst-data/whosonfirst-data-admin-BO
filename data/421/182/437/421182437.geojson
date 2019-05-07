@@ -10,6 +10,18 @@
     "geom:latitude":-15.444615,
     "geom:longitude":-68.766108,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Munecas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Muecas"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Muecas"
+    ],
     "lbl:latitude":-15.449579,
     "lbl:longitude":-68.784315,
     "meso:admin_1":"La Paz",
@@ -45,16 +57,20 @@
         "Mu\u00f1ecas"
     ],
     "name:eng_x_preferred":[
-        "Mu\u00f1ecas"
+        "Munecas"
     ],
     "name:eng_x_variant":[
         "Mu\u00f1ecas",
-        "Mu\u00f1ecas Province"
+        "Mu\u00f1ecas Province",
+        "Munecas"
     ],
     "name:fra_x_preferred":[
         "Province de Mu\u00f1ecas"
     ],
     "name:fre_x_preferred":[
+        "Mu\u00f1ecas"
+    ],
+    "name:fre_x_variant":[
         "province de Mu\u00f1ecas"
     ],
     "name:geo_x_preferred":[
@@ -88,9 +104,10 @@
         "Mu\u00f1ecas Province"
     ],
     "name:spa_x_preferred":[
-        "Provincia de Mu\u00f1ecas"
+        "Mu\u00f1ecas"
     ],
     "name:spa_x_variant":[
+        "Mu\u00f1ecas",
         "Mu\u00f1ecas"
     ],
     "name:swe_x_preferred":[
@@ -163,7 +180,7 @@
         }
     ],
     "wof:id":421182437,
-    "wof:lastmodified":1536615986,
+    "wof:lastmodified":1555047012,
     "wof:name":"Munecas",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

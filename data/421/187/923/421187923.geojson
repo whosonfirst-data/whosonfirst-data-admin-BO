@@ -10,6 +10,18 @@
     "geom:latitude":-17.887353,
     "geom:longitude":-63.202034,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Andres Ibanez Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Andrs Ibez"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia Andrs Ibez"
+    ],
     "lbl:latitude":-17.87917,
     "lbl:longitude":-63.328277,
     "meso:admin_1":"Santa Cruz",
@@ -36,15 +48,19 @@
         "Provinz Andr\u00e9s Ib\u00e1\u00f1ez"
     ],
     "name:eng_x_preferred":[
-        "Andr\u00e9s Ib\u00e1\u00f1ez"
+        "Andres Ibanez"
     ],
     "name:eng_x_variant":[
         "Andres Iba\u00f1ez",
         "Andr\u00e9s Ib\u00e1\u00f1ez",
-        "Andr\u00e9s Iba\u00f1ez"
+        "Andr\u00e9s Iba\u00f1ez",
+        "Andres Ibanez"
     ],
     "name:fra_x_preferred":[
         "Province d'Andr\u00e9s Ib\u00e1\u00f1ez"
+    ],
+    "name:fre_x_preferred":[
+        "Andr\u00e9s Ib\u00e1\u00f1ez"
     ],
     "name:ita_x_preferred":[
         "Provincia di Andr\u00e9s Ib\u00e1\u00f1ez"
@@ -132,7 +148,7 @@
         }
     ],
     "wof:id":421187923,
-    "wof:lastmodified":1536616043,
+    "wof:lastmodified":1555047014,
     "wof:name":"Andres Ibanez",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

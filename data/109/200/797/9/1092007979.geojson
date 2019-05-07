@@ -10,6 +10,18 @@
     "geom:latitude":-18.207978,
     "geom:longitude":-66.841541,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Pantaleon Dalence Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Pantalon Dalence"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Pantalen Dalence"
+    ],
     "lbl:latitude":-18.196894,
     "lbl:longitude":-66.837307,
     "meso:admin_1":"Oruro",
@@ -35,7 +47,7 @@
         "Pantal\u00e9on Dalence"
     ],
     "name:eng_x_preferred":[
-        "Pantale\u00f3n Dalence"
+        "Pantaleon Dalence"
     ],
     "name:eng_x_variant":[
         "Pantaleon Dalence",
@@ -43,6 +55,9 @@
         "Pantale\u00f3n Dalence Province"
     ],
     "name:fre_x_preferred":[
+        "Pantal\u00e9on Dalence"
+    ],
+    "name:fre_x_variant":[
         "province de Pantal\u00e9on Dalence"
     ],
     "name:geo_x_preferred":[
@@ -67,6 +82,9 @@
         "\u041f\u0430\u043d\u0442\u0430\u043b\u0435\u043e\u043d-\u0414\u0430\u043b\u0435\u043d\u0441\u0435"
     ],
     "name:spa_x_preferred":[
+        "Pantale\u00f3n Dalence"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Pantale\u00f3n Dalence"
     ],
     "name:swe_x_preferred":[
@@ -111,7 +129,7 @@
         }
     ],
     "wof:id":1092007979,
-    "wof:lastmodified":1536615057,
+    "wof:lastmodified":1555047032,
     "wof:name":"Pantaleon Dalence",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

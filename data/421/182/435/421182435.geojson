@@ -10,6 +10,18 @@
     "geom:latitude":-17.022381,
     "geom:longitude":-67.611875,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Loayza Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Loayza"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Jos Ramn Loayza"
+    ],
     "lbl:latitude":-16.94954,
     "lbl:longitude":-67.586478,
     "meso:admin_1":"La Paz",
@@ -46,6 +58,9 @@
         "Loayza Province"
     ],
     "name:fre_x_preferred":[
+        "Loayza"
+    ],
+    "name:fre_x_variant":[
         "province de Loayza"
     ],
     "name:geo_x_preferred":[
@@ -76,6 +91,9 @@
         "Loayza Province"
     ],
     "name:spa_x_preferred":[
+        "Jos\u00e9 Ram\u00f3n Loayza"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Jos\u00e9 Ram\u00f3n Loayza"
     ],
     "name:swe_x_preferred":[
@@ -148,7 +166,7 @@
         }
     ],
     "wof:id":421182435,
-    "wof:lastmodified":1536615985,
+    "wof:lastmodified":1555047011,
     "wof:name":"Loayza",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

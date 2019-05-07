@@ -10,6 +10,12 @@
     "geom:latitude":-21.562576,
     "geom:longitude":-64.59734,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Cercado Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-21.482293,
     "lbl:longitude":-64.56391,
     "meso:admin_1":"Tarija",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421169233,
-    "wof:lastmodified":1536615898,
+    "wof:lastmodified":1554488747,
     "wof:name":"Cercado",
     "wof:parent_id":85669431,
     "wof:placetype":"county",

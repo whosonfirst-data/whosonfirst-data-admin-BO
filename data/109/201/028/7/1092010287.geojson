@@ -10,6 +10,18 @@
     "geom:latitude":-21.257311,
     "geom:longitude":-64.876988,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Mendez Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Eustaquio Mndez"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Eustaquio Mndez"
+    ],
     "lbl:latitude":-21.319625,
     "lbl:longitude":-64.928084,
     "meso:admin_1":"Tarija",
@@ -32,7 +44,7 @@
         "Eustaquio M\u00e9ndez"
     ],
     "name:eng_x_preferred":[
-        "Eustaquio M\u00e9ndez"
+        "Mendez"
     ],
     "name:eng_x_variant":[
         "Mendez",
@@ -40,6 +52,9 @@
         "Eustaquio M\u00e9ndez Province"
     ],
     "name:fre_x_preferred":[
+        "Eustaquio M\u00e9ndez"
+    ],
+    "name:fre_x_variant":[
         "province d'Eustaquio M\u00e9ndez"
     ],
     "name:geo_x_preferred":[
@@ -64,6 +79,9 @@
         "Eustaquio M\u00e9ndez Province"
     ],
     "name:spa_x_preferred":[
+        "Eustaquio M\u00e9ndez"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Eustaquio M\u00e9ndez"
     ],
     "name:swe_x_preferred":[
@@ -108,7 +126,7 @@
         }
     ],
     "wof:id":1092010287,
-    "wof:lastmodified":1536615071,
+    "wof:lastmodified":1555047047,
     "wof:name":"Mendez",
     "wof:parent_id":85669431,
     "wof:placetype":"county",

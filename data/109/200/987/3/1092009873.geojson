@@ -10,6 +10,18 @@
     "geom:latitude":-15.732201,
     "geom:longitude":-62.292994,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Nuflo De Chavez Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de uflo de Chvez"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de uflo de Chaves"
+    ],
     "lbl:latitude":-15.638917,
     "lbl:longitude":-62.189788,
     "meso:admin_1":"Santa Cruz",
@@ -35,14 +47,18 @@
         "\u00d1uflo de Ch\u00e1vez"
     ],
     "name:eng_x_preferred":[
-        "\u00d1uflo de Ch\u00e1vez"
+        "Nuflo De Chavez"
     ],
     "name:eng_x_variant":[
         "\u00d1uflo De Chavez",
         "\u00d1uflo de Ch\u00e1vez",
-        "\u00d1uflo de Ch\u00e1vez Province"
+        "\u00d1uflo de Ch\u00e1vez Province",
+        "Nuflo De Chavez"
     ],
     "name:fre_x_preferred":[
+        "\u00d1uflo de Ch\u00e1vez"
+    ],
+    "name:fre_x_variant":[
         "province de \u00d1uflo de Ch\u00e1vez"
     ],
     "name:ger_x_preferred":[
@@ -67,6 +83,9 @@
         "\u041d\u044c\u044e\u0444\u043b\u043e \u0434\u0435 \u0427\u0430\u0432\u0435\u0437"
     ],
     "name:spa_x_preferred":[
+        "\u00d1uflo de Chaves"
+    ],
+    "name:spa_x_variant":[
         "Provincia de \u00d1uflo de Chaves"
     ],
     "name:swe_x_preferred":[
@@ -111,7 +130,7 @@
         }
     ],
     "wof:id":1092009873,
-    "wof:lastmodified":1536615068,
+    "wof:lastmodified":1555047044,
     "wof:name":"Nuflo De Chavez",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

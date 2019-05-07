@@ -10,6 +10,18 @@
     "geom:latitude":-20.286612,
     "geom:longitude":-64.046777,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Hernando Siles Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Hernando Siles"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Hernando Siles"
+    ],
     "lbl:latitude":-20.275927,
     "lbl:longitude":-64.068334,
     "meso:admin_1":"Chuquisaca",
@@ -42,6 +54,9 @@
         "Hernando Siles Province"
     ],
     "name:fre_x_preferred":[
+        "Hernando Siles"
+    ],
+    "name:fre_x_variant":[
         "province d'Hernando Siles"
     ],
     "name:geo_x_preferred":[
@@ -63,6 +78,9 @@
         "Hernando Siles pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Hernando Siles"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Hernando Siles"
     ],
     "name:swe_x_preferred":[
@@ -110,7 +128,7 @@
         }
     ],
     "wof:id":1092005923,
-    "wof:lastmodified":1536615047,
+    "wof:lastmodified":1555047021,
     "wof:name":"Hernando Siles",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

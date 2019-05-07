@@ -10,6 +10,18 @@
     "geom:latitude":-20.092804,
     "geom:longitude":-66.541492,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Antonio Quijarro Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Antonio Quijarro"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Antonio Quijarro"
+    ],
     "lbl:latitude":-20.066356,
     "lbl:longitude":-66.480466,
     "meso:admin_1":"Potosi",
@@ -55,6 +67,9 @@
         "Province d'Antonio Quijarro"
     ],
     "name:fre_x_preferred":[
+        "Antonio Quijarro"
+    ],
+    "name:fre_x_variant":[
         "province d'Antonio Quijarro"
     ],
     "name:geo_x_preferred":[
@@ -91,6 +106,9 @@
         "Antonio Quijarro Province"
     ],
     "name:spa_x_preferred":[
+        "Antonio Quijarro"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Antonio Quijarro"
     ],
     "name:swe_x_preferred":[
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":421177657,
-    "wof:lastmodified":1536615958,
+    "wof:lastmodified":1555047009,
     "wof:name":"Antonio Quijarro",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

@@ -10,6 +10,18 @@
     "geom:latitude":-21.394338,
     "geom:longitude":-65.893015,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Sur Chichas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Sud Chichas"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Sud Chichas"
+    ],
     "lbl:latitude":-21.427892,
     "lbl:longitude":-65.904664,
     "meso:admin_1":"Potosi",
@@ -35,7 +47,7 @@
         "Sud Chichas"
     ],
     "name:eng_x_preferred":[
-        "Sud Chichas"
+        "Sur Chichas"
     ],
     "name:eng_x_variant":[
         "Sur Chichas",
@@ -43,6 +55,9 @@
         "Sud Chichas Province"
     ],
     "name:fre_x_preferred":[
+        "Sud Chichas"
+    ],
+    "name:fre_x_variant":[
         "province de Sud Chichas"
     ],
     "name:geo_x_preferred":[
@@ -67,6 +82,9 @@
         "Sud Chichas Province"
     ],
     "name:spa_x_preferred":[
+        "Sud Chichas"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Sud Chichas"
     ],
     "name:swe_x_preferred":[
@@ -111,7 +129,7 @@
         }
     ],
     "wof:id":1092009203,
-    "wof:lastmodified":1536615063,
+    "wof:lastmodified":1555047038,
     "wof:name":"Sur Chichas",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

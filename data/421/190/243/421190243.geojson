@@ -10,6 +10,12 @@
     "geom:latitude":-17.426108,
     "geom:longitude":-66.169344,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Cercado Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-17.451765,
     "lbl:longitude":-66.16212,
     "meso:admin_1":"Cochabamba",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421190243,
-    "wof:lastmodified":1536616079,
+    "wof:lastmodified":1554488987,
     "wof:name":"Cercado",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

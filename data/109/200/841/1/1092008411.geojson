@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.998996,
-    "geom:area_square_m":12095197637.173325,
+    "geom:area_square_m":12095197637.172106,
     "geom:bbox":"-67.997580565,-12.4967709889,-66.0949082484,-10.9075296514",
     "geom:latitude":-11.715374,
     "geom:longitude":-67.108048,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Madre De Dios Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Madre de Dios"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Madre de Dios"
+    ],
     "lbl:latitude":-11.855418,
     "lbl:longitude":-67.331363,
     "meso:admin_1":"Pando",
@@ -32,7 +44,7 @@
         "Madre de Dios"
     ],
     "name:eng_x_preferred":[
-        "Madre de Dios"
+        "Madre De Dios"
     ],
     "name:eng_x_variant":[
         "Madre De Dios",
@@ -40,6 +52,9 @@
         "Madre de Dios Province"
     ],
     "name:fre_x_preferred":[
+        "Madre de Dios"
+    ],
+    "name:fre_x_variant":[
         "province de Madre de Dios"
     ],
     "name:geo_x_preferred":[
@@ -64,6 +79,9 @@
         "Madre de Dios Province"
     ],
     "name:spa_x_preferred":[
+        "Madre de Dios"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Madre de Dios"
     ],
     "name:swe_x_preferred":[
@@ -108,7 +126,7 @@
         }
     ],
     "wof:id":1092008411,
-    "wof:lastmodified":1553816441,
+    "wof:lastmodified":1555047034,
     "wof:name":"Madre De Dios",
     "wof:parent_id":85669417,
     "wof:placetype":"county",

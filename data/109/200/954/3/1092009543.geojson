@@ -10,6 +10,18 @@
     "geom:latitude":-17.814467,
     "geom:longitude":-60.785731,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Chiquitos Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Chiquitos"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Chiquitos"
+    ],
     "lbl:latitude":-17.798975,
     "lbl:longitude":-60.625133,
     "meso:admin_1":"Santa Cruz",
@@ -35,15 +47,19 @@
         "Chiquitos"
     ],
     "name:eng_x_preferred":[
-        "Chiquitos Province"
+        "Chiquitos"
     ],
     "name:eng_x_variant":[
+        "Chiquitos",
         "Chiquitos"
     ],
     "name:fin_x_preferred":[
         "Chiquitos"
     ],
     "name:fre_x_preferred":[
+        "Chiquitos"
+    ],
+    "name:fre_x_variant":[
         "province de Chiquitos"
     ],
     "name:geo_x_preferred":[
@@ -74,6 +90,9 @@
         "\u0427\u0438\u043a\u0438\u0442\u043e\u0441"
     ],
     "name:spa_x_preferred":[
+        "Chiquitos"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Chiquitos"
     ],
     "name:swe_x_preferred":[
@@ -109,10 +128,11 @@
         }
     ],
     "wof:id":1092009543,
-    "wof:lastmodified":1536615066,
+    "wof:lastmodified":1555047041,
     "wof:name":"Chiquitos",
     "wof:parent_id":85669427,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"CQ",
     "wof:superseded_by":[],

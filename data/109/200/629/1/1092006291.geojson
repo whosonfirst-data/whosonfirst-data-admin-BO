@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04907,
-    "geom:area_square_m":578381731.617283,
+    "geom:area_square_m":578381731.617196,
     "geom:bbox":"-65.81146777,-17.7083776502,-65.4356163809,-17.4912036394",
     "geom:latitude":-17.593833,
     "geom:longitude":-65.634658,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Arani Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Arani"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Arani"
+    ],
     "lbl:latitude":-17.595554,
     "lbl:longitude":-65.638227,
     "meso:admin_1":"Cochabamba",
@@ -38,12 +50,16 @@
         "Arani"
     ],
     "name:eng_x_preferred":[
-        "Arani Province"
+        "Arani"
     ],
     "name:eng_x_variant":[
+        "Arani",
         "Arani"
     ],
     "name:fre_x_preferred":[
+        "Arani"
+    ],
+    "name:fre_x_variant":[
         "province d'Arani"
     ],
     "name:geo_x_preferred":[
@@ -74,6 +90,9 @@
         "Arani Province"
     ],
     "name:spa_x_preferred":[
+        "Arani"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Arani"
     ],
     "name:swe_x_preferred":[
@@ -109,10 +128,11 @@
         }
     ],
     "wof:id":1092006291,
-    "wof:lastmodified":1553816440,
+    "wof:lastmodified":1555047023,
     "wof:name":"Arani",
     "wof:parent_id":85669395,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"AR",
     "wof:superseded_by":[],

@@ -10,6 +10,18 @@
     "geom:latitude":-20.870846,
     "geom:longitude":-64.581163,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Sud Cinti Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Sud Cinti"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Sud Cinti"
+    ],
     "lbl:latitude":-20.861218,
     "lbl:longitude":-64.411645,
     "meso:admin_1":"Chuquisaca",
@@ -35,13 +47,17 @@
         "Sud Cinti"
     ],
     "name:eng_x_preferred":[
-        "Sud Cinti Province"
+        "Sud Cinti"
     ],
     "name:eng_x_variant":[
         "Sur Cinti",
+        "Sud Cinti",
         "Sud Cinti"
     ],
     "name:fre_x_preferred":[
+        "Sud Cinti"
+    ],
+    "name:fre_x_variant":[
         "province de Sud Cinti"
     ],
     "name:geo_x_preferred":[
@@ -66,6 +82,9 @@
         "Sud Cinti Province"
     ],
     "name:spa_x_preferred":[
+        "Sud Cinti"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Sud Cinti"
     ],
     "name:swe_x_preferred":[
@@ -101,10 +120,11 @@
         }
     ],
     "wof:id":1092006087,
-    "wof:lastmodified":1536615048,
+    "wof:lastmodified":1555047022,
     "wof:name":"Sud Cinti",
     "wof:parent_id":85669399,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"SC",
     "wof:superseded_by":[],

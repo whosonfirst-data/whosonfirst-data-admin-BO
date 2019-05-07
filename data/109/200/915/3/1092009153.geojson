@@ -10,6 +10,18 @@
     "geom:latitude":-18.492137,
     "geom:longitude":-66.481175,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Rafael Bustillo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Rafael Bustillo"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Rafael Bustillo"
+    ],
     "lbl:latitude":-18.500247,
     "lbl:longitude":-66.486545,
     "meso:admin_1":"Potosi",
@@ -45,6 +57,9 @@
         "Rafael Bustillo Province"
     ],
     "name:fre_x_preferred":[
+        "Rafael Bustillo"
+    ],
+    "name:fre_x_variant":[
         "province de Rafael Bustillo"
     ],
     "name:geo_x_preferred":[
@@ -69,6 +84,9 @@
         "Rafael Bustillo Province"
     ],
     "name:spa_x_preferred":[
+        "Rafael Bustillo"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Rafael Bustillo"
     ],
     "name:swe_x_preferred":[
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":1092009153,
-    "wof:lastmodified":1536615063,
+    "wof:lastmodified":1555047037,
     "wof:name":"Rafael Bustillo",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

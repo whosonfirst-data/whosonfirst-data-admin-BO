@@ -10,6 +10,18 @@
     "geom:latitude":-11.544594,
     "geom:longitude":-68.008085,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Manuripi Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Manuripi"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Manuripi"
+    ],
     "lbl:latitude":-11.68477,
     "lbl:longitude":-68.437937,
     "meso:admin_1":"Pando",
@@ -39,6 +51,9 @@
         "Manuripi Province"
     ],
     "name:fre_x_preferred":[
+        "Manuripi"
+    ],
+    "name:fre_x_variant":[
         "province de Manuripi"
     ],
     "name:geo_x_preferred":[
@@ -66,6 +81,9 @@
         "Manuripi Province"
     ],
     "name:spa_x_preferred":[
+        "Manuripi"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Manuripi"
     ],
     "name:swe_x_preferred":[
@@ -110,7 +128,7 @@
         }
     ],
     "wof:id":1092008461,
-    "wof:lastmodified":1536615060,
+    "wof:lastmodified":1555047034,
     "wof:name":"Manuripi",
     "wof:parent_id":85669417,
     "wof:placetype":"county",

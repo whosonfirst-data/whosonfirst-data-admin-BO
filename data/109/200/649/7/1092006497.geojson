@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083547,
-    "geom:area_square_m":984095374.819974,
+    "geom:area_square_m":984095374.819761,
     "geom:bbox":"-66.3938348033,-17.9517292352,-66.1077168958,-17.4725905313",
     "geom:latitude":-17.713517,
     "geom:longitude":-66.241323,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Capinota Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Capinota"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Capinota"
+    ],
     "lbl:latitude":-17.751398,
     "lbl:longitude":-66.258365,
     "meso:admin_1":"Cochabamba",
@@ -42,6 +54,9 @@
         "Capinota Province"
     ],
     "name:fre_x_preferred":[
+        "Capinota"
+    ],
+    "name:fre_x_variant":[
         "province de Capinota"
     ],
     "name:geo_x_preferred":[
@@ -69,6 +84,9 @@
         "Capinota Province"
     ],
     "name:spa_x_preferred":[
+        "Capinota"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Capinota"
     ],
     "name:swe_x_preferred":[
@@ -116,7 +134,7 @@
         }
     ],
     "wof:id":1092006497,
-    "wof:lastmodified":1553816440,
+    "wof:lastmodified":1555047024,
     "wof:name":"Capinota",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

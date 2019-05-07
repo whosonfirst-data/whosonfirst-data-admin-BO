@@ -10,6 +10,18 @@
     "geom:latitude":-17.309799,
     "geom:longitude":-66.325804,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Quillacollo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Quillacollo"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Quillacollo"
+    ],
     "lbl:latitude":-17.314223,
     "lbl:longitude":-66.310787,
     "meso:admin_1":"Cochabamba",
@@ -43,6 +55,9 @@
         "Quillacollo Province"
     ],
     "name:fre_x_preferred":[
+        "Quillacollo"
+    ],
+    "name:fre_x_variant":[
         "province de Quillacollo"
     ],
     "name:geo_x_preferred":[
@@ -73,6 +88,9 @@
         "Quillacollo Province"
     ],
     "name:spa_x_preferred":[
+        "Quillacollo"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Quillacollo"
     ],
     "name:swe_x_preferred":[
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":421197123,
-    "wof:lastmodified":1536616124,
+    "wof:lastmodified":1555047017,
     "wof:name":"Quillacollo",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

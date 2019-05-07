@@ -10,6 +10,18 @@
     "geom:latitude":-18.31596,
     "geom:longitude":-64.873532,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Campero Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Narciso Campero"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Campero"
+    ],
     "lbl:latitude":-18.246478,
     "lbl:longitude":-64.910139,
     "meso:admin_1":"Cochabamba",
@@ -35,7 +47,7 @@
         "Narciso Campero"
     ],
     "name:eng_x_preferred":[
-        "Narciso Campero"
+        "Campero"
     ],
     "name:eng_x_variant":[
         "Campero",
@@ -43,6 +55,9 @@
         "Narciso Campero Province"
     ],
     "name:fre_x_preferred":[
+        "Narciso Campero"
+    ],
+    "name:fre_x_variant":[
         "province de Narciso Campero"
     ],
     "name:geo_x_preferred":[
@@ -67,6 +82,9 @@
         "Narciso Campero Province"
     ],
     "name:spa_x_preferred":[
+        "Campero"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Campero"
     ],
     "name:swe_x_preferred":[
@@ -114,7 +132,7 @@
         }
     ],
     "wof:id":1092006465,
-    "wof:lastmodified":1536615050,
+    "wof:lastmodified":1555047023,
     "wof:name":"Campero",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

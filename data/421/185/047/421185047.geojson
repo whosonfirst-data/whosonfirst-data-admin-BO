@@ -10,6 +10,18 @@
     "geom:latitude":-17.758946,
     "geom:longitude":-65.956176,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Esteban Arce Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Esteban Arce"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Esteban Arze"
+    ],
     "lbl:latitude":-17.831648,
     "lbl:longitude":-65.914172,
     "meso:admin_1":"Cochabamba",
@@ -43,6 +55,9 @@
         "Esteban Arce Province"
     ],
     "name:fre_x_preferred":[
+        "Esteban Arce"
+    ],
+    "name:fre_x_variant":[
         "province d'Esteban Arce"
     ],
     "name:geo_x_preferred":[
@@ -70,6 +85,9 @@
         "Esteban Arce Province"
     ],
     "name:spa_x_preferred":[
+        "Esteban Arze"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Esteban Arze"
     ],
     "name:swe_x_preferred":[
@@ -142,7 +160,7 @@
         }
     ],
     "wof:id":421185047,
-    "wof:lastmodified":1536616026,
+    "wof:lastmodified":1555047013,
     "wof:name":"Esteban Arce",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

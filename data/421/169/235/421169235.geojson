@@ -10,6 +10,18 @@
     "geom:latitude":-21.545853,
     "geom:longitude":-63.194847,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Gran Chaco Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Gran Chaco"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia del Gran Chaco"
+    ],
     "lbl:latitude":-21.503693,
     "lbl:longitude":-63.19428,
     "meso:admin_1":"Tarija",
@@ -40,6 +52,9 @@
         "Gran Chaco Province"
     ],
     "name:fre_x_preferred":[
+        "Gran Chaco"
+    ],
+    "name:fre_x_variant":[
         "province de Gran Chaco"
     ],
     "name:geo_x_preferred":[
@@ -139,7 +154,7 @@
         }
     ],
     "wof:id":421169235,
-    "wof:lastmodified":1536615898,
+    "wof:lastmodified":1555047007,
     "wof:name":"Gran Chaco",
     "wof:parent_id":85669431,
     "wof:placetype":"county",

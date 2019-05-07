@@ -10,6 +10,18 @@
     "geom:latitude":-16.650815,
     "geom:longitude":-66.604099,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Ayopaya Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Ayopaya"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Ayopaya"
+    ],
     "lbl:latitude":-16.664807,
     "lbl:longitude":-66.489658,
     "meso:admin_1":"Cochabamba",
@@ -42,6 +54,9 @@
         "Ayopaya Province"
     ],
     "name:fre_x_preferred":[
+        "Ayopaya"
+    ],
+    "name:fre_x_variant":[
         "province d'Ayopaya"
     ],
     "name:geo_x_preferred":[
@@ -66,6 +81,9 @@
         "Ayopaya Province"
     ],
     "name:spa_x_preferred":[
+        "Ayopaya"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Ayopaya"
     ],
     "name:swe_x_preferred":[
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":1092006381,
-    "wof:lastmodified":1536615049,
+    "wof:lastmodified":1555047023,
     "wof:name":"Ayopaya",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

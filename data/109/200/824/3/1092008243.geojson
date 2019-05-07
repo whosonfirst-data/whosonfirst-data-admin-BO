@@ -10,6 +10,18 @@
     "geom:latitude":-18.888058,
     "geom:longitude":-67.502043,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Sur Carangas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Carangas"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Carangas"
+    ],
     "lbl:latitude":-18.853449,
     "lbl:longitude":-67.510963,
     "meso:admin_1":"Oruro",
@@ -35,13 +47,17 @@
         "Carangas"
     ],
     "name:eng_x_preferred":[
-        "Carangas Province"
+        "Sur Carangas"
     ],
     "name:eng_x_variant":[
         "Sur Carangas",
-        "Carangas"
+        "Carangas",
+        "Sur Carangas"
     ],
     "name:fre_x_preferred":[
+        "Carangas"
+    ],
+    "name:fre_x_variant":[
         "province de Carangas"
     ],
     "name:geo_x_preferred":[
@@ -66,6 +82,9 @@
         "\u041a\u0430\u0440\u0430\u043d\u0433\u0430\u0441"
     ],
     "name:spa_x_preferred":[
+        "Carangas"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Carangas"
     ],
     "name:swe_x_preferred":[
@@ -98,10 +117,11 @@
         }
     ],
     "wof:id":1092008243,
-    "wof:lastmodified":1536615059,
+    "wof:lastmodified":1555047034,
     "wof:name":"Sur Carangas",
     "wof:parent_id":85669413,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"CR",
     "wof:superseded_by":[],

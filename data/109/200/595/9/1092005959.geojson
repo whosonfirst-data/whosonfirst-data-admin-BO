@@ -10,6 +10,18 @@
     "geom:latitude":-20.486732,
     "geom:longitude":-63.223673,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Luis Calvo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Luis Calvo"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Luis Calvo"
+    ],
     "lbl:latitude":-20.732421,
     "lbl:longitude":-63.224573,
     "meso:admin_1":"Chuquisaca",
@@ -42,6 +54,9 @@
         "Luis Calvo Province"
     ],
     "name:fre_x_preferred":[
+        "Luis Calvo"
+    ],
+    "name:fre_x_variant":[
         "province de Luis Calvo"
     ],
     "name:geo_x_preferred":[
@@ -66,6 +81,9 @@
         "Luis Calvo"
     ],
     "name:spa_x_preferred":[
+        "Luis Calvo"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Luis Calvo"
     ],
     "name:swe_x_preferred":[
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":1092005959,
-    "wof:lastmodified":1536615048,
+    "wof:lastmodified":1555047021,
     "wof:name":"Luis Calvo",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

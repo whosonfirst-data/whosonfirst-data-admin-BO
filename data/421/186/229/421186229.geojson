@@ -10,6 +10,18 @@
     "geom:latitude":-17.849275,
     "geom:longitude":-64.478496,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Manuel M. Caballero Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Manuel Mara Caballero"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Caballero"
+    ],
     "lbl:latitude":-17.895942,
     "lbl:longitude":-64.499393,
     "meso:admin_1":"Santa Cruz",
@@ -42,7 +54,7 @@
         "Manuel Mar\u00eda Caballero"
     ],
     "name:eng_x_preferred":[
-        "Manuel Mar\u00eda Caballero"
+        "Manuel M. Caballero"
     ],
     "name:eng_x_variant":[
         "Manuel M. Caballero",
@@ -53,6 +65,9 @@
         "Province de Manuel Mar\u00eda Caballero"
     ],
     "name:fre_x_preferred":[
+        "Manuel Mar\u00eda Caballero"
+    ],
+    "name:fre_x_variant":[
         "province de Manuel Mar\u00eda Caballero"
     ],
     "name:ger_x_preferred":[
@@ -154,7 +169,7 @@
         }
     ],
     "wof:id":421186229,
-    "wof:lastmodified":1536616034,
+    "wof:lastmodified":1555047013,
     "wof:name":"Manuel M. Caballero",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

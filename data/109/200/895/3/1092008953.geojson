@@ -10,6 +10,18 @@
     "geom:latitude":-17.992377,
     "geom:longitude":-66.069534,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "General Bernardino Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Bernardino Bilbao"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Bernardino Bilbao"
+    ],
     "lbl:latitude":-17.988174,
     "lbl:longitude":-66.085198,
     "meso:admin_1":"Potosi",
@@ -38,14 +50,18 @@
         "Bernardino Bilbao"
     ],
     "name:eng_x_preferred":[
-        "Bernardino Bilbao"
+        "General Bernardino"
     ],
     "name:eng_x_variant":[
         "General Bernardino B",
         "Bernardino Bilbao",
-        "Bernardino Bilbao Province"
+        "Bernardino Bilbao Province",
+        "General Bernardino"
     ],
     "name:fre_x_preferred":[
+        "Bernardino Bilbao"
+    ],
+    "name:fre_x_variant":[
         "province de Bernardino Bilbao"
     ],
     "name:geo_x_preferred":[
@@ -70,6 +86,9 @@
         "Bernardino Bilbao Province"
     ],
     "name:spa_x_preferred":[
+        "Bernardino Bilbao"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Bernardino Bilbao"
     ],
     "name:swe_x_preferred":[
@@ -114,7 +133,7 @@
         }
     ],
     "wof:id":1092008953,
-    "wof:lastmodified":1536615062,
+    "wof:lastmodified":1555047037,
     "wof:name":"General Bernardino",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

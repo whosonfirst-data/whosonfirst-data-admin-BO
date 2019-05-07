@@ -10,6 +10,18 @@
     "geom:latitude":-17.821726,
     "geom:longitude":-66.527521,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Arque Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Arque"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Arque"
+    ],
     "lbl:latitude":-17.80339,
     "lbl:longitude":-66.487899,
     "meso:admin_1":"Cochabamba",
@@ -35,12 +47,16 @@
         "Arque"
     ],
     "name:eng_x_preferred":[
-        "Arque Province"
+        "Arque"
     ],
     "name:eng_x_variant":[
+        "Arque",
         "Arque"
     ],
     "name:fre_x_preferred":[
+        "Arque"
+    ],
+    "name:fre_x_variant":[
         "province d'Arque"
     ],
     "name:geo_x_preferred":[
@@ -65,6 +81,9 @@
         "Arque Province"
     ],
     "name:spa_x_preferred":[
+        "Arque"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Arque"
     ],
     "name:swe_x_preferred":[
@@ -100,10 +119,11 @@
         }
     ],
     "wof:id":1092006343,
-    "wof:lastmodified":1536615049,
+    "wof:lastmodified":1555047023,
     "wof:name":"Arque",
     "wof:parent_id":85669395,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"AQ",
     "wof:superseded_by":[],

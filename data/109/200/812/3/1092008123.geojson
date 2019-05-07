@@ -10,6 +10,18 @@
     "geom:latitude":-17.858242,
     "geom:longitude":-68.180181,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "San Pedro De Totora Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Sajama"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Sajama"
+    ],
     "lbl:latitude":-17.8711,
     "lbl:longitude":-68.184132,
     "meso:admin_1":"Oruro",
@@ -35,13 +47,17 @@
         "Sajama"
     ],
     "name:eng_x_preferred":[
-        "Sajama Province"
+        "San Pedro De Totora"
     ],
     "name:eng_x_variant":[
         "San Pedro De Totora",
-        "Sajama"
+        "Sajama",
+        "San Pedro De Totora"
     ],
     "name:fre_x_preferred":[
+        "Sajama"
+    ],
+    "name:fre_x_variant":[
         "province de Sajama"
     ],
     "name:geo_x_preferred":[
@@ -69,6 +85,9 @@
         "\u0421\u0430\u0445\u0430\u043c\u0430"
     ],
     "name:spa_x_preferred":[
+        "Sajama"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Sajama"
     ],
     "name:swe_x_preferred":[
@@ -101,10 +120,11 @@
         }
     ],
     "wof:id":1092008123,
-    "wof:lastmodified":1536615058,
+    "wof:lastmodified":1555047033,
     "wof:name":"San Pedro De Totora",
     "wof:parent_id":85669413,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"SJ",
     "wof:superseded_by":[],

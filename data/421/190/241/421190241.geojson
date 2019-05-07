@@ -10,6 +10,18 @@
     "geom:latitude":-18.843243,
     "geom:longitude":-65.308006,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Oropeza Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Oropeza"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Samuel Oropeza"
+    ],
     "lbl:latitude":-18.789362,
     "lbl:longitude":-65.245563,
     "meso:admin_1":"Chuquisaca",
@@ -46,6 +58,9 @@
         "Oropeza Province"
     ],
     "name:fre_x_preferred":[
+        "Oropeza"
+    ],
+    "name:fre_x_variant":[
         "province d'Oropeza"
     ],
     "name:geo_x_preferred":[
@@ -73,6 +88,9 @@
         "\u041e\u0440\u043e\u043f\u0435\u0441\u0430"
     ],
     "name:spa_x_preferred":[
+        "Samuel Oropeza"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Samuel Oropeza"
     ],
     "name:swe_x_preferred":[
@@ -148,7 +166,7 @@
         }
     ],
     "wof:id":421190241,
-    "wof:lastmodified":1536616079,
+    "wof:lastmodified":1555047015,
     "wof:name":"Oropeza",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

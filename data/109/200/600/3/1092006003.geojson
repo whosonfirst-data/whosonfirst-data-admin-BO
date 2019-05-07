@@ -10,6 +10,18 @@
     "geom:latitude":-20.372282,
     "geom:longitude":-64.914458,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Nor Cinti Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Nor Cinti"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Nor Cinti"
+    ],
     "lbl:latitude":-20.388112,
     "lbl:longitude":-64.906135,
     "meso:admin_1":"Chuquisaca",
@@ -42,6 +54,9 @@
         "Nor Cinti Province"
     ],
     "name:fre_x_preferred":[
+        "Nor Cinti"
+    ],
+    "name:fre_x_variant":[
         "province de Nor Cinti"
     ],
     "name:geo_x_preferred":[
@@ -63,6 +78,9 @@
         "Chinchay Sinti pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Nor Cinti"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Nor Cinti"
     ],
     "name:swe_x_preferred":[
@@ -110,7 +128,7 @@
         }
     ],
     "wof:id":1092006003,
-    "wof:lastmodified":1536615048,
+    "wof:lastmodified":1555047021,
     "wof:name":"Nor Cinti",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

@@ -10,6 +10,18 @@
     "geom:latitude":-20.007155,
     "geom:longitude":-64.488159,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Azurduy Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Juana Azurduy de Padilla"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Juana Azurduy de Padilla"
+    ],
     "lbl:latitude":-20.000283,
     "lbl:longitude":-64.471443,
     "meso:admin_1":"Chuquisaca",
@@ -35,7 +47,7 @@
         "Juana Azurduy de Padilla"
     ],
     "name:eng_x_preferred":[
-        "Juana Azurduay de Padilla"
+        "Azurduy"
     ],
     "name:eng_x_variant":[
         "Azurduy",
@@ -43,6 +55,9 @@
         "Juana Azurduy de Padilla Province"
     ],
     "name:fre_x_preferred":[
+        "Juana Azurduy de Padilla"
+    ],
+    "name:fre_x_variant":[
         "province de Juana Azurduy de Padilla"
     ],
     "name:geo_x_preferred":[
@@ -64,6 +79,9 @@
         "Azurduy pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Juana Azurduy de Padilla"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Juana Azurduy de Padilla"
     ],
     "name:swe_x_preferred":[
@@ -111,7 +129,7 @@
         }
     ],
     "wof:id":1092005881,
-    "wof:lastmodified":1536615047,
+    "wof:lastmodified":1555047020,
     "wof:name":"Azurduy",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

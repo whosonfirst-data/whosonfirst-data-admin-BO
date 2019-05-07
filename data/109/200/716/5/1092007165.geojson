@@ -10,6 +10,18 @@
     "geom:latitude":-17.644797,
     "geom:longitude":-67.889981,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Gualberto Villarroe Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Gualberto Villarroel"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Gualberto Villarroel"
+    ],
     "lbl:latitude":-17.6784,
     "lbl:longitude":-67.830965,
     "meso:admin_1":"La Paz",
@@ -38,13 +50,17 @@
         "Gualberto Villarroel"
     ],
     "name:eng_x_preferred":[
-        "Gualberto Villarroel"
+        "Gualberto Villarroe"
     ],
     "name:eng_x_variant":[
         "Gualberto Villarroel",
-        "Gualberto Villarroel Province"
+        "Gualberto Villarroel Province",
+        "Gualberto Villarroe"
     ],
     "name:fre_x_preferred":[
+        "Gualberto Villarroel"
+    ],
+    "name:fre_x_variant":[
         "province de Gualberto Villarroel"
     ],
     "name:geo_x_preferred":[
@@ -72,6 +88,9 @@
         "Gualberto Villarroel Province"
     ],
     "name:spa_x_preferred":[
+        "Gualberto Villarroel"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Gualberto Villarroel"
     ],
     "name:swe_x_preferred":[
@@ -116,7 +135,7 @@
         }
     ],
     "wof:id":1092007165,
-    "wof:lastmodified":1536615052,
+    "wof:lastmodified":1555047026,
     "wof:name":"Gualberto Villarroe",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

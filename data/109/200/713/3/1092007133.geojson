@@ -10,6 +10,18 @@
     "geom:latitude":-17.208283,
     "geom:longitude":-69.332106,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "General Jose Manuel Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Pacajes"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Pacajes"
+    ],
     "lbl:latitude":-17.210877,
     "lbl:longitude":-69.327288,
     "meso:admin_1":"La Paz",
@@ -38,13 +50,17 @@
         "Pacajes"
     ],
     "name:eng_x_preferred":[
-        "Pacajes Province"
+        "General Jose Manuel"
     ],
     "name:eng_x_variant":[
         "General Jose Manuel",
-        "Pacajes"
+        "Pacajes",
+        "General Jose Manuel"
     ],
     "name:fre_x_preferred":[
+        "Pacajes"
+    ],
+    "name:fre_x_variant":[
         "province de Pacajes"
     ],
     "name:geo_x_preferred":[
@@ -69,6 +85,9 @@
         "Pakaqi pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Pacajes"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Pacajes"
     ],
     "name:swe_x_preferred":[
@@ -101,10 +120,11 @@
         }
     ],
     "wof:id":1092007133,
-    "wof:lastmodified":1536615052,
+    "wof:lastmodified":1555047026,
     "wof:name":"General Jose Manuel",
     "wof:parent_id":85669409,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"PC",
     "wof:superseded_by":[],

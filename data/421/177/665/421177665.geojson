@@ -10,6 +10,18 @@
     "geom:latitude":-19.402197,
     "geom:longitude":-65.93988,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Tomas Frias Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Toms Fras"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Toms Fras"
+    ],
     "lbl:latitude":-19.4021,
     "lbl:longitude":-65.931724,
     "meso:admin_1":"Potosi",
@@ -45,7 +57,7 @@
         "Tom\u00e1s Fr\u00edas"
     ],
     "name:eng_x_preferred":[
-        "Tom\u00e1s Fr\u00edas"
+        "Tomas Frias"
     ],
     "name:eng_x_variant":[
         "Tomas Frias",
@@ -56,6 +68,9 @@
         "Province de Tom\u00e1s Fr\u00edas"
     ],
     "name:fre_x_preferred":[
+        "Tom\u00e1s Fr\u00edas"
+    ],
+    "name:fre_x_variant":[
         "province de Tom\u00e1s Fr\u00edas"
     ],
     "name:geo_x_preferred":[
@@ -92,6 +107,9 @@
         "Tom\u00e1s Fr\u00edas Province"
     ],
     "name:spa_x_preferred":[
+        "Tom\u00e1s Fr\u00edas"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Tom\u00e1s Fr\u00edas"
     ],
     "name:swe_x_preferred":[
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":421177665,
-    "wof:lastmodified":1536615960,
+    "wof:lastmodified":1555047011,
     "wof:name":"Tomas Frias",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

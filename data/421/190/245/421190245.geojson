@@ -10,6 +10,18 @@
     "geom:latitude":-13.178139,
     "geom:longitude":-67.999832,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Abel Iturralde Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Abel Iturralde"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Abel Iturralde"
+    ],
     "lbl:latitude":-13.111853,
     "lbl:longitude":-68.089475,
     "meso:admin_1":"La Paz",
@@ -58,6 +70,9 @@
         "Province d'Abel Iturralde"
     ],
     "name:fre_x_preferred":[
+        "Abel Iturralde"
+    ],
+    "name:fre_x_variant":[
         "province d'Abel Iturralde"
     ],
     "name:geo_x_preferred":[
@@ -94,6 +109,9 @@
         "Abel Iturralde pruwinsya"
     ],
     "name:spa_x_preferred":[
+        "Abel Iturralde"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Abel Iturralde"
     ],
     "name:swe_x_preferred":[
@@ -167,7 +185,7 @@
         }
     ],
     "wof:id":421190245,
-    "wof:lastmodified":1536616080,
+    "wof:lastmodified":1555047015,
     "wof:name":"Abel Iturralde",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

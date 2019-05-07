@@ -10,6 +10,18 @@
     "geom:latitude":-22.177659,
     "geom:longitude":-64.514637,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Arce Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Aniceto Arce"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Aniceto Arce"
+    ],
     "lbl:latitude":-22.058328,
     "lbl:longitude":-64.507514,
     "meso:admin_1":"Tarija",
@@ -33,7 +45,7 @@
         "Aniceto Arce"
     ],
     "name:eng_x_preferred":[
-        "Aniceto Arce"
+        "Arce"
     ],
     "name:eng_x_variant":[
         "Arce",
@@ -41,6 +53,9 @@
         "Aniceto Arce Province"
     ],
     "name:fre_x_preferred":[
+        "Aniceto Arce"
+    ],
+    "name:fre_x_variant":[
         "province d'Aniceto Arce"
     ],
     "name:geo_x_preferred":[
@@ -65,6 +80,9 @@
         "Aniceto Arce Province"
     ],
     "name:spa_x_preferred":[
+        "Aniceto Arce"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Aniceto Arce"
     ],
     "name:swe_x_preferred":[
@@ -140,7 +158,7 @@
         }
     ],
     "wof:id":421182443,
-    "wof:lastmodified":1536615986,
+    "wof:lastmodified":1555047012,
     "wof:name":"Arce",
     "wof:parent_id":85669431,
     "wof:placetype":"county",

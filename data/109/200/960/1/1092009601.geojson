@@ -10,6 +10,18 @@
     "geom:latitude":-19.124907,
     "geom:longitude":-61.861531,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Cordillera Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Cordillera"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Cordillera"
+    ],
     "lbl:latitude":-18.989717,
     "lbl:longitude":-62.350696,
     "meso:admin_1":"Santa Cruz",
@@ -42,6 +54,9 @@
         "Cordillera Province"
     ],
     "name:fre_x_preferred":[
+        "Cordillera"
+    ],
+    "name:fre_x_variant":[
         "province de Cordillera"
     ],
     "name:geo_x_preferred":[
@@ -72,6 +87,9 @@
         "Cordillera Province"
     ],
     "name:spa_x_preferred":[
+        "Cordillera"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Cordillera"
     ],
     "name:swe_x_preferred":[
@@ -116,7 +134,7 @@
         }
     ],
     "wof:id":1092009601,
-    "wof:lastmodified":1536615066,
+    "wof:lastmodified":1555047042,
     "wof:name":"Cordillera",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

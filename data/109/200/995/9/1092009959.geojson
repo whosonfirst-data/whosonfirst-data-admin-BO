@@ -10,6 +10,18 @@
     "geom:latitude":-16.846649,
     "geom:longitude":-63.731375,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Sara Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Sara"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Sara"
+    ],
     "lbl:latitude":-16.832361,
     "lbl:longitude":-63.77747,
     "meso:admin_1":"Santa Cruz",
@@ -42,6 +54,9 @@
         "Sara Province"
     ],
     "name:fre_x_preferred":[
+        "Sara"
+    ],
+    "name:fre_x_variant":[
         "province de Sara"
     ],
     "name:ger_x_preferred":[
@@ -66,6 +81,9 @@
         "\u0421\u0430\u0440\u0430"
     ],
     "name:spa_x_preferred":[
+        "Sara"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Sara"
     ],
     "name:swe_x_preferred":[
@@ -110,7 +128,7 @@
         }
     ],
     "wof:id":1092009959,
-    "wof:lastmodified":1536615069,
+    "wof:lastmodified":1555047045,
     "wof:name":"Sara",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

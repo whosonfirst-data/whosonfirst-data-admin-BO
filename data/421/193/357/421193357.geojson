@@ -10,6 +10,18 @@
     "geom:latitude":-21.111291,
     "geom:longitude":-67.490941,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Nor Lipez Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Nor Lpez"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Nor Lpez"
+    ],
     "lbl:latitude":-21.091686,
     "lbl:longitude":-67.126045,
     "meso:admin_1":"Potosi",
@@ -45,16 +57,20 @@
         "Nor L\u00edpez"
     ],
     "name:eng_x_preferred":[
-        "Nor L\u00edpez Province"
+        "Nor Lipez"
     ],
     "name:eng_x_variant":[
         "Nor Lipez",
-        "Nor L\u00edpez"
+        "Nor L\u00edpez",
+        "Nor Lipez"
     ],
     "name:fra_x_preferred":[
         "Province de Nor L\u00edpez"
     ],
     "name:fre_x_preferred":[
+        "Nor L\u00edpez"
+    ],
+    "name:fre_x_variant":[
         "province de Nor L\u00edpez"
     ],
     "name:geo_x_preferred":[
@@ -91,9 +107,10 @@
         "Nor L\u00edpez Province"
     ],
     "name:spa_x_preferred":[
-        "Provincia de Nor L\u00edpez"
+        "Nor L\u00edpez"
     ],
     "name:spa_x_variant":[
+        "Nor L\u00edpez",
         "Nor L\u00edpez"
     ],
     "name:swe_x_preferred":[
@@ -154,10 +171,11 @@
         }
     ],
     "wof:id":421193357,
-    "wof:lastmodified":1536616105,
+    "wof:lastmodified":1555047016,
     "wof:name":"Nor Lipez",
     "wof:parent_id":85669421,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"NL",
     "wof:superseded_by":[],

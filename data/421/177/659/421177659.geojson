@@ -10,6 +10,18 @@
     "geom:latitude":-20.100771,
     "geom:longitude":-68.329004,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Daniel Campos Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Daniel Campos"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Daniel Campos"
+    ],
     "lbl:latitude":-20.187403,
     "lbl:longitude":-68.42373,
     "meso:admin_1":"Potosi",
@@ -46,6 +58,9 @@
         "Daniel Campos Province"
     ],
     "name:fre_x_preferred":[
+        "Daniel Campos"
+    ],
+    "name:fre_x_variant":[
         "province de Daniel Campos"
     ],
     "name:geo_x_preferred":[
@@ -70,6 +85,9 @@
         "Daniel Campos Province"
     ],
     "name:spa_x_preferred":[
+        "Daniel Campos"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Daniel Campos"
     ],
     "name:swe_x_preferred":[
@@ -137,7 +155,7 @@
         }
     ],
     "wof:id":421177659,
-    "wof:lastmodified":1536615959,
+    "wof:lastmodified":1555047009,
     "wof:name":"Daniel Campos",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

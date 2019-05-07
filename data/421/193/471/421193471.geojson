@@ -10,6 +10,18 @@
     "geom:latitude":-18.668484,
     "geom:longitude":-63.993803,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Valle Grande Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Vallegrande"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Vallegrande"
+    ],
     "lbl:latitude":-18.719863,
     "lbl:longitude":-63.986553,
     "meso:admin_1":"Santa Cruz",
@@ -39,7 +51,7 @@
         "Vallegrande"
     ],
     "name:eng_x_preferred":[
-        "Vallegrande"
+        "Valle Grande"
     ],
     "name:eng_x_variant":[
         "Valle Grande",
@@ -152,7 +164,7 @@
         }
     ],
     "wof:id":421193471,
-    "wof:lastmodified":1536616107,
+    "wof:lastmodified":1555047017,
     "wof:name":"Valle Grande",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

@@ -10,6 +10,18 @@
     "geom:latitude":-21.776836,
     "geom:longitude":-65.025806,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Avilez Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Jos Mara Avils"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Jos Mara Avils"
+    ],
     "lbl:latitude":-21.749242,
     "lbl:longitude":-65.149603,
     "meso:admin_1":"Tarija",
@@ -32,7 +44,7 @@
         "Jos\u00e9 Mar\u00eda Avil\u00e9s"
     ],
     "name:eng_x_preferred":[
-        "Jos\u00e9 Mar\u00eda Avil\u00e9s"
+        "Avilez"
     ],
     "name:eng_x_variant":[
         "Avilez",
@@ -40,6 +52,9 @@
         "Jos\u00e9 Mar\u00eda Avil\u00e9s Province"
     ],
     "name:fre_x_preferred":[
+        "Jos\u00e9 Mar\u00eda Avil\u00e9s"
+    ],
+    "name:fre_x_variant":[
         "province de Jos\u00e9 Mar\u00eda Avil\u00e9s"
     ],
     "name:geo_x_preferred":[
@@ -64,6 +79,9 @@
         "Jos\u00e9 Mar\u00eda Avil\u00e9s Province"
     ],
     "name:spa_x_preferred":[
+        "Jos\u00e9 Mar\u00eda Avil\u00e9s"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Jos\u00e9 Mar\u00eda Avil\u00e9s"
     ],
     "name:swe_x_preferred":[
@@ -108,7 +126,7 @@
         }
     ],
     "wof:id":1092010137,
-    "wof:lastmodified":1536615071,
+    "wof:lastmodified":1555047046,
     "wof:name":"Avilez",
     "wof:parent_id":85669431,
     "wof:placetype":"county",

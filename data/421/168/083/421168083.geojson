@@ -10,6 +10,18 @@
     "geom:latitude":-15.907143,
     "geom:longitude":-67.295961,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Sur Yungas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Sud Yungas"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Sud Yungas"
+    ],
     "lbl:latitude":-16.104598,
     "lbl:longitude":-67.143291,
     "meso:admin_1":"La Paz",
@@ -39,7 +51,7 @@
         "Sud Yungas"
     ],
     "name:eng_x_preferred":[
-        "Sud Yungas"
+        "Sur Yungas"
     ],
     "name:eng_x_variant":[
         "Sur Yungas",
@@ -47,6 +59,9 @@
         "Sud Yungas Province"
     ],
     "name:fre_x_preferred":[
+        "Sud Yungas"
+    ],
+    "name:fre_x_variant":[
         "province de Sud Yungas"
     ],
     "name:geo_x_preferred":[
@@ -74,6 +89,9 @@
         "Sud Yungas Province"
     ],
     "name:spa_x_preferred":[
+        "Sud Yungas"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Sud Yungas"
     ],
     "name:swe_x_preferred":[
@@ -146,7 +164,7 @@
         }
     ],
     "wof:id":421168083,
-    "wof:lastmodified":1536615895,
+    "wof:lastmodified":1555047006,
     "wof:name":"Sur Yungas",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

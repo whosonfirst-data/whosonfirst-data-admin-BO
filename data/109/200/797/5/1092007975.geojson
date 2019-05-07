@@ -10,6 +10,18 @@
     "geom:latitude":-18.990135,
     "geom:longitude":-68.694555,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Mejillones Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Atahuallpa"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Sabaya"
+    ],
     "lbl:latitude":-19.046858,
     "lbl:longitude":-68.708709,
     "meso:admin_1":"Oruro",
@@ -35,13 +47,17 @@
         "Atahuallpa"
     ],
     "name:eng_x_preferred":[
-        "Sabaya Province"
+        "Mejillones"
     ],
     "name:eng_x_variant":[
         "Mejillones",
-        "Atahuallpa"
+        "Atahuallpa",
+        "Mejillones"
     ],
     "name:fre_x_preferred":[
+        "Atahuallpa"
+    ],
+    "name:fre_x_variant":[
         "province d'Atahuallpa"
     ],
     "name:geo_x_preferred":[
@@ -69,6 +85,9 @@
         "\u0410\u0442\u0430\u0443\u0430\u043b\u044c\u043f\u0430"
     ],
     "name:spa_x_preferred":[
+        "Sabaya"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Sabaya"
     ],
     "name:swe_x_preferred":[
@@ -104,10 +123,11 @@
         }
     ],
     "wof:id":1092007975,
-    "wof:lastmodified":1536615057,
+    "wof:lastmodified":1555047031,
     "wof:name":"Mejillones",
     "wof:parent_id":85669413,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"AT",
     "wof:superseded_by":[],

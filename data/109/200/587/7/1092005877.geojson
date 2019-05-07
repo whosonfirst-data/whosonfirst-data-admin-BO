@@ -10,6 +10,18 @@
     "geom:latitude":-11.392536,
     "geom:longitude":-65.73989,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Vaca Diez Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Vaca Diz"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Vaca Dez"
+    ],
     "lbl:latitude":-11.433467,
     "lbl:longitude":-65.789925,
     "meso:admin_1":"Beni",
@@ -35,16 +47,20 @@
         "Vaca D\u00edez"
     ],
     "name:eng_x_preferred":[
-        "Vaca D\u00edez Province"
+        "Vaca Diez"
     ],
     "name:eng_x_variant":[
         "Vaca Diez",
-        "Vaca D\u00edez"
+        "Vaca D\u00edez",
+        "Vaca Diez"
     ],
     "name:epo_x_preferred":[
         "Provinco Vaca D\u00edez"
     ],
     "name:fre_x_preferred":[
+        "Vaca Di\u00e9z"
+    ],
+    "name:fre_x_variant":[
         "province de Vaca Di\u00e9z"
     ],
     "name:geo_x_preferred":[
@@ -69,6 +85,9 @@
         "Vaca D\u00edez Province"
     ],
     "name:spa_x_preferred":[
+        "Vaca D\u00edez"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Vaca D\u00edez"
     ],
     "name:swe_x_preferred":[
@@ -104,10 +123,11 @@
         }
     ],
     "wof:id":1092005877,
-    "wof:lastmodified":1536615046,
+    "wof:lastmodified":1555047020,
     "wof:name":"Vaca Diez",
     "wof:parent_id":85669403,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"VD",
     "wof:superseded_by":[],

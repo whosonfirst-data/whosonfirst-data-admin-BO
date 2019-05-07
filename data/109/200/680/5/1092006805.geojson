@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140136,
-    "geom:area_square_m":1651912085.965304,
+    "geom:area_square_m":1651912085.965239,
     "geom:bbox":"-66.9329593057,-17.7940777306,-66.3882898524,-17.3666451627",
     "geom:latitude":-17.576767,
     "geom:longitude":-66.661235,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Tapacari Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Tapacar"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Tapacar"
+    ],
     "lbl:latitude":-17.575817,
     "lbl:longitude":-66.639205,
     "meso:admin_1":"Cochabamba",
@@ -35,7 +47,7 @@
         "Tapacar\u00ed"
     ],
     "name:eng_x_preferred":[
-        "Tapacar\u00ed"
+        "Tapacari"
     ],
     "name:eng_x_variant":[
         "Tapacari",
@@ -43,6 +55,9 @@
         "Tapacar\u00ed Province"
     ],
     "name:fre_x_preferred":[
+        "Tapacar\u00ed"
+    ],
+    "name:fre_x_variant":[
         "province de Tapacar\u00ed"
     ],
     "name:geo_x_preferred":[
@@ -70,6 +85,9 @@
         "Tapacar\u00ed Province"
     ],
     "name:spa_x_preferred":[
+        "Tapacar\u00ed"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Tapacar\u00ed"
     ],
     "name:swe_x_preferred":[
@@ -114,7 +132,7 @@
         }
     ],
     "wof:id":1092006805,
-    "wof:lastmodified":1553816441,
+    "wof:lastmodified":1555047025,
     "wof:name":"Tapacari",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

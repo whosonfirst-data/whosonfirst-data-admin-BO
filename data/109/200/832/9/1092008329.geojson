@@ -10,6 +10,15 @@
     "geom:latitude":-10.593805,
     "geom:longitude":-66.950994,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Abuna Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Abuna"
+    ],
     "lbl:latitude":-10.593921,
     "lbl:longitude":-66.904864,
     "meso:admin_1":"Pando",
@@ -25,6 +34,9 @@
     "mps:longitude":-66.904864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Abuna"
+    ],
     "name:eng_x_variant":[
         "Abun\u00e1",
         "Federico Rom\u00e1n"
@@ -52,10 +64,11 @@
         }
     ],
     "wof:id":1092008329,
-    "wof:lastmodified":1536615059,
+    "wof:lastmodified":1555047034,
     "wof:name":"Abuna",
     "wof:parent_id":85669417,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"GR",
     "wof:superseded_by":[],

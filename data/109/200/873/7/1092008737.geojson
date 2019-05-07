@@ -10,6 +10,18 @@
     "geom:latitude":-18.291641,
     "geom:longitude":-65.874961,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Charcas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Charcas"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Charcas"
+    ],
     "lbl:latitude":-18.311447,
     "lbl:longitude":-65.867831,
     "meso:admin_1":"Potosi",
@@ -45,6 +57,9 @@
         "Charcas Province"
     ],
     "name:fre_x_preferred":[
+        "Charcas"
+    ],
+    "name:fre_x_variant":[
         "province de Charcas"
     ],
     "name:geo_x_preferred":[
@@ -69,6 +84,9 @@
         "Charcas Province"
     ],
     "name:spa_x_preferred":[
+        "Charcas"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Charcas"
     ],
     "name:swe_x_preferred":[
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":1092008737,
-    "wof:lastmodified":1536615061,
+    "wof:lastmodified":1555047036,
     "wof:name":"Charcas",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

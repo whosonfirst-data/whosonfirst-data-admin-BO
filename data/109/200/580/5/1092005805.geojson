@@ -10,6 +10,18 @@
     "geom:latitude":-15.429334,
     "geom:longitude":-64.395828,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Marban Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Marbn"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Marbn"
+    ],
     "lbl:latitude":-15.374284,
     "lbl:longitude":-64.376626,
     "meso:admin_1":"Beni",
@@ -35,16 +47,20 @@
         "Marb\u00e1n"
     ],
     "name:eng_x_preferred":[
-        "Marb\u00e1n Province"
+        "Marban"
     ],
     "name:eng_x_variant":[
         "Marban",
-        "Marb\u00e1n"
+        "Marb\u00e1n",
+        "Marban"
     ],
     "name:epo_x_preferred":[
         "Provinco Marb\u00e1n"
     ],
     "name:fre_x_preferred":[
+        "Marb\u00e1n"
+    ],
+    "name:fre_x_variant":[
         "province de Marb\u00e1n"
     ],
     "name:geo_x_preferred":[
@@ -81,6 +97,9 @@
         "Marb\u00e1n Province"
     ],
     "name:spa_x_preferred":[
+        "Marb\u00e1n"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Marb\u00e1n"
     ],
     "name:swe_x_preferred":[
@@ -122,10 +141,11 @@
         }
     ],
     "wof:id":1092005805,
-    "wof:lastmodified":1536615046,
+    "wof:lastmodified":1555047019,
     "wof:name":"Marban",
     "wof:parent_id":85669403,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"MR",
     "wof:superseded_by":[],

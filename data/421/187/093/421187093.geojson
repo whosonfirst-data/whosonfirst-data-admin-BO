@@ -10,6 +10,12 @@
     "geom:latitude":-14.667531,
     "geom:longitude":-68.366113,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Franz Tamayo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":-14.619259,
     "lbl:longitude":-68.284599,
     "meso:admin_1":"La Paz",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421187093,
-    "wof:lastmodified":1536616037,
+    "wof:lastmodified":1554488962,
     "wof:name":"Franz Tamayo",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

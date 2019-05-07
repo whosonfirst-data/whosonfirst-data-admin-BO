@@ -10,6 +10,18 @@
     "geom:latitude":-19.849804,
     "geom:longitude":-65.312178,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Jose Maria Linares Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Jos Mara Linares"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Jos Mara Linares"
+    ],
     "lbl:latitude":-19.875523,
     "lbl:longitude":-65.467597,
     "meso:admin_1":"Potosi",
@@ -38,7 +50,7 @@
         "Jos\u00e9 Mar\u00eda Linares"
     ],
     "name:eng_x_preferred":[
-        "Jos\u00e9 Mar\u00eda Linares"
+        "Jose Maria Linares"
     ],
     "name:eng_x_variant":[
         "Jose Maria Linares",
@@ -46,6 +58,9 @@
         "Jos\u00e9 Mar\u00eda Linares Province"
     ],
     "name:fre_x_preferred":[
+        "Jos\u00e9 Mar\u00eda Linares"
+    ],
+    "name:fre_x_variant":[
         "province de Jos\u00e9 Mar\u00eda Linares"
     ],
     "name:geo_x_preferred":[
@@ -70,6 +85,9 @@
         "Jos\u00e9 Mar\u00eda Linares Province"
     ],
     "name:spa_x_preferred":[
+        "Jos\u00e9 Mar\u00eda Linares"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Jos\u00e9 Mar\u00eda Linares"
     ],
     "name:swe_x_preferred":[
@@ -114,7 +132,7 @@
         }
     ],
     "wof:id":1092008991,
-    "wof:lastmodified":1536615062,
+    "wof:lastmodified":1555047037,
     "wof:name":"Jose Maria Linares",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

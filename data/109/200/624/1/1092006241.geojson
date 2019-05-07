@@ -10,6 +10,18 @@
     "geom:latitude":-18.969702,
     "geom:longitude":-64.755456,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Zudanez Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Jaime Zudez"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Jaime Zudez"
+    ],
     "lbl:latitude":-18.829442,
     "lbl:longitude":-64.73546,
     "meso:admin_1":"Chuquisaca",
@@ -35,14 +47,18 @@
         "Jaime Zud\u00e1\u00f1ez"
     ],
     "name:eng_x_preferred":[
-        "Jaime Zud\u00e1\u00f1ez"
+        "Zudanez"
     ],
     "name:eng_x_variant":[
         "Zuda\u00f1ez",
         "Jaime Zud\u00e1\u00f1ez",
-        "Jaime Zud\u00e1\u00f1ez Province"
+        "Jaime Zud\u00e1\u00f1ez Province",
+        "Zudanez"
     ],
     "name:fre_x_preferred":[
+        "Jaime Zud\u00e1\u00f1ez"
+    ],
+    "name:fre_x_variant":[
         "province de Jaime Zud\u00e1\u00f1ez"
     ],
     "name:geo_x_preferred":[
@@ -67,6 +83,9 @@
         "Jaime Zud\u00e1\u00f1ez Province"
     ],
     "name:spa_x_preferred":[
+        "Jaime Zud\u00e1\u00f1ez"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Jaime Zud\u00e1\u00f1ez"
     ],
     "name:swe_x_preferred":[
@@ -114,7 +133,7 @@
         }
     ],
     "wof:id":1092006241,
-    "wof:lastmodified":1536615049,
+    "wof:lastmodified":1555047022,
     "wof:name":"Zudanez",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

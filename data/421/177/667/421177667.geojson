@@ -10,6 +10,18 @@
     "geom:latitude":-16.390227,
     "geom:longitude":-67.973052,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Murillo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Pedro Domingo Murillo"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Pedro Domingo Murillo"
+    ],
     "lbl:latitude":-16.474198,
     "lbl:longitude":-68.09104,
     "meso:admin_1":"La Paz",
@@ -39,7 +51,7 @@
         "Pedro Domingo Murillo"
     ],
     "name:eng_x_preferred":[
-        "Pedro Domingo Murillo"
+        "Murillo"
     ],
     "name:eng_x_variant":[
         "Murillo",
@@ -50,6 +62,9 @@
         "Pedro Domingo Murillo"
     ],
     "name:fre_x_preferred":[
+        "Pedro Domingo Murillo"
+    ],
+    "name:fre_x_variant":[
         "province de Pedro Domingo Murillo"
     ],
     "name:geo_x_preferred":[
@@ -154,7 +169,7 @@
         }
     ],
     "wof:id":421177667,
-    "wof:lastmodified":1536615960,
+    "wof:lastmodified":1555047011,
     "wof:name":"Murillo",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

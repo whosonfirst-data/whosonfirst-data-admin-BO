@@ -10,6 +10,18 @@
     "geom:latitude":-16.595529,
     "geom:longitude":-65.559201,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Chapare Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Chapare"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Chapare"
+    ],
     "lbl:latitude":-16.62515,
     "lbl:longitude":-65.50445,
     "meso:admin_1":"Cochabamba",
@@ -46,6 +58,9 @@
         "Chapare Province"
     ],
     "name:fre_x_preferred":[
+        "Chapare"
+    ],
+    "name:fre_x_variant":[
         "province de Chapare"
     ],
     "name:geo_x_preferred":[
@@ -145,7 +160,7 @@
         }
     ],
     "wof:id":421172489,
-    "wof:lastmodified":1536615943,
+    "wof:lastmodified":1555047008,
     "wof:name":"Chapare",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

@@ -10,6 +10,18 @@
     "geom:latitude":-13.530895,
     "geom:longitude":-65.845486,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Yacuma Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Yacuma"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Yacuma"
+    ],
     "lbl:latitude":-13.129718,
     "lbl:longitude":-65.859959,
     "meso:admin_1":"Beni",
@@ -45,6 +57,9 @@
         "Provinco Yacuma"
     ],
     "name:fre_x_preferred":[
+        "Yacuma"
+    ],
+    "name:fre_x_variant":[
         "province de Yacuma"
     ],
     "name:geo_x_preferred":[
@@ -69,6 +84,9 @@
         "Yacuma Province"
     ],
     "name:spa_x_preferred":[
+        "Yacuma"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Yacuma"
     ],
     "name:swe_x_preferred":[
@@ -119,7 +137,7 @@
         }
     ],
     "wof:id":1092005879,
-    "wof:lastmodified":1536615047,
+    "wof:lastmodified":1555047020,
     "wof:name":"Yacuma",
     "wof:parent_id":85669403,
     "wof:placetype":"county",

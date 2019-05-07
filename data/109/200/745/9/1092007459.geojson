@@ -10,6 +10,18 @@
     "geom:latitude":-16.181443,
     "geom:longitude":-67.692477,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Nor Yungas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Nor Yungas"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Nor Yungas"
+    ],
     "lbl:latitude":-16.187308,
     "lbl:longitude":-67.717861,
     "meso:admin_1":"La Paz",
@@ -38,12 +50,16 @@
         "Nor Yungas"
     ],
     "name:eng_x_preferred":[
-        "Nor Yungas Province"
+        "Nor Yungas"
     ],
     "name:eng_x_variant":[
+        "Nor Yungas",
         "Nor Yungas"
     ],
     "name:fre_x_preferred":[
+        "Nor Yungas"
+    ],
+    "name:fre_x_variant":[
         "province de Nor Yungas"
     ],
     "name:geo_x_preferred":[
@@ -74,6 +90,9 @@
         "Nor Yungas Province"
     ],
     "name:spa_x_preferred":[
+        "Nor Yungas"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Nor Yungas"
     ],
     "name:swe_x_preferred":[
@@ -106,10 +125,11 @@
         }
     ],
     "wof:id":1092007459,
-    "wof:lastmodified":1536615053,
+    "wof:lastmodified":1555047028,
     "wof:name":"Nor Yungas",
     "wof:parent_id":85669409,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"NY",
     "wof:superseded_by":[],

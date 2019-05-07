@@ -10,6 +10,15 @@
     "geom:latitude":-21.497141,
     "geom:longitude":-67.431143,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Enrique Baldivieso Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Enrique Baldivieso"
+    ],
     "lbl:latitude":-21.501849,
     "lbl:longitude":-67.435633,
     "meso:admin_1":"Potosi",
@@ -26,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Enrique Baldivieso"
+    ],
     "name:eng_x_variant":[
         "Enrique Baldivieso",
         "Nor L\u00edpez"
@@ -78,10 +90,11 @@
         }
     ],
     "wof:id":421175057,
-    "wof:lastmodified":1536615946,
+    "wof:lastmodified":1555047008,
     "wof:name":"Enrique Baldivieso",
     "wof:parent_id":85669421,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"NL",
     "wof:superseded_by":[],

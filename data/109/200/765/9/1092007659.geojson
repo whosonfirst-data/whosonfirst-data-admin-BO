@@ -10,6 +10,18 @@
     "geom:latitude":-16.044246,
     "geom:longitude":-69.033534,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Lago Titicaca Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Omasuyos"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Omasuyos"
+    ],
     "lbl:latitude":-15.849652,
     "lbl:longitude":-69.179874,
     "meso:admin_1":"LAGO",
@@ -38,13 +50,17 @@
         "Omasuyos"
     ],
     "name:eng_x_preferred":[
-        "Omasuyos Province"
+        "Lago Titicaca"
     ],
     "name:eng_x_variant":[
         "Lago Titicaca",
-        "Omasuyos"
+        "Omasuyos",
+        "Lago Titicaca"
     ],
     "name:fre_x_preferred":[
+        "Omasuyos"
+    ],
+    "name:fre_x_variant":[
         "province d'Omasuyos"
     ],
     "name:geo_x_preferred":[
@@ -72,6 +88,9 @@
         "Omasuyos Province"
     ],
     "name:spa_x_preferred":[
+        "Omasuyos"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Omasuyos"
     ],
     "name:swe_x_preferred":[
@@ -104,10 +123,11 @@
         }
     ],
     "wof:id":1092007659,
-    "wof:lastmodified":1536615054,
+    "wof:lastmodified":1555047029,
     "wof:name":"Lago Titicaca",
     "wof:parent_id":85669409,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"OM",
     "wof:superseded_by":[],

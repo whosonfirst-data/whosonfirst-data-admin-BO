@@ -10,6 +10,18 @@
     "geom:latitude":-17.378154,
     "geom:longitude":-62.979628,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Warnes Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Ignacio Warnes"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Warnes"
+    ],
     "lbl:latitude":-17.393853,
     "lbl:longitude":-62.938492,
     "meso:admin_1":"Santa Cruz",
@@ -35,7 +47,7 @@
         "Ignacio Warnes"
     ],
     "name:eng_x_preferred":[
-        "Ignacio Warnes"
+        "Warnes"
     ],
     "name:eng_x_variant":[
         "Warnes",
@@ -43,6 +55,9 @@
         "Ignacio Warnes Province"
     ],
     "name:fre_x_preferred":[
+        "Ignacio Warnes"
+    ],
+    "name:fre_x_variant":[
         "province d'Ignacio Warnes"
     ],
     "name:ger_x_preferred":[
@@ -70,6 +85,9 @@
         "Ignacio Warnes Province"
     ],
     "name:spa_x_preferred":[
+        "Warnes"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Warnes"
     ],
     "name:swe_x_preferred":[
@@ -114,7 +132,7 @@
         }
     ],
     "wof:id":1092010083,
-    "wof:lastmodified":1536615070,
+    "wof:lastmodified":1555047046,
     "wof:name":"Warnes",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

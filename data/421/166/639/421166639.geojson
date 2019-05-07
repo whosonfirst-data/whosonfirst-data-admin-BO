@@ -10,6 +10,18 @@
     "geom:latitude":-20.608804,
     "geom:longitude":-65.710221,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Nor Chichas Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Nor Chichas"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Nor Chichas"
+    ],
     "lbl:latitude":-20.680202,
     "lbl:longitude":-65.702051,
     "meso:admin_1":"Potosi",
@@ -46,6 +58,9 @@
         "Nor Chichas Province"
     ],
     "name:fre_x_preferred":[
+        "Nor Chichas"
+    ],
+    "name:fre_x_variant":[
         "province de Nor Chichas"
     ],
     "name:geo_x_preferred":[
@@ -70,6 +85,9 @@
         "Nor Chichas Province"
     ],
     "name:spa_x_preferred":[
+        "Nor Chichas"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Nor Chichas"
     ],
     "name:swe_x_preferred":[
@@ -142,7 +160,7 @@
         }
     ],
     "wof:id":421166639,
-    "wof:lastmodified":1536615892,
+    "wof:lastmodified":1555047006,
     "wof:name":"Nor Chichas",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

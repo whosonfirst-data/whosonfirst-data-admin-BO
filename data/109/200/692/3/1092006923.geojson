@@ -10,6 +10,18 @@
     "geom:latitude":-17.237871,
     "geom:longitude":-67.881311,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Aroma Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Aroma"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Aroma"
+    ],
     "lbl:latitude":-17.324866,
     "lbl:longitude":-67.881181,
     "meso:admin_1":"La Paz",
@@ -45,6 +57,9 @@
         "Aroma Province"
     ],
     "name:fre_x_preferred":[
+        "Aroma"
+    ],
+    "name:fre_x_variant":[
         "province d'Aroma"
     ],
     "name:geo_x_preferred":[
@@ -72,6 +87,9 @@
         "Aroma Province"
     ],
     "name:spa_x_preferred":[
+        "Aroma"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Aroma"
     ],
     "name:swe_x_preferred":[
@@ -116,7 +134,7 @@
         }
     ],
     "wof:id":1092006923,
-    "wof:lastmodified":1536615052,
+    "wof:lastmodified":1555047026,
     "wof:name":"Aroma",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

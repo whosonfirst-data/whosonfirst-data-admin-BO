@@ -10,6 +10,18 @@
     "geom:latitude":-16.160996,
     "geom:longitude":-69.010962,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Manco Kapac Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Manco Kapac"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Manco Kapac"
+    ],
     "lbl:latitude":-16.157261,
     "lbl:longitude":-69.0293,
     "meso:admin_1":"La Paz",
@@ -46,6 +58,9 @@
         "Manco Kapac Province"
     ],
     "name:fre_x_preferred":[
+        "Manco Kapac"
+    ],
+    "name:fre_x_variant":[
         "province de Manco Kapac"
     ],
     "name:geo_x_preferred":[
@@ -73,6 +88,9 @@
         "Manco Kapac Province"
     ],
     "name:spa_x_preferred":[
+        "Manco Kapac"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Manco Kapac"
     ],
     "name:swe_x_preferred":[
@@ -145,7 +163,7 @@
         }
     ],
     "wof:id":421187909,
-    "wof:lastmodified":1536616043,
+    "wof:lastmodified":1555047013,
     "wof:name":"Manco Kapac",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

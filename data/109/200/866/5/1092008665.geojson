@@ -10,6 +10,18 @@
     "geom:latitude":-18.138006,
     "geom:longitude":-66.428813,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Alonso de Ibanez Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province d'Alonso de Ibez"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Alonso de Ibez"
+    ],
     "lbl:latitude":-18.10414,
     "lbl:longitude":-66.408671,
     "meso:admin_1":"Potosi",
@@ -38,14 +50,18 @@
         "Alonso de Ib\u00e1\u00f1ez"
     ],
     "name:eng_x_preferred":[
-        "Alonso de Ib\u00e1\u00f1ez"
+        "Alonso de Ibanez"
     ],
     "name:eng_x_variant":[
         "Alonso de Iba\u00f1ez",
         "Alonso de Ib\u00e1\u00f1ez",
-        "Alonso de Ib\u00e1\u00f1ez Province"
+        "Alonso de Ib\u00e1\u00f1ez Province",
+        "Alonso de Ibanez"
     ],
     "name:fre_x_preferred":[
+        "Alonso de Ib\u00e1\u00f1ez"
+    ],
+    "name:fre_x_variant":[
         "province d'Alonso de Ib\u00e1\u00f1ez"
     ],
     "name:geo_x_preferred":[
@@ -73,6 +89,9 @@
         "Alonso de Ib\u00e1\u00f1ez Province"
     ],
     "name:spa_x_preferred":[
+        "Alonso de Ib\u00e1\u00f1ez"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Alonso de Ib\u00e1\u00f1ez"
     ],
     "name:swe_x_preferred":[
@@ -117,7 +136,7 @@
         }
     ],
     "wof:id":1092008665,
-    "wof:lastmodified":1536615061,
+    "wof:lastmodified":1555047036,
     "wof:name":"Alonso de Ibanez",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

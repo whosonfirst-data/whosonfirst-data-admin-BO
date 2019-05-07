@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034551,
-    "geom:area_square_m":407271713.429934,
+    "geom:area_square_m":407271713.430082,
     "geom:bbox":"-65.9526546626,-17.7464182799,-65.7149148252,-17.4393762438",
     "geom:latitude":-17.579541,
     "geom:longitude":-65.841902,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Punata Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Punata"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Punata"
+    ],
     "lbl:latitude":-17.510111,
     "lbl:longitude":-65.859879,
     "meso:admin_1":"Cochabamba",
@@ -42,6 +54,9 @@
         "Punata Province"
     ],
     "name:fre_x_preferred":[
+        "Punata"
+    ],
+    "name:fre_x_variant":[
         "province de Punata"
     ],
     "name:geo_x_preferred":[
@@ -69,6 +84,9 @@
         "Punata Province"
     ],
     "name:spa_x_preferred":[
+        "Punata"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Punata"
     ],
     "name:swe_x_preferred":[
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":1092006749,
-    "wof:lastmodified":1553816441,
+    "wof:lastmodified":1555047025,
     "wof:name":"Punata",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

@@ -10,6 +10,18 @@
     "geom:latitude":-10.248964,
     "geom:longitude":-65.962768,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Federico Roman Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Federico Romn"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia del General Federico Romn"
+    ],
     "lbl:latitude":-10.23646,
     "lbl:longitude":-66.015538,
     "meso:admin_1":"Pando",
@@ -39,16 +51,20 @@
         "Federico Rom\u00e1n"
     ],
     "name:eng_x_preferred":[
-        "Federico Rom\u00e1n Province"
+        "Federico Roman"
     ],
     "name:eng_x_variant":[
         "Federico Roman",
-        "Federico Rom\u00e1n"
+        "Federico Rom\u00e1n",
+        "Federico Roman"
     ],
     "name:fra_x_preferred":[
         "Province de Federico Rom\u00e1n"
     ],
     "name:fre_x_preferred":[
+        "Federico Rom\u00e1n"
+    ],
+    "name:fre_x_variant":[
         "province de Federico Rom\u00e1n"
     ],
     "name:geo_x_preferred":[
@@ -138,10 +154,11 @@
         }
     ],
     "wof:id":421177655,
-    "wof:lastmodified":1536615958,
+    "wof:lastmodified":1555047009,
     "wof:name":"Federico Roman",
     "wof:parent_id":85669417,
     "wof:placetype":"county",
+    "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"GR",
     "wof:superseded_by":[],

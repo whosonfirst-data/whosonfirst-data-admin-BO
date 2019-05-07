@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.248852,
-    "geom:area_square_m":2926520361.036225,
+    "geom:area_square_m":2926520361.036016,
     "geom:bbox":"-65.8293480458,-18.4054299017,-65.2332958424,-17.6713018008",
     "geom:latitude":-17.998009,
     "geom:longitude":-65.50788,
     "iso:country":"BO",
+    "label:eng_x_preferred_longname":[
+        "Mizque Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:fre_x_preferred_longname":[
+        "Province de Mizque"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Mizque"
+    ],
     "lbl:latitude":-17.983309,
     "lbl:longitude":-65.503347,
     "meso:admin_1":"Cochabamba",
@@ -42,6 +54,9 @@
         "Mizque Province"
     ],
     "name:fre_x_preferred":[
+        "Mizque"
+    ],
+    "name:fre_x_variant":[
         "province de Mizque"
     ],
     "name:geo_x_preferred":[
@@ -69,6 +84,9 @@
         "Mizque Province"
     ],
     "name:spa_x_preferred":[
+        "Mizque"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Mizque"
     ],
     "name:swe_x_preferred":[
@@ -113,7 +131,7 @@
         }
     ],
     "wof:id":1092006697,
-    "wof:lastmodified":1553816440,
+    "wof:lastmodified":1555047025,
     "wof:name":"Mizque",
     "wof:parent_id":85669395,
     "wof:placetype":"county",
