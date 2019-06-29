@@ -20,22 +20,13 @@
     "name:ceb_x_preferred":[
         "Padilla"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u8fea\u4e9e"
-    ],
     "name:deu_x_preferred":[
-        "Padilla"
-    ],
-    "name:dut_x_preferred":[
         "Padilla"
     ],
     "name:eng_x_preferred":[
         "Padilla"
     ],
-    "name:fre_x_preferred":[
-        "Padilla"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Padilla"
     ],
     "name:jpn_x_preferred":[
@@ -204,7 +195,7 @@
         }
     ],
     "wof:id":421171009,
-    "wof:lastmodified":1553816362,
+    "wof:lastmodified":1561840573,
     "wof:name":"Padilla",
     "wof:parent_id":421169227,
     "wof:placetype":"locality",

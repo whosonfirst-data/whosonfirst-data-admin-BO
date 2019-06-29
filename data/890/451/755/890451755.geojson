@@ -25,9 +25,6 @@
     "name:aym_x_preferred":[
         "Tarixa"
     ],
-    "name:baq_x_preferred":[
-        "Tarija"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09b0\u09bf\u099c\u09be"
     ],
@@ -40,17 +37,14 @@
     "name:ceb_x_preferred":[
         "Tarija"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u91cc\u54c8"
-    ],
     "name:dan_x_preferred":[
         "Tarija"
     ],
     "name:deu_x_preferred":[
         "Tarija"
     ],
-    "name:dut_x_preferred":[
-        "Tarija"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03c1\u03af\u03c4\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Tarija"
@@ -58,26 +52,17 @@
     "name:eus_x_preferred":[
         "Tarija"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0631\u06cc\u062e\u0627"
+    ],
     "name:fin_x_preferred":[
         "Tarija"
     ],
     "name:fra_x_preferred":[
         "Tarija"
     ],
-    "name:fre_x_preferred":[
-        "Tarija"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10e0\u10d8\u10ee\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Tarija"
-    ],
     "name:glg_x_preferred":[
         "Tarija"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03c1\u03af\u03c4\u03b6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ab0\u0abf\u0a9c\u0abe"
@@ -115,17 +100,14 @@
     "name:lit_x_preferred":[
         "Taricha"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0430\u0440\u0438\u0445\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0924\u093e\u0930\u0940\u091c\u093e"
     ],
-    "name:may_x_preferred":[
-        "Tarija"
-    ],
     "name:mkd_x_preferred":[
         "\u0422\u0430\u0440\u0438\u0445\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Tarija"
     ],
     "name:nah_x_preferred":[
         "Tarixa"
@@ -142,9 +124,6 @@
     "name:oci_x_preferred":[
         "Tarija"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u0631\u06cc\u062e\u0627"
-    ],
     "name:pol_x_preferred":[
         "Tarija"
     ],
@@ -155,9 +134,6 @@
         "Tarija"
     ],
     "name:ron_x_preferred":[
-        "Tarija"
-    ],
-    "name:rum_x_preferred":[
         "Tarija"
     ],
     "name:rus_x_preferred":[
@@ -338,7 +314,7 @@
         }
     ],
     "wof:id":890451755,
-    "wof:lastmodified":1534379235,
+    "wof:lastmodified":1561840575,
     "wof:name":"Tarija",
     "wof:parent_id":421169233,
     "wof:placetype":"locality",

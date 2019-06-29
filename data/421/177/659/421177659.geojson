@@ -44,11 +44,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Daniel Campos"
     ],
-    "name:chi_x_preferred":[
-        "\u4e39\u5c3c\u723e\u574e\u6ce2\u65af\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Daniel Campos"
+    "name:deu_x_preferred":[
+        "Provinz Daniel Campos"
     ],
     "name:eng_x_preferred":[
         "Daniel Campos"
@@ -57,20 +54,20 @@
         "Daniel Campos",
         "Daniel Campos Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Daniel Campos"
     ],
     "name:fre_x_variant":[
         "province de Daniel Campos"
     ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10dc\u10d8\u10d4\u10da-\u10d9\u10d0\u10db\u10de\u10dd\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Daniel Campos"
-    ],
     "name:ita_x_preferred":[
         "provincia di Daniel Campos"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10dc\u10d8\u10d4\u10da-\u10d9\u10d0\u10db\u10de\u10dd\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Daniel Campos"
     ],
     "name:nob_x_preferred":[
         "Provinsen Daniel Campos"
@@ -95,6 +92,9 @@
     ],
     "name:war_x_preferred":[
         "Daniel Campos"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u5c3c\u723e\u574e\u6ce2\u65af\u7701"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -155,7 +155,7 @@
         }
     ],
     "wof:id":421177659,
-    "wof:lastmodified":1555047009,
+    "wof:lastmodified":1561840570,
     "wof:name":"Daniel Campos",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

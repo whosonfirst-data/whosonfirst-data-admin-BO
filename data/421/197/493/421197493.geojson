@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Irpa Irpa"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u723e\u5e15\u4f0a\u723e\u5e15"
-    ],
     "name:dan_x_preferred":[
         "Irpa Irpa"
     ],
     "name:deu_x_preferred":[
-        "Irpa Irpa"
-    ],
-    "name:dut_x_preferred":[
         "Irpa Irpa"
     ],
     "name:eng_x_preferred":[
@@ -34,13 +28,10 @@
     "name:fra_x_preferred":[
         "Irpa Irpa"
     ],
-    "name:fre_x_preferred":[
-        "Irpa Irpa"
-    ],
-    "name:ger_x_preferred":[
-        "Irpa Irpa"
-    ],
     "name:ita_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:nld_x_preferred":[
         "Irpa Irpa"
     ],
     "name:nno_x_preferred":[
@@ -114,7 +105,7 @@
         }
     ],
     "wof:id":421197493,
-    "wof:lastmodified":1527716406,
+    "wof:lastmodified":1561840569,
     "wof:name":"Irpa Irpa",
     "wof:parent_id":1092006497,
     "wof:placetype":"locality",

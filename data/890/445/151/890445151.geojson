@@ -19,19 +19,16 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0648\u0645\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u6885"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Quime"
     ],
     "name:eng_x_preferred":[
         "Quime"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Quime"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Quime"
     ],
     "name:por_x_preferred":[
@@ -45,6 +42,9 @@
     ],
     "name:swe_x_preferred":[
         "Quime"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u6885"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Bolivia",
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":890445151,
-    "wof:lastmodified":1553816401,
+    "wof:lastmodified":1561840574,
     "wof:name":"Quime",
     "wof:parent_id":1092007257,
     "wof:placetype":"locality",

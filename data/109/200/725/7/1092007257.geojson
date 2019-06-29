@@ -43,11 +43,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Inquisivi"
     ],
-    "name:chi_x_preferred":[
-        "\u56e0\u57fa\u897f\u7dad\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Inquisivi"
+    "name:deu_x_preferred":[
+        "Provinz Inquisivi"
     ],
     "name:eng_x_preferred":[
         "Inquisivi"
@@ -56,23 +53,23 @@
         "Inquisivi",
         "Inquisivi Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Inquisivi"
     ],
     "name:fre_x_variant":[
         "province d'Inquisivi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10dc\u10d9\u10d8\u10e1\u10d8\u10d5\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Inquisivi"
     ],
     "name:glg_x_preferred":[
         "Provincia de Inquisivi"
     ],
     "name:ita_x_preferred":[
         "provincia di Inquisivi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10dc\u10d9\u10d8\u10e1\u10d8\u10d5\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Inquisivi"
     ],
     "name:nob_x_preferred":[
         "Provinsen Inquisivi"
@@ -97,6 +94,9 @@
     ],
     "name:war_x_preferred":[
         "Inquisivi"
+    ],
+    "name:zho_x_preferred":[
+        "\u56e0\u57fa\u897f\u7dad\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":1092007257,
-    "wof:lastmodified":1555047027,
+    "wof:lastmodified":1561840544,
     "wof:name":"Inquisivi",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

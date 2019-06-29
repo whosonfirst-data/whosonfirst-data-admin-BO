@@ -17,20 +17,20 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0631\u0627\u0646\u0627"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chara\u00f1a"
     ],
     "name:eng_x_preferred":[
         "Chara\u00f1a"
     ],
-    "name:fre_x_preferred":[
-        "Chara\u00f1a"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chara\u00f1a"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30e9\u30cb\u30e3"
+    ],
+    "name:nld_x_preferred":[
+        "Chara\u00f1a"
     ],
     "name:nob_x_preferred":[
         "Chara\u00f1a"
@@ -166,7 +166,7 @@
         }
     ],
     "wof:id":1141908191,
-    "wof:lastmodified":1513900224,
+    "wof:lastmodified":1561840588,
     "wof:name":"Charana",
     "wof:parent_id":421182439,
     "wof:placetype":"locality",

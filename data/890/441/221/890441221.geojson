@@ -15,11 +15,11 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Municipio Okinawa Uno"
+    ],
     "name:eng_x_preferred":[
         "Okinawa Uno"
-    ],
-    "name:ger_x_preferred":[
-        "Municipio Okinawa Uno"
     ],
     "name:ita_x_preferred":[
         "Okinawa Uno"
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":890441221,
-    "wof:lastmodified":1513900696,
+    "wof:lastmodified":1561840574,
     "wof:name":"Okinawa N\u00famero Uno",
     "wof:parent_id":1092010083,
     "wof:placetype":"locality",

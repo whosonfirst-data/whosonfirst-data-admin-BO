@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Sud Cinti"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u8f9b\u8482\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Sud Cinti"
+    "name:deu_x_preferred":[
+        "Provinz Sud Cinti"
     ],
     "name:eng_x_preferred":[
         "Sur Cinti"
@@ -54,20 +51,20 @@
         "Sud Cinti",
         "Sur Cinti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sud Cinti"
     ],
     "name:fre_x_variant":[
         "province de Sud Cinti"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10d3-\u10e1\u10d8\u10dc\u10e2\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Sud Cinti"
-    ],
     "name:ita_x_preferred":[
         "provincia di Sud Cinti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10d3-\u10e1\u10d8\u10dc\u10e2\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Sud Cinti"
     ],
     "name:nob_x_preferred":[
         "Provinsen Sud Cinti"
@@ -96,6 +93,9 @@
     "name:xmf_x_preferred":[
         "\u10e1\u10e3\u10d3-\u10e1\u10d8\u10dc\u10e2\u10d8\u10e8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
+    "name:zho_x_preferred":[
+        "\u5357\u8f9b\u8482\u7701"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":1092006125,
-    "wof:lastmodified":1555047022,
+    "wof:lastmodified":1561840552,
     "wof:name":"Sur Cinti",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

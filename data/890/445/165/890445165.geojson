@@ -24,17 +24,11 @@
     "name:aym_x_preferred":[
         "Kuwixa"
     ],
-    "name:baq_x_preferred":[
-        "Cobija"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09ac\u09bf\u099c\u09be"
     ],
     "name:cat_x_preferred":[
         "Cobija"
-    ],
-    "name:chi_x_preferred":[
-        "\u79d1\u7dad\u54c8"
     ],
     "name:dan_x_preferred":[
         "Cobija"
@@ -42,8 +36,8 @@
     "name:deu_x_preferred":[
         "Cobija"
     ],
-    "name:dut_x_preferred":[
-        "Cobija"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc\u03c0\u03af\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Cobija"
@@ -51,23 +45,17 @@
     "name:eus_x_preferred":[
         "Cobija"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0628\u06cc\u062c\u0627"
+    ],
     "name:fin_x_preferred":[
         "Cobija"
     ],
-    "name:fre_x_preferred":[
-        "Cobija"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10d1\u10d8\u10ee\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cobija"
     ],
     "name:glg_x_preferred":[
         "Cobija"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bc\u03c0\u03af\u03b6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0aac\u0abf\u0a9c\u0abe"
@@ -99,19 +87,19 @@
     "name:lit_x_preferred":[
         "Kobicha"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u043e\u0431\u0438\u0445\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u092c\u0940\u091c\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Cobija"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u0431\u0438\u0445\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Cobija"
+    ],
     "name:nah_x_preferred":[
+        "Cobija"
+    ],
+    "name:nld_x_preferred":[
         "Cobija"
     ],
     "name:nob_x_preferred":[
@@ -123,9 +111,6 @@
     "name:oci_x_preferred":[
         "Cobija"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0628\u06cc\u062c\u0627"
-    ],
     "name:pol_x_preferred":[
         "Cobija"
     ],
@@ -135,7 +120,7 @@
     "name:que_x_preferred":[
         "Kuwiha"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cobija"
     ],
     "name:rus_x_preferred":[
@@ -310,7 +295,7 @@
         }
     ],
     "wof:id":890445165,
-    "wof:lastmodified":1534379235,
+    "wof:lastmodified":1561840574,
     "wof:name":"Cobija",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",

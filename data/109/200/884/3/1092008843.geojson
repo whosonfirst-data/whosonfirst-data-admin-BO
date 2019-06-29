@@ -43,11 +43,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Cornelio Saavedra"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u723e\u5167\u5229\u5967\u85a9\u97cb\u5fb7\u62c9\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Cornelio Saavedra"
+    "name:deu_x_preferred":[
+        "Provinz Cornelio Saavedra"
     ],
     "name:eng_x_preferred":[
         "Cornelio Saavedra"
@@ -56,20 +53,20 @@
         "Cornelio Saavedra",
         "Cornelio Saavedra Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cornelio Saavedra"
     ],
     "name:fre_x_variant":[
         "province de Cornelio Saavedra"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e0\u10dc\u10d4\u10da\u10d8\u10dd-\u10e1\u10d0\u10d0\u10d5\u10d4\u10d3\u10e0\u10d0\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Cornelio Saavedra"
-    ],
     "name:ita_x_preferred":[
         "provincia di Cornelio Saavedra"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e0\u10dc\u10d4\u10da\u10d8\u10dd-\u10e1\u10d0\u10d0\u10d5\u10d4\u10d3\u10e0\u10d0\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Cornelio Saavedra"
     ],
     "name:nob_x_preferred":[
         "Provinsen Cornelio Saavedra"
@@ -94,6 +91,9 @@
     ],
     "name:war_x_preferred":[
         "Cornelio Saavedra"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u723e\u5167\u5229\u5967\u85a9\u97cb\u5fb7\u62c9\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":1092008843,
-    "wof:lastmodified":1555047037,
+    "wof:lastmodified":1561840551,
     "wof:name":"Cornelio Saavedra",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

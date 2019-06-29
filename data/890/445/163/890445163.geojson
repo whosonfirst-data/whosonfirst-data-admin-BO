@@ -28,9 +28,6 @@
     "name:aym_x_variant":[
         "Quchapampa"
     ],
-    "name:baq_x_preferred":[
-        "Cochabamba"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u099a\u09be\u09ac\u09be\u09ae\u09cd\u09ac\u09be"
     ],
@@ -46,13 +43,7 @@
     "name:ces_x_preferred":[
         "Cochabamba"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u6070\u73ed\u5df4"
-    ],
     "name:cym_x_preferred":[
-        "Cochabamba"
-    ],
-    "name:cze_x_preferred":[
         "Cochabamba"
     ],
     "name:dan_x_preferred":[
@@ -61,8 +52,8 @@
     "name:deu_x_preferred":[
         "Cochabamba"
     ],
-    "name:dut_x_preferred":[
-        "Cochabamba"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c4\u03c3\u03b1\u03bc\u03c0\u03ac\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Cochabamba"
@@ -85,20 +76,8 @@
     "name:fra_x_preferred":[
         "Cochabamba"
     ],
-    "name:fre_x_preferred":[
-        "Cochabamba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e9\u10d0\u10d1\u10d0\u10db\u10d1\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Cochabamba"
-    ],
     "name:glg_x_preferred":[
         "Cochabamba"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c4\u03c3\u03b1\u03bc\u03c0\u03ac\u03bc\u03c0\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0a9a\u0abe\u0aac\u0abe\u0aae\u0acd\u0aac\u0abe"
@@ -142,17 +121,8 @@
     "name:lit_x_preferred":[
         "Ko\u010dabamba"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u043e\u0447\u0430\u0431\u0430\u043c\u0431\u0430"
-    ],
-    "name:mao_x_preferred":[
-        "Cochabamba"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u091a\u093e\u092c\u092e\u094d\u092c\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Cochabamba"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u0447\u0430\u0431\u0430\u043c\u0431\u0430"
@@ -184,9 +154,6 @@
     "name:oci_x_preferred":[
         "Cochabamba"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0686\u0627\u0628\u0627\u0645\u0628\u0627"
-    ],
     "name:pol_x_preferred":[
         "Cochabamba"
     ],
@@ -197,9 +164,6 @@
         "Quchapampa"
     ],
     "name:ron_x_preferred":[
-        "Cochabamba"
-    ],
-    "name:rum_x_preferred":[
         "Cochabamba"
     ],
     "name:rus_x_preferred":[
@@ -229,9 +193,6 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e01\u0e0a\u0e32\u0e1a\u0e31\u0e21\u0e1a\u0e32"
     ],
-    "name:tib_x_preferred":[
-        "\u0f40\u0f7c\u0f0b\u0f45\u0f0b\u0f56\u0f44\u0f0b\u0f63\u0fa6\u0f0b"
-    ],
     "name:tur_x_preferred":[
         "Cochabamba"
     ],
@@ -254,9 +215,6 @@
         "Cochabamba"
     ],
     "name:war_x_preferred":[
-        "Cochabamba"
-    ],
-    "name:wel_x_preferred":[
         "Cochabamba"
     ],
     "name:zho_x_preferred":[
@@ -390,7 +348,7 @@
         }
     ],
     "wof:id":890445163,
-    "wof:lastmodified":1534379235,
+    "wof:lastmodified":1561840575,
     "wof:name":"Cochabamba",
     "wof:parent_id":421190243,
     "wof:placetype":"locality",

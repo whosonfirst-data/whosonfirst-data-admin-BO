@@ -44,11 +44,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Sud Yungas"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u6c38\u52a0\u65af\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Sud Yungas"
+    "name:deu_x_preferred":[
+        "Provinz Sud Yungas"
     ],
     "name:eng_x_preferred":[
         "Sur Yungas"
@@ -58,23 +55,23 @@
         "Sud Yungas",
         "Sud Yungas Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sud Yungas"
     ],
     "name:fre_x_variant":[
         "province de Sud Yungas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10d3-\u10d8\u10e3\u10dc\u10d2\u10d0\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Sud Yungas"
     ],
     "name:glg_x_preferred":[
         "Provincia de Sud Yungas"
     ],
     "name:ita_x_preferred":[
         "provincia di Sud Yungas"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10d3-\u10d8\u10e3\u10dc\u10d2\u10d0\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Sud Yungas"
     ],
     "name:nob_x_preferred":[
         "Provinsen Sud Yungas"
@@ -102,6 +99,9 @@
     ],
     "name:war_x_preferred":[
         "Sud Yungas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u6c38\u52a0\u65af\u7701"
     ],
     "qs:gn_country":"BO",
     "qs:gn_fcode":"ADM2",
@@ -164,7 +164,7 @@
         }
     ],
     "wof:id":421168083,
-    "wof:lastmodified":1555047006,
+    "wof:lastmodified":1561840562,
     "wof:name":"Sur Yungas",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

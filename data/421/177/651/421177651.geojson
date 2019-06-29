@@ -41,14 +41,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Germ\u00e1n Jord\u00e1n"
     ],
-    "name:chi_x_preferred":[
-        "\u8d6b\u723e\u66fc\u970d\u723e\u4e39\u7701"
-    ],
     "name:deu_x_preferred":[
         "Provinz Germ\u00e1n Jord\u00e1n"
-    ],
-    "name:dut_x_preferred":[
-        "Germ\u00e1n Jord\u00e1n"
     ],
     "name:eng_x_preferred":[
         "German Jordan"
@@ -61,17 +55,11 @@
     "name:fra_x_preferred":[
         "Province de Germ\u00e1n Jord\u00e1n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Germ\u00e1n Jord\u00e1n"
     ],
     "name:fre_x_variant":[
         "province de Germ\u00e1n Jord\u00e1n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10d4\u10e0\u10db\u10d0\u10dc-\u10ee\u10dd\u10e0\u10d3\u10d0\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Germ\u00e1n Jord\u00e1n"
     ],
     "name:ita_x_preferred":[
         "Provincia di Germ\u00e1n Jord\u00e1n"
@@ -108,6 +96,9 @@
     ],
     "name:war_x_preferred":[
         "Germ\u00e1n Jord\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u723e\u66fc\u970d\u723e\u4e39\u7701"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -169,7 +160,7 @@
         }
     ],
     "wof:id":421177651,
-    "wof:lastmodified":1555047008,
+    "wof:lastmodified":1561840569,
     "wof:name":"German Jordan",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

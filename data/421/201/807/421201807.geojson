@@ -16,17 +16,14 @@
     "name:deu_x_preferred":[
         "Poop\u00f3"
     ],
-    "name:dut_x_preferred":[
-        "Poop\u00f3"
+    "name:deu_x_variant":[
+        "Municipio Poop\u00f3"
     ],
     "name:eng_x_preferred":[
         "Poop\u00f3 Municipality"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Poop\u00f3"
-    ],
-    "name:ger_x_preferred":[
-        "Municipio Poop\u00f3"
     ],
     "name:ita_x_preferred":[
         "Poop\u00f3"
@@ -93,7 +90,7 @@
         }
     ],
     "wof:id":421201807,
-    "wof:lastmodified":1527716440,
+    "wof:lastmodified":1561840569,
     "wof:name":"Poop\u00f3",
     "wof:parent_id":1092007991,
     "wof:placetype":"locality",

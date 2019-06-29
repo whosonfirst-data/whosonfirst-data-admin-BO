@@ -43,11 +43,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Nor L\u00edpez"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u5229\u4f69\u65af\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Nor L\u00edpez"
+    "name:deu_x_preferred":[
+        "Provinz Nor L\u00edpez"
     ],
     "name:eng_x_preferred":[
         "Salar de Uyuni"
@@ -57,20 +54,20 @@
         "Nor L\u00edpez",
         "Salar de Uyuni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nor L\u00edpez"
     ],
     "name:fre_x_variant":[
         "province de Nor L\u00edpez"
     ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10dd\u10e0-\u10da\u10d8\u10de\u10d4\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Nor L\u00edpez"
-    ],
     "name:ita_x_preferred":[
         "provincia di Nor L\u00edpez"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10dd\u10e0-\u10da\u10d8\u10de\u10d4\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Nor L\u00edpez"
     ],
     "name:nob_x_preferred":[
         "Provinsen Nor L\u00edpez"
@@ -99,6 +96,9 @@
     "name:war_x_preferred":[
         "Nor L\u00edpez"
     ],
+    "name:zho_x_preferred":[
+        "\u5317\u5229\u4f69\u65af\u7701"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":1092009387,
-    "wof:lastmodified":1555047040,
+    "wof:lastmodified":1561840537,
     "wof:name":"Salar de Uyuni",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

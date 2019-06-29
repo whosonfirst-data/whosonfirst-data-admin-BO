@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Ladislao Cabrera"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u8fea\u65af\u52de\u5361\u5e03\u96f7\u62c9\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Ladislao Cabrera"
+    "name:deu_x_preferred":[
+        "Provinz Ladislao Cabrera"
     ],
     "name:eng_x_preferred":[
         "Ladislao Cabrera"
@@ -53,20 +50,20 @@
         "Ladislao Cabrera",
         "Ladislao Cabrera Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ladislao Cabrera"
     ],
     "name:fre_x_variant":[
         "province de Ladislao Cabrera"
     ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0\u10d3\u10d8\u10e1\u10da\u10d0\u10dd-\u10d9\u10d0\u10d1\u10e0\u10d4\u10e0\u10d0\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Ladislao Cabrera"
-    ],
     "name:ita_x_preferred":[
         "provincia di Ladislao Cabrera"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0\u10d3\u10d8\u10e1\u10da\u10d0\u10dd-\u10d9\u10d0\u10d1\u10e0\u10d4\u10e0\u10d0\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Ladislao Cabrera"
     ],
     "name:nob_x_preferred":[
         "Provinsen Ladislao Cabrera"
@@ -91,6 +88,9 @@
     ],
     "name:war_x_preferred":[
         "Ladislao Cabrera"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u8fea\u65af\u52de\u5361\u5e03\u96f7\u62c9\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":1092007893,
-    "wof:lastmodified":1555047031,
+    "wof:lastmodified":1561840557,
     "wof:name":"Ladislao Cabrera",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

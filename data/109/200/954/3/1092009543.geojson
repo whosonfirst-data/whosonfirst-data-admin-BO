@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Chiquitos"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u57fa\u6258\u65af\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Chiquitos"
+    "name:deu_x_preferred":[
+        "Provinz Chiquitos"
     ],
     "name:eng_x_preferred":[
         "Chiquitos"
@@ -56,17 +53,11 @@
     "name:fin_x_preferred":[
         "Chiquitos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chiquitos"
     ],
     "name:fre_x_variant":[
         "province de Chiquitos"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d8\u10d9\u10d8\u10e2\u10dd\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Chiquitos"
     ],
     "name:ita_x_preferred":[
         "provincia di Chiquitos"
@@ -74,8 +65,14 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30ad\u30c8\u30b9"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d8\u10d9\u10d8\u10e2\u10dd\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:lit_x_preferred":[
         "\u010cikitoso provincija"
+    ],
+    "name:nld_x_preferred":[
+        "Chiquitos"
     ],
     "name:nob_x_preferred":[
         "Provinsen Chiquitos"
@@ -104,6 +101,9 @@
     "name:war_x_preferred":[
         "Chiquitos"
     ],
+    "name:zho_x_preferred":[
+        "\u5947\u57fa\u6258\u65af\u7701"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":1092009543,
-    "wof:lastmodified":1555047041,
+    "wof:lastmodified":1561840539,
     "wof:name":"Chiquitos",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

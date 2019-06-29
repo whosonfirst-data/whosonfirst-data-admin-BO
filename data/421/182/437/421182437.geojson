@@ -47,14 +47,8 @@
     "name:ceb_x_preferred":[
         "Provincia Mu\u00f1ecas"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u6d85\u5361\u65af\u7701"
-    ],
     "name:deu_x_preferred":[
         "Provinz Mu\u00f1ecas"
-    ],
-    "name:dut_x_preferred":[
-        "Mu\u00f1ecas"
     ],
     "name:eng_x_preferred":[
         "Munecas"
@@ -67,17 +61,11 @@
     "name:fra_x_preferred":[
         "Province de Mu\u00f1ecas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Mu\u00f1ecas"
     ],
     "name:fre_x_variant":[
         "province de Mu\u00f1ecas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10e3\u10dc\u10d8\u10d4\u10d9\u10d0\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Mu\u00f1ecas"
     ],
     "name:glg_x_preferred":[
         "Provincia de Mu\u00f1ecas"
@@ -118,6 +106,9 @@
     ],
     "name:war_x_preferred":[
         "Mu\u00f1ecas"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u6d85\u5361\u65af\u7701"
     ],
     "qs:gn_country":"BO",
     "qs:gn_fcode":"ADM2",
@@ -180,7 +171,7 @@
         }
     ],
     "wof:id":421182437,
-    "wof:lastmodified":1555047012,
+    "wof:lastmodified":1561840572,
     "wof:name":"Munecas",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

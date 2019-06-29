@@ -19,19 +19,10 @@
     "name:deu_x_preferred":[
         "Colchani"
     ],
-    "name:dut_x_preferred":[
-        "Colchani"
-    ],
     "name:eng_x_preferred":[
         "Colchani"
     ],
     "name:fra_x_preferred":[
-        "Colchani"
-    ],
-    "name:fre_x_preferred":[
-        "Colchani"
-    ],
-    "name:ger_x_preferred":[
         "Colchani"
     ],
     "name:ita_x_preferred":[
@@ -100,7 +91,7 @@
         }
     ],
     "wof:id":421173073,
-    "wof:lastmodified":1553816363,
+    "wof:lastmodified":1561840566,
     "wof:name":"Colchani",
     "wof:parent_id":421177657,
     "wof:placetype":"locality",

@@ -15,19 +15,16 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6d3e\u62c9\u65af\u6e2f"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Puerto Pailas"
     ],
     "name:eng_x_preferred":[
         "Puerto Pailas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Puerto Pailas"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Puerto Pailas"
     ],
     "name:spa_x_preferred":[
@@ -38,6 +35,9 @@
     ],
     "name:unk_x_variant":[
         "Paila"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d3e\u62c9\u65af\u6e2f"
     ],
     "qs:name":"Puesto de Pailas",
     "qs:photos_9r":0,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":890445153,
-    "wof:lastmodified":1513900914,
+    "wof:lastmodified":1561840574,
     "wof:name":"Puesto de Pailas",
     "wof:parent_id":421187923,
     "wof:placetype":"locality",

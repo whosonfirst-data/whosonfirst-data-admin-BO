@@ -44,14 +44,8 @@
     "name:ceb_x_preferred":[
         "Provincia Sud L\u00edpez"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u5229\u4f69\u65af\u7701"
-    ],
     "name:deu_x_preferred":[
         "Provinz Sur L\u00edpez"
-    ],
-    "name:dut_x_preferred":[
-        "Sud L\u00edpez"
     ],
     "name:eng_x_preferred":[
         "Sur Lipez"
@@ -65,17 +59,11 @@
     "name:fra_x_preferred":[
         "Province de Sud L\u00edpez"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Sud L\u00edpez"
     ],
     "name:fre_x_variant":[
         "province de Sud L\u00edpez"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10e0-\u10da\u10d8\u10de\u10d4\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Sur L\u00edpez"
     ],
     "name:ita_x_preferred":[
         "Provincia di Sud L\u00edpez"
@@ -122,6 +110,9 @@
     ],
     "name:war_x_preferred":[
         "Sud L\u00edpez"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u5229\u4f69\u65af\u7701"
     ],
     "qs:gn_country":"BO",
     "qs:gn_fcode":"ADM2",
@@ -184,7 +175,7 @@
         }
     ],
     "wof:id":421193355,
-    "wof:lastmodified":1555047016,
+    "wof:lastmodified":1561840563,
     "wof:name":"Sur Lipez",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

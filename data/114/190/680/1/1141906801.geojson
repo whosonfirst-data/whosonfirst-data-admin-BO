@@ -17,19 +17,16 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u064a\u0641\u0648"
     ],
-    "name:chi_x_preferred":[
-        "\u594e\u6c83"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cuevo"
     ],
     "name:eng_x_preferred":[
         "Cuevo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cuevo"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Cuevo"
     ],
     "name:pol_x_preferred":[
@@ -46,6 +43,9 @@
     ],
     "name:swe_x_preferred":[
         "Cuevo"
+    ],
+    "name:zho_x_preferred":[
+        "\u594e\u6c83"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Bolivia",
@@ -166,7 +166,7 @@
         }
     ],
     "wof:id":1141906801,
-    "wof:lastmodified":1513900368,
+    "wof:lastmodified":1561840588,
     "wof:name":"Cuevo",
     "wof:parent_id":1092009601,
     "wof:placetype":"locality",

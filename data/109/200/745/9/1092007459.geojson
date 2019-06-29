@@ -43,11 +43,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Nor Yungas"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u6c38\u52a0\u65af\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Nor Yungas"
+    "name:deu_x_preferred":[
+        "Provinz Nor Yungas"
     ],
     "name:eng_x_preferred":[
         "Nor Yungas"
@@ -56,23 +53,23 @@
         "Nor Yungas",
         "Nor Yungas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nor Yungas"
     ],
     "name:fre_x_variant":[
         "province de Nor Yungas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10dd\u10e0-\u10d8\u10e3\u10dc\u10d2\u10d0\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Nor Yungas"
     ],
     "name:glg_x_preferred":[
         "Provincia de Nor Yungas"
     ],
     "name:ita_x_preferred":[
         "provincia di Nor Yungas"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10dd\u10e0-\u10d8\u10e3\u10dc\u10d2\u10d0\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Nor Yungas"
     ],
     "name:nob_x_preferred":[
         "Provinsen Nor Yungas"
@@ -101,6 +98,9 @@
     "name:war_x_preferred":[
         "Nor Yungas"
     ],
+    "name:zho_x_preferred":[
+        "\u5317\u6c38\u52a0\u65af\u7701"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":1092007459,
-    "wof:lastmodified":1555047028,
+    "wof:lastmodified":1561840557,
     "wof:name":"Nor Yungas",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

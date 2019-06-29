@@ -44,14 +44,11 @@
     "name:ceb_x_preferred":[
         "Tomina"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u7c73\u7d0d\u7701"
-    ],
     "name:deu_x_preferred":[
         "Tomina"
     ],
-    "name:dut_x_preferred":[
-        "Tomina"
+    "name:deu_x_variant":[
+        "Provinz Tomina"
     ],
     "name:eng_x_preferred":[
         "Tomina"
@@ -60,20 +57,20 @@
         "Tomina",
         "Tomina Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tomina"
     ],
     "name:fre_x_variant":[
         "province de Tomina"
     ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10dd\u10db\u10d8\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Tomina"
-    ],
     "name:ita_x_preferred":[
         "provincia di Tomina"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10dd\u10db\u10d8\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Tomina"
     ],
     "name:nob_x_preferred":[
         "Provinsen Tomina"
@@ -101,6 +98,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10e2\u10dd\u10db\u10d8\u10dc\u10d0\u10e8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u7c73\u7d0d\u7701"
     ],
     "qs:gn_country":"BO",
     "qs:gn_fcode":"ADM2",
@@ -163,7 +163,7 @@
         }
     ],
     "wof:id":421169227,
-    "wof:lastmodified":1555047007,
+    "wof:lastmodified":1561840564,
     "wof:name":"Tomina",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Narciso Campero"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u723e\u897f\u7d22\u574e\u4f69\u7f85\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Narciso Campero"
+    "name:deu_x_preferred":[
+        "Provinz Campero"
     ],
     "name:eng_x_preferred":[
         "Campero"
@@ -54,20 +51,20 @@
         "Narciso Campero",
         "Narciso Campero Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Narciso Campero"
     ],
     "name:fre_x_variant":[
         "province de Narciso Campero"
     ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d0\u10e0\u10e1\u10d8\u10e1\u10dd-\u10d9\u10d0\u10db\u10de\u10d4\u10e0\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Campero"
-    ],
     "name:ita_x_preferred":[
         "provincia di Narciso Campero"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10e0\u10e1\u10d8\u10e1\u10dd-\u10d9\u10d0\u10db\u10de\u10d4\u10e0\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Narciso Campero"
     ],
     "name:nob_x_preferred":[
         "Provinsen Narciso Campero"
@@ -95,6 +92,9 @@
     ],
     "name:war_x_preferred":[
         "Narciso Campero"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u723e\u897f\u7d22\u574e\u4f69\u7f85\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":1092006465,
-    "wof:lastmodified":1555047023,
+    "wof:lastmodified":1561840552,
     "wof:name":"Campero",
     "wof:parent_id":85669395,
     "wof:placetype":"county",
