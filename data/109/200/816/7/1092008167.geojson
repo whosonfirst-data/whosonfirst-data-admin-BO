@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Saucar\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u7d39\u5361\u91cc\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Saucar\u00ed"
+    "name:deu_x_preferred":[
+        "Provinz Saucar\u00ed"
     ],
     "name:eng_x_preferred":[
         "Saucari"
@@ -54,20 +51,20 @@
         "Saucar\u00ed",
         "Saucar\u00ed Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Saucar\u00ed"
     ],
     "name:fre_x_variant":[
         "province de Saucar\u00ed"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10e3\u10d9\u10d0\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Saucar\u00ed"
-    ],
     "name:ita_x_preferred":[
         "provincia di Saucar\u00ed"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e3\u10d9\u10d0\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Saucar\u00ed"
     ],
     "name:nob_x_preferred":[
         "Provinsen Saucar\u00ed"
@@ -92,6 +89,9 @@
     ],
     "name:war_x_preferred":[
         "Saucar\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d39\u5361\u91cc\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":1092008167,
-    "wof:lastmodified":1555047033,
+    "wof:lastmodified":1561840541,
     "wof:name":"Saucari",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

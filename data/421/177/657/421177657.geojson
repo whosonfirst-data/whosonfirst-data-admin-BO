@@ -47,14 +47,8 @@
     "name:ceb_x_preferred":[
         "Provincia Quijarro"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u6771\u5c3c\u5967\u57fa\u54c8\u7f85\u7701"
-    ],
     "name:deu_x_preferred":[
         "Provinz Antonio Quijarro"
-    ],
-    "name:dut_x_preferred":[
-        "Antonio Quijarro"
     ],
     "name:eng_x_preferred":[
         "Antonio Quijarro"
@@ -66,17 +60,11 @@
     "name:fra_x_preferred":[
         "Province d'Antonio Quijarro"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Antonio Quijarro"
     ],
     "name:fre_x_variant":[
         "province d'Antonio Quijarro"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8\u10dd-\u10d9\u10d8\u10ee\u10d0\u10e0\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Antonio Quijarro"
     ],
     "name:ita_x_preferred":[
         "Provincia di Antonio Quijarro"
@@ -180,7 +168,7 @@
         }
     ],
     "wof:id":421177657,
-    "wof:lastmodified":1555047009,
+    "wof:lastmodified":1561840571,
     "wof:name":"Antonio Quijarro",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

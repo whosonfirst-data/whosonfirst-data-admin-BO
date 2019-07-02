@@ -43,11 +43,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Jos\u00e9 Mar\u00eda Linares"
     ],
-    "name:chi_x_preferred":[
-        "\u4f55\u585e\u746a\u5229\u4e9e\u5229\u7d0d\u96f7\u65af\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Jos\u00e9 Mar\u00eda Linares"
+    "name:deu_x_preferred":[
+        "Provinz Jos\u00e9 Mar\u00eda Linares"
     ],
     "name:eng_x_preferred":[
         "Jose Maria Linares"
@@ -57,20 +54,20 @@
         "Jos\u00e9 Mar\u00eda Linares",
         "Jos\u00e9 Mar\u00eda Linares Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jos\u00e9 Mar\u00eda Linares"
     ],
     "name:fre_x_variant":[
         "province de Jos\u00e9 Mar\u00eda Linares"
     ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10dd\u10e1\u10d4-\u10db\u10d0\u10e0\u10d8\u10d0-\u10da\u10d8\u10dc\u10d0\u10e0\u10d4\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Jos\u00e9 Mar\u00eda Linares"
-    ],
     "name:ita_x_preferred":[
         "provincia di Jos\u00e9 Mar\u00eda Linares"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10dd\u10e1\u10d4-\u10db\u10d0\u10e0\u10d8\u10d0-\u10da\u10d8\u10dc\u10d0\u10e0\u10d4\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Jos\u00e9 Mar\u00eda Linares"
     ],
     "name:nob_x_preferred":[
         "Provinsen Jos\u00e9 Mar\u00eda Linares"
@@ -95,6 +92,9 @@
     ],
     "name:war_x_preferred":[
         "Jos\u00e9 Mar\u00eda Linares"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f55\u585e\u746a\u5229\u4e9e\u5229\u7d0d\u96f7\u65af\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":1092008991,
-    "wof:lastmodified":1555047037,
+    "wof:lastmodified":1561840554,
     "wof:name":"Jose Maria Linares",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

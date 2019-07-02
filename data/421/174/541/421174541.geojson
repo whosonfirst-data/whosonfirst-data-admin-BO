@@ -20,13 +20,7 @@
     "name:ceb_x_preferred":[
         "Challapata"
     ],
-    "name:chi_x_preferred":[
-        "\u67e5\u4e9e\u5e15\u5854"
-    ],
     "name:deu_x_preferred":[
-        "Challapata"
-    ],
-    "name:dut_x_preferred":[
         "Challapata"
     ],
     "name:eng_x_preferred":[
@@ -35,14 +29,11 @@
     "name:fra_x_preferred":[
         "Challapata"
     ],
-    "name:fre_x_preferred":[
-        "Challapata"
-    ],
-    "name:ger_x_preferred":[
-        "Challapata"
-    ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30e4\u30d1\u30bf"
+    ],
+    "name:nld_x_preferred":[
+        "Challapata"
     ],
     "name:que_x_preferred":[
         "Ch'allapata"
@@ -205,7 +196,7 @@
         }
     ],
     "wof:id":421174541,
-    "wof:lastmodified":1527716232,
+    "wof:lastmodified":1561840566,
     "wof:name":"Challapata",
     "wof:parent_id":1092007777,
     "wof:placetype":"locality",

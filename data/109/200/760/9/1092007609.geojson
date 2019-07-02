@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Eduardo Avaroa"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u675c\u963f\u591a\u963f\u74e6\u7f85\u4e9e\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Eduardo Avaroa"
+    "name:deu_x_preferred":[
+        "Provinz Eduardo Avaroa"
     ],
     "name:eng_x_preferred":[
         "Lago Poopo"
@@ -54,20 +51,20 @@
         "Eduardo Avaroa",
         "Lago Poopo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Eduardo Avaroa"
     ],
     "name:fre_x_variant":[
         "province d'Eduardo Avaroa"
     ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10d3\u10e3\u10d0\u10e0\u10d3\u10dd-\u10d0\u10d5\u10d0\u10e0\u10dd\u10d0\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Eduardo Avaroa"
-    ],
     "name:ita_x_preferred":[
         "provincia di Eduardo Avaroa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10d3\u10e3\u10d0\u10e0\u10d3\u10dd-\u10d0\u10d5\u10d0\u10e0\u10dd\u10d0\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Eduardo Avaroa"
     ],
     "name:nob_x_preferred":[
         "Provinsen Eduardo Avaroa"
@@ -93,6 +90,9 @@
     "name:war_x_preferred":[
         "Eduardo Avaroa"
     ],
+    "name:zho_x_preferred":[
+        "\u57c3\u675c\u963f\u591a\u963f\u74e6\u7f85\u4e9e\u7701"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":1092007609,
-    "wof:lastmodified":1555047028,
+    "wof:lastmodified":1561840549,
     "wof:name":"Lago Poopo",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

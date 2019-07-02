@@ -16,22 +16,16 @@
     "name:ceb_x_preferred":[
         "Jorochito"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u7f85\u5947\u6258"
-    ],
     "name:deu_x_preferred":[
-        "Jorochito"
-    ],
-    "name:dut_x_preferred":[
         "Jorochito"
     ],
     "name:eng_x_preferred":[
         "Jorochito"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jorochito"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Jorochito"
     ],
     "name:swe_x_preferred":[
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":421201801,
-    "wof:lastmodified":1527716441,
+    "wof:lastmodified":1561840569,
     "wof:name":"Jorochito",
     "wof:parent_id":421187923,
     "wof:placetype":"locality",

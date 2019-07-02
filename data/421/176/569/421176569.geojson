@@ -14,14 +14,11 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u4e9e\u594e\u74e6"
-    ],
     "name:deu_x_preferred":[
         "Yacu\u00edba"
     ],
-    "name:dut_x_preferred":[
-        "Yacu\u00edba"
+    "name:deu_x_variant":[
+        "Yacuiba"
     ],
     "name:eng_x_preferred":[
         "Yacuiba"
@@ -31,15 +28,6 @@
     ],
     "name:fra_x_preferred":[
         "Yacu\u00edba"
-    ],
-    "name:fre_x_preferred":[
-        "Yacu\u00edba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d0\u10d9\u10e3\u10d8\u10d1\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Yacuiba"
     ],
     "name:jpn_x_preferred":[
         "\u30e4\u30af\u30a4\u30d0"
@@ -52,9 +40,6 @@
     ],
     "name:lit_x_preferred":[
         "Jakuiba"
-    ],
-    "name:mac_x_preferred":[
-        "\u0408\u0430\u043a\u0443\u0438\u0431\u0430"
     ],
     "name:mkd_x_preferred":[
         "\u0408\u0430\u043a\u0443\u0438\u0431\u0430"
@@ -74,7 +59,7 @@
     "name:que_x_preferred":[
         "Yakuywa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Yacu\u00edba"
     ],
     "name:rus_x_preferred":[
@@ -97,6 +82,9 @@
     ],
     "name:war_x_preferred":[
         "Yacu\u00edba"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u594e\u74e6"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Argentina",
@@ -237,7 +225,7 @@
         }
     ],
     "wof:id":421176569,
-    "wof:lastmodified":1527726467,
+    "wof:lastmodified":1561840573,
     "wof:name":"Yacuiba",
     "wof:parent_id":421169235,
     "wof:placetype":"locality",

@@ -22,14 +22,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09bf\u0989\u09b2\u09cd\u09b2\u09be\u0995\u09b2\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u4e9e\u79d1\u7d04"
-    ],
     "name:dan_x_preferred":[
         "Quillacollo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Quillacollo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03af\u03bb\u03b1\u03ba\u03bf\u03bb\u03bf"
     ],
     "name:eng_x_preferred":[
         "Quillacollo"
@@ -37,17 +37,8 @@
     "name:fin_x_preferred":[
         "Quillacollo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Quillacollo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d8\u10da\u10d8\u10d0\u10d9\u10dd\u10da\u10d8\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Quillacollo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03af\u03bb\u03b1\u03ba\u03bf\u03bb\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab5\u0abf\u0ab2\u0abe\u0a95\u0acb\u0ab2\u0acb"
@@ -67,6 +58,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0cb5\u0cbf\u0cb2\u0ccd\u0cb2\u0c95\u0cca\u0cb2\u0ccd\u0cb2\u0cca"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10da\u10d8\u10d0\u10d9\u10dd\u10da\u10d8\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ub07c\uc57c\uaf2c\uc694"
     ],
@@ -76,13 +70,16 @@
     "name:lit_x_preferred":[
         "Kiljakoljas"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0432\u0438\u043b\u0458\u0430\u043a\u043e\u043b\u0458\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u094d\u0935\u093f\u0932\u0945\u0915\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041a\u0432\u0438\u043b\u0458\u0430\u043a\u043e\u043b\u0458\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Quillacollo"
+    ],
+    "name:nld_x_preferred":[
         "Quillacollo"
     ],
     "name:nob_x_preferred":[
@@ -135,6 +132,9 @@
     ],
     "name:war_x_preferred":[
         "Quillacollo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u4e9e\u79d1\u7d04"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Bolivia",
@@ -255,7 +255,7 @@
         }
     ],
     "wof:id":1141906721,
-    "wof:lastmodified":1534379235,
+    "wof:lastmodified":1561840588,
     "wof:name":"Quillacollo",
     "wof:parent_id":421197123,
     "wof:placetype":"locality",

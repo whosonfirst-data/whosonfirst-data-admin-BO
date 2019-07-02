@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Carangas"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u862d\u52a0\u65af\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Carangas"
+    "name:deu_x_preferred":[
+        "Provinz Carangas"
     ],
     "name:eng_x_preferred":[
         "Carangas"
@@ -53,20 +50,20 @@
         "Carangas",
         "Carangas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Carangas"
     ],
     "name:fre_x_variant":[
         "province de Carangas"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e0\u10d0\u10dc\u10d2\u10d0\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Carangas"
-    ],
     "name:ita_x_preferred":[
         "provincia di Carangas"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10d0\u10dc\u10d2\u10d0\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Carangas"
     ],
     "name:nob_x_preferred":[
         "Provinsen Carangas"
@@ -92,6 +89,9 @@
     "name:war_x_preferred":[
         "Carangas"
     ],
+    "name:zho_x_preferred":[
+        "\u5361\u862d\u52a0\u65af\u7701"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":1092007807,
-    "wof:lastmodified":1555047030,
+    "wof:lastmodified":1561840556,
     "wof:name":"Carangas",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

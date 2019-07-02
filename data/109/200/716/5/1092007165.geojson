@@ -43,11 +43,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Gualberto Villarroel"
     ],
-    "name:chi_x_preferred":[
-        "\u74dc\u723e\u97cb\u6258\u6bd4\u5229\u4e9e\u7f85\u57c3\u723e\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Gualberto Villarroel"
+    "name:deu_x_preferred":[
+        "Provinz Gualberto Villarroel"
     ],
     "name:eng_x_preferred":[
         "Gualberto Villarroe"
@@ -57,23 +54,23 @@
         "Gualberto Villarroel Province",
         "Gualberto Villarroe"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gualberto Villarroel"
     ],
     "name:fre_x_variant":[
         "province de Gualberto Villarroel"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10da\u10d1\u10d4\u10e0\u10e2\u10dd-\u10d5\u10d8\u10da\u10d8\u10d0\u10e0\u10dd\u10d4\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Gualberto Villarroel"
     ],
     "name:glg_x_preferred":[
         "Provincia de Gualberto Villarroel"
     ],
     "name:ita_x_preferred":[
         "provincia di Gualberto Villarroel"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10da\u10d1\u10d4\u10e0\u10e2\u10dd-\u10d5\u10d8\u10da\u10d8\u10d0\u10e0\u10dd\u10d4\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Gualberto Villarroel"
     ],
     "name:nob_x_preferred":[
         "Provinsen Gualberto Villarroel"
@@ -98,6 +95,9 @@
     ],
     "name:war_x_preferred":[
         "Gualberto Villarroel"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u723e\u97cb\u6258\u6bd4\u5229\u4e9e\u7f85\u57c3\u723e\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -135,7 +135,7 @@
         }
     ],
     "wof:id":1092007165,
-    "wof:lastmodified":1555047026,
+    "wof:lastmodified":1561840558,
     "wof:name":"Gualberto Villarroe",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

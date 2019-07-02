@@ -22,22 +22,13 @@
     "name:ceb_x_preferred":[
         "Tarabuco"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u62c9\u5e03\u79d1"
-    ],
     "name:deu_x_preferred":[
-        "Tarabuco"
-    ],
-    "name:dut_x_preferred":[
         "Tarabuco"
     ],
     "name:eng_x_preferred":[
         "Tarabuco"
     ],
-    "name:fre_x_preferred":[
-        "Tarabuco"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tarabuco"
     ],
     "name:ita_x_preferred":[
@@ -129,7 +120,7 @@
         }
     ],
     "wof:id":421185863,
-    "wof:lastmodified":1534379235,
+    "wof:lastmodified":1561840574,
     "wof:name":"Tarabuco",
     "wof:parent_id":421188855,
     "wof:placetype":"locality",

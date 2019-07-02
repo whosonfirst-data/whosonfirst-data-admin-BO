@@ -19,14 +19,8 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u0648\u0631\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0555\u0580\u0578\u0582\u0580\u0578"
-    ],
     "name:aym_x_preferred":[
         "Ururu"
-    ],
-    "name:baq_x_preferred":[
-        "Oruro"
     ],
     "name:bel_x_preferred":[
         "\u0410\u0440\u0443\u0440\u0430"
@@ -37,17 +31,17 @@
     "name:cat_x_preferred":[
         "Oruro"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u9c81\u7f57"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Oruro"
     ],
     "name:dan_x_preferred":[
         "Oruro"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Oruro"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03bf\u03cd\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Oruro"
@@ -55,23 +49,20 @@
     "name:epo_x_preferred":[
         "Oruro"
     ],
+    "name:eus_x_preferred":[
+        "Oruro"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u0648\u0631\u0648"
+    ],
     "name:fin_x_preferred":[
         "Oruro"
     ],
-    "name:fre_x_preferred":[
-        "Oruro"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e0\u10e3\u10e0\u10dd"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Oruro"
     ],
     "name:glg_x_preferred":[
         "Oruro"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c1\u03bf\u03cd\u03c1\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab0\u0ac2\u0ab0\u0acb"
@@ -81,6 +72,9 @@
     ],
     "name:hun_x_preferred":[
         "Oruro"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0580\u0578\u0582\u0580\u0578"
     ],
     "name:ind_x_preferred":[
         "Oruro"
@@ -94,6 +88,9 @@
     "name:kan_x_preferred":[
         "\u0c92\u0cb0\u0cca\u0cb0\u0cca"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e0\u10e3\u10e0\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\uc624\ub8e8\ub85c"
     ],
@@ -106,13 +103,13 @@
     "name:lit_x_preferred":[
         "Oruras"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u0440\u0443\u0440\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0913\u0930\u0941\u0930\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041e\u0440\u0443\u0440\u043e"
+    ],
+    "name:msa_x_preferred":[
         "Oruro"
     ],
     "name:nah_x_preferred":[
@@ -130,9 +127,6 @@
     "name:oci_x_preferred":[
         "Oruro"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0631\u0648\u0631\u0648"
-    ],
     "name:pol_x_preferred":[
         "Oruro"
     ],
@@ -142,7 +136,7 @@
     "name:que_x_preferred":[
         "Uru Uru"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Oruro"
     ],
     "name:rus_x_preferred":[
@@ -190,6 +184,9 @@
     "name:war_x_preferred":[
         "Oruro"
     ],
+    "name:zho_x_preferred":[
+        "\u5965\u9c81\u7f57"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -235,7 +232,7 @@
         }
     ],
     "wof:id":421186017,
-    "wof:lastmodified":1527716317,
+    "wof:lastmodified":1561840567,
     "wof:name":"Oruro",
     "wof:parent_id":421187927,
     "wof:placetype":"locality",

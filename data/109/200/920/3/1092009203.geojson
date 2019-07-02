@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Sud Chichas"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u5947\u67e5\u65af\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Sud Chichas"
+    "name:deu_x_preferred":[
+        "Provinz Sur Chichas"
     ],
     "name:eng_x_preferred":[
         "Sur Chichas"
@@ -54,20 +51,20 @@
         "Sud Chichas",
         "Sud Chichas Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sud Chichas"
     ],
     "name:fre_x_variant":[
         "province de Sud Chichas"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10d3-\u10e9\u10d8\u10e9\u10d0\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Sur Chichas"
-    ],
     "name:ita_x_preferred":[
         "provincia di Sud Chichas"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10d3-\u10e9\u10d8\u10e9\u10d0\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Sud Chichas"
     ],
     "name:nob_x_preferred":[
         "Provinsen Sud Chichas"
@@ -92,6 +89,9 @@
     ],
     "name:war_x_preferred":[
         "Sud Chichas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u5947\u67e5\u65af\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":1092009203,
-    "wof:lastmodified":1555047038,
+    "wof:lastmodified":1561840555,
     "wof:name":"Sur Chichas",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

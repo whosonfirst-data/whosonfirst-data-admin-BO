@@ -37,11 +37,8 @@
     "mps:longitude":-64.12738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4f2f\u5fb7\u7279\u5967\u5eb7\u7d0d\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Burnet O'Connor"
+    "name:deu_x_preferred":[
+        "Provinz Burnet O\u2019Connor"
     ],
     "name:eng_x_preferred":[
         "Burnet O'Connor"
@@ -50,20 +47,20 @@
         "Burnet O'Connor",
         "Burdett O'Connor Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Burnet O'Connor"
     ],
     "name:fre_x_variant":[
         "province de Burnet O'Connor"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e3\u10e0\u10dc\u10d4\u10e2 \u10dd'\u10d9\u10dd\u10dc\u10dd\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Burnet O\u2019Connor"
-    ],
     "name:ita_x_preferred":[
         "provincia di Burdet O'Connor"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10e0\u10dc\u10d4\u10e2 \u10dd'\u10d9\u10dd\u10dc\u10dd\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Burnet O'Connor"
     ],
     "name:nob_x_preferred":[
         "Provinsen Burnet O'Connor"
@@ -88,6 +85,9 @@
     ],
     "name:war_x_preferred":[
         "Burnet O'Connor"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f2f\u5fb7\u7279\u5967\u5eb7\u7d0d\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":1092010191,
-    "wof:lastmodified":1555047047,
+    "wof:lastmodified":1561840559,
     "wof:name":"Burnet O'Connor",
     "wof:parent_id":85669431,
     "wof:placetype":"county",

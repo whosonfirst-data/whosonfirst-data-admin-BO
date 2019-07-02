@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Pantal\u00e9on Dalence"
     ],
-    "name:chi_x_preferred":[
-        "\u6f58\u5854\u840a\u7fc1\u9054\u502b\u65af\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Pantal\u00e9on Dalence"
+    "name:deu_x_preferred":[
+        "Provinz Pantal\u00e9on Dalence"
     ],
     "name:eng_x_preferred":[
         "Pantaleon Dalence"
@@ -54,20 +51,20 @@
         "Pantale\u00f3n Dalence",
         "Pantale\u00f3n Dalence Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pantal\u00e9on Dalence"
     ],
     "name:fre_x_variant":[
         "province de Pantal\u00e9on Dalence"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10dc\u10e2\u10d0\u10da\u10d4\u10dd\u10dc-\u10d3\u10d0\u10da\u10d4\u10dc\u10e1\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Pantal\u00e9on Dalence"
-    ],
     "name:ita_x_preferred":[
         "provincia di Pantal\u00e9on Dalence"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10dc\u10e2\u10d0\u10da\u10d4\u10dd\u10dc-\u10d3\u10d0\u10da\u10d4\u10dc\u10e1\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Pantal\u00e9on Dalence"
     ],
     "name:nob_x_preferred":[
         "Provinsen Pantal\u00e9on Dalence"
@@ -92,6 +89,9 @@
     ],
     "name:war_x_preferred":[
         "Pantal\u00e9on Dalence"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f58\u5854\u840a\u7fc1\u9054\u502b\u65af\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":1092007979,
-    "wof:lastmodified":1555047032,
+    "wof:lastmodified":1561840535,
     "wof:name":"Pantaleon Dalence",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

@@ -43,11 +43,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Alonso de Ib\u00e1\u00f1ez"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u9686\u7d22\u5fb7\u4f0a\u74e6\u6d85\u65af\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Alonso de Ib\u00e1\u00f1ez"
+    "name:deu_x_preferred":[
+        "Provinz Alonso de Ib\u00e1\u00f1ez"
     ],
     "name:eng_x_preferred":[
         "Alonso de Ibanez"
@@ -58,26 +55,26 @@
         "Alonso de Ib\u00e1\u00f1ez Province",
         "Alonso de Ibanez"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644\u0648\u0646\u0633\u0648 \u062f\u0648 \u0627\u06cc\u0628\u0627\u0646\u0632"
+    ],
+    "name:fra_x_preferred":[
         "Alonso de Ib\u00e1\u00f1ez"
     ],
     "name:fre_x_variant":[
         "province d'Alonso de Ib\u00e1\u00f1ez"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10da\u10dd\u10dc\u10e1\u10dd-\u10d3\u10d4-\u10d8\u10d1\u10d0\u10dc\u10d8\u10d4\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Alonso de Ib\u00e1\u00f1ez"
-    ],
     "name:ita_x_preferred":[
         "provincia di Alonso de Ib\u00e1\u00f1es"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10dd\u10dc\u10e1\u10dd-\u10d3\u10d4-\u10d8\u10d1\u10d0\u10dc\u10d8\u10d4\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Alonso de Ib\u00e1\u00f1ez"
+    ],
     "name:nob_x_preferred":[
         "Provinsen Alonso de Ib\u00e1\u00f1ez"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644\u0648\u0646\u0633\u0648 \u062f\u0648 \u0627\u06cc\u0628\u0627\u0646\u0632"
     ],
     "name:por_x_preferred":[
         "Alonzo de Ib\u00e1\u00f1ez"
@@ -99,6 +96,9 @@
     ],
     "name:war_x_preferred":[
         "Alonso de Ib\u00e1\u00f1ez"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u9686\u7d22\u5fb7\u4f0a\u74e6\u6d85\u65af\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":1092008665,
-    "wof:lastmodified":1555047036,
+    "wof:lastmodified":1561840543,
     "wof:name":"Alonso de Ibanez",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

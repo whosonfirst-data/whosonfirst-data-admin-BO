@@ -19,25 +19,13 @@
     "name:ceb_x_preferred":[
         "Comarapa"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u99ac\u62c9\u5e15"
-    ],
     "name:deu_x_preferred":[
-        "Comarapa"
-    ],
-    "name:dut_x_preferred":[
         "Comarapa"
     ],
     "name:eng_x_preferred":[
         "Comarapa"
     ],
     "name:fra_x_preferred":[
-        "Comarapa"
-    ],
-    "name:fre_x_preferred":[
-        "Comarapa"
-    ],
-    "name:ger_x_preferred":[
         "Comarapa"
     ],
     "name:ita_x_preferred":[
@@ -128,7 +116,7 @@
         }
     ],
     "wof:id":421201799,
-    "wof:lastmodified":1527716431,
+    "wof:lastmodified":1561840569,
     "wof:name":"Comarapa",
     "wof:parent_id":421186229,
     "wof:placetype":"locality",

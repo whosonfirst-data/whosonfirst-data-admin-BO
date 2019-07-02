@@ -44,11 +44,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Larecaja"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u96f7\u5361\u54c8\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Larecaja"
+    "name:deu_x_preferred":[
+        "Provinz Larecaja"
     ],
     "name:eng_x_preferred":[
         "Larecaja"
@@ -57,23 +54,23 @@
         "Larecaja",
         "Larecaja Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Larecaja"
     ],
     "name:fre_x_variant":[
         "province de Larecaja"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0\u10e0\u10d4\u10d9\u10d0\u10ee\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Larecaja"
     ],
     "name:glg_x_preferred":[
         "Provincia de Larecaja"
     ],
     "name:ita_x_preferred":[
         "provincia di Larecaja"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0\u10e0\u10d4\u10d9\u10d0\u10ee\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Larecaja"
     ],
     "name:nob_x_preferred":[
         "Provinsen Larecaja"
@@ -104,6 +101,9 @@
     ],
     "name:war_x_preferred":[
         "Larecaja"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u96f7\u5361\u54c8\u7701"
     ],
     "qs:gn_country":"BO",
     "qs:gn_fcode":"ADM2",
@@ -166,7 +166,7 @@
         }
     ],
     "wof:id":421187929,
-    "wof:lastmodified":1555047014,
+    "wof:lastmodified":1561840566,
     "wof:name":"Larecaja",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Obispo Santistevan"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u7dad\u65af\u6ce2\u6851\u8482\u65af\u7279\u842c\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Obispo Santistevan"
+    "name:deu_x_preferred":[
+        "Provinz Obispo Santistevan"
     ],
     "name:eng_x_preferred":[
         "Obispo Santisteban"
@@ -54,20 +51,20 @@
         "Obispo Santistevan",
         "Obispo Santistevan Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Obispo Santistevan"
     ],
     "name:fre_x_variant":[
         "province d'Obispo Santistevan"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Obispo Santistevan"
     ],
     "name:ita_x_preferred":[
         "provincia di Obispo Santistevan"
     ],
     "name:lit_x_preferred":[
         "Obispo Santistevano provincija"
+    ],
+    "name:nld_x_preferred":[
+        "Obispo Santistevan"
     ],
     "name:nob_x_preferred":[
         "Provinsen Obispo Santistevan"
@@ -92,6 +89,9 @@
     ],
     "name:war_x_preferred":[
         "Obispo Santistevan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u7dad\u65af\u6ce2\u6851\u8482\u65af\u7279\u842c\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":1092009899,
-    "wof:lastmodified":1555047044,
+    "wof:lastmodified":1561840556,
     "wof:name":"Obispo Santisteban",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

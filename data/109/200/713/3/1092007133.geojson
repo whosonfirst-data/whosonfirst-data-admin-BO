@@ -43,11 +43,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Pacajes"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u5361\u8d6b\u65af\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Pacajes"
+    "name:deu_x_preferred":[
+        "Provinz Pacajes"
     ],
     "name:eng_x_preferred":[
         "General Jose Manuel"
@@ -57,23 +54,23 @@
         "Pacajes",
         "General Jose Manuel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pacajes"
     ],
     "name:fre_x_variant":[
         "province de Pacajes"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10d9\u10d0\u10ee\u10d4\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Pacajes"
     ],
     "name:glg_x_preferred":[
         "Provincia de Pacajes"
     ],
     "name:ita_x_preferred":[
         "provincia di Pacajes"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10d9\u10d0\u10ee\u10d4\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Pacajes"
     ],
     "name:nob_x_preferred":[
         "Provinsen Pacajes"
@@ -95,6 +92,9 @@
     ],
     "name:war_x_preferred":[
         "Pacajes"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5361\u8d6b\u65af\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":1092007133,
-    "wof:lastmodified":1555047026,
+    "wof:lastmodified":1561840545,
     "wof:name":"General Jose Manuel",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

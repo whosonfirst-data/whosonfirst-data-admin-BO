@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Carrasco"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u62c9\u65af\u79d1\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Carrasco"
+    "name:deu_x_preferred":[
+        "Provinz Carrasco"
     ],
     "name:eng_x_preferred":[
         "Carrasco"
@@ -53,20 +50,20 @@
         "Carrasco",
         "Carrasco Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Carrasco"
     ],
     "name:fre_x_variant":[
         "province de Carrasco"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e0\u10d0\u10e1\u10d9\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Carrasco"
-    ],
     "name:ita_x_preferred":[
         "provincia di Carrasco"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10d0\u10e1\u10d9\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Carrasco"
     ],
     "name:nob_x_preferred":[
         "Provinsen Carrasco"
@@ -94,6 +91,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d9\u10d0\u10e0\u10d0\u10e1\u10d9\u10dd\u10e8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u65af\u79d1\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":1092006537,
-    "wof:lastmodified":1555047024,
+    "wof:lastmodified":1561840553,
     "wof:name":"Carrasco",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

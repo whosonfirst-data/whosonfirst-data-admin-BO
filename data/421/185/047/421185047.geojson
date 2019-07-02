@@ -41,11 +41,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Esteban Arze"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u65af\u7279\u842c\u963f\u723e\u585e\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Esteban Arce"
+    "name:deu_x_preferred":[
+        "Provinz Esteban Arce"
     ],
     "name:eng_x_preferred":[
         "Esteban Arce"
@@ -54,20 +51,20 @@
         "Esteban Arce",
         "Esteban Arce Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Esteban Arce"
     ],
     "name:fre_x_variant":[
         "province d'Esteban Arce"
     ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10e1\u10e2\u10d4\u10d1\u10d0\u10dc-\u10d0\u10e0\u10e1\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Esteban Arce"
-    ],
     "name:ita_x_preferred":[
         "provincia di Esteban Arce"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e1\u10e2\u10d4\u10d1\u10d0\u10dc-\u10d0\u10e0\u10e1\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Esteban Arce"
     ],
     "name:nob_x_preferred":[
         "Provinsen Esteban Arze"
@@ -98,6 +95,9 @@
     ],
     "name:war_x_preferred":[
         "Esteban Arce"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u65af\u7279\u842c\u963f\u723e\u585e\u7701"
     ],
     "qs:gn_country":"BO",
     "qs:gn_fcode":"ADM2",
@@ -160,7 +160,7 @@
         }
     ],
     "wof:id":421185047,
-    "wof:lastmodified":1555047013,
+    "wof:lastmodified":1561840573,
     "wof:name":"Esteban Arce",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

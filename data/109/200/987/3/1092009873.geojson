@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de \u00d1uflo de Ch\u00e1vez"
     ],
-    "name:chi_x_preferred":[
-        "\u7d10\u5f17\u6d1b\u5fb7\u67e5\u97cb\u65af\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "\u00d1uflo de Ch\u00e1vez"
+    "name:deu_x_preferred":[
+        "Provinz \u00d1uflo de Ch\u00e1vez"
     ],
     "name:eng_x_preferred":[
         "Nuflo De Chavez"
@@ -55,20 +52,20 @@
         "\u00d1uflo de Ch\u00e1vez Province",
         "Nuflo De Chavez"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00d1uflo de Ch\u00e1vez"
     ],
     "name:fre_x_variant":[
         "province de \u00d1uflo de Ch\u00e1vez"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz \u00d1uflo de Ch\u00e1vez"
     ],
     "name:ita_x_preferred":[
         "provincia di \u00d1uflo de Ch\u00e1vez"
     ],
     "name:lit_x_preferred":[
         "Njuflo de \u010caveso provincija"
+    ],
+    "name:nld_x_preferred":[
+        "\u00d1uflo de Ch\u00e1vez"
     ],
     "name:nob_x_preferred":[
         "Provinsen \u00d1uflo de Ch\u00e1vez"
@@ -93,6 +90,9 @@
     ],
     "name:war_x_preferred":[
         "\u00d1uflo de Ch\u00e1vez"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d10\u5f17\u6d1b\u5fb7\u67e5\u97cb\u65af\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1092009873,
-    "wof:lastmodified":1555047044,
+    "wof:lastmodified":1561840555,
     "wof:name":"Nuflo De Chavez",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

@@ -41,11 +41,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Belisario Boeto"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u5229\u85a9\u91cc\u5967\u535a\u57c3\u6258\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Belisario Boeto"
+    "name:deu_x_preferred":[
+        "Provinz Belisario Boeto"
     ],
     "name:eng_x_preferred":[
         "Belisario Boeto"
@@ -54,20 +51,20 @@
         "Belisario Boeto",
         "Belisario Boeto Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Belisario Boeto"
     ],
     "name:fre_x_variant":[
         "province de Belisario Boeto"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10da\u10d8\u10e1\u10d0\u10e0\u10d8\u10dd-\u10d1\u10dd\u10d4\u10e2\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Belisario Boeto"
-    ],
     "name:ita_x_preferred":[
         "provincia di Belisario Boeto"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10da\u10d8\u10e1\u10d0\u10e0\u10d8\u10dd-\u10d1\u10dd\u10d4\u10e2\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Belisario Boeto"
     ],
     "name:nob_x_preferred":[
         "Provinsen Belisario Boeto"
@@ -95,6 +92,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d1\u10d4\u10da\u10d8\u10e1\u10d0\u10e0\u10d8\u10dd-\u10d1\u10dd\u10d4\u10e2\u10dd\u10e8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u5229\u85a9\u91cc\u5967\u535a\u57c3\u6258\u7701"
     ],
     "qs:gn_country":"BO",
     "qs:gn_fcode":"ADM2",
@@ -158,7 +158,7 @@
         }
     ],
     "wof:id":421169225,
-    "wof:lastmodified":1555047007,
+    "wof:lastmodified":1561840565,
     "wof:name":"Belisario Boeto",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

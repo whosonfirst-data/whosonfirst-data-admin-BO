@@ -20,28 +20,22 @@
     "name:ceb_x_preferred":[
         "Entre R\u00edos"
     ],
-    "name:chi_x_preferred":[
-        "\u6069\u7279\u96f7\u91cc\u5965\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Entre R\u00edos"
-    ],
-    "name:dut_x_preferred":[
         "Entre R\u00edos"
     ],
     "name:eng_x_preferred":[
         "Entre R\u00edos"
     ],
-    "name:fre_x_preferred":[
-        "Entre R\u00edos"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Entre R\u00edos"
     ],
     "name:glg_x_preferred":[
         "Entre R\u00edos"
     ],
     "name:ita_x_preferred":[
+        "Entre R\u00edos"
+    ],
+    "name:nld_x_preferred":[
         "Entre R\u00edos"
     ],
     "name:que_x_preferred":[
@@ -205,7 +199,7 @@
         }
     ],
     "wof:id":421205551,
-    "wof:lastmodified":1527716214,
+    "wof:lastmodified":1561840565,
     "wof:name":"Entre R\u00edos",
     "wof:parent_id":1092010191,
     "wof:placetype":"locality",

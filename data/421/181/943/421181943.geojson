@@ -23,38 +23,26 @@
     "name:ceb_x_preferred":[
         "Villamontes"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u4e9e\u8499\u7279\u65af"
-    ],
     "name:dan_x_preferred":[
         "Villamontes"
     ],
     "name:deu_x_preferred":[
         "Villamontes"
     ],
-    "name:dut_x_preferred":[
-        "Villamontes"
+    "name:ell_x_preferred":[
+        "\u0392\u03af\u03bb\u03bb\u03b1\u03bc\u03bf\u03bd\u03c4\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Villamontes"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0644\u0644\u0627\u0645\u0648\u0646\u062a\u0633"
     ],
     "name:fin_x_preferred":[
         "Villamontes"
     ],
     "name:fra_x_preferred":[
         "Villamontes"
-    ],
-    "name:fre_x_preferred":[
-        "Villamontes"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10da\u10d8\u10d0\u10db\u10dd\u10dc\u10e2\u10d4\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Villamontes"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03af\u03bb\u03bb\u03b1\u03bc\u03bf\u03bd\u03c4\u03b5\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abf\u0ab2\u0abe\u0aae\u0acb\u0aa8\u0acd\u0a9f\u0ac7\u0ab8"
@@ -89,7 +77,7 @@
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u093f\u0932\u094d\u0932\u092e\u094b\u0902\u0928\u094d\u091f\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Villamontes"
     ],
     "name:nld_x_preferred":[
@@ -100,9 +88,6 @@
     ],
     "name:nor_x_preferred":[
         "Villamontes"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0627\u0644\u0644\u0627\u0645\u0648\u0646\u062a\u0633"
     ],
     "name:pol_x_preferred":[
         "Villamontes"
@@ -295,7 +280,7 @@
         }
     ],
     "wof:id":421181943,
-    "wof:lastmodified":1527716334,
+    "wof:lastmodified":1561840568,
     "wof:name":"Villa Montes",
     "wof:parent_id":421169235,
     "wof:placetype":"locality",

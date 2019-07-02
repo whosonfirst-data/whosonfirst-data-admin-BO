@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Sajama"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u4e9e\u99ac\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Sajama"
+    "name:deu_x_preferred":[
+        "Provinz Sajama"
     ],
     "name:eng_x_preferred":[
         "San Pedro De Totora"
@@ -54,20 +51,20 @@
         "Sajama",
         "San Pedro De Totora"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sajama"
     ],
     "name:fre_x_variant":[
         "province de Sajama"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10ee\u10d0\u10db\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Sajama"
-    ],
     "name:ita_x_preferred":[
         "provincia di Sajama"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10ee\u10d0\u10db\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Sajama"
     ],
     "name:nob_x_preferred":[
         "Provinsen Sajama"
@@ -96,6 +93,9 @@
     "name:war_x_preferred":[
         "Sajama"
     ],
+    "name:zho_x_preferred":[
+        "\u85a9\u4e9e\u99ac\u7701"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":1092008123,
-    "wof:lastmodified":1555047033,
+    "wof:lastmodified":1561840551,
     "wof:name":"San Pedro De Totora",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Juana Azurduy de Padilla"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u8607\u675c\u4f0a\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Juana Azurduy de Padilla"
+    "name:deu_x_preferred":[
+        "Provinz Azurduy"
     ],
     "name:eng_x_preferred":[
         "Azurduy"
@@ -54,20 +51,20 @@
         "Juana Azurduay de Padilla",
         "Juana Azurduy de Padilla Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Juana Azurduy de Padilla"
     ],
     "name:fre_x_variant":[
         "province de Juana Azurduy de Padilla"
     ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10e3\u10d0\u10dc\u10d0-\u10d0\u10e1\u10e3\u10e0\u10d3\u10e3\u10d8-\u10d3\u10d4-\u10de\u10d0\u10d3\u10d8\u10da\u10d8\u10d0\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Azurduy"
-    ],
     "name:ita_x_preferred":[
         "provincia di Juana Azurduy de Padilla"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10e3\u10d0\u10dc\u10d0-\u10d0\u10e1\u10e3\u10e0\u10d3\u10e3\u10d8-\u10d3\u10d4-\u10de\u10d0\u10d3\u10d8\u10da\u10d8\u10d0\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Juana Azurduy de Padilla"
     ],
     "name:nob_x_preferred":[
         "Provinsen Juana Azurduy de Padilla"
@@ -92,6 +89,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10ee\u10e3\u10d0\u10dc\u10d0-\u10d0\u10e1\u10e3\u10e0\u10d3\u10e3\u10d8-\u10d3\u10d4-\u10de\u10d0\u10d3\u10d8\u10da\u10d8\u10d0\u10e8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u8607\u675c\u4f0a\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":1092005881,
-    "wof:lastmodified":1555047020,
+    "wof:lastmodified":1561840545,
     "wof:name":"Azurduy",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

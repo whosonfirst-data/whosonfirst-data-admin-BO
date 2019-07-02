@@ -31,9 +31,6 @@
     "name:aym_x_preferred":[
         "Ururu jach'a suyu"
     ],
-    "name:baq_x_preferred":[
-        "Oruroko departamendua"
-    ],
     "name:ben_x_preferred":[
         "\u0993\u09b0\u09c1\u09b0\u09c1 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -43,14 +40,14 @@
     "name:cat_x_preferred":[
         "Departament d'Oruro"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u9c81\u7f57\u7701"
-    ],
     "name:dan_x_preferred":[
         "Oruro"
     ],
-    "name:dut_x_preferred":[
-        "Oruro"
+    "name:deu_x_preferred":[
+        "Departamento Oruro"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03bf\u03cd\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Oruro"
@@ -58,26 +55,20 @@
     "name:epo_x_preferred":[
         "Oruro"
     ],
+    "name:eus_x_preferred":[
+        "Oruroko departamendua"
+    ],
     "name:fin_x_preferred":[
         "Oruron departementti"
     ],
     "name:fra_x_preferred":[
         "Oruro"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "d\u00e9partement d'Oruro"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e0\u10e3\u10e0\u10dd\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Oruro"
     ],
     "name:glg_x_preferred":[
         "Departamento de Oruro"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c1\u03bf\u03cd\u03c1\u03bf"
     ],
     "name:grn_x_preferred":[
         "Tet\u00e3vore Oruro"
@@ -103,6 +94,9 @@
     "name:kan_x_preferred":[
         "\u0c92\u0cb0\u0cca\u0cb0\u0cca \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e0\u10e3\u10e0\u10dd\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc624\ub8e8\ub85c \uc8fc"
     ],
@@ -112,17 +106,20 @@
     "name:lit_x_preferred":[
         "Oruro departamentas"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u0440\u0443\u0440\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0913\u0930\u0941\u0930\u094b\u091c \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041e\u0440\u0443\u0440\u043e"
+    ],
+    "name:msa_x_preferred":[
         "Oruro"
     ],
     "name:nah_x_preferred":[
         "Tl\u0101lxeliuhc\u0101y\u014dtl Oruro"
+    ],
+    "name:nld_x_preferred":[
+        "Oruro"
     ],
     "name:nob_x_preferred":[
         "Oruro"
@@ -139,7 +136,7 @@
     "name:que_x_preferred":[
         "Uru Uru suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Oruro"
     ],
     "name:rus_x_preferred":[
@@ -195,6 +192,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05d0\u05e8\u05d5\u05e8\u05d0 \u05d3\u05e2\u05e4\u05d0\u05e8\u05d8\u05de\u05e2\u05e0\u05d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u9c81\u7f57\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BOL",
@@ -323,7 +323,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1553550456,
+    "wof:lastmodified":1561840505,
     "wof:name":"Oruro",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

@@ -17,25 +17,13 @@
     "name:ceb_x_preferred":[
         "Reyes"
     ],
-    "name:chi_x_preferred":[
-        "\u96f7\u8036\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Reyes"
-    ],
-    "name:dut_x_preferred":[
         "Reyes"
     ],
     "name:eng_x_preferred":[
         "Reyes"
     ],
     "name:fra_x_preferred":[
-        "Reyes"
-    ],
-    "name:fre_x_preferred":[
-        "Reyes"
-    ],
-    "name:ger_x_preferred":[
         "Reyes"
     ],
     "name:jpn_x_preferred":[
@@ -201,7 +189,7 @@
         }
     ],
     "wof:id":421199545,
-    "wof:lastmodified":1553816386,
+    "wof:lastmodified":1561840569,
     "wof:name":"Reyes",
     "wof:parent_id":1092005669,
     "wof:placetype":"locality",

@@ -43,11 +43,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Eliodoro Camacho"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u5229\u5967\u591a\u7f85\u5361\u99ac\u55ac\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Eliodoro Camacho"
+    "name:deu_x_preferred":[
+        "Provinz Eliodoro Camacho"
     ],
     "name:eng_x_preferred":[
         "Camacho"
@@ -57,23 +54,23 @@
         "Eliodoro Camacho",
         "Eliodoro Camacho Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Eliodoro Camacho"
     ],
     "name:fre_x_variant":[
         "province d'Eliodoro Camacho"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da\u10d8\u10dd\u10d3\u10dd\u10e0\u10dd-\u10d9\u10d0\u10db\u10d0\u10e9\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Eliodoro Camacho"
     ],
     "name:glg_x_preferred":[
         "Provincia de Eliodoro Camacho"
     ],
     "name:ita_x_preferred":[
         "provincia di Eliodoro Camacho"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da\u10d8\u10dd\u10d3\u10dd\u10e0\u10dd-\u10d9\u10d0\u10db\u10d0\u10e9\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Eliodoro Camacho"
     ],
     "name:nob_x_preferred":[
         "Provinsen Eliodoro Camacho"
@@ -98,6 +95,9 @@
     ],
     "name:war_x_preferred":[
         "Eliodoro Camacho"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5229\u5967\u591a\u7f85\u5361\u99ac\u55ac\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -135,7 +135,7 @@
         }
     ],
     "wof:id":1092007003,
-    "wof:lastmodified":1555047026,
+    "wof:lastmodified":1561840541,
     "wof:name":"Camacho",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

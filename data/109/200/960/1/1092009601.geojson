@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Cordillera"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u8fea\u52d2\u62c9\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Cordillera"
+    "name:deu_x_preferred":[
+        "Provinz Cordillera"
     ],
     "name:eng_x_preferred":[
         "Cordillera"
@@ -53,23 +50,23 @@
         "Cordillera",
         "Cordillera Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cordillera"
     ],
     "name:fre_x_variant":[
         "province de Cordillera"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e0\u10d3\u10d8\u10da\u10d8\u10d4\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Cordillera"
-    ],
     "name:ita_x_preferred":[
         "provincia di Cordillera"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e0\u10d3\u10d8\u10da\u10d8\u10d4\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:lit_x_preferred":[
         "Kordiljeros provincija"
+    ],
+    "name:nld_x_preferred":[
+        "Cordillera"
     ],
     "name:nob_x_preferred":[
         "Provinsen Cordillera"
@@ -97,6 +94,9 @@
     ],
     "name:war_x_preferred":[
         "Cordillera"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u8fea\u52d2\u62c9\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":1092009601,
-    "wof:lastmodified":1555047042,
+    "wof:lastmodified":1561840549,
     "wof:name":"Cordillera",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

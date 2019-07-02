@@ -23,13 +23,7 @@
     "name:ceb_x_preferred":[
         "Apolo"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u6ce2\u6d1b"
-    ],
     "name:deu_x_preferred":[
-        "Apolo"
-    ],
-    "name:dut_x_preferred":[
         "Apolo"
     ],
     "name:eng_x_preferred":[
@@ -38,17 +32,14 @@
     "name:fra_x_preferred":[
         "Apolo"
     ],
-    "name:fre_x_preferred":[
-        "Apolo"
-    ],
-    "name:ger_x_preferred":[
-        "Apolo"
-    ],
     "name:ita_x_preferred":[
         "Apolo"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30dd\u30ed"
+    ],
+    "name:nld_x_preferred":[
+        "Apolo"
     ],
     "name:pol_x_preferred":[
         "Apolo"
@@ -212,7 +203,7 @@
         }
     ],
     "wof:id":421202729,
-    "wof:lastmodified":1534379235,
+    "wof:lastmodified":1561840565,
     "wof:name":"Apolo",
     "wof:parent_id":421187093,
     "wof:placetype":"locality",

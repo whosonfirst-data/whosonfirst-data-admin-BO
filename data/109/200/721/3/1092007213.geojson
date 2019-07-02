@@ -43,11 +43,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Ingavi"
     ],
-    "name:chi_x_preferred":[
-        "\u56e0\u52a0\u7dad\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Ingavi"
+    "name:deu_x_preferred":[
+        "Provinz Ingavi"
     ],
     "name:eng_x_preferred":[
         "Ingavi"
@@ -56,23 +53,23 @@
         "Ingavi",
         "Ingavi Province"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ingavi"
     ],
     "name:fre_x_variant":[
         "province d'Ingavi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10dc\u10d2\u10d0\u10d5\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Ingavi"
     ],
     "name:glg_x_preferred":[
         "Provincia de Ingavi"
     ],
     "name:ita_x_preferred":[
         "provincia di Ingavi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10dc\u10d2\u10d0\u10d5\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Ingavi"
     ],
     "name:nob_x_preferred":[
         "Provinsen Ingavi"
@@ -97,6 +94,9 @@
     ],
     "name:war_x_preferred":[
         "Ingavi"
+    ],
+    "name:zho_x_preferred":[
+        "\u56e0\u52a0\u7dad\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":1092007213,
-    "wof:lastmodified":1555047027,
+    "wof:lastmodified":1561840555,
     "wof:name":"Ingavi",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

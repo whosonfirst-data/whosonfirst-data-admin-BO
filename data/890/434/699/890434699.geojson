@@ -18,19 +18,16 @@
     "name:aym_x_preferred":[
         "T'utura"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u6258\u62c9"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Totora"
     ],
     "name:eng_x_preferred":[
         "Totora"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Totora"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Totora"
     ],
     "name:nob_x_preferred":[
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":890434699,
-    "wof:lastmodified":1527792948,
+    "wof:lastmodified":1561840575,
     "wof:name":"Totora",
     "wof:parent_id":1092006537,
     "wof:placetype":"locality",

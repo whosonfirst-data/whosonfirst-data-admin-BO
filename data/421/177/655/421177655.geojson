@@ -41,14 +41,8 @@
     "name:ceb_x_preferred":[
         "Provincia General Federico Rom\u00e1n"
     ],
-    "name:chi_x_preferred":[
-        "\u8cbb\u5fb7\u91cc\u79d1\u7f85\u66fc\u7701"
-    ],
     "name:deu_x_preferred":[
         "Provinz Federico Rom\u00e1n"
-    ],
-    "name:dut_x_preferred":[
-        "Federico Rom\u00e1n"
     ],
     "name:eng_x_preferred":[
         "Federico Roman"
@@ -61,17 +55,11 @@
     "name:fra_x_preferred":[
         "Province de Federico Rom\u00e1n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Federico Rom\u00e1n"
     ],
     "name:fre_x_variant":[
         "province de Federico Rom\u00e1n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d4\u10d3\u10d4\u10e0\u10d8\u10d9\u10dd-\u10e0\u10dd\u10db\u10d0\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Federico Rom\u00e1n"
     ],
     "name:ita_x_preferred":[
         "Provincia di Federico Rom\u00e1n"
@@ -105,6 +93,9 @@
     ],
     "name:war_x_preferred":[
         "Federico Rom\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cbb\u5fb7\u91cc\u79d1\u7f85\u66fc\u7701"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -154,7 +145,7 @@
         }
     ],
     "wof:id":421177655,
-    "wof:lastmodified":1555047009,
+    "wof:lastmodified":1561840572,
     "wof:name":"Federico Roman",
     "wof:parent_id":85669417,
     "wof:placetype":"county",

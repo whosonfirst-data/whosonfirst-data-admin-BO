@@ -47,14 +47,11 @@
     "name:ceb_x_preferred":[
         "Provincia Modesto Omiste"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u5fb7\u65af\u6258\u5967\u7c73\u65af\u7279\u7701"
-    ],
     "name:deu_x_preferred":[
         "Provinz Modesto Omiste"
     ],
-    "name:dut_x_preferred":[
-        "Villaz\u00f3n"
+    "name:deu_x_variant":[
+        "Municipio Villaz\u00f3n"
     ],
     "name:eng_x_preferred":[
         "Modesto Omiste"
@@ -66,17 +63,11 @@
     "name:fra_x_preferred":[
         "Province de Modesto Omiste"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Modesto Omiste"
     ],
     "name:fre_x_variant":[
         "province de Modesto Omiste"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10d3\u10d4\u10e1\u10e2\u10dd-\u10dd\u10db\u10d8\u10e1\u10e2\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Municipio Villaz\u00f3n"
     ],
     "name:ita_x_preferred":[
         "Provincia di Modesto Omiste"
@@ -86,6 +77,9 @@
     ],
     "name:nld_x_preferred":[
         "Modesto Omiste"
+    ],
+    "name:nld_x_variant":[
+        "Villaz\u00f3n"
     ],
     "name:nob_x_preferred":[
         "Provinsen Modesto Omiste"
@@ -177,7 +171,7 @@
         }
     ],
     "wof:id":421177661,
-    "wof:lastmodified":1555047011,
+    "wof:lastmodified":1561840571,
     "wof:name":"Modesto Omiste",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

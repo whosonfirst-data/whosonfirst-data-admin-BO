@@ -40,11 +40,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Marb\u00e1n"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u723e\u73ed\u7701"
-    ],
-    "name:dut_x_preferred":[
-        "Marb\u00e1n"
+    "name:deu_x_preferred":[
+        "Provinz Marb\u00e1n"
     ],
     "name:eng_x_preferred":[
         "Marban"
@@ -57,17 +54,11 @@
     "name:epo_x_preferred":[
         "Provinco Marb\u00e1n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Marb\u00e1n"
     ],
     "name:fre_x_variant":[
         "province de Marb\u00e1n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e0\u10d1\u10d0\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Marb\u00e1n"
     ],
     "name:hun_x_preferred":[
         "Marb\u00e1n"
@@ -75,8 +66,14 @@
     "name:ita_x_preferred":[
         "provincia di Marb\u00e1n"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10d1\u10d0\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:nep_x_preferred":[
         "\u092e\u093e\u0930\u094d\u092c\u093e\u0928 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:nld_x_preferred":[
+        "Marb\u00e1n"
     ],
     "name:nob_x_preferred":[
         "Provinsen Marb\u00e1n"
@@ -117,6 +114,9 @@
     "name:xmf_x_preferred":[
         "\u10db\u10d0\u10e0\u10d1\u10d0\u10dc\u10d8\u10e8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
+    "name:zho_x_preferred":[
+        "\u99ac\u723e\u73ed\u7701"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -141,7 +141,7 @@
         }
     ],
     "wof:id":1092005805,
-    "wof:lastmodified":1555047019,
+    "wof:lastmodified":1561840547,
     "wof:name":"Marban",
     "wof:parent_id":85669403,
     "wof:placetype":"county",
