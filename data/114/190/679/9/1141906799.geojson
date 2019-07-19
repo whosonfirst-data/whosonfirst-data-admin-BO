@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Samaipata"
     ],
+    "name:ceb_x_preferred":[
+        "Samaipata"
+    ],
     "name:deu_x_preferred":[
         "Samaipata"
     ],
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":1141906799,
-    "wof:lastmodified":1561840589,
+    "wof:lastmodified":1563576043,
     "wof:name":"Samaipata",
     "wof:parent_id":1092009661,
     "wof:placetype":"locality",

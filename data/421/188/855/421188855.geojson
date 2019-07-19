@@ -51,9 +51,11 @@
         "Yamparaez"
     ],
     "name:eng_x_variant":[
-        "Yamparaez",
         "Yampar\u00e1ez",
         "Yampar\u00e1ez Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06cc\u0627\u0645\u067e\u0627\u0631\u0627\u0626\u0632"
     ],
     "name:fra_x_preferred":[
         "Province de Yampar\u00e1ez"
@@ -69,6 +71,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d8\u10d0\u10db\u10de\u10d0\u10e0\u10d0\u10d4\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Yampar\u00e1ez S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Yampar\u00e1ez"
@@ -171,7 +176,7 @@
         }
     ],
     "wof:id":421188855,
-    "wof:lastmodified":1561840567,
+    "wof:lastmodified":1563575058,
     "wof:name":"Yamparaez",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

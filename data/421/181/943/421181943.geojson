@@ -107,6 +107,9 @@
     "name:spa_x_preferred":[
         "Villa Montes"
     ],
+    "name:spa_x_variant":[
+        "Villamontes"
+    ],
     "name:swe_x_preferred":[
         "Villamontes"
     ],
@@ -280,7 +283,7 @@
         }
     ],
     "wof:id":421181943,
-    "wof:lastmodified":1561840568,
+    "wof:lastmodified":1563575071,
     "wof:name":"Villa Montes",
     "wof:parent_id":421169235,
     "wof:placetype":"locality",

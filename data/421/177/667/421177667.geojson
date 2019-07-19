@@ -70,6 +70,9 @@
     "name:jpn_x_preferred":[
         "\u30da\u30c9\u30ed\u30fb\u30c9\u30df\u30f3\u30b4\u30fb\u30e0\u30ea\u30fc\u30ea\u30e7"
     ],
+    "name:jpn_x_variant":[
+        "\u30da\u30c9\u30ed\u30fb\u30c9\u30df\u30f3\u30b4\u30fb\u30e0\u30ea\u30ea\u30e7\u90e1"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10d4\u10d3\u10e0\u10dd-\u10d3\u10dd\u10db\u10d8\u10dc\u10d2\u10dd-\u10db\u10e3\u10e0\u10d8\u10da\u10d8\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":421177667,
-    "wof:lastmodified":1561840569,
+    "wof:lastmodified":1563575087,
     "wof:name":"Murillo",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

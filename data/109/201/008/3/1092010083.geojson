@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Ignacio Warnes"
     ],
+    "name:ceb_x_preferred":[
+        "Provincia Warnes"
+    ],
     "name:deu_x_preferred":[
         "Provinz Ignacio Warnes"
     ],
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1092010083,
-    "wof:lastmodified":1561840559,
+    "wof:lastmodified":1563574904,
     "wof:name":"Warnes",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

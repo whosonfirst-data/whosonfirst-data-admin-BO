@@ -49,11 +49,13 @@
     "name:eng_x_variant":[
         "General Jose Ballivi",
         "Jos\u00e9 Ballivi\u00e1n",
-        "Jos\u00e9 Ballivi\u00e1n Province",
-        "General Jose Balliv"
+        "Jos\u00e9 Ballivi\u00e1n Province"
     ],
     "name:epo_x_preferred":[
         "Provinco Jos\u00e9 Ballivi\u00e1n"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062e\u0648\u0632\u0647 \u0628\u0627\u0644\u06cc\u0648\u06cc\u0627\u0646"
     ],
     "name:fra_x_preferred":[
         "Jos\u00e9 Ballivi\u00e1n"
@@ -69,6 +71,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10ee\u10dd\u10e1\u10d4-\u10d1\u10d0\u10da\u10d8\u10d5\u10d8\u10d0\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Jos\u00e9 Ballivi\u00e1n S\u00e9ng"
     ],
     "name:nep_x_preferred":[
         "\u091c\u094b\u0938 \u092c\u093e\u0932\u093f\u092d\u093f\u092f\u0928 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
@@ -148,7 +153,7 @@
         }
     ],
     "wof:id":1092005669,
-    "wof:lastmodified":1561840539,
+    "wof:lastmodified":1563574854,
     "wof:name":"General Jose Balliv",
     "wof:parent_id":85669403,
     "wof:placetype":"county",

@@ -15,6 +15,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lahuachaca"
+    ],
     "name:deu_x_preferred":[
         "Lahuachaca"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890441683,
-    "wof:lastmodified":1561840574,
+    "wof:lastmodified":1563575107,
     "wof:name":"Lahuachaca",
     "wof:parent_id":1092006923,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:ita_x_preferred":[
         "Poop\u00f3"
     ],
+    "name:nan_x_preferred":[
+        "Poop\u00f3 Chh\u012b"
+    ],
     "name:nld_x_preferred":[
         "Poop\u00f3"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421201807,
-    "wof:lastmodified":1561840569,
+    "wof:lastmodified":1563575084,
     "wof:name":"Poop\u00f3",
     "wof:parent_id":1092007991,
     "wof:placetype":"locality",

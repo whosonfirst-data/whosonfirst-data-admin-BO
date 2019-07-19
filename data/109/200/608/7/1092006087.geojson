@@ -49,7 +49,10 @@
     "name:eng_x_variant":[
         "Sur Cinti",
         "Sud Cinti",
-        "Sud Cinti"
+        "Sud Cinti Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0648\u062f \u0633\u06cc\u0646\u062a\u06cc"
     ],
     "name:fra_x_preferred":[
         "Sud Cinti"
@@ -62,6 +65,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10e3\u10d3-\u10e1\u10d8\u10dc\u10e2\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Sud Cinti S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Sud Cinti"
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1092006087,
-    "wof:lastmodified":1561840552,
+    "wof:lastmodified":1563574890,
     "wof:name":"Sud Cinti",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

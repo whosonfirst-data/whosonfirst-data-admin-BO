@@ -18,6 +18,9 @@
     "name:aym_x_preferred":[
         "T'utura"
     ],
+    "name:ceb_x_preferred":[
+        "Totora"
+    ],
     "name:deu_x_preferred":[
         "Totora"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:que_x_preferred":[
         "Tutura"
+    ],
+    "name:que_x_variant":[
+        "T'utura"
     ],
     "name:sco_x_preferred":[
         "Totora"
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890434699,
-    "wof:lastmodified":1561840575,
+    "wof:lastmodified":1563575128,
     "wof:name":"Totora",
     "wof:parent_id":1092006537,
     "wof:placetype":"locality",

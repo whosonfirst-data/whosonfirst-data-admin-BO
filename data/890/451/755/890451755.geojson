@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0631\u064a\u062e\u0627\u060c \u0628\u0648\u0644\u064a\u0641\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0627\u0631\u064a\u062e\u0627"
+    ],
     "name:aym_x_preferred":[
         "Tarixa"
     ],
@@ -72,6 +75,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091f\u093e\u0930\u093f\u092f\u093e"
+    ],
+    "name:hin_x_variant":[
+        "\u0924\u093e\u0930\u093f\u0939\u093e"
     ],
     "name:ind_x_preferred":[
         "Tarija"
@@ -159,6 +165,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e15\u0e32\u0e23\u0e34\u0e04\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e32\u0e23\u0e34\u0e06\u0e32"
     ],
     "name:tur_x_preferred":[
         "Tarija"
@@ -314,7 +323,7 @@
         }
     ],
     "wof:id":890451755,
-    "wof:lastmodified":1561840575,
+    "wof:lastmodified":1563575126,
     "wof:name":"Tarija",
     "wof:parent_id":421169233,
     "wof:placetype":"locality",

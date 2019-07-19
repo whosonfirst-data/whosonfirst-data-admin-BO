@@ -47,9 +47,11 @@
         "Pantaleon Dalence"
     ],
     "name:eng_x_variant":[
-        "Pantaleon Dalence",
         "Pantale\u00f3n Dalence",
         "Pantale\u00f3n Dalence Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0627\u0646\u062a\u0627\u0644\u0626\u0648\u0646 \u062f\u0627\u0644\u0646\u0633"
     ],
     "name:fra_x_preferred":[
         "Pantal\u00e9on Dalence"
@@ -62,6 +64,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d0\u10dc\u10e2\u10d0\u10da\u10d4\u10dd\u10dc-\u10d3\u10d0\u10da\u10d4\u10dc\u10e1\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Pantale\u00f3n Dalence S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Pantal\u00e9on Dalence"
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":1092007979,
-    "wof:lastmodified":1561840535,
+    "wof:lastmodified":1563574845,
     "wof:name":"Pantaleon Dalence",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

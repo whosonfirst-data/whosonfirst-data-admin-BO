@@ -44,6 +44,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Loayza"
     ],
+    "name:ceb_x_preferred":[
+        "Provincia Loayza"
+    ],
     "name:deu_x_preferred":[
         "Provinz Loayza"
     ],
@@ -51,8 +54,10 @@
         "Loayza"
     ],
     "name:eng_x_variant":[
-        "Loayza",
         "Loayza Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0644\u0648\u0622\u06cc\u0632\u0627"
     ],
     "name:fra_x_preferred":[
         "Loayza"
@@ -166,7 +171,7 @@
         }
     ],
     "wof:id":421182435,
-    "wof:lastmodified":1561840573,
+    "wof:lastmodified":1563575097,
     "wof:name":"Loayza",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

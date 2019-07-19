@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Oruro"
     ],
+    "name:ceb_x_preferred":[
+        "Oruro"
+    ],
     "name:ces_x_preferred":[
         "Oruro"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab0\u0ac2\u0ab0\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05d5\u05e8\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0913\u0930\u0941\u0930\u094b"
@@ -166,6 +172,9 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e2d\u0e23\u0e38\u0e42\u0e23"
     ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e2d\u0e23\u0e39\u0e42\u0e23"
+    ],
     "name:tur_x_preferred":[
         "Oruro"
     ],
@@ -174,6 +183,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0631\u0648\u0631\u0648\u060c \u0628\u0648\u0644\u06cc\u0648\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0648\u0631\u0648\u0631\u0648"
     ],
     "name:vie_x_preferred":[
         "Oruro"
@@ -232,7 +244,7 @@
         }
     ],
     "wof:id":421186017,
-    "wof:lastmodified":1561840567,
+    "wof:lastmodified":1563575068,
     "wof:name":"Oruro",
     "wof:parent_id":421187927,
     "wof:placetype":"locality",

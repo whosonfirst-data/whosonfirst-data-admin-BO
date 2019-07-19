@@ -43,6 +43,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Pacajes"
     ],
+    "name:ceb_x_preferred":[
+        "Provincia Pacajes"
+    ],
     "name:deu_x_preferred":[
         "Provinz Pacajes"
     ],
@@ -50,9 +53,11 @@
         "General Jose Manuel"
     ],
     "name:eng_x_variant":[
-        "General Jose Manuel",
         "Pacajes",
-        "General Jose Manuel"
+        "Pacajes Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0627\u06a9\u0627\u06cc\u0633"
     ],
     "name:fra_x_preferred":[
         "Pacajes"
@@ -68,6 +73,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d0\u10d9\u10d0\u10ee\u10d4\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Pacajes S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Pacajes"
@@ -120,7 +128,7 @@
         }
     ],
     "wof:id":1092007133,
-    "wof:lastmodified":1561840545,
+    "wof:lastmodified":1563574869,
     "wof:name":"General Jose Manuel",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

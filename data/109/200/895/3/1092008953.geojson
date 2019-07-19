@@ -52,8 +52,10 @@
     "name:eng_x_variant":[
         "General Bernardino B",
         "Bernardino Bilbao",
-        "Bernardino Bilbao Province",
-        "General Bernardino"
+        "Bernardino Bilbao Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0631\u0646\u0627\u0631\u062f\u06cc\u0646\u0648 \u0628\u06cc\u0644\u0628\u0627\u0626\u0648"
     ],
     "name:fra_x_preferred":[
         "Bernardino Bilbao"
@@ -66,6 +68,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d4\u10e0\u10dc\u10d0\u10e0\u10d3\u10d8\u10dc\u10dd-\u10d1\u10d8\u10da\u10d1\u10d0\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Bernardino Bilbao S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Bernardino Bilbao"
@@ -133,7 +138,7 @@
         }
     ],
     "wof:id":1092008953,
-    "wof:lastmodified":1561840543,
+    "wof:lastmodified":1563574864,
     "wof:name":"General Bernardino",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

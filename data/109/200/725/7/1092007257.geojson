@@ -43,6 +43,12 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Inquisivi"
     ],
+    "name:cat_x_variant":[
+        "prov\u00edncia d'Inquisivi"
+    ],
+    "name:ceb_x_preferred":[
+        "Provincia Inquisivi"
+    ],
     "name:deu_x_preferred":[
         "Provinz Inquisivi"
     ],
@@ -50,8 +56,10 @@
         "Inquisivi"
     ],
     "name:eng_x_variant":[
-        "Inquisivi",
         "Inquisivi Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u06cc\u0646\u06a9\u0648\u0626\u06cc\u0633\u06cc\u0648\u06cc"
     ],
     "name:fra_x_preferred":[
         "Inquisivi"
@@ -67,6 +75,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d8\u10dc\u10d9\u10d8\u10e1\u10d8\u10d5\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Inquisivi S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Inquisivi"
@@ -134,7 +145,7 @@
         }
     ],
     "wof:id":1092007257,
-    "wof:lastmodified":1561840544,
+    "wof:lastmodified":1563574868,
     "wof:name":"Inquisivi",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

@@ -47,9 +47,11 @@
         "Sur Chichas"
     ],
     "name:eng_x_variant":[
-        "Sur Chichas",
         "Sud Chichas",
         "Sud Chichas Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0648\u062f \u0686\u06cc\u0686\u0627\u0633"
     ],
     "name:fra_x_preferred":[
         "Sud Chichas"
@@ -63,6 +65,9 @@
     "name:kat_x_preferred":[
         "\u10e1\u10e3\u10d3-\u10e9\u10d8\u10e9\u10d0\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
+    "name:nan_x_preferred":[
+        "Sud Chichas S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Sud Chichas"
     ],
@@ -74,6 +79,9 @@
     ],
     "name:que_x_preferred":[
         "Urin Chichas pruwinsya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0434-\u0427\u0438\u0447\u0430\u0441"
     ],
     "name:sco_x_preferred":[
         "Sud Chichas Province"
@@ -129,7 +137,7 @@
         }
     ],
     "wof:id":1092009203,
-    "wof:lastmodified":1561840555,
+    "wof:lastmodified":1563574896,
     "wof:name":"Sur Chichas",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

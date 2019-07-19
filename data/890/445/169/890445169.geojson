@@ -15,6 +15,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Colquiri"
+    ],
     "name:deu_x_preferred":[
         "Colquiri"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890445169,
-    "wof:lastmodified":1561840574,
+    "wof:lastmodified":1563575119,
     "wof:name":"Colquiri",
     "wof:parent_id":1092007257,
     "wof:placetype":"locality",

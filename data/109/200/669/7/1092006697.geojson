@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Mizque"
     ],
+    "name:ceb_x_preferred":[
+        "Provincia Mizque"
+    ],
     "name:deu_x_preferred":[
         "Provinz Mizque"
     ],
@@ -47,8 +50,10 @@
         "Mizque"
     ],
     "name:eng_x_variant":[
-        "Mizque",
         "Mizque Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u06cc\u0632\u06a9\u0647"
     ],
     "name:fra_x_preferred":[
         "Mizque"
@@ -61,6 +66,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d8\u10e1\u10d9\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Mizque S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Mizque"
@@ -131,7 +139,7 @@
         }
     ],
     "wof:id":1092006697,
-    "wof:lastmodified":1561840543,
+    "wof:lastmodified":1563574865,
     "wof:name":"Mizque",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

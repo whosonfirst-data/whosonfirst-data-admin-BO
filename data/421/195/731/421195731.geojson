@@ -19,10 +19,22 @@
     "name:deu_x_preferred":[
         "Calamarca"
     ],
+    "name:eng_x_preferred":[
+        "Calamarca"
+    ],
+    "name:fra_x_preferred":[
+        "Calamarca"
+    ],
+    "name:nld_x_preferred":[
+        "Calamarca"
+    ],
     "name:que_x_preferred":[
         "Qalamarka"
     ],
     "name:sco_x_preferred":[
+        "Calamarca"
+    ],
+    "name:spa_x_preferred":[
         "Calamarca"
     ],
     "name:swe_x_preferred":[
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":421195731,
-    "wof:lastmodified":1527716118,
+    "wof:lastmodified":1563575021,
     "wof:name":"Calamarca",
     "wof:parent_id":1092006923,
     "wof:placetype":"locality",

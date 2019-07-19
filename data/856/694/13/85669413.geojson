@@ -52,11 +52,17 @@
     "name:eng_x_preferred":[
         "Oruro"
     ],
+    "name:eng_x_variant":[
+        "Oruro Department"
+    ],
     "name:epo_x_preferred":[
         "Oruro"
     ],
     "name:eus_x_preferred":[
         "Oruroko departamendua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0648\u0631\u0648\u0631\u0648"
     ],
     "name:fin_x_preferred":[
         "Oruron departementti"
@@ -66,6 +72,9 @@
     ],
     "name:fra_x_variant":[
         "d\u00e9partement d'Oruro"
+    ],
+    "name:frr_x_preferred":[
+        "Oruro"
     ],
     "name:glg_x_preferred":[
         "Departamento de Oruro"
@@ -100,6 +109,12 @@
     "name:kor_x_preferred":[
         "\uc624\ub8e8\ub85c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc624\ub8e8\ub85c\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Oruro"
+    ],
     "name:lav_x_preferred":[
         "Oruro departaments"
     ],
@@ -117,6 +132,9 @@
     ],
     "name:nah_x_preferred":[
         "Tl\u0101lxeliuhc\u0101y\u014dtl Oruro"
+    ],
+    "name:nan_x_preferred":[
+        "Oruro Chiu"
     ],
     "name:nld_x_preferred":[
         "Oruro"
@@ -323,7 +341,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1561840505,
+    "wof:lastmodified":1563573170,
     "wof:name":"Oruro",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

@@ -58,6 +58,9 @@
     "name:eng_x_preferred":[
         "Potos\u00ed"
     ],
+    "name:eng_x_variant":[
+        "Potos\u00ed Department"
+    ],
     "name:epo_x_preferred":[
         "Potosiio"
     ],
@@ -67,6 +70,9 @@
     "name:eus_x_variant":[
         "Potosiko departamendua"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u067e\u0648\u062a\u0648\u0633\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Potos\u00ed"
     ],
@@ -75,6 +81,9 @@
     ],
     "name:fra_x_variant":[
         "d\u00e9partement de Potos\u00ed"
+    ],
+    "name:frr_x_preferred":[
+        "Potos\u00ed"
     ],
     "name:glg_x_preferred":[
         "Departamento de Potos\u00ed"
@@ -109,6 +118,12 @@
     "name:kor_x_preferred":[
         "\ud3ec\ud1a0\uc2dc \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud3ec\ud1a0\uc2dc\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Potos\u00ed"
+    ],
     "name:lav_x_preferred":[
         "Potosi departaments"
     ],
@@ -126,6 +141,9 @@
     ],
     "name:nah_x_preferred":[
         "Tl\u0101lxeliuhc\u0101y\u014dtl Potos\u00ed"
+    ],
+    "name:nan_x_preferred":[
+        "Potos\u00ed Chiu"
     ],
     "name:nld_x_preferred":[
         "Potos\u00ed"
@@ -184,6 +202,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e1b\u0e42\u0e15\u0e2a\u0e44\u0e2d \u0e14\u0e35\u0e1e\u0e32\u0e17\u0e40\u0e21\u0e49\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e42\u0e1b\u0e42\u0e15\u0e0b\u0e35"
     ],
     "name:tur_x_preferred":[
         "Potosi Departman\u0131"
@@ -339,7 +360,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1561840502,
+    "wof:lastmodified":1563573162,
     "wof:name":"Potos\u00ed",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

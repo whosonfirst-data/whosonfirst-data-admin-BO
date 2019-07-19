@@ -43,6 +43,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Rafael Bustillo"
     ],
+    "name:ceb_x_preferred":[
+        "Provincia Rafael Bustillos"
+    ],
     "name:deu_x_preferred":[
         "Provinz Rafael Bustillo"
     ],
@@ -50,8 +53,10 @@
         "Rafael Bustillo"
     ],
     "name:eng_x_variant":[
-        "Rafael Bustillo",
         "Rafael Bustillo Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0631\u0627\u0641\u0627\u0626\u0644 \u0628\u0648\u0633\u062a\u06cc\u0644\u0648"
     ],
     "name:fra_x_preferred":[
         "Rafael Bustillo"
@@ -64,6 +69,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e0\u10d0\u10e4\u10d0\u10d4\u10da-\u10d1\u10e3\u10e1\u10e2\u10d8\u10da\u10d8\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Rafael Bustillo S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Rafael Bustillo"
@@ -131,7 +139,7 @@
         }
     ],
     "wof:id":1092009153,
-    "wof:lastmodified":1561840545,
+    "wof:lastmodified":1563574869,
     "wof:name":"Rafael Bustillo",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

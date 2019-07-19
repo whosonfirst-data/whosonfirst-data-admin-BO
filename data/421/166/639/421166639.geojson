@@ -44,6 +44,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Nor Chichas"
     ],
+    "name:ceb_x_preferred":[
+        "Provincia Nor Chichas"
+    ],
     "name:deu_x_preferred":[
         "Provinz Nor Chichas"
     ],
@@ -51,8 +54,10 @@
         "Nor Chichas"
     ],
     "name:eng_x_variant":[
-        "Nor Chichas",
         "Nor Chichas Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0646\u0648\u0631 \u0686\u06cc\u0686\u0627\u0633"
     ],
     "name:fra_x_preferred":[
         "Nor Chichas"
@@ -63,8 +68,14 @@
     "name:ita_x_preferred":[
         "provincia di Nor Chichas"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30eb\u30fb\u30c1\u30c1\u30e3\u30b9\u90e1"
+    ],
     "name:kat_x_preferred":[
         "\u10dc\u10dd\u10e0-\u10e9\u10d8\u10e9\u10d0\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Nor Chichas S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Nor Chichas"
@@ -160,7 +171,7 @@
         }
     ],
     "wof:id":421166639,
-    "wof:lastmodified":1561840562,
+    "wof:lastmodified":1563575019,
     "wof:name":"Nor Chichas",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

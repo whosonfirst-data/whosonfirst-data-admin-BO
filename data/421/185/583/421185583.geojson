@@ -31,11 +31,17 @@
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c0\u03b1\u03ba\u03b1\u03bc\u03c0\u03ac\u03bd\u03b1"
     ],
+    "name:eng_x_preferred":[
+        "Copacabana"
+    ],
     "name:fin_x_preferred":[
         "Copacabana"
     ],
     "name:fra_x_preferred":[
         "Copacabana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30d1\u30ab\u30d0\u30fc\u30ca"
     ],
     "name:kor_x_preferred":[
         "\ucf54\ud30c\uce74\ubc14\ub098"
@@ -46,7 +52,13 @@
     "name:nld_x_preferred":[
         "Copacabana"
     ],
+    "name:nob_x_preferred":[
+        "Copacabana"
+    ],
     "name:nor_x_preferred":[
+        "Copacabana"
+    ],
+    "name:oci_x_preferred":[
         "Copacabana"
     ],
     "name:pol_x_preferred":[
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":421185583,
-    "wof:lastmodified":1527726512,
+    "wof:lastmodified":1563575105,
     "wof:name":"Copacabana",
     "wof:parent_id":421187909,
     "wof:placetype":"locality",

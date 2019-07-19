@@ -12,7 +12,16 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Aeropuertu Teniente Jorge Henrich Arauz"
+    ],
     "name:ceb_x_preferred":[
+        "Teniente Jorge Henrich Arauz Airport"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Trinidad"
+    ],
+    "name:eng_x_preferred":[
         "Teniente Jorge Henrich Arauz Airport"
     ],
     "name:fas_x_preferred":[
@@ -20,6 +29,12 @@
     ],
     "name:fra_x_preferred":[
         "A\u00e9roport Teniente Jorge Henrich Arauz"
+    ],
+    "name:fra_x_variant":[
+        "a\u00e9roport Teniente Jorge Henrich Arauz"
+    ],
+    "name:ita_x_preferred":[
+        "aeroporto Teniente Jorge Henrich Arauz"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Jorge Henrich"
@@ -29,6 +44,9 @@
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Teniente Jorge Henrich Arauz"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Teniente Jorge Henrich Arauz"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Teniente Jorge Henrich Arauz"
@@ -76,7 +94,7 @@
         }
     ],
     "wof:id":102543893,
-    "wof:lastmodified":1543792155,
+    "wof:lastmodified":1563572776,
     "wof:name":"Jorge Henrich Arauz Airport",
     "wof:parent_id":85669403,
     "wof:placetype":"campus",

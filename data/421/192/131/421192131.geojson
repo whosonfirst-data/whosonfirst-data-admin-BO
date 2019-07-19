@@ -22,10 +22,22 @@
     "name:deu_x_preferred":[
         "Villa Tunari"
     ],
+    "name:eng_x_preferred":[
+        "Villa Tunari"
+    ],
     "name:fra_x_preferred":[
         "Villa Tunari"
     ],
+    "name:fra_x_variant":[
+        "villa Tunari"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Tunari"
+    ],
     "name:nld_x_preferred":[
+        "Villa Tunari"
+    ],
+    "name:nob_x_preferred":[
         "Villa Tunari"
     ],
     "name:nor_x_preferred":[
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":421192131,
-    "wof:lastmodified":1527716113,
+    "wof:lastmodified":1563575020,
     "wof:name":"Villa Tunari",
     "wof:parent_id":421172489,
     "wof:placetype":"locality",

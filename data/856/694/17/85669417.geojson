@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0628\u0627\u0646\u062f\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Pando"
+    ],
     "name:aym_x_preferred":[
         "Pandu jach'a suyu"
     ],
@@ -52,11 +55,17 @@
     "name:eng_x_preferred":[
         "Pando"
     ],
+    "name:eng_x_variant":[
+        "Pando Department"
+    ],
     "name:epo_x_preferred":[
         "Pando"
     ],
     "name:eus_x_preferred":[
         "Pando"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u067e\u0627\u0646\u062f\u0648"
     ],
     "name:fin_x_preferred":[
         "Pando"
@@ -66,6 +75,9 @@
     ],
     "name:fra_x_variant":[
         "d\u00e9partement de Pando"
+    ],
+    "name:frr_x_preferred":[
+        "Pando"
     ],
     "name:glg_x_preferred":[
         "Departamento de Pando"
@@ -100,6 +112,12 @@
     "name:kor_x_preferred":[
         "\ud310\ub3c4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud310\ub3c4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Pando"
+    ],
     "name:lav_x_preferred":[
         "Pando departaments"
     ],
@@ -117,6 +135,9 @@
     ],
     "name:nah_x_preferred":[
         "Pando"
+    ],
+    "name:nan_x_preferred":[
+        "Pando Chiu"
     ],
     "name:nld_x_preferred":[
         "Pando"
@@ -171,6 +192,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1e\u0e32\u0e19\u0e42\u0e14 \u0e14\u0e35\u0e1e\u0e32\u0e23\u0e4c\u0e17\u0e40\u0e21\u0e49\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e1b\u0e31\u0e19\u0e42\u0e14"
     ],
     "name:tur_x_preferred":[
         "Pando Departman\u0131"
@@ -323,7 +347,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1561840501,
+    "wof:lastmodified":1563573159,
     "wof:name":"Pando",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

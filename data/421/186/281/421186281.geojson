@@ -19,6 +19,15 @@
     "name:deu_x_preferred":[
         "Sipe Sipe"
     ],
+    "name:eng_x_preferred":[
+        "Sipe Sipe"
+    ],
+    "name:fra_x_preferred":[
+        "Sipe Sipe"
+    ],
+    "name:nld_x_preferred":[
+        "Sipe Sipe"
+    ],
     "name:pol_x_preferred":[
         "Sipe Sipe"
     ],
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":421186281,
-    "wof:lastmodified":1527716312,
+    "wof:lastmodified":1563575067,
     "wof:name":"Sipe Sipe",
     "wof:parent_id":421197123,
     "wof:placetype":"locality",

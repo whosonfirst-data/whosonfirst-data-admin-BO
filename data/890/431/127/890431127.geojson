@@ -15,6 +15,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cotoca"
+    ],
     "name:deu_x_preferred":[
         "Cotoca"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":890431127,
-    "wof:lastmodified":1561840574,
+    "wof:lastmodified":1563575111,
     "wof:name":"Cotoca",
     "wof:parent_id":421187923,
     "wof:placetype":"locality",

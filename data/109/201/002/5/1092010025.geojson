@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Jos\u00e9 Miguel de Velasco"
     ],
+    "name:ceb_x_preferred":[
+        "Provincia Velasco"
+    ],
     "name:deu_x_preferred":[
         "Provinz Jos\u00e9 Miguel de Velasco"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1092010025,
-    "wof:lastmodified":1561840559,
+    "wof:lastmodified":1563574906,
     "wof:name":"Velasco",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

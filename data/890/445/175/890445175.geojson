@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u044e\u0438\u0431\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Boyuibe"
+    ],
     "name:deu_x_preferred":[
         "Boyuibe"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890445175,
-    "wof:lastmodified":1561840574,
+    "wof:lastmodified":1563575121,
     "wof:name":"Boyuibe",
     "wof:parent_id":1092009601,
     "wof:placetype":"locality",

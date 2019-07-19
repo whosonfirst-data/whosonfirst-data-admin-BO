@@ -51,9 +51,11 @@
         "Manuel M. Caballero"
     ],
     "name:eng_x_variant":[
-        "Manuel M. Caballero",
         "Manuel Mar\u00eda Caballero",
         "Manuel Mar\u00eda Caballero Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0627\u0646\u0648\u0626\u0644 \u0645\u0627\u0631\u06cc\u0627 \u06a9\u0627\u0628\u0627\u0644\u0631\u0648"
     ],
     "name:fra_x_preferred":[
         "Province de Manuel Mar\u00eda Caballero"
@@ -69,6 +71,9 @@
     ],
     "name:lit_x_preferred":[
         "Manuelio Marijos Kabaljero provincija"
+    ],
+    "name:nan_x_preferred":[
+        "Manuel Mar\u00eda Caballero S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Manuel Mar\u00eda Caballero"
@@ -163,7 +168,7 @@
         }
     ],
     "wof:id":421186229,
-    "wof:lastmodified":1561840567,
+    "wof:lastmodified":1563575065,
     "wof:name":"Manuel M. Caballero",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

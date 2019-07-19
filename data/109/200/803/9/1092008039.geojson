@@ -40,6 +40,12 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Atahuallpa"
     ],
+    "name:cat_x_variant":[
+        "prov\u00edncia d'Atahuallpa"
+    ],
+    "name:ceb_x_preferred":[
+        "Provincia Atahuallpa"
+    ],
     "name:deu_x_preferred":[
         "Provinz Sabaya"
     ],
@@ -47,9 +53,11 @@
         "Sabaya"
     ],
     "name:eng_x_variant":[
-        "Sabaya",
         "Atahuallpa",
-        "Sabaya"
+        "Sabaya Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0628\u0627\u06cc\u0627"
     ],
     "name:fra_x_preferred":[
         "Atahuallpa"
@@ -63,11 +71,17 @@
     "name:kat_x_preferred":[
         "\u10d0\u10e2\u10d0\u10e3\u10d0\u10da\u10de\u10d0\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
+    "name:nan_x_preferred":[
+        "Atahuallpa S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Atahuallpa"
     ],
     "name:nob_x_preferred":[
         "Provinsen Atahuallpa"
+    ],
+    "name:nob_x_variant":[
+        "Sabaya"
     ],
     "name:pol_x_preferred":[
         "Sabaya"
@@ -123,7 +137,7 @@
         }
     ],
     "wof:id":1092008039,
-    "wof:lastmodified":1561840544,
+    "wof:lastmodified":1563574866,
     "wof:name":"Sabaya",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

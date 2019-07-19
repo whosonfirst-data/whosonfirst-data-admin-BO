@@ -15,6 +15,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "La B\u00e9lgica"
+    ],
     "name:deu_x_preferred":[
         "La B\u00e9lgica"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890431125,
-    "wof:lastmodified":1561840574,
+    "wof:lastmodified":1563575112,
     "wof:name":"La B\u00e9lgica",
     "wof:parent_id":1092009959,
     "wof:placetype":"locality",
