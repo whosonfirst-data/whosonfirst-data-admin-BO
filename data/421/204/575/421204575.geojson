@@ -14,6 +14,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0646\u0627\u062a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cb\u09a8\u09be\u099f\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Punata"
     ],
@@ -23,13 +29,58 @@
     "name:deu_x_preferred":[
         "Punata"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03bd\u03ac\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Punata"
+    ],
+    "name:fin_x_preferred":[
+        "Punata"
+    ],
     "name:fra_x_preferred":[
         "Punata"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0ac1\u0aa8\u0abe\u0a9f\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0941\u0928\u093e\u0924\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Punata"
+    ],
+    "name:ita_x_preferred":[
+        "Punata"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ca\u30bf"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0cc1\u0ca8\u0cbe\u0c9f\u0cbe"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10e3\u10dc\u10d0\u10e2\u10d0"
     ],
+    "name:kor_x_preferred":[
+        "\ud478\ub098\ud0c0"
+    ],
+    "name:lav_x_preferred":[
+        "Punata"
+    ],
+    "name:lit_x_preferred":[
+        "Punata"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u0942\u0928\u0924\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Punata"
+    ],
     "name:nld_x_preferred":[
+        "Punata"
+    ],
+    "name:nob_x_preferred":[
         "Punata"
     ],
     "name:nor_x_preferred":[
@@ -44,14 +95,41 @@
     "name:que_x_preferred":[
         "Punata"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043d\u0430\u0442\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dd4\u0db1\u0dcf\u0da7\u0dcf"
+    ],
     "name:spa_x_preferred":[
         "Punata"
     ],
     "name:swe_x_preferred":[
         "Punata"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc1\u0ba9\u0bbe\u0b9f\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c41\u0c28\u0c3e\u0c1f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e39\u0e19\u0e32\u0e15\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Punata"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043d\u0430\u0442\u0430"
+    ],
     "name:unk_x_variant":[
         "Ciudad Punata"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0646\u0627\u062a\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Punata"
     ],
     "name:war_x_preferred":[
         "Punata"
@@ -201,7 +279,7 @@
         }
     ],
     "wof:id":421204575,
-    "wof:lastmodified":1527716182,
+    "wof:lastmodified":1563575037,
     "wof:name":"Punata",
     "wof:parent_id":1092006749,
     "wof:placetype":"locality",

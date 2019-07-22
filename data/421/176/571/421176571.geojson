@@ -35,8 +35,14 @@
     "name:ell_x_preferred":[
         "\u0392\u03b9\u03bb\u03bb\u03b1\u03b6\u03cc\u03bd"
     ],
+    "name:ell_x_variant":[
+        "\u0392\u03b9\u03b3\u03b9\u03b1\u03b8\u03cc\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Villaz\u00f3n"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0644\u0627\u0632\u0648\u0646"
     ],
     "name:fin_x_preferred":[
         "Villaz\u00f3n"
@@ -277,7 +283,7 @@
         }
     ],
     "wof:id":421176571,
-    "wof:lastmodified":1561840573,
+    "wof:lastmodified":1563575100,
     "wof:name":"Villaz\u00f3n",
     "wof:parent_id":421177661,
     "wof:placetype":"locality",

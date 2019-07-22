@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Warnes"
     ],
+    "name:fin_x_preferred":[
+        "Warnes"
+    ],
     "name:fra_x_preferred":[
         "Warnes"
     ],
@@ -35,6 +38,9 @@
         "Warnes"
     ],
     "name:nor_x_preferred":[
+        "Warnes"
+    ],
+    "name:pol_x_preferred":[
         "Warnes"
     ],
     "name:por_x_preferred":[
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421198777,
-    "wof:lastmodified":1561840568,
+    "wof:lastmodified":1563575072,
     "wof:name":"Warnes",
     "wof:parent_id":1092010083,
     "wof:placetype":"locality",

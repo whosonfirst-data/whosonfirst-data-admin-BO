@@ -19,14 +19,23 @@
     "name:afr_x_preferred":[
         "Potos\u00ed"
     ],
+    "name:ang_x_preferred":[
+        "Potos\u00ed"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0648\u0633\u064a"
+    ],
+    "name:arg_x_preferred":[
+        "Potos\u00ed"
     ],
     "name:ast_x_preferred":[
         "Potos\u00ed"
     ],
     "name:aym_x_preferred":[
         "Putusi"
+    ],
+    "name:bar_x_preferred":[
+        "Potos\u00ed"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u0442\u0430\u0441\u0456"
@@ -43,7 +52,13 @@
     "name:cat_x_preferred":[
         "Potos\u00ed"
     ],
+    "name:ceb_x_preferred":[
+        "Potos\u00ed"
+    ],
     "name:ces_x_preferred":[
+        "Potos\u00ed"
+    ],
+    "name:cos_x_preferred":[
         "Potos\u00ed"
     ],
     "name:cym_x_preferred":[
@@ -64,6 +79,9 @@
     "name:epo_x_preferred":[
         "Potos\u00ed"
     ],
+    "name:est_x_preferred":[
+        "Potos\u00ed"
+    ],
     "name:eus_x_preferred":[
         "Potosi"
     ],
@@ -79,7 +97,22 @@
     "name:fra_x_preferred":[
         "Potos\u00ed"
     ],
+    "name:frp_x_preferred":[
+        "Potos\u00ed"
+    ],
+    "name:fur_x_preferred":[
+        "Potos\u00ed"
+    ],
+    "name:gla_x_preferred":[
+        "Potos\u00ed"
+    ],
+    "name:gle_x_preferred":[
+        "Potos\u00ed"
+    ],
     "name:glg_x_preferred":[
+        "Potos\u00ed"
+    ],
+    "name:gsw_x_preferred":[
         "Potos\u00ed"
     ],
     "name:guj_x_preferred":[
@@ -94,13 +127,25 @@
     "name:hrv_x_preferred":[
         "Potos\u00ed"
     ],
+    "name:hun_x_preferred":[
+        "Potos\u00ed"
+    ],
     "name:hye_x_preferred":[
         "\u054a\u0578\u057f\u0578\u057d\u056b"
     ],
     "name:ido_x_preferred":[
         "Potos\u00ed"
     ],
+    "name:ile_x_preferred":[
+        "Potos\u00ed"
+    ],
+    "name:ina_x_preferred":[
+        "Potos\u00ed"
+    ],
     "name:ind_x_preferred":[
+        "Potos\u00ed"
+    ],
+    "name:isl_x_preferred":[
         "Potos\u00ed"
     ],
     "name:ita_x_preferred":[
@@ -118,6 +163,9 @@
     "name:kaz_x_preferred":[
         "\u041f\u043e\u0442\u043e\u0441\u0438"
     ],
+    "name:kon_x_preferred":[
+        "Potos\u00ed"
+    ],
     "name:kor_x_preferred":[
         "\ud3ec\ud1a0\uc2dc"
     ],
@@ -130,14 +178,29 @@
     "name:lav_x_preferred":[
         "Potosi"
     ],
+    "name:lij_x_preferred":[
+        "Potos\u00ed"
+    ],
+    "name:lim_x_preferred":[
+        "Potos\u00ed"
+    ],
     "name:lit_x_preferred":[
         "Potosi"
+    ],
+    "name:ltz_x_preferred":[
+        "Potos\u00ed"
     ],
     "name:mar_x_preferred":[
         "\u092a\u094b\u0924\u094b\u0938\u0940"
     ],
+    "name:min_x_preferred":[
+        "Potos\u00ed"
+    ],
     "name:mkd_x_preferred":[
         "\u041f\u043e\u0442\u043e\u0441\u0438"
+    ],
+    "name:mlg_x_preferred":[
+        "Potos\u00ed"
     ],
     "name:msa_x_preferred":[
         "Potosi"
@@ -145,13 +208,34 @@
     "name:nah_x_preferred":[
         "Potos\u00ed"
     ],
+    "name:nap_x_preferred":[
+        "Potos\u00ed"
+    ],
+    "name:nds_x_preferred":[
+        "Potos\u00ed"
+    ],
     "name:nld_x_preferred":[
+        "Potos\u00ed"
+    ],
+    "name:nno_x_preferred":[
         "Potos\u00ed"
     ],
     "name:nob_x_preferred":[
         "Potos\u00ed"
     ],
+    "name:nrm_x_preferred":[
+        "Potos\u00ed"
+    ],
+    "name:nys_x_preferred":[
+        "Potos\u00ed"
+    ],
     "name:oci_x_preferred":[
+        "Potos\u00ed"
+    ],
+    "name:pcd_x_preferred":[
+        "Potos\u00ed"
+    ],
+    "name:pms_x_preferred":[
         "Potos\u00ed"
     ],
     "name:pol_x_preferred":[
@@ -163,11 +247,20 @@
     "name:que_x_preferred":[
         "Putusi"
     ],
+    "name:que_x_variant":[
+        "P'utuqsi"
+    ],
+    "name:roh_x_preferred":[
+        "Potos\u00ed"
+    ],
     "name:ron_x_preferred":[
         "Potos\u00ed"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0442\u043e\u0441\u0438"
+    ],
+    "name:scn_x_preferred":[
+        "Potos\u00ed"
     ],
     "name:sco_x_preferred":[
         "Potos\u00ed"
@@ -182,6 +275,12 @@
         "Potosi"
     ],
     "name:spa_x_preferred":[
+        "Potos\u00ed"
+    ],
+    "name:srd_x_preferred":[
+        "Potos\u00ed"
+    ],
+    "name:swa_x_preferred":[
         "Potos\u00ed"
     ],
     "name:swe_x_preferred":[
@@ -208,7 +307,13 @@
     "name:urd_x_preferred":[
         "\u067e\u0648\u062a\u0648\u0633\u06cc"
     ],
+    "name:vec_x_preferred":[
+        "Potos\u00ed"
+    ],
     "name:vie_x_preferred":[
+        "Potos\u00ed"
+    ],
+    "name:vls_x_preferred":[
         "Potos\u00ed"
     ],
     "name:vol_x_preferred":[
@@ -217,8 +322,17 @@
     "name:war_x_preferred":[
         "Potos\u00ed"
     ],
+    "name:wln_x_preferred":[
+        "Potos\u00ed"
+    ],
+    "name:wol_x_preferred":[
+        "Potos\u00ed"
+    ],
     "name:zho_x_preferred":[
         "\u6ce2\u6258\u897f"
+    ],
+    "name:zul_x_preferred":[
+        "Potos\u00ed"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Bolivia",
@@ -352,7 +466,7 @@
         }
     ],
     "wof:id":890442177,
-    "wof:lastmodified":1561840574,
+    "wof:lastmodified":1563575116,
     "wof:name":"Potos\u00ed",
     "wof:parent_id":421177665,
     "wof:placetype":"locality",

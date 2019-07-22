@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09bf\u0989\u09b2\u09cd\u09b2\u09be\u0995\u09b2\u09cb"
     ],
+    "name:ceb_x_preferred":[
+        "Quillacollo"
+    ],
     "name:dan_x_preferred":[
         "Quillacollo"
     ],
@@ -281,7 +284,7 @@
         }
     ],
     "wof:id":421201345,
-    "wof:lastmodified":1561840569,
+    "wof:lastmodified":1563575085,
     "wof:name":"Quillacollo",
     "wof:parent_id":421197123,
     "wof:placetype":"locality",

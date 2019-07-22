@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Saucar\u00ed"
     ],
+    "name:ceb_x_preferred":[
+        "Provincia Saucari"
+    ],
     "name:deu_x_preferred":[
         "Provinz Saucar\u00ed"
     ],
@@ -47,9 +50,11 @@
         "Saucari"
     ],
     "name:eng_x_variant":[
-        "Saucari",
         "Saucar\u00ed",
         "Saucar\u00ed Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0626\u0648\u06a9\u0627\u0631\u06cc"
     ],
     "name:fra_x_preferred":[
         "Saucar\u00ed"
@@ -62,6 +67,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10e3\u10d9\u10d0\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Saucar\u00ed S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Saucar\u00ed"
@@ -129,7 +137,7 @@
         }
     ],
     "wof:id":1092008167,
-    "wof:lastmodified":1561840541,
+    "wof:lastmodified":1563574858,
     "wof:name":"Saucari",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

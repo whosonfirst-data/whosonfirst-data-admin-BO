@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Sara"
     ],
+    "name:ceb_x_preferred":[
+        "Provincia Sara"
+    ],
     "name:deu_x_preferred":[
         "Provinz Sara"
     ],
@@ -47,8 +50,10 @@
         "Sara"
     ],
     "name:eng_x_variant":[
-        "Sara",
         "Sara Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0631\u0627"
     ],
     "name:fra_x_preferred":[
         "Sara"
@@ -61,6 +66,9 @@
     ],
     "name:lit_x_preferred":[
         "Saros provincija"
+    ],
+    "name:nan_x_preferred":[
+        "Sara S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Sara"
@@ -128,7 +136,7 @@
         }
     ],
     "wof:id":1092009959,
-    "wof:lastmodified":1561840548,
+    "wof:lastmodified":1563574876,
     "wof:name":"Sara",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

@@ -23,6 +23,15 @@
     "name:deu_x_preferred":[
         "Challapampa"
     ],
+    "name:eng_x_preferred":[
+        "Challapampa"
+    ],
+    "name:fra_x_preferred":[
+        "Challapampa"
+    ],
+    "name:nld_x_preferred":[
+        "Challapampa"
+    ],
     "name:spa_x_preferred":[
         "Challapampa"
     ],
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":1126093079,
-    "wof:lastmodified":1534379236,
+    "wof:lastmodified":1563575132,
     "wof:name":"Challapampa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

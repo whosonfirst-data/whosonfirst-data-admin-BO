@@ -47,12 +47,14 @@
         "Mamore"
     ],
     "name:eng_x_variant":[
-        "Mamore",
         "Mamor\u00e9",
         "Mamor\u00e9 Province"
     ],
     "name:epo_x_preferred":[
         "Provinco Mamor\u00e9"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0627\u0645\u0648\u0631\u0647"
     ],
     "name:fra_x_preferred":[
         "Mamor\u00e9"
@@ -68,6 +70,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10db\u10dd\u10e0\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Mamor\u00e9 S\u00e9ng"
     ],
     "name:nep_x_preferred":[
         "\u092e\u093e\u092e\u094b\u0930\u0947 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
@@ -153,7 +158,7 @@
         }
     ],
     "wof:id":1092005759,
-    "wof:lastmodified":1561840545,
+    "wof:lastmodified":1563574870,
     "wof:name":"Mamore",
     "wof:parent_id":85669403,
     "wof:placetype":"county",

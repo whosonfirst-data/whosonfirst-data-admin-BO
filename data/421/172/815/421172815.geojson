@@ -14,7 +14,22 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "San Borja"
+    ],
+    "name:ceb_x_preferred":[
+        "San Borja"
+    ],
     "name:deu_x_preferred":[
+        "San Borja"
+    ],
+    "name:eng_x_preferred":[
+        "San Borja"
+    ],
+    "name:fra_x_preferred":[
+        "San Borja"
+    ],
+    "name:glg_x_preferred":[
         "San Borja"
     ],
     "name:hbs_x_preferred":[
@@ -33,6 +48,9 @@
         "San Borja"
     ],
     "name:spa_x_preferred":[
+        "San Borja"
+    ],
+    "name:swe_x_preferred":[
         "San Borja"
     ],
     "ne:ADM0CAP":0.0,
@@ -174,7 +192,7 @@
         }
     ],
     "wof:id":421172815,
-    "wof:lastmodified":1527716306,
+    "wof:lastmodified":1563575063,
     "wof:name":"San Borja",
     "wof:parent_id":1092005669,
     "wof:placetype":"locality",

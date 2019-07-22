@@ -47,11 +47,13 @@
         "Moxos"
     ],
     "name:eng_x_variant":[
-        "Moxos",
         "Moxos Province"
     ],
     "name:epo_x_preferred":[
         "Provinco Moxos"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0648\u062e\u0648\u0633"
     ],
     "name:fra_x_preferred":[
         "Moxos"
@@ -64,6 +66,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10ee\u10dd\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Moxos S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Moxos"
@@ -134,7 +139,7 @@
         }
     ],
     "wof:id":1092005839,
-    "wof:lastmodified":1561840558,
+    "wof:lastmodified":1563574903,
     "wof:name":"Moxos",
     "wof:parent_id":85669403,
     "wof:placetype":"county",

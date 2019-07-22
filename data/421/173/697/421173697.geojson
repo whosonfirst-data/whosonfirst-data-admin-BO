@@ -14,8 +14,17 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0628\u064a\u0632\u0627"
+    ],
     "name:aym_x_preferred":[
         "Tupisa"
+    ],
+    "name:ben_x_preferred":[
+        "\u099f\u09c1\u09aa\u09bf\u099c\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0443\u043f\u0438\u0437\u0430"
     ],
     "name:cat_x_preferred":[
         "Tupiza"
@@ -23,19 +32,76 @@
     "name:ceb_x_preferred":[
         "Tupiza"
     ],
+    "name:cym_x_preferred":[
+        "Tupiza"
+    ],
+    "name:dan_x_preferred":[
+        "Tupiza"
+    ],
     "name:deu_x_preferred":[
+        "Tupiza"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03cd\u03c0\u03b9\u03b6\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Tupiza"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u067e\u06cc\u0632\u0627"
+    ],
+    "name:fin_x_preferred":[
         "Tupiza"
     ],
     "name:fra_x_preferred":[
         "Tupiza"
     ],
+    "name:glg_x_preferred":[
+        "Tupiza"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9f\u0ac1\u0aaa\u0abf\u0a9d\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u0942\u092a\u093f\u091c\u093c\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Tupiza"
+    ],
     "name:ita_x_preferred":[
         "Tupiza"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30d4\u30b5"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca4\u0cc1\u0caa\u0cbf\u0c9c\u0cbe"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10e3\u10de\u10d8\u10e1\u10d0"
     ],
+    "name:kor_x_preferred":[
+        "\ud22c\ud53c\uc790"
+    ],
+    "name:lat_x_preferred":[
+        "Tupiza"
+    ],
+    "name:lav_x_preferred":[
+        "Tupisa"
+    ],
+    "name:lit_x_preferred":[
+        "Tupisa"
+    ],
+    "name:mar_x_preferred":[
+        "\u091f\u0941\u092a\u093f\u091c\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Tupiza"
+    ],
     "name:nld_x_preferred":[
+        "Tupiza"
+    ],
+    "name:nob_x_preferred":[
         "Tupiza"
     ],
     "name:nor_x_preferred":[
@@ -53,14 +119,41 @@
     "name:ron_x_preferred":[
         "Tupiza"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043f\u0438\u0441\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dd4\u0db4\u0dd2\u0dc3\u0dcf"
+    ],
     "name:spa_x_preferred":[
         "Tupiza"
     ],
     "name:swe_x_preferred":[
         "Tupiza"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bc1\u0baa\u0bbf\u0bb8\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c41\u0c2a\u0c3f\u0c1c\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e39\u0e1e\u0e34\u0e0b\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Tupiza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u043f\u0456\u0441\u0430"
+    ],
     "name:unk_x_variant":[
         "Turpiza"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0648\u067e\u06cc\u0632\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Tupiza"
     ],
     "name:war_x_preferred":[
         "Tupiza"
@@ -211,7 +304,7 @@
         }
     ],
     "wof:id":421173697,
-    "wof:lastmodified":1527716260,
+    "wof:lastmodified":1563575055,
     "wof:name":"Tupiza",
     "wof:parent_id":1092009203,
     "wof:placetype":"locality",

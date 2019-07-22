@@ -19,6 +19,9 @@
     "name:aym_x_preferred":[
         "Llallawa"
     ],
+    "name:ceb_x_preferred":[
+        "Llallagua"
+    ],
     "name:deu_x_preferred":[
         "Llallagua"
     ],
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":890445157,
-    "wof:lastmodified":1561840574,
+    "wof:lastmodified":1563575117,
     "wof:name":"Llallagua",
     "wof:parent_id":1092009153,
     "wof:placetype":"locality",

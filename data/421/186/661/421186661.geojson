@@ -148,6 +148,9 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e01\u0e1a\u0e34\u0e04\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e01\u0e1a\u0e34\u0e06\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Cobija"
     ],
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":421186661,
-    "wof:lastmodified":1561840567,
+    "wof:lastmodified":1563575067,
     "wof:name":"Cobija",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",

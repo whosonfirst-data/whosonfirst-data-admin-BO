@@ -18,6 +18,12 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09aa\u09be\u09ac\u09b2\u09cb \u09a6\u09c7 \u09a4\u09bf\u0995\u09c1\u09af\u09bc\u09bf\u09a8\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09aa\u09be\u09ac\u09b2\u09cb \u09a6\u09c7 \u09a4\u09bf\u0995\u09bf\u09a8\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "San Pablo"
+    ],
     "name:deu_x_preferred":[
         "San Pablo de Tiquina"
     ],
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890445147,
-    "wof:lastmodified":1561840575,
+    "wof:lastmodified":1563575125,
     "wof:name":"San Pablo",
     "wof:parent_id":421187909,
     "wof:placetype":"locality",

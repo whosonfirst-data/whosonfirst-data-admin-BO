@@ -48,8 +48,10 @@
         "Quillacollo"
     ],
     "name:eng_x_variant":[
-        "Quillacollo",
         "Quillacollo Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u0626\u06cc\u0644\u0627\u06a9\u0648\u0644\u0648"
     ],
     "name:fra_x_preferred":[
         "Quillacollo"
@@ -65,6 +67,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d8\u10da\u10d8\u10d0\u10d9\u10dd\u10da\u10d8\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Quillacollo S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Quillacollo"
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":421197123,
-    "wof:lastmodified":1561840569,
+    "wof:lastmodified":1563575079,
     "wof:name":"Quillacollo",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

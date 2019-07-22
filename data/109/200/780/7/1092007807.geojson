@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Carangas"
     ],
+    "name:ceb_x_preferred":[
+        "Provincia Carangas"
+    ],
     "name:deu_x_preferred":[
         "Provinz Carangas"
     ],
@@ -48,7 +51,10 @@
     ],
     "name:eng_x_variant":[
         "Carangas",
-        "Carangas"
+        "Carangas Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0627\u0631\u0627\u0646\u06af\u0627\u0633"
     ],
     "name:fra_x_preferred":[
         "Carangas"
@@ -61,6 +67,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10e0\u10d0\u10dc\u10d2\u10d0\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Carangas S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Carangas"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":1092007807,
-    "wof:lastmodified":1561840556,
+    "wof:lastmodified":1563574900,
     "wof:name":"Carangas",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

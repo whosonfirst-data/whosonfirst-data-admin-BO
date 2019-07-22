@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Concepci\u00f3n"
     ],
+    "name:dan_x_preferred":[
+        "Concepci\u00f3n"
+    ],
     "name:deu_x_preferred":[
         "Concepci\u00f3n"
     ],
@@ -41,6 +44,9 @@
         "Concepci\u00f3n"
     ],
     "name:pol_x_preferred":[
+        "Concepci\u00f3n"
+    ],
+    "name:por_x_preferred":[
         "Concepci\u00f3n"
     ],
     "name:que_x_preferred":[
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421195403,
-    "wof:lastmodified":1561840562,
+    "wof:lastmodified":1563575023,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":1092009873,
     "wof:placetype":"locality",

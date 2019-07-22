@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Villa Yapacan\u00ed"
+    ],
     "name:deu_x_preferred":[
         "Yapacan\u00ed"
     ],
@@ -41,6 +44,9 @@
         "\u0408\u0430\u043f\u0430\u043a\u0430\u043d\u0438"
     ],
     "name:nld_x_preferred":[
+        "Yapacan\u00ed"
+    ],
+    "name:pol_x_preferred":[
         "Yapacan\u00ed"
     ],
     "name:que_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125870821,
-    "wof:lastmodified":1561840575,
+    "wof:lastmodified":1563575129,
     "wof:name":"Villa Yapacan\u00ed",
     "wof:parent_id":1092009785,
     "wof:placetype":"locality",

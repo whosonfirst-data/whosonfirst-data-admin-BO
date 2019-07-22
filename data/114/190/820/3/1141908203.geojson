@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0643\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Llica"
+    ],
     "name:deu_x_preferred":[
         "Llica"
     ],
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":1141908203,
-    "wof:lastmodified":1561840588,
+    "wof:lastmodified":1563576036,
     "wof:name":"Llica",
     "wof:parent_id":421177659,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0622\u064a\u0643\u0648\u064a\u0644\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Aiquile"
+    ],
     "name:dan_x_preferred":[
         "Aiquile"
     ],
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":890442183,
-    "wof:lastmodified":1561840574,
+    "wof:lastmodified":1563575116,
     "wof:name":"Aiquile",
     "wof:parent_id":1092006465,
     "wof:placetype":"locality",

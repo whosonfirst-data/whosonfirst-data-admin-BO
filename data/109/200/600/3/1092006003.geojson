@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Nor Cinti"
     ],
+    "name:ceb_x_preferred":[
+        "Provincia Nor Cinti"
+    ],
     "name:deu_x_preferred":[
         "Provinz Nor Cinti"
     ],
@@ -47,8 +50,10 @@
         "Nor Cinti"
     ],
     "name:eng_x_variant":[
-        "Nor Cinti",
         "Nor Cinti Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0646\u0631 \u0633\u06cc\u0646\u062a\u06cc"
     ],
     "name:fra_x_preferred":[
         "Nor Cinti"
@@ -61,6 +66,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10dd\u10e0-\u10e1\u10d8\u10dc\u10e2\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Nor Cinti S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Nor Cinti"
@@ -128,7 +136,7 @@
         }
     ],
     "wof:id":1092006003,
-    "wof:lastmodified":1561840554,
+    "wof:lastmodified":1563574893,
     "wof:name":"Nor Cinti",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

@@ -19,6 +19,21 @@
     "name:deu_x_preferred":[
         "Colomi"
     ],
+    "name:eng_x_preferred":[
+        "Colomi"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0644\u0648\u0645\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Colomi"
+    ],
+    "name:nld_x_preferred":[
+        "Colomi"
+    ],
+    "name:nob_x_preferred":[
+        "Colomi"
+    ],
     "name:nor_x_preferred":[
         "Colomi"
     ],
@@ -84,7 +99,7 @@
         }
     ],
     "wof:id":421174239,
-    "wof:lastmodified":1527716230,
+    "wof:lastmodified":1563575045,
     "wof:name":"Colomi",
     "wof:parent_id":421172489,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u099c\u09c1\u09b8\u09c7 \u09a1\u09bf \u099a\u09bf\u0995\u09cb\u0987\u09a4\u09cb\u09b8"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09b9\u09cb\u09b8\u09c7 \u09a6\u09c7 \u099a\u09bf\u0995\u09bf\u09a4\u09cb\u09b8"
+    ],
     "name:ceb_x_preferred":[
         "San Jos\u00e9 de Chiquitos"
     ],
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":421181579,
-    "wof:lastmodified":1561840568,
+    "wof:lastmodified":1563575070,
     "wof:name":"San Jos\u00e9 de Chiquitos",
     "wof:parent_id":1092009543,
     "wof:placetype":"locality",

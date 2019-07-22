@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u0997\u09cb\u09af\u09bc\u09be\u09b0\u09be\u09ae\u09c7\u09b0\u09bf\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Guayaramer\u00edn"
+    ],
     "name:dan_x_preferred":[
         "Guayaramer\u00edn"
     ],
@@ -139,6 +142,9 @@
     "name:vol_x_preferred":[
         "Guayaramer\u00edn"
     ],
+    "name:war_x_preferred":[
+        "Guayaramer\u00edn"
+    ],
     "name:zho_x_preferred":[
         "\u74dc\u4e9e\u62c9\u6885\u6797"
     ],
@@ -195,7 +201,7 @@
         }
     ],
     "wof:id":1126057785,
-    "wof:lastmodified":1561840575,
+    "wof:lastmodified":1563575129,
     "wof:name":"Guayaramer\u00edn",
     "wof:parent_id":1092005877,
     "wof:placetype":"locality",

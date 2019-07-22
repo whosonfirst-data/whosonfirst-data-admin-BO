@@ -17,16 +17,49 @@
     "name:afr_x_preferred":[
         "Montero"
     ],
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u064a\u0631\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09a8\u09cd\u099f\u09c7\u09b0\u09cb"
+    ],
+    "name:cat_x_preferred":[
+        "Montero"
+    ],
     "name:dan_x_preferred":[
         "Montero"
     ],
     "name:deu_x_preferred":[
         "Montero"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03c4\u03ad\u03c1\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Montero"
+    ],
     "name:epo_x_preferred":[
         "Montero"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u0631\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Montero"
+    ],
     "name:fra_x_preferred":[
+        "Montero"
+    ],
+    "name:glg_x_preferred":[
+        "Montero"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0acb\u0a82\u0a9f\u0ac7\u0ab0\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0902\u091f\u0947\u0930\u094b"
+    ],
+    "name:ind_x_preferred":[
         "Montero"
     ],
     "name:ita_x_preferred":[
@@ -35,19 +68,34 @@
     "name:jpn_x_preferred":[
         "\u30e2\u30f3\u30c6\u30ed"
     ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbe\u0c82\u0c9f\u0cc6\u0cb0\u0ccb"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10dc\u10e2\u10d4\u10e0\u10dd"
     ],
     "name:kor_x_preferred":[
         "\ubaac\ud14c\ub85c"
     ],
+    "name:lav_x_preferred":[
+        "Montero"
+    ],
     "name:lit_x_preferred":[
         "Monteras"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u094b\u0902\u091f\u0930\u094b"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0440\u043e"
     ],
+    "name:msa_x_preferred":[
+        "Montero"
+    ],
     "name:nld_x_preferred":[
+        "Montero"
+    ],
+    "name:nob_x_preferred":[
         "Montero"
     ],
     "name:pol_x_preferred":[
@@ -65,14 +113,38 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0440\u043e"
     ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0ddc\u0db1\u0dca\u0da7\u0dd9\u0dbb\u0ddd"
+    ],
     "name:spa_x_preferred":[
         "Montero"
     ],
     "name:swe_x_preferred":[
         "Montero"
     ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0ba9\u0bcd\u0b9f\u0bbf\u0bb0\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c4b\u0c02\u0c1f\u0c46\u0c30\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e2d\u0e19\u0e40\u0e15\u0e23\u0e2d\u0e25"
+    ],
+    "name:tur_x_preferred":[
+        "Montero"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435\u0440\u043e"
+    ],
     "name:unk_x_variant":[
         "V\u00edbora"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u06cc\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Montero"
     ],
     "name:vol_x_preferred":[
         "Montero"
@@ -225,7 +297,7 @@
         }
     ],
     "wof:id":421172817,
-    "wof:lastmodified":1527716301,
+    "wof:lastmodified":1563575060,
     "wof:name":"Montero",
     "wof:parent_id":1092009899,
     "wof:placetype":"locality",

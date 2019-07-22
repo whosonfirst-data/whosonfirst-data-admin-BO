@@ -15,6 +15,18 @@
     "name:ceb_x_preferred":[
         "San Ram\u00f3n Airport"
     ],
+    "name:eng_x_preferred":[
+        "San Ram\u00f3n Airport"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30e9\u30e2\u30f3\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang San Ramon"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul San Ram\u00f3n"
+    ],
     "name:swe_x_preferred":[
         "San Ram\u00f3n Airport"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":102543955,
-    "wof:lastmodified":1543846097,
+    "wof:lastmodified":1563572775,
     "wof:name":"San Ramon Airport",
     "wof:parent_id":85669403,
     "wof:placetype":"campus",

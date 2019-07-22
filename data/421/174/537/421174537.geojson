@@ -35,6 +35,9 @@
     "name:nld_x_preferred":[
         "Portachuelo"
     ],
+    "name:pol_x_preferred":[
+        "Portachuelo"
+    ],
     "name:que_x_preferred":[
         "Portachuelo"
     ],
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":421174537,
-    "wof:lastmodified":1561840565,
+    "wof:lastmodified":1563575044,
     "wof:name":"Portachuelo",
     "wof:parent_id":1092009959,
     "wof:placetype":"locality",

@@ -68,6 +68,9 @@
     "name:aym_x_preferred":[
         "Wuliwya"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0644\u06cc\u0648\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Boliviya"
     ],
@@ -148,6 +151,9 @@
     ],
     "name:chr_x_preferred":[
         "\u13c9\u13b5\u13eb\u13a0"
+    ],
+    "name:chr_x_variant":[
+        "\u13c9\u13b5\u13eb\u13ef"
     ],
     "name:chv_x_preferred":[
         "\u0411\u043e\u043b\u0438\u0432\u0438"
@@ -439,6 +445,9 @@
     "name:lez_x_preferred":[
         "\u0411\u043e\u043b\u0438\u0432\u0438\u044f"
     ],
+    "name:lfn_x_preferred":[
+        "Bolivia"
+    ],
     "name:lij_x_preferred":[
         "Bolivia"
     ],
@@ -459,6 +468,9 @@
     ],
     "name:lrc_x_preferred":[
         "\u0628\u0648\u0659\u0644\u06cc\u06a4\u06cc"
+    ],
+    "name:lrc_x_variant":[
+        "\u0628\u0648\u0644\u06cc\u0648\u06cc"
     ],
     "name:ltg_x_preferred":[
         "Boliveja"
@@ -514,11 +526,17 @@
     "name:mya_x_variant":[
         "\u1018\u102d\u102f\u101c\u102e\u1038\u1018\u102e\u1038\u101a\u102c\u1038"
     ],
+    "name:myv_x_preferred":[
+        "\u0411\u043e\u043b\u0438\u0432\u0438\u044f"
+    ],
     "name:mzn_x_preferred":[
         "\u0628\u0648\u0644\u06cc\u0648\u06cc"
     ],
     "name:nah_x_preferred":[
         "Bolivtl\u0101n"
+    ],
+    "name:nah_x_variant":[
+        "Bolivia"
     ],
     "name:nan_x_preferred":[
         "Bolivia"
@@ -576,6 +594,9 @@
     ],
     "name:oss_x_preferred":[
         "\u0411\u043e\u043b\u0438\u0432\u0438"
+    ],
+    "name:pag_x_preferred":[
+        "Bolivia"
     ],
     "name:pam_x_preferred":[
         "Bolivia"
@@ -659,6 +680,9 @@
     "name:sin_x_preferred":[
         "\u0db6\u0ddc\u0dbd\u0dd3\u0dc0\u0dd2\u0dba\u0dcf\u0dc0"
     ],
+    "name:sin_x_variant":[
+        "\u0db6\u0ddc\u0dbd\u0dd2\u0dc0\u0dd2\u0dba\u0dcf\u0dc0"
+    ],
     "name:slk_x_preferred":[
         "Bol\u00edvia"
     ],
@@ -673,6 +697,9 @@
     ],
     "name:sna_x_preferred":[
         "Bolivia"
+    ],
+    "name:snd_x_preferred":[
+        "\u0628\u0648\u0644\u064a\u0648\u064a\u0627"
     ],
     "name:som_x_preferred":[
         "Booliifiya"
@@ -760,6 +787,9 @@
     "name:tur_x_preferred":[
         "Bolivya"
     ],
+    "name:udm_x_preferred":[
+        "\u0411\u043e\u043b\u0438\u0432\u0438\u044f"
+    ],
     "name:uig_x_preferred":[
         "\u0628\u0648\u0644\u0649\u06cb\u0649\u064a\u06d5"
     ],
@@ -791,6 +821,9 @@
     "name:vie_x_variant":[
         "B\u00f4-li-vi-a",
         "B\u00f4-li-vi-a (Bolivia)"
+    ],
+    "name:vls_x_preferred":[
+        "Bolivi\u00eb"
     ],
     "name:vol_x_preferred":[
         "Boliv\u00e4n"
@@ -1001,7 +1034,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1561840508,
+    "wof:lastmodified":1563573180,
     "wof:name":"Bolivia",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

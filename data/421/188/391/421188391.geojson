@@ -19,6 +19,18 @@
     "name:deu_x_preferred":[
         "Guaqui"
     ],
+    "name:eng_x_preferred":[
+        "Guaqui"
+    ],
+    "name:fra_x_preferred":[
+        "Guaqui"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30a2\u30ad"
+    ],
+    "name:nld_x_preferred":[
+        "Guaqui"
+    ],
     "name:por_x_preferred":[
         "Guaqui"
     ],
@@ -83,7 +95,7 @@
         }
     ],
     "wof:id":421188391,
-    "wof:lastmodified":1527716273,
+    "wof:lastmodified":1563575057,
     "wof:name":"Guaqui",
     "wof:parent_id":1092007213,
     "wof:placetype":"locality",

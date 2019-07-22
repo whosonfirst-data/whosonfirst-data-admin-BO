@@ -47,12 +47,14 @@
         "Vaca Diez"
     ],
     "name:eng_x_variant":[
-        "Vaca Diez",
         "Vaca D\u00edez",
-        "Vaca Diez"
+        "Vaca D\u00edez Province"
     ],
     "name:epo_x_preferred":[
         "Provinco Vaca D\u00edez"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0627\u06a9\u0627 \u062f\u06cc\u0632"
     ],
     "name:fra_x_preferred":[
         "Vaca Di\u00e9z"
@@ -65,6 +67,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d0\u10d9\u10d0-\u10d3\u10d8\u10d4\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Vaca D\u00edez S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Vaca D\u00edez"
@@ -123,7 +128,7 @@
         }
     ],
     "wof:id":1092005877,
-    "wof:lastmodified":1561840547,
+    "wof:lastmodified":1563574874,
     "wof:name":"Vaca Diez",
     "wof:parent_id":85669403,
     "wof:placetype":"county",

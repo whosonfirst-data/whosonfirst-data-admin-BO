@@ -51,8 +51,10 @@
         "Oropeza"
     ],
     "name:eng_x_variant":[
-        "Oropeza",
         "Oropeza Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0631\u0648\u067e\u0632\u0627"
     ],
     "name:fra_x_preferred":[
         "Oropeza"
@@ -68,6 +70,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10dd\u10e0\u10dd\u10de\u10d4\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nan_x_preferred":[
+        "Oropeza S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Oropeza"
@@ -166,7 +171,7 @@
         }
     ],
     "wof:id":421190241,
-    "wof:lastmodified":1561840568,
+    "wof:lastmodified":1563575076,
     "wof:name":"Oropeza",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

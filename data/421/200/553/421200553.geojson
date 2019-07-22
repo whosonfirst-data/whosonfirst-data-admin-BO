@@ -19,6 +19,15 @@
     "name:deu_x_preferred":[
         "Coripata"
     ],
+    "name:eng_x_preferred":[
+        "Coripata"
+    ],
+    "name:fra_x_preferred":[
+        "Coripata"
+    ],
+    "name:nld_x_preferred":[
+        "Coripata"
+    ],
     "name:que_x_preferred":[
         "Quripata"
     ],
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":421200553,
-    "wof:lastmodified":1527716427,
+    "wof:lastmodified":1563575081,
     "wof:name":"Coripata",
     "wof:parent_id":1092007459,
     "wof:placetype":"locality",
