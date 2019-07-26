@@ -25,8 +25,20 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Hoyada"
+    ],
+    "name:spa_x_preferred":[
+        "La Hoyada"
+    ],
+    "name:swe_x_preferred":[
+        "La Hoyada"
+    ],
     "name:und_x_variant":[
         "Hoyada"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06c1\u0648\u06cc\u0627\u0688\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1310089915,
-    "wof:lastmodified":1537588033,
+    "wof:lastmodified":1564120826,
     "wof:name":"La Hoyada",
     "wof:parent_id":1092009203,
     "wof:placetype":"locality",

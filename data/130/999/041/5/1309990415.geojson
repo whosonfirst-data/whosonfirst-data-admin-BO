@@ -25,6 +25,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Iscayachi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1309990415,
-    "wof:lastmodified":1537487911,
+    "wof:lastmodified":1564121171,
     "wof:name":"Iscayachi",
     "wof:parent_id":1092010287,
     "wof:placetype":"locality",

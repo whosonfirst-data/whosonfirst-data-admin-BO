@@ -25,6 +25,24 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Juni"
+    ],
+    "name:ceb_x_preferred":[
+        "Juni"
+    ],
+    "name:deu_x_preferred":[
+        "Juni"
+    ],
+    "name:fra_x_preferred":[
+        "Juni"
+    ],
+    "name:ita_x_preferred":[
+        "Juni"
+    ],
+    "name:swe_x_preferred":[
+        "Juni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1259383051,
-    "wof:lastmodified":1537002130,
+    "wof:lastmodified":1564121725,
     "wof:name":"Juni",
     "wof:parent_id":421187929,
     "wof:placetype":"locality",

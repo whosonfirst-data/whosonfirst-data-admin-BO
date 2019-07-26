@@ -25,6 +25,33 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:deu_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:fra_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:ita_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:nor_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:pol_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:que_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:swe_x_preferred":[
+        "Irpa Irpa"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u723e\u5e15\u4f0a\u723e\u5e15"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1276442495,
-    "wof:lastmodified":1536630756,
+    "wof:lastmodified":1564119733,
     "wof:name":"Irpa Irpa",
     "wof:parent_id":421186269,
     "wof:placetype":"locality",

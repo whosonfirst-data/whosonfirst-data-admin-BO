@@ -25,6 +25,21 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tucupi"
+    ],
+    "name:fra_x_preferred":[
+        "Tucupi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c4\u30af\u30d4\u30fc"
+    ],
+    "name:por_x_preferred":[
+        "Tucupi"
+    ],
+    "name:spa_x_preferred":[
+        "Tucup\u00ed"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1326930997,
-    "wof:lastmodified":1536906780,
+    "wof:lastmodified":1564118527,
     "wof:name":"Tucupi",
     "wof:parent_id":1092007051,
     "wof:placetype":"locality",

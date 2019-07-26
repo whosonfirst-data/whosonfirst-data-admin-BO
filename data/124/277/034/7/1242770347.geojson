@@ -26,6 +26,15 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Santa Rosa del Abun\u00e1"
+    ],
+    "name:que_x_preferred":[
+        "Santa Rosa del Abun\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Rosa del Abun\u00e1"
+    ],
     "name:und_x_variant":[
         "Fort\u00edn Santa Rosa",
         "Santa Rosa",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1242770347,
-    "wof:lastmodified":1537587953,
+    "wof:lastmodified":1564121576,
     "wof:name":"Santa Rosa del Abuna",
     "wof:parent_id":1092008329,
     "wof:placetype":"locality",

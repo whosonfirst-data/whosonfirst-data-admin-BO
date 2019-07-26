@@ -25,6 +25,30 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Comanche Municipality"
+    ],
+    "name:deu_x_preferred":[
+        "Municipio Comanche"
+    ],
+    "name:ita_x_preferred":[
+        "Comanche"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10db\u10d0\u10dc\u10e9\u10d4\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Comanche"
+    ],
+    "name:que_x_preferred":[
+        "Qumanchi munisipyu"
+    ],
+    "name:spa_x_preferred":[
+        "Comanche"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10dd\u10db\u10d0\u10dc\u10e9\u10d4\u10e8 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1310525557,
-    "wof:lastmodified":1537487928,
+    "wof:lastmodified":1564120806,
     "wof:name":"Comanche",
     "wof:parent_id":421182439,
     "wof:placetype":"locality",

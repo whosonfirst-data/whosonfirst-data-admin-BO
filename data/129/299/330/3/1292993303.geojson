@@ -25,6 +25,33 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Seco"
+    ],
+    "name:ceb_x_preferred":[
+        "Seco"
+    ],
+    "name:deu_x_preferred":[
+        "Seco"
+    ],
+    "name:fra_x_preferred":[
+        "Seco"
+    ],
+    "name:glg_x_preferred":[
+        "Seco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Seco"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Seco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1292993303,
-    "wof:lastmodified":1537001738,
+    "wof:lastmodified":1564119534,
     "wof:name":"Seco",
     "wof:parent_id":1092008461,
     "wof:placetype":"locality",

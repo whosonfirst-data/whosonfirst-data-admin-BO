@@ -26,6 +26,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Loho"
+    ],
+    "name:swe_x_preferred":[
+        "Loho"
+    ],
     "name:und_x_variant":[
         "Laho",
         "Lobo",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1326630601,
-    "wof:lastmodified":1537588023,
+    "wof:lastmodified":1564118770,
     "wof:name":"Loho",
     "wof:parent_id":421177667,
     "wof:placetype":"locality",

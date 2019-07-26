@@ -25,6 +25,21 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ayo Ayo"
+    ],
+    "name:deu_x_preferred":[
+        "Ayo Ayo"
+    ],
+    "name:que_x_preferred":[
+        "Ayu Ayu"
+    ],
+    "name:sco_x_preferred":[
+        "Ayo Ayo"
+    ],
+    "name:swe_x_preferred":[
+        "Ayo Ayo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1310429441,
-    "wof:lastmodified":1537487945,
+    "wof:lastmodified":1564120853,
     "wof:name":"Ayo Ayo",
     "wof:parent_id":1092006923,
     "wof:placetype":"locality",

@@ -26,6 +26,33 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vitichi"
+    ],
+    "name:deu_x_preferred":[
+        "Vitichi"
+    ],
+    "name:fra_x_preferred":[
+        "Vitichi"
+    ],
+    "name:nld_x_preferred":[
+        "Vitichi"
+    ],
+    "name:nor_x_preferred":[
+        "Vitichi"
+    ],
+    "name:pol_x_preferred":[
+        "Vitichi"
+    ],
+    "name:por_x_preferred":[
+        "Vitichi"
+    ],
+    "name:que_x_preferred":[
+        "Witichi"
+    ],
+    "name:swe_x_preferred":[
+        "Vitichi"
+    ],
     "name:und_x_variant":[
         "Vitiche",
         "Vitichi"
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1243384801,
-    "wof:lastmodified":1537587909,
+    "wof:lastmodified":1564121341,
     "wof:name":"Vitichi",
     "wof:parent_id":421166639,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ipit\u00e1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1309925699,
-    "wof:lastmodified":1537487912,
+    "wof:lastmodified":1564121221,
     "wof:name":"Ipita",
     "wof:parent_id":1092009601,
     "wof:placetype":"locality",

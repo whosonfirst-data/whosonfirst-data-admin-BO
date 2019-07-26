@@ -26,6 +26,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Challa"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1a\u0c32\u0c4d\u0c32\u0c3e"
+    ],
     "name:und_x_variant":[
         "Estancia Challa Apacheta",
         "Challapacheta",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1327437571,
-    "wof:lastmodified":1537588120,
+    "wof:lastmodified":1564118823,
     "wof:name":"Challa",
     "wof:parent_id":421182439,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Caliente"
+    ],
+    "name:deu_x_preferred":[
+        "Caliente"
+    ],
+    "name:fra_x_preferred":[
+        "Caliente"
+    ],
+    "name:ita_x_preferred":[
+        "Caliente"
+    ],
+    "name:pol_x_preferred":[
+        "Caliente"
+    ],
+    "name:spa_x_preferred":[
+        "Caliente"
+    ],
+    "name:vol_x_preferred":[
+        "Caliente"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1293896533,
-    "wof:lastmodified":1536694708,
+    "wof:lastmodified":1564119579,
     "wof:name":"Caliente",
     "wof:parent_id":1092006381,
     "wof:placetype":"locality",

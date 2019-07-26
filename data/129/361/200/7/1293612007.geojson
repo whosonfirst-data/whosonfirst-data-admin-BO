@@ -26,6 +26,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Calulo"
+    ],
+    "name:ita_x_preferred":[
+        "Calulo"
+    ],
     "name:und_x_variant":[
         "Caluyo",
         "Calulo"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293612007,
-    "wof:lastmodified":1537588136,
+    "wof:lastmodified":1564119439,
     "wof:name":"Calulo",
     "wof:parent_id":1092008167,
     "wof:placetype":"locality",

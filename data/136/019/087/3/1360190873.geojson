@@ -25,6 +25,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Silencio"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1360190873,
-    "wof:lastmodified":1536793304,
+    "wof:lastmodified":1564121134,
     "wof:name":"Silencio",
     "wof:parent_id":1092007165,
     "wof:placetype":"locality",

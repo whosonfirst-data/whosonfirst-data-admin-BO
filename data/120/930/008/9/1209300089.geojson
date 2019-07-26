@@ -25,6 +25,21 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Loma"
+    ],
+    "name:deu_x_preferred":[
+        "La Loma"
+    ],
+    "name:spa_x_preferred":[
+        "La Loma"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u041b\u043e\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Loma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632623
@@ -34,7 +49,7 @@
         "gn:id":3912036
     },
     "wof:country":"BO",
-    "wof:geomhash":"24290140f7ce53729af0971a716eb293",
+    "wof:geomhash":"0f54b4aa9ba9a69715874264f5bc0387",
     "wof:hierarchy":[
         {
             "country_id":85632623,
@@ -42,7 +57,7 @@
         }
     ],
     "wof:id":1209300089,
-    "wof:lastmodified":1536291388,
+    "wof:lastmodified":1564120094,
     "wof:name":"La Loma",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",
@@ -53,9 +68,9 @@
 },
   "bbox": [
     -62.78333000000001,
-    -17.883329999999994,
+    -17.88332999999999,
     -62.78333000000001,
-    -17.883329999999994
+    -17.88332999999999
 ],
   "geometry": {"coordinates":[-62.78333000000001,-17.88332999999999],"type":"Point"}
 }

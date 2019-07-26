@@ -25,6 +25,30 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ixiamas"
+    ],
+    "name:deu_x_preferred":[
+        "Ixiamas"
+    ],
+    "name:fra_x_preferred":[
+        "Ixiamas"
+    ],
+    "name:pol_x_preferred":[
+        "Ixiamas"
+    ],
+    "name:que_x_preferred":[
+        "Ixiamas"
+    ],
+    "name:spa_x_preferred":[
+        "Ixiamas"
+    ],
+    "name:war_x_preferred":[
+        "Ixiamas"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u897f\u4e9e\u99ac\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1327339675,
-    "wof:lastmodified":1537487910,
+    "wof:lastmodified":1564118657,
     "wof:name":"Ixiamas",
     "wof:parent_id":421190245,
     "wof:placetype":"locality",

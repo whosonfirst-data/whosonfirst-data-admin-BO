@@ -26,6 +26,15 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chaucha"
+    ],
+    "name:que_x_preferred":[
+        "Chawcha kitilli"
+    ],
+    "name:swe_x_preferred":[
+        "Chaucha"
+    ],
     "name:und_x_variant":[
         "Chauchini",
         "Chaucha"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1260081211,
-    "wof:lastmodified":1537588117,
+    "wof:lastmodified":1564120589,
     "wof:name":"Chaucha",
     "wof:parent_id":421197575,
     "wof:placetype":"locality",

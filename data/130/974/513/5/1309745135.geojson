@@ -25,6 +25,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ayata"
+    ],
+    "name:que_x_preferred":[
+        "Ayata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1309745135,
-    "wof:lastmodified":1537017913,
+    "wof:lastmodified":1564121240,
     "wof:name":"Ayata",
     "wof:parent_id":421182437,
     "wof:placetype":"locality",

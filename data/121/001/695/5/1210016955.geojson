@@ -26,6 +26,24 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Calamarca"
+    ],
+    "name:deu_x_preferred":[
+        "Calamarca"
+    ],
+    "name:que_x_preferred":[
+        "Qalamarka"
+    ],
+    "name:sco_x_preferred":[
+        "Calamarca"
+    ],
+    "name:spa_x_preferred":[
+        "Calamarca"
+    ],
+    "name:swe_x_preferred":[
+        "Calamarca"
+    ],
     "name:und_x_variant":[
         "Comunidad Callamarca",
         "Callamarca",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1210016955,
-    "wof:lastmodified":1537588137,
+    "wof:lastmodified":1564120405,
     "wof:name":"Calamarca",
     "wof:parent_id":421197575,
     "wof:placetype":"locality",

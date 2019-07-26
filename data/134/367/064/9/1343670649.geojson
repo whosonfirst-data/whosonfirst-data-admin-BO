@@ -26,6 +26,15 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Apillapampa"
+    ],
+    "name:deu_x_preferred":[
+        "Apillapampa"
+    ],
+    "name:fra_x_preferred":[
+        "Apillapampa"
+    ],
     "name:und_x_variant":[
         "Estancia Apila Pampa",
         "Apillapampa"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343670649,
-    "wof:lastmodified":1537588151,
+    "wof:lastmodified":1564119116,
     "wof:name":"Apillapampa",
     "wof:parent_id":1092006497,
     "wof:placetype":"locality",

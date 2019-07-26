@@ -25,6 +25,21 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Combaya"
+    ],
+    "name:deu_x_preferred":[
+        "Combaya"
+    ],
+    "name:fra_x_preferred":[
+        "Combaya"
+    ],
+    "name:que_x_preferred":[
+        "Qumpaya"
+    ],
+    "name:swe_x_preferred":[
+        "Combaya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1276477755,
-    "wof:lastmodified":1537079326,
+    "wof:lastmodified":1564119894,
     "wof:name":"Combaya",
     "wof:parent_id":421187929,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kanton San Agust\u00edn"
+    ],
+    "name:que_x_preferred":[
+        "San Agust\u00edn kantun"
+    ],
     "name:und_x_variant":[
         "San Agust\u00edn"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1326751507,
-    "wof:lastmodified":1537587962,
+    "wof:lastmodified":1564118479,
     "wof:name":"San Agustin",
     "wof:parent_id":421175057,
     "wof:placetype":"locality",

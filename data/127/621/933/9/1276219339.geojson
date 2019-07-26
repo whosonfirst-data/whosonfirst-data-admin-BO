@@ -26,6 +26,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Monte Bello"
+    ],
+    "name:swe_x_preferred":[
+        "Monte Bello"
+    ],
     "name:und_x_variant":[
         "Belo Monte",
         "Monte Bello"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276219339,
-    "wof:lastmodified":1537588010,
+    "wof:lastmodified":1564119746,
     "wof:name":"Monte Bello",
     "wof:parent_id":1092008329,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Santiv\u00e1\u00f1ez"
+    ],
+    "name:deu_x_preferred":[
+        "Santiv\u00e1\u00f1ez"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u06cc\u0648\u0627\u0646\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "Santiv\u00e1\u00f1ez"
+    ],
+    "name:que_x_preferred":[
+        "Santiwa\u00f1is"
+    ],
+    "name:swe_x_preferred":[
+        "Santiv\u00e1\u00f1ez"
+    ],
     "name:und_x_variant":[
         "Santiba\u00f1ez",
         "Santiv\u00e1\u00f1ez"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1276451863,
-    "wof:lastmodified":1537587953,
+    "wof:lastmodified":1564119749,
     "wof:name":"Santivanez",
     "wof:parent_id":1092006497,
     "wof:placetype":"locality",

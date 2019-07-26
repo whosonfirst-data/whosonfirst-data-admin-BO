@@ -25,6 +25,24 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Guardia"
+    ],
+    "name:deu_x_preferred":[
+        "La Guardia"
+    ],
+    "name:fin_x_preferred":[
+        "La Guardia"
+    ],
+    "name:fra_x_preferred":[
+        "La Guardia"
+    ],
+    "name:pol_x_preferred":[
+        "La Guardia"
+    ],
+    "name:spa_x_preferred":[
+        "La Guardia"
+    ],
     "name:zho_x_preferred":[
         "\u62c9\u74dc\u8fea\u4e9e"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1327453881,
-    "wof:lastmodified":1537588035,
+    "wof:lastmodified":1564118855,
     "wof:name":"La Guardia",
     "wof:parent_id":421187923,
     "wof:placetype":"locality",

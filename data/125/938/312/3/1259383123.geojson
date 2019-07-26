@@ -25,6 +25,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cajuata"
+    ],
+    "name:que_x_preferred":[
+        "Kaqwata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1259383123,
-    "wof:lastmodified":1537002028,
+    "wof:lastmodified":1564121724,
     "wof:name":"Cajuata",
     "wof:parent_id":1092007257,
     "wof:placetype":"locality",

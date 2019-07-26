@@ -29,6 +29,12 @@
     "name:aym_x_preferred":[
         "Wachakalla"
     ],
+    "name:ceb_x_preferred":[
+        "Huachacalla"
+    ],
+    "name:deu_x_preferred":[
+        "Huachacalla"
+    ],
     "name:que_x_preferred":[
         "Wachaqalla"
     ],
@@ -38,9 +44,15 @@
     "name:spa_x_preferred":[
         "Huachacalla"
     ],
+    "name:swe_x_preferred":[
+        "Huachacalla"
+    ],
     "name:und_x_variant":[
         "Cosillahui",
         "Guachacalla",
+        "Huachacalla"
+    ],
+    "name:war_x_preferred":[
         "Huachacalla"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +82,7 @@
         }
     ],
     "wof:id":1243559431,
-    "wof:lastmodified":1537588068,
+    "wof:lastmodified":1564121396,
     "wof:name":"Huachacalla",
     "wof:parent_id":1092007939,
     "wof:placetype":"locality",

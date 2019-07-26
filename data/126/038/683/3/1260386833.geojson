@@ -25,6 +25,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Carvalho"
+    ],
+    "name:por_x_preferred":[
+        "Carvalho"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1260386833,
-    "wof:lastmodified":1537067582,
+    "wof:lastmodified":1564120550,
     "wof:name":"Carvalho",
     "wof:parent_id":421177655,
     "wof:placetype":"locality",

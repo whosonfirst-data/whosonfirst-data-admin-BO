@@ -25,6 +25,27 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tolata"
+    ],
+    "name:deu_x_preferred":[
+        "Tolata"
+    ],
+    "name:nor_x_preferred":[
+        "Tolata"
+    ],
+    "name:que_x_preferred":[
+        "Tulata"
+    ],
+    "name:sco_x_preferred":[
+        "Tolata"
+    ],
+    "name:swe_x_preferred":[
+        "Tolata"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u62c9\u5854"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1293689901,
-    "wof:lastmodified":1537487867,
+    "wof:lastmodified":1564119463,
     "wof:name":"Tolata",
     "wof:parent_id":421177651,
     "wof:placetype":"locality",

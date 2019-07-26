@@ -25,6 +25,42 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Borja"
+    ],
+    "name:deu_x_preferred":[
+        "San Borja"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u0628\u0648\u0631\u062e\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "San Borja"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d1\u10dd\u10e0\u10ee\u10d0"
+    ],
+    "name:lit_x_preferred":[
+        "San Borcha"
+    ],
+    "name:pol_x_preferred":[
+        "San Borja"
+    ],
+    "name:por_x_preferred":[
+        "San Borja"
+    ],
+    "name:que_x_preferred":[
+        "San Borja"
+    ],
+    "name:sco_x_preferred":[
+        "San Borja"
+    ],
+    "name:swe_x_preferred":[
+        "San Borja"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u535a\u723e\u54c8"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +86,7 @@
         }
     ],
     "wof:id":1293600615,
-    "wof:lastmodified":1537487951,
+    "wof:lastmodified":1564119508,
     "wof:name":"San Borja",
     "wof:parent_id":1092005669,
     "wof:placetype":"locality",

@@ -15,6 +15,21 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cayarani"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10d8\u10d0\u10e0\u10d0\u10dc\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Cayarani"
+    ],
+    "name:que_x_preferred":[
+        "Qayarani distritu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u4e9e\u62c9\u5c3c\u5340"
+    ],
     "qs:name":"Cayarani",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":890451499,
-    "wof:lastmodified":1527792937,
+    "wof:lastmodified":1564121321,
     "wof:name":"Cayarani",
     "wof:parent_id":1092006537,
     "wof:placetype":"locality",

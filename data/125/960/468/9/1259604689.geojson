@@ -25,8 +25,17 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tarapaya"
+    ],
+    "name:que_x_preferred":[
+        "Tarapaya kantun"
+    ],
     "name:spa_x_preferred":[
         "Tarapoaya"
+    ],
+    "name:spa_x_variant":[
+        "Tarapaya"
     ],
     "name:und_x_variant":[
         "Tarapaya"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1259604689,
-    "wof:lastmodified":1537587937,
+    "wof:lastmodified":1564121941,
     "wof:name":"Tarapoaya",
     "wof:parent_id":421177665,
     "wof:placetype":"locality",

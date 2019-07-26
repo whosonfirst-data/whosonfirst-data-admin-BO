@@ -25,6 +25,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Palcoco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1243460777,
-    "wof:lastmodified":1537487890,
+    "wof:lastmodified":1564121507,
     "wof:name":"Palcoco",
     "wof:parent_id":421197575,
     "wof:placetype":"locality",

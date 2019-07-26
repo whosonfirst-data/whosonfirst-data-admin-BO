@@ -25,7 +25,28 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Escondido"
+    ],
+    "name:ces_x_preferred":[
+        "Escondido"
+    ],
+    "name:deu_x_preferred":[
+        "Escondido"
+    ],
+    "name:fra_x_preferred":[
+        "Escondido"
+    ],
+    "name:por_x_preferred":[
+        "Escondido"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u043a\u043e\u043d\u0434\u0438\u0434\u043e"
+    ],
     "name:spa_x_preferred":[
+        "Escondido"
+    ],
+    "name:swe_x_preferred":[
         "Escondido"
     ],
     "src:geom":"geonames",
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1226440049,
-    "wof:lastmodified":1537588167,
+    "wof:lastmodified":1564122040,
     "wof:name":"Escondido",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",

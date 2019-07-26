@@ -26,8 +26,26 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Icona"
+    ],
+    "name:fra_x_preferred":[
+        "Icona"
+    ],
+    "name:nld_x_preferred":[
+        "Icona"
+    ],
+    "name:swe_x_preferred":[
+        "Icona"
+    ],
     "name:und_x_variant":[
         "Icora",
+        "Icona"
+    ],
+    "name:vie_x_preferred":[
+        "Icona"
+    ],
+    "name:war_x_preferred":[
         "Icona"
     ],
     "src:geom":"geonames",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1360298311,
-    "wof:lastmodified":1537588058,
+    "wof:lastmodified":1564121094,
     "wof:name":"Icona",
     "wof:parent_id":421172489,
     "wof:placetype":"locality",

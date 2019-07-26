@@ -26,6 +26,18 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Montecito"
+    ],
+    "name:fra_x_preferred":[
+        "Montecito"
+    ],
+    "name:ita_x_preferred":[
+        "Montecito"
+    ],
+    "name:spa_x_preferred":[
+        "Montecito"
+    ],
     "name:und_x_variant":[
         "Montesito",
         "Montecito"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1293391851,
-    "wof:lastmodified":1537588010,
+    "wof:lastmodified":1564119318,
     "wof:name":"Montecito",
     "wof:parent_id":1092005711,
     "wof:placetype":"locality",

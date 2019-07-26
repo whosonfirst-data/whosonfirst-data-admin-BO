@@ -25,6 +25,21 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cairoma"
+    ],
+    "name:deu_x_preferred":[
+        "Cairoma"
+    ],
+    "name:que_x_preferred":[
+        "K'ayruma"
+    ],
+    "name:spa_x_preferred":[
+        "Cairoma"
+    ],
+    "name:swe_x_preferred":[
+        "Cairoma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1293133893,
-    "wof:lastmodified":1537487942,
+    "wof:lastmodified":1564119424,
     "wof:name":"Cairoma",
     "wof:parent_id":421182435,
     "wof:placetype":"locality",

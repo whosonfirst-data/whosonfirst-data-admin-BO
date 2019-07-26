@@ -25,8 +25,23 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Caracollo"
+    ],
+    "name:deu_x_preferred":[
+        "Caracollo"
+    ],
     "name:que_x_preferred":[
         "Qaraqullu"
+    ],
+    "name:que_x_variant":[
+        "Q'araqullu"
+    ],
+    "name:spa_x_preferred":[
+        "Caracollo"
+    ],
+    "name:swe_x_preferred":[
+        "Caracollo"
     ],
     "name:zho_x_preferred":[
         "\u5361\u62c9\u79d1\u7d04"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1243194949,
-    "wof:lastmodified":1537588130,
+    "wof:lastmodified":1564121692,
     "wof:name":"Caracollo",
     "wof:parent_id":421187927,
     "wof:placetype":"locality",

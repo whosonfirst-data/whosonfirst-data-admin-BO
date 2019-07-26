@@ -26,6 +26,24 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Carmelo"
+    ],
+    "name:deu_x_preferred":[
+        "Carmelo"
+    ],
+    "name:ita_x_preferred":[
+        "Carmelo"
+    ],
+    "name:lat_x_preferred":[
+        "Carmelo"
+    ],
+    "name:nor_x_preferred":[
+        "Carmelo"
+    ],
+    "name:spa_x_preferred":[
+        "Carmelo"
+    ],
     "name:und_x_variant":[
         "Carmela",
         "Carmelo"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1327145925,
-    "wof:lastmodified":1537588127,
+    "wof:lastmodified":1564118580,
     "wof:name":"Carmelo",
     "wof:parent_id":1092005669,
     "wof:placetype":"locality",

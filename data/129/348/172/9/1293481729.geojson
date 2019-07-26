@@ -25,6 +25,36 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tambo Colorado"
+    ],
+    "name:ita_x_preferred":[
+        "Tambo Colorado"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10db\u10d1\u10dd-\u10d9\u10dd\u10da\u10dd\u10e0\u10d0\u10d3\u10dd"
+    ],
+    "name:lit_x_preferred":[
+        "Tambo Koloradas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0430\u043c\u0431\u043e \u041a\u043e\u043b\u043e\u0440\u0430\u0434\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Tambo colorado"
+    ],
+    "name:que_x_preferred":[
+        "Pukatampu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043c\u0431\u043e-\u041a\u043e\u043b\u043e\u0440\u0430\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Tambo Colorado"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043c\u0431\u043e-\u041a\u043e\u043b\u043e\u0440\u0430\u0434\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1293481729,
-    "wof:lastmodified":1536795640,
+    "wof:lastmodified":1564119373,
     "wof:name":"Tambo Colorado",
     "wof:parent_id":421177657,
     "wof:placetype":"locality",

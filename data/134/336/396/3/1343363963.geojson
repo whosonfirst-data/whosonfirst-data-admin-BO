@@ -26,6 +26,21 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Machaca"
+    ],
+    "name:ita_x_preferred":[
+        "Machaca"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c1\u30e3\u30ab"
+    ],
+    "name:pol_x_preferred":[
+        "Machaca"
+    ],
+    "name:spa_x_preferred":[
+        "Machaca"
+    ],
     "name:und_x_variant":[
         "Estancia Machacoyo",
         "Machaca"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1343363963,
-    "wof:lastmodified":1537588019,
+    "wof:lastmodified":1564118869,
     "wof:name":"Machaca",
     "wof:parent_id":1092007807,
     "wof:placetype":"locality",

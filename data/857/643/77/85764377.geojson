@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9540649.113681,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.137868,-16.520438,-68.137868,-16.520438",
     "geom:latitude":-16.520438,
     "geom:longitude":-68.137868,
@@ -28,6 +28,27 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "San Jorge"
+    ],
+    "name:deu_x_preferred":[
+        "San Jorge"
+    ],
+    "name:ita_x_preferred":[
+        "San Jorge"
+    ],
+    "name:nld_x_preferred":[
+        "San Jorge"
+    ],
+    "name:por_x_preferred":[
+        "San Jorge"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0440\u0445\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "San Jorge"
+    ],
     "name:spa_x_preferred":[
         "San Jorge"
     ],
@@ -35,7 +56,16 @@
         "S Jorge",
         "S. Jorge"
     ],
+    "name:swe_x_preferred":[
+        "San Jorge"
+    ],
     "name:unk_x_variant":[
+        "San Jorge"
+    ],
+    "name:vie_x_preferred":[
+        "San Jorge"
+    ],
+    "name:war_x_preferred":[
         "San Jorge"
     ],
     "qs:gn_adm0_cc":"BO",
@@ -116,7 +146,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379235,
+    "wof:lastmodified":1564119250,
     "wof:name":"San Jorge",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

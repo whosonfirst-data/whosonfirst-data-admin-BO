@@ -28,8 +28,29 @@
     "name:aym_x_preferred":[
         "Kurki"
     ],
+    "name:ceb_x_preferred":[
+        "Corque"
+    ],
+    "name:deu_x_preferred":[
+        "Corque"
+    ],
+    "name:que_x_preferred":[
+        "Qhurqhi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043a\u0435"
+    ],
     "name:spa_x_preferred":[
         "Corque"
+    ],
+    "name:swe_x_preferred":[
+        "Corque"
+    ],
+    "name:war_x_preferred":[
+        "Corque"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u723e\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1277004901,
-    "wof:lastmodified":1537588097,
+    "wof:lastmodified":1564119688,
     "wof:name":"Corque",
     "wof:parent_id":1092007807,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Trinchera"
+    ],
+    "name:fra_x_preferred":[
+        "Trinchera"
+    ],
     "name:spa_x_preferred":[
         "Trinchera"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1360007857,
-    "wof:lastmodified":1537588165,
+    "wof:lastmodified":1564121024,
     "wof:name":"Trinchera",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Huari"
+    ],
+    "name:deu_x_preferred":[
+        "Huari"
+    ],
+    "name:lit_x_preferred":[
+        "Varis"
+    ],
+    "name:nld_x_preferred":[
+        "Huari"
+    ],
+    "name:pol_x_preferred":[
+        "Huari"
+    ],
+    "name:por_x_preferred":[
+        "Huari"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0430\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Huari"
+    ],
     "name:und_x_variant":[
         "Comunidad Huari Pampa"
     ],
@@ -45,7 +69,7 @@
         }
     ],
     "wof:id":1209406535,
-    "wof:lastmodified":1537588064,
+    "wof:lastmodified":1564120177,
     "wof:name":"Huari",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",

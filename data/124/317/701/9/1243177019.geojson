@@ -25,6 +25,21 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tacopaya"
+    ],
+    "name:deu_x_preferred":[
+        "Tacopaya"
+    ],
+    "name:fra_x_preferred":[
+        "Tacopaya"
+    ],
+    "name:que_x_preferred":[
+        "Takupaya"
+    ],
+    "name:swe_x_preferred":[
+        "Tacopaya"
+    ],
     "name:und_x_variant":[
         "Estancia Tacopaya",
         "Tacopaya"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1243177019,
-    "wof:lastmodified":1537587941,
+    "wof:lastmodified":1564121674,
     "wof:name":"Tacopaya",
     "wof:parent_id":1092007807,
     "wof:placetype":"locality",

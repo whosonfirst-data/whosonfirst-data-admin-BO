@@ -26,6 +26,18 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Parco"
+    ],
+    "name:ita_x_preferred":[
+        "Parco"
+    ],
+    "name:srp_x_preferred":[
+        "Parco"
+    ],
+    "name:swe_x_preferred":[
+        "Parco"
+    ],
     "name:und_x_variant":[
         "Estancia Parco",
         "Parco"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1259480171,
-    "wof:lastmodified":1537587992,
+    "wof:lastmodified":1564121797,
     "wof:name":"Parco",
     "wof:parent_id":421177657,
     "wof:placetype":"locality",

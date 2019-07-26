@@ -26,6 +26,15 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Leon"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d \u041b\u0435\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "San Leon"
+    ],
     "name:und_x_variant":[
         "Le\u00f3n",
         "San Le\u00f3n"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1259379561,
-    "wof:lastmodified":1537587958,
+    "wof:lastmodified":1564121754,
     "wof:name":"San Leon",
     "wof:parent_id":421193355,
     "wof:placetype":"locality",

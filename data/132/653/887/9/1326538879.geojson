@@ -26,9 +26,15 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:que_x_preferred":[
+        "Qinamari"
+    ],
     "name:und_x_variant":[
         "Quertamari",
         "Quenamari"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u7d0d\u99ac\u91cc\u5c71"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326538879,
-    "wof:lastmodified":1537587973,
+    "wof:lastmodified":1564118794,
     "wof:name":"Quenamari",
     "wof:parent_id":421190243,
     "wof:placetype":"locality",

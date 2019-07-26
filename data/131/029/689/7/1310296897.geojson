@@ -25,6 +25,18 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Trapig"
+    ],
+    "name:fra_x_preferred":[
+        "Trapiche"
+    ],
+    "name:por_x_preferred":[
+        "Trapiche"
+    ],
+    "name:spa_x_preferred":[
+        "Trapiche"
+    ],
     "name:und_x_variant":[
         "Comunidad Trapiche",
         "Trapiche"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1310296897,
-    "wof:lastmodified":1537587925,
+    "wof:lastmodified":1564120875,
     "wof:name":"Trapiche",
     "wof:parent_id":1092008843,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
         "Pacolla",
         "Pacollo"
     ],
+    "name:zho_x_preferred":[
+        "\u5e15\u79d1\u7565\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226748027,
-    "wof:lastmodified":1537587998,
+    "wof:lastmodified":1564122069,
     "wof:name":"Pacollo",
     "wof:parent_id":421187929,
     "wof:placetype":"locality",

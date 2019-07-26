@@ -25,6 +25,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00edo Yanamayo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343970813,
-    "wof:lastmodified":1537004241,
+    "wof:lastmodified":1564118926,
     "wof:name":"Yanamayo",
     "wof:parent_id":421172489,
     "wof:placetype":"locality",

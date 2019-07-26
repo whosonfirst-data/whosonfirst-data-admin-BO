@@ -25,6 +25,42 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mariara"
+    ],
+    "name:deu_x_preferred":[
+        "Mariara"
+    ],
+    "name:epo_x_preferred":[
+        "Mariara"
+    ],
+    "name:fra_x_preferred":[
+        "Mariara"
+    ],
+    "name:ita_x_preferred":[
+        "Mariara"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10d8\u10d0\u10e0\u10d0"
+    ],
+    "name:pol_x_preferred":[
+        "Mariara"
+    ],
+    "name:por_x_preferred":[
+        "Mariara"
+    ],
+    "name:spa_x_preferred":[
+        "Mariara"
+    ],
+    "name:swe_x_preferred":[
+        "Mariara"
+    ],
+    "name:vol_x_preferred":[
+        "Mariara"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u91cc\u4e9e\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1259903881,
-    "wof:lastmodified":1536749625,
+    "wof:lastmodified":1564121787,
     "wof:name":"Mariara",
     "wof:parent_id":421187093,
     "wof:placetype":"locality",

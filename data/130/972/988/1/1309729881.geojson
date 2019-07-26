@@ -28,6 +28,15 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yampar\u00e1ez"
+    ],
+    "name:deu_x_preferred":[
+        "Yampar\u00e1ez"
+    ],
+    "name:swe_x_preferred":[
+        "Yampar\u00e1ez"
+    ],
     "name:und_x_variant":[
         "Yamparaes",
         "Yampar\u00e1ez"
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1309729881,
-    "wof:lastmodified":1537587907,
+    "wof:lastmodified":1564121279,
     "wof:name":"Yamparaez",
     "wof:parent_id":421188855,
     "wof:placetype":"locality",

@@ -28,7 +28,37 @@
     "name:aym_x_preferred":[
         "Pariya"
     ],
+    "name:ces_x_preferred":[
+        "Paria"
+    ],
+    "name:deu_x_preferred":[
+        "Paria"
+    ],
+    "name:fra_x_preferred":[
+        "Paria"
+    ],
+    "name:hrv_x_preferred":[
+        "Paria"
+    ],
+    "name:ind_x_preferred":[
+        "Paria"
+    ],
+    "name:ita_x_preferred":[
+        "Paria"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\ub9ac\uc544"
+    ],
+    "name:nld_x_preferred":[
+        "Paria"
+    ],
+    "name:pol_x_preferred":[
+        "Paria"
+    ],
     "name:spa_x_preferred":[
+        "Paria"
+    ],
+    "name:swe_x_preferred":[
         "Paria"
     ],
     "src:geom":"geonames",
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1310522897,
-    "wof:lastmodified":1537587992,
+    "wof:lastmodified":1564120802,
     "wof:name":"Paria",
     "wof:parent_id":1092008219,
     "wof:placetype":"locality",

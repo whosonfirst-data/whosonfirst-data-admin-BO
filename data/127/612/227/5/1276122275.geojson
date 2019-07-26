@@ -25,6 +25,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0632\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276122275,
-    "wof:lastmodified":1537058799,
+    "wof:lastmodified":1564119911,
     "wof:name":"Poroma",
     "wof:parent_id":421190241,
     "wof:placetype":"locality",

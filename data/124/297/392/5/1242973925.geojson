@@ -25,6 +25,21 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Parotani"
+    ],
+    "name:deu_x_preferred":[
+        "Parotani"
+    ],
+    "name:que_x_preferred":[
+        "Parutani"
+    ],
+    "name:swe_x_preferred":[
+        "Parotani"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u7f85\u5854\u5c3c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1242973925,
-    "wof:lastmodified":1537487888,
+    "wof:lastmodified":1564121617,
     "wof:name":"Parotani",
     "wof:parent_id":421197123,
     "wof:placetype":"locality",

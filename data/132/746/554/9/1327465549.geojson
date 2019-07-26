@@ -25,9 +25,24 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Huayllamarca"
+    ],
+    "name:que_x_preferred":[
+        "Wayllamarka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0430\u0439\u043b\u044c\u044f\u043c\u0430\u0440\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Cruz de Huayllamarca",
         "Huayllamarca"
+    ],
+    "name:war_x_preferred":[
+        "Huayllamarca"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u4f0a\u5229\u4e9e\u99ac\u723e\u5361"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1327465549,
-    "wof:lastmodified":1537588063,
+    "wof:lastmodified":1564118614,
     "wof:name":"Huayllamarca",
     "wof:parent_id":1092008243,
     "wof:placetype":"locality",

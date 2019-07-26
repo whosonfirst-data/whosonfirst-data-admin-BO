@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "Estancia Muelle"
     ],
+    "name:spa_x_variant":[
+        "Muelle"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293299023,
-    "wof:lastmodified":1537588008,
+    "wof:lastmodified":1564119571,
     "wof:name":"Muelle",
     "wof:parent_id":1092007003,
     "wof:placetype":"locality",

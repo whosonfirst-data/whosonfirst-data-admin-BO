@@ -25,6 +25,18 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pojo"
+    ],
+    "name:deu_x_preferred":[
+        "Pojo"
+    ],
+    "name:que_x_preferred":[
+        "Puqu"
+    ],
+    "name:sco_x_preferred":[
+        "Pojo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1293209423,
-    "wof:lastmodified":1537487886,
+    "wof:lastmodified":1564119552,
     "wof:name":"Pojo",
     "wof:parent_id":1092006537,
     "wof:placetype":"locality",

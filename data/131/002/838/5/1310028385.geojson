@@ -25,6 +25,30 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Orinoca"
+    ],
+    "name:deu_x_preferred":[
+        "Orinoca"
+    ],
+    "name:fra_x_preferred":[
+        "Orinoca"
+    ],
+    "name:por_x_preferred":[
+        "Orinoca"
+    ],
+    "name:que_x_preferred":[
+        "Jurinuqa kantun"
+    ],
+    "name:sco_x_preferred":[
+        "Orinoca"
+    ],
+    "name:spa_x_preferred":[
+        "Orinoca"
+    ],
+    "name:swe_x_preferred":[
+        "Orinoca"
+    ],
     "name:und_x_variant":[
         "Orinoco",
         "Orinoca",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1310028385,
-    "wof:lastmodified":1537588001,
+    "wof:lastmodified":1564120965,
     "wof:name":"Orinoca",
     "wof:parent_id":1092008243,
     "wof:placetype":"locality",

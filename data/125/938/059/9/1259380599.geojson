@@ -25,6 +25,18 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Congreso"
+    ],
+    "name:fra_x_preferred":[
+        "Congreso"
+    ],
+    "name:ron_x_preferred":[
+        "Congreso"
+    ],
+    "name:spa_x_preferred":[
+        "Congreso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259380599,
-    "wof:lastmodified":1537005742,
+    "wof:lastmodified":1564121726,
     "wof:name":"Congreso",
     "wof:parent_id":1092008329,
     "wof:placetype":"locality",

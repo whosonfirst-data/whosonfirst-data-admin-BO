@@ -25,6 +25,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Somin"
+    ],
+    "name:vie_x_preferred":[
+        "Somin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1309718335,
-    "wof:lastmodified":1537054761,
+    "wof:lastmodified":1564121205,
     "wof:name":"Somin",
     "wof:parent_id":421187929,
     "wof:placetype":"locality",

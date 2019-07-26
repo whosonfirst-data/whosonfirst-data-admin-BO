@@ -25,9 +25,39 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Huanuni"
+    ],
+    "name:deu_x_preferred":[
+        "Huanuni"
+    ],
+    "name:pol_x_preferred":[
+        "Huanuni"
+    ],
+    "name:por_x_preferred":[
+        "Huanuni"
+    ],
+    "name:que_x_preferred":[
+        "Wanuni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0430\u043d\u0443\u043d\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Huanuni"
+    ],
+    "name:swe_x_preferred":[
+        "Huanuni"
+    ],
     "name:und_x_variant":[
         "Estancia Huanuni",
         "Huanuni"
+    ],
+    "name:war_x_preferred":[
+        "Huanuni"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u52aa\u5c3c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1226247427,
-    "wof:lastmodified":1537588065,
+    "wof:lastmodified":1564122230,
     "wof:name":"Huanuni",
     "wof:parent_id":1092008039,
     "wof:placetype":"locality",

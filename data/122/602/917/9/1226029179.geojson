@@ -25,6 +25,18 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Juntas"
+    ],
+    "name:deu_x_preferred":[
+        "Las Juntas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Juntas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Juntas"
+    ],
     "name:und_x_variant":[
         "Juntas",
         "Las Juntas"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1226029179,
-    "wof:lastmodified":1537588029,
+    "wof:lastmodified":1564122107,
     "wof:name":"Las Juntas",
     "wof:parent_id":1092010137,
     "wof:placetype":"locality",

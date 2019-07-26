@@ -25,6 +25,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cidral"
+    ],
     "name:und_x_variant":[
         "El Cidral",
         "Cidral"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243081379,
-    "wof:lastmodified":1537588105,
+    "wof:lastmodified":1564121377,
     "wof:name":"Cidral",
     "wof:parent_id":421169227,
     "wof:placetype":"locality",

@@ -26,6 +26,27 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:deu_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:ita_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:nld_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:pol_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:spa_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:swe_x_preferred":[
+        "San Miguelito"
+    ],
     "name:und_x_variant":[
         "Estancia San Miquelito",
         "San Miguelito"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1226631803,
-    "wof:lastmodified":1537587957,
+    "wof:lastmodified":1564122271,
     "wof:name":"San Miguelito",
     "wof:parent_id":1092009873,
     "wof:placetype":"locality",

@@ -28,8 +28,14 @@
     "name:eng_x_preferred":[
         "Ascenci\u00f3n de Guarayos"
     ],
+    "name:que_x_preferred":[
+        "Warayu wichay"
+    ],
     "name:spa_x_preferred":[
         "Ascenci\u00f3n de Guarayos"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u68ee\u677e\u5fb7\u74dc\u62c9\u7d04\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1259865071,
-    "wof:lastmodified":1537588162,
+    "wof:lastmodified":1564121987,
     "wof:name":"Ascencion de Guarayos",
     "wof:parent_id":1092009737,
     "wof:placetype":"locality",

@@ -13,6 +13,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Villamontes"
+    ],
+    "name:deu_x_preferred":[
+        "Villamontes"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0644\u0644\u0627\u0645\u0648\u0646\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Villamontes"
+    ],
+    "name:ita_x_preferred":[
+        "Villamontes"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10da\u10d8\u10d0\u10db\u10dd\u10dc\u10e2\u10d4\u10e1\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Villamontes"
+    ],
+    "name:nor_x_preferred":[
+        "Villamontes"
+    ],
+    "name:pol_x_preferred":[
+        "Villamontes"
+    ],
+    "name:por_x_preferred":[
+        "Villamontes"
+    ],
+    "name:que_x_preferred":[
+        "Villamontes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f-\u041c\u043e\u043d\u0442\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Montes"
+    ],
+    "name:swe_x_preferred":[
+        "Villamontes"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u041c\u043e\u043d\u0442\u0435\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u4e9e\u8499\u7279\u65af"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,7 +108,7 @@
         }
     ],
     "wof:id":421189297,
-    "wof:lastmodified":1497044569,
+    "wof:lastmodified":1564121296,
     "wof:name":"Villamontes",
     "wof:parent_id":421169235,
     "wof:placetype":"localadmin",

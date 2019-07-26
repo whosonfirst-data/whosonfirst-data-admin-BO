@@ -25,6 +25,33 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Verano"
+    ],
+    "name:deu_x_preferred":[
+        "Verano"
+    ],
+    "name:fin_x_preferred":[
+        "Verano"
+    ],
+    "name:ita_x_preferred":[
+        "Verano"
+    ],
+    "name:lat_x_preferred":[
+        "Veranum"
+    ],
+    "name:por_x_preferred":[
+        "Verano"
+    ],
+    "name:spa_x_preferred":[
+        "Verano"
+    ],
+    "name:srp_x_preferred":[
+        "Verano"
+    ],
+    "name:swe_x_preferred":[
+        "Verano"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632623
@@ -42,7 +69,7 @@
         }
     ],
     "wof:id":1209525083,
-    "wof:lastmodified":1536284456,
+    "wof:lastmodified":1564120117,
     "wof:name":"Verano",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",
