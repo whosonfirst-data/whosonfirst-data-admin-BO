@@ -25,6 +25,30 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Basilio"
+    ],
+    "name:deu_x_preferred":[
+        "Basilio"
+    ],
+    "name:ita_x_preferred":[
+        "Basilio"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30b8\u30ea\u30aa"
+    ],
+    "name:pol_x_preferred":[
+        "Basilio"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0437\u0438\u043b\u0438\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Basilio"
+    ],
+    "name:swe_x_preferred":[
+        "Basilio"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1226631871,
-    "wof:lastmodified":1536878687,
+    "wof:lastmodified":1564122271,
     "wof:name":"Basilio",
     "wof:parent_id":421187923,
     "wof:placetype":"locality",

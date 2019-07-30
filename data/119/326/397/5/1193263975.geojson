@@ -25,6 +25,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pascoe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1193263975,
-    "wof:lastmodified":1536377874,
+    "wof:lastmodified":1564120539,
     "wof:name":"Pascoe",
     "wof:parent_id":421183095,
     "wof:placetype":"locality",

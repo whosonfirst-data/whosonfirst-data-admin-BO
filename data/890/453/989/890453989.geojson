@@ -15,6 +15,21 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "San Juli\u00e1n"
+    ],
+    "name:fra_x_preferred":[
+        "San Juli\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "San Juli\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "San Juli\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "San Juli\u00e1n"
+    ],
     "qs:name":"San Julian",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":890453989,
-    "wof:lastmodified":1527736644,
+    "wof:lastmodified":1564121316,
     "wof:name":"San Julian",
     "wof:parent_id":421187923,
     "wof:placetype":"locality",

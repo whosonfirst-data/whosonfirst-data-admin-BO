@@ -25,6 +25,21 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Carnavalito"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05e0\u05d1\u05dc\u05d9\u05d8\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Carnavalito"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30eb\u30ca\u30d0\u30ea\u30fc\u30c8"
+    ],
+    "name:que_x_preferred":[
+        "Karnawalitu"
+    ],
     "name:spa_x_preferred":[
         "Carnavalito"
     ],
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1310327221,
-    "wof:lastmodified":1537588173,
+    "wof:lastmodified":1564120923,
     "wof:name":"Carnavalito",
     "wof:parent_id":1092008461,
     "wof:placetype":"locality",

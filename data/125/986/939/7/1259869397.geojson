@@ -26,10 +26,31 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chamical"
+    ],
+    "name:fra_x_preferred":[
+        "Chamical"
+    ],
+    "name:ita_x_preferred":[
+        "Chamical"
+    ],
+    "name:pol_x_preferred":[
+        "Chamical"
+    ],
+    "name:por_x_preferred":[
+        "Chamical"
+    ],
+    "name:spa_x_preferred":[
+        "Chamical"
+    ],
     "name:und_x_variant":[
         "Onamanate",
         "Chamarete",
         "Chamical"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u99ac\u5361\u723e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1259869397,
-    "wof:lastmodified":1537588119,
+    "wof:lastmodified":1564121983,
     "wof:name":"Chamical",
     "wof:parent_id":1092010191,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u7279\u85a9\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209736965,
-    "wof:lastmodified":1536372673,
+    "wof:lastmodified":1564120326,
     "wof:name":"Arteza",
     "wof:parent_id":1092010137,
     "wof:placetype":"locality",

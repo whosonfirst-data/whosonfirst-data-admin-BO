@@ -25,6 +25,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pampa Grande"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259705215,
-    "wof:lastmodified":1537034334,
+    "wof:lastmodified":1564121812,
     "wof:name":"Pampa Grande",
     "wof:parent_id":421166639,
     "wof:placetype":"locality",

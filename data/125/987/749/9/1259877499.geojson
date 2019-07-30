@@ -25,6 +25,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Canamar"
+    ],
     "name:spa_x_preferred":[
         "Canamar"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259877499,
-    "wof:lastmodified":1537588182,
+    "wof:lastmodified":1564121953,
     "wof:name":"Canamar",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",

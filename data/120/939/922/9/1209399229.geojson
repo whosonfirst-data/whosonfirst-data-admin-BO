@@ -25,9 +25,21 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Serere"
+    ],
+    "name:fra_x_preferred":[
+        "Serere"
+    ],
+    "name:lug_x_preferred":[
+        "Serere"
+    ],
     "name:und_x_variant":[
         "Sarere",
         "Serer\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0631\u06cc\u0631\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209399229,
-    "wof:lastmodified":1537587950,
+    "wof:lastmodified":1564120091,
     "wof:name":"Serere",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",

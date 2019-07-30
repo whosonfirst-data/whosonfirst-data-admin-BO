@@ -25,6 +25,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:que_x_preferred":[
+        "Vilcanota"
+    ],
+    "name:spa_x_preferred":[
+        "Vilcanota"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226149125,
-    "wof:lastmodified":1537069754,
+    "wof:lastmodified":1564122179,
     "wof:name":"Vilcanota",
     "wof:parent_id":421182439,
     "wof:placetype":"locality",

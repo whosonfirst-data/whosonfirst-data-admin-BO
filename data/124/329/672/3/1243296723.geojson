@@ -25,6 +25,15 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Quadrilla"
+    ],
+    "name:eus_x_preferred":[
+        "Kuadrilla"
+    ],
+    "name:spa_x_preferred":[
+        "Cuadrilla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1243296723,
-    "wof:lastmodified":1537020474,
+    "wof:lastmodified":1564121641,
     "wof:name":"Cuadrilla",
     "wof:parent_id":421182439,
     "wof:placetype":"locality",

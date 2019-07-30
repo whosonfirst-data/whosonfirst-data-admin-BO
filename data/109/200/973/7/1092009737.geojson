@@ -34,12 +34,30 @@
     "mps:longitude":-63.357051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Guarayos"
+    ],
     "name:eng_x_preferred":[
         "Guarayos"
     ],
     "name:eng_x_variant":[
         "Guarayos",
         "Marb\u00e1n"
+    ],
+    "name:hrv_x_preferred":[
+        "Guarayu"
+    ],
+    "name:lit_x_preferred":[
+        "Gvarajai"
+    ],
+    "name:por_x_preferred":[
+        "Guaraios"
+    ],
+    "name:que_x_preferred":[
+        "Warayu runa"
+    ],
+    "name:spa_x_preferred":[
+        "Guarayos"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -64,7 +82,7 @@
         }
     ],
     "wof:id":1092009737,
-    "wof:lastmodified":1555047043,
+    "wof:lastmodified":1564121148,
     "wof:name":"Guarayos",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

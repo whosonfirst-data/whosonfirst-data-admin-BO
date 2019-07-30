@@ -26,6 +26,18 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Loma Grande"
+    ],
+    "name:spa_x_preferred":[
+        "Loma Grande"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u043c\u0430 \u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Loma Grande"
+    ],
     "name:und_x_variant":[
         "Loma",
         "Loma Grande"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1259886229,
-    "wof:lastmodified":1537588022,
+    "wof:lastmodified":1564121979,
     "wof:name":"Loma Grande",
     "wof:parent_id":421168083,
     "wof:placetype":"locality",

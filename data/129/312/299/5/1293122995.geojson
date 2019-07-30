@@ -25,7 +25,28 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tucano"
+    ],
+    "name:deu_x_preferred":[
+        "Tucano"
+    ],
+    "name:ita_x_preferred":[
+        "Tucano"
+    ],
+    "name:mlg_x_preferred":[
+        "Tucano"
+    ],
+    "name:por_x_preferred":[
+        "Tucano"
+    ],
     "name:spa_x_preferred":[
+        "Tucano"
+    ],
+    "name:swe_x_preferred":[
+        "Tucano"
+    ],
+    "name:vie_x_preferred":[
         "Tucano"
     ],
     "src:geom":"geonames",
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1293122995,
-    "wof:lastmodified":1537588170,
+    "wof:lastmodified":1564119392,
     "wof:name":"Tucano",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nieva"
+    ],
+    "name:deu_x_preferred":[
+        "Nieva"
+    ],
+    "name:spa_x_preferred":[
+        "Nieva"
+    ],
+    "name:swe_x_preferred":[
+        "Nieva"
+    ],
     "name:und_x_variant":[
         "Nieves",
         "Nieva Reconquista",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1276982195,
-    "wof:lastmodified":1537588004,
+    "wof:lastmodified":1564119995,
     "wof:name":"Nieva",
     "wof:parent_id":1092005839,
     "wof:placetype":"locality",

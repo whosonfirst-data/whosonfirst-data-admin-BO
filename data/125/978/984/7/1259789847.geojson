@@ -25,6 +25,42 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cagua"
+    ],
+    "name:deu_x_preferred":[
+        "Cagua"
+    ],
+    "name:epo_x_preferred":[
+        "Cagua"
+    ],
+    "name:fra_x_preferred":[
+        "Cagua"
+    ],
+    "name:ita_x_preferred":[
+        "Cagua"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10d2\u10e3\u10d0"
+    ],
+    "name:lit_x_preferred":[
+        "Kagva"
+    ],
+    "name:pol_x_preferred":[
+        "Cagua"
+    ],
+    "name:por_x_preferred":[
+        "Cagua"
+    ],
+    "name:spa_x_preferred":[
+        "Cagua"
+    ],
+    "name:swe_x_preferred":[
+        "Cagua"
+    ],
+    "name:vol_x_preferred":[
+        "Cagua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1259789847,
-    "wof:lastmodified":1536914403,
+    "wof:lastmodified":1564121847,
     "wof:name":"Cagua",
     "wof:parent_id":421187929,
     "wof:placetype":"locality",

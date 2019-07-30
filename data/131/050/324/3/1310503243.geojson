@@ -25,6 +25,21 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "San Javier"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u062e\u0627\u0648\u06cc\u0631"
+    ],
+    "name:que_x_preferred":[
+        "San Javier"
+    ],
+    "name:spa_x_preferred":[
+        "San Javier"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u54c8\u7dad\u723e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1310503243,
-    "wof:lastmodified":1537487877,
+    "wof:lastmodified":1564120942,
     "wof:name":"San Javier",
     "wof:parent_id":421191613,
     "wof:placetype":"locality",

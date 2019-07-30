@@ -26,10 +26,34 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tapacar\u00ed"
+    ],
+    "name:fra_x_preferred":[
+        "Tapacar\u00ed"
+    ],
+    "name:nor_x_preferred":[
+        "Tapacar\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Tapacar\u00ed"
+    ],
+    "name:que_x_preferred":[
+        "Tapaqari"
+    ],
+    "name:swe_x_preferred":[
+        "Tapacar\u00ed"
+    ],
     "name:und_x_variant":[
         "Villa de Tapacar\u00ed",
         "Villa Tapacar\u00ed",
         "Tapacar\u00ed"
+    ],
+    "name:war_x_preferred":[
+        "Tapacar\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u5e15\u5361\u91cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1343670441,
-    "wof:lastmodified":1537587938,
+    "wof:lastmodified":1564119119,
     "wof:name":"Tapacari",
     "wof:parent_id":1092006805,
     "wof:placetype":"locality",

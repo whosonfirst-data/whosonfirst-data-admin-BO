@@ -25,7 +25,16 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Alianza"
+    ],
+    "name:por_x_preferred":[
+        "Alianza"
+    ],
     "name:spa_x_preferred":[
+        "Alianza"
+    ],
+    "name:swe_x_preferred":[
         "Alianza"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1293776423,
-    "wof:lastmodified":1537588185,
+    "wof:lastmodified":1564119363,
     "wof:name":"Alianza",
     "wof:parent_id":1092008461,
     "wof:placetype":"locality",

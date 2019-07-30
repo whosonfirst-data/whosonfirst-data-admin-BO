@@ -25,6 +25,36 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Rueda"
+    ],
+    "name:cat_x_preferred":[
+        "Rueda"
+    ],
+    "name:ceb_x_preferred":[
+        "Rueda"
+    ],
+    "name:deu_x_preferred":[
+        "Rueda"
+    ],
+    "name:fra_x_preferred":[
+        "Rueda"
+    ],
+    "name:por_x_preferred":[
+        "Rueda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u044d\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Rueda"
+    ],
+    "name:swe_x_preferred":[
+        "Rueda"
+    ],
+    "name:tur_x_preferred":[
+        "Rueda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1310189649,
-    "wof:lastmodified":1536874206,
+    "wof:lastmodified":1564120867,
     "wof:name":"Rueda",
     "wof:parent_id":421182443,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Tatoba"
+    ],
+    "name:msa_x_preferred":[
+        "Tatova"
+    ],
     "name:spa_x_preferred":[
         "Tatoba"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276756797,
-    "wof:lastmodified":1537588192,
+    "wof:lastmodified":1564119706,
     "wof:name":"Tatoba",
     "wof:parent_id":1092008329,
     "wof:placetype":"locality",

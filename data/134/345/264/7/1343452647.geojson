@@ -25,7 +25,16 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tinguipaya"
+    ],
+    "name:deu_x_preferred":[
+        "Tinguipaya"
+    ],
     "name:spa_x_preferred":[
+        "Tinguipaya"
+    ],
+    "name:swe_x_preferred":[
         "Tinguipaya"
     ],
     "name:und_x_variant":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1343452647,
-    "wof:lastmodified":1537588075,
+    "wof:lastmodified":1564119191,
     "wof:name":"Tinguipaya",
     "wof:parent_id":421177665,
     "wof:placetype":"locality",

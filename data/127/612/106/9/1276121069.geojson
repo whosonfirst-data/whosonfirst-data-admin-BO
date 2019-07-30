@@ -30,6 +30,9 @@
         "Challuani",
         "Challhuani"
     ],
+    "name:zho_x_preferred":[
+        "\u67e5\u723e\u74e6\u5c3c\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1276121069,
-    "wof:lastmodified":1537588119,
+    "wof:lastmodified":1564119917,
     "wof:name":"Challhuani",
     "wof:parent_id":1092006537,
     "wof:placetype":"locality",

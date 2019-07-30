@@ -26,6 +26,15 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tacacoma"
+    ],
+    "name:fra_x_preferred":[
+        "Tacacoma"
+    ],
+    "name:que_x_preferred":[
+        "Takakuma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1293001557,
-    "wof:lastmodified":1537487871,
+    "wof:lastmodified":1564119270,
     "wof:name":"Tacacoma",
     "wof:parent_id":421187929,
     "wof:placetype":"locality",

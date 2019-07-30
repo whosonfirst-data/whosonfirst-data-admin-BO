@@ -28,6 +28,12 @@
     "name:aym_x_preferred":[
         "Kimsa Kurusati"
     ],
+    "name:cat_x_preferred":[
+        "Tres Cruces"
+    ],
+    "name:deu_x_preferred":[
+        "Tres Cruces"
+    ],
     "name:spa_x_preferred":[
         "Tres Cruces"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1326922171,
-    "wof:lastmodified":1537587924,
+    "wof:lastmodified":1564118540,
     "wof:name":"Tres Cruces",
     "wof:parent_id":1092009203,
     "wof:placetype":"locality",

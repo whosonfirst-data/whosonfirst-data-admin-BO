@@ -26,6 +26,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Carura"
+    ],
     "name:und_x_variant":[
         "Orura",
         "Carura"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1226266807,
-    "wof:lastmodified":1537588127,
+    "wof:lastmodified":1564122049,
     "wof:name":"Carura",
     "wof:parent_id":421187929,
     "wof:placetype":"locality",

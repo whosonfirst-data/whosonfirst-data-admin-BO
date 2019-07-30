@@ -26,6 +26,21 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cachuela Esperanza"
+    ],
+    "name:deu_x_preferred":[
+        "Cachuela Esperanza"
+    ],
+    "name:fra_x_preferred":[
+        "Cachuela Esperanza"
+    ],
+    "name:spa_x_preferred":[
+        "Cachuela Esperanza"
+    ],
+    "name:swe_x_preferred":[
+        "Cachuela Esperanza"
+    ],
     "name:und_x_variant":[
         "Chachoeiro Esperanza",
         "Esperanza",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1243451967,
-    "wof:lastmodified":1537588140,
+    "wof:lastmodified":1564121662,
     "wof:name":"Cachuela Esperanza",
     "wof:parent_id":421177655,
     "wof:placetype":"locality",

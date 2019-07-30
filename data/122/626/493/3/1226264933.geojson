@@ -25,7 +25,28 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u064a\u0628\u0648\u0631\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Caipora"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u06cc\u067e\u0648\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Caipora"
+    ],
+    "name:nor_x_preferred":[
+        "Caipora"
+    ],
+    "name:por_x_preferred":[
+        "Caipora"
+    ],
     "name:spa_x_preferred":[
+        "Caipora"
+    ],
+    "name:swe_x_preferred":[
         "Caipora"
     ],
     "src:geom":"geonames",
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1226264933,
-    "wof:lastmodified":1537588193,
+    "wof:lastmodified":1564122055,
     "wof:name":"Caipora",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",

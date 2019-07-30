@@ -25,6 +25,18 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Paurito"
+    ],
+    "name:deu_x_preferred":[
+        "Paurito"
+    ],
+    "name:swe_x_preferred":[
+        "Paurito"
+    ],
+    "name:zho_x_preferred":[
+        "\u4fdd\u91cc\u6258"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1310586593,
-    "wof:lastmodified":1537487888,
+    "wof:lastmodified":1564120991,
     "wof:name":"Paurito",
     "wof:parent_id":421187923,
     "wof:placetype":"locality",

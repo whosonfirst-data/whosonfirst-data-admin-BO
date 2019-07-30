@@ -25,6 +25,18 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Achiri"
+    ],
+    "name:deu_x_preferred":[
+        "Achiri"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0686\u06cc\u0631\u06cc"
+    ],
+    "name:swe_x_preferred":[
+        "Achiri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1260104277,
-    "wof:lastmodified":1537487950,
+    "wof:lastmodified":1564120673,
     "wof:name":"Achiri",
     "wof:parent_id":421182439,
     "wof:placetype":"locality",

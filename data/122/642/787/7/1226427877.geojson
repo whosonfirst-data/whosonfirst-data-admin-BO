@@ -25,6 +25,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Guadalupe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1226427877,
-    "wof:lastmodified":1537487918,
+    "wof:lastmodified":1564122064,
     "wof:name":"Guadalupe",
     "wof:parent_id":421193471,
     "wof:placetype":"locality",

@@ -26,6 +26,45 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Camacha"
+    ],
+    "name:ces_x_preferred":[
+        "Camacha"
+    ],
+    "name:deu_x_preferred":[
+        "Camacha"
+    ],
+    "name:fra_x_preferred":[
+        "Camacha"
+    ],
+    "name:hun_x_preferred":[
+        "Camacha"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u043c\u0430\u0448\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Camacha"
+    ],
+    "name:pol_x_preferred":[
+        "Camacha"
+    ],
+    "name:por_x_preferred":[
+        "Camacha"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0430\u0448\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Camacha"
+    ],
+    "name:tur_x_preferred":[
+        "Camacha"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u0430\u0448\u0430"
+    ],
     "name:und_x_variant":[
         "Camacho",
         "Camacha"
@@ -53,7 +92,7 @@
         }
     ],
     "wof:id":1243285093,
-    "wof:lastmodified":1537588135,
+    "wof:lastmodified":1564121672,
     "wof:name":"Camacha",
     "wof:parent_id":421177659,
     "wof:placetype":"locality",

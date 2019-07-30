@@ -26,6 +26,15 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pozo del Tigre"
+    ],
+    "name:por_x_preferred":[
+        "Pozo del Tigre"
+    ],
+    "name:spa_x_preferred":[
+        "Pozo del Tigre"
+    ],
     "name:und_x_variant":[
         "Pozo Tigre",
         "Pozo del Tigre"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1260075575,
-    "wof:lastmodified":1537587981,
+    "wof:lastmodified":1564120553,
     "wof:name":"Pozo del Tigre",
     "wof:parent_id":1092009601,
     "wof:placetype":"locality",

@@ -30,6 +30,9 @@
         "Estancia Challuma",
         "Challuma"
     ],
+    "name:zho_x_preferred":[
+        "\u67e5\u67f3\u99ac\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1309712557,
-    "wof:lastmodified":1537588119,
+    "wof:lastmodified":1564121209,
     "wof:name":"Challuma",
     "wof:parent_id":1092008123,
     "wof:placetype":"locality",

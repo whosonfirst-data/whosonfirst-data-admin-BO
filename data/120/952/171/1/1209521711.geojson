@@ -25,6 +25,63 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Chaqaltaya"
+    ],
+    "name:ceb_x_preferred":[
+        "Nevado Chacaltaya"
+    ],
+    "name:deu_x_preferred":[
+        "Chacaltaya"
+    ],
+    "name:epo_x_preferred":[
+        "Chacaltaya"
+    ],
+    "name:fra_x_preferred":[
+        "Chacaltaya"
+    ],
+    "name:hun_x_preferred":[
+        "Chacaltaya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30ab\u30eb\u30bf\u30e4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10d9\u10d0\u10da\u10e2\u10d0\u10d8\u10d0"
+    ],
+    "name:oss_x_preferred":[
+        "\u0427\u0430\u043a\u0430\u043b\u0442\u0430\u0439\u00e6"
+    ],
+    "name:pol_x_preferred":[
+        "Chacaltaya"
+    ],
+    "name:por_x_preferred":[
+        "Chacaltaya"
+    ],
+    "name:que_x_preferred":[
+        "Chakaltaya"
+    ],
+    "name:ron_x_preferred":[
+        "Chacaltaya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043a\u0430\u043b\u0442\u0430\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Chacaltaya"
+    ],
+    "name:swe_x_preferred":[
+        "Nevado Chacaltaya"
+    ],
+    "name:tur_x_preferred":[
+        "Chacaltaya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u043a\u0430\u043b\u0442\u0430\u044f"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u5361\u5854\u96c5"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632623
@@ -34,7 +91,7 @@
         "gn:id":3921564
     },
     "wof:country":"BO",
-    "wof:geomhash":"f511fff52e5b90ca6e762584d5a353bb",
+    "wof:geomhash":"f96f58b7de0d6765014bfdb49bca4528",
     "wof:hierarchy":[
         {
             "country_id":85632623,
@@ -42,7 +99,7 @@
         }
     ],
     "wof:id":1209521711,
-    "wof:lastmodified":1536284559,
+    "wof:lastmodified":1564120124,
     "wof:name":"Chacaltaya",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",
@@ -53,9 +110,9 @@
 },
   "bbox": [
     -68.15,
-    -16.433329999999998,
+    -16.43333,
     -68.15,
-    -16.433329999999998
+    -16.43333
 ],
   "geometry": {"coordinates":[-68.15000000000001,-16.43333],"type":"Point"}
 }

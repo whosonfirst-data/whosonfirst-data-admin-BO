@@ -26,6 +26,21 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cote"
+    ],
+    "name:epo_x_preferred":[
+        "Kvoto"
+    ],
+    "name:fra_x_preferred":[
+        "Cote"
+    ],
+    "name:pol_x_preferred":[
+        "Cote"
+    ],
+    "name:swe_x_preferred":[
+        "Cote"
+    ],
     "name:und_x_variant":[
         "Cota",
         "Cote"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1209838471,
-    "wof:lastmodified":1537588095,
+    "wof:lastmodified":1564120135,
     "wof:name":"Cote",
     "wof:parent_id":1092008039,
     "wof:placetype":"locality",

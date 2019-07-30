@@ -25,6 +25,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Chaguaya"
+    ],
+    "name:spa_x_preferred":[
+        "Chaguaya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326519907,
-    "wof:lastmodified":1537001076,
+    "wof:lastmodified":1564118516,
     "wof:name":"Chaguaya",
     "wof:parent_id":421182443,
     "wof:placetype":"locality",

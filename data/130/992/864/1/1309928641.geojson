@@ -25,6 +25,18 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Municipio Paz\u00f1a"
+    ],
+    "name:ita_x_preferred":[
+        "Paz\u00f1a"
+    ],
+    "name:nld_x_preferred":[
+        "Paz\u00f1a"
+    ],
+    "name:que_x_preferred":[
+        "Pas\u00f1a munisipyu"
+    ],
     "name:und_x_variant":[
         "Paz\u00f1a"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1309928641,
-    "wof:lastmodified":1537587989,
+    "wof:lastmodified":1564121228,
     "wof:name":"Pazna",
     "wof:parent_id":1092007991,
     "wof:placetype":"locality",

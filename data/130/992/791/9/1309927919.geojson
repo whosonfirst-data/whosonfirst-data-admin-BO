@@ -25,6 +25,60 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Julio C\u00e9sar"
+    ],
+    "name:bos_x_preferred":[
+        "J\u00falio C\u00e9sar"
+    ],
+    "name:ces_x_preferred":[
+        "Julio Cesar"
+    ],
+    "name:deu_x_preferred":[
+        "Julio C\u00e9sar"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03bf\u03cd\u03bb\u03b9\u03bf \u03a3\u03ad\u03b6\u03b1\u03c1"
+    ],
+    "name:fin_x_preferred":[
+        "J\u00falio C\u00e9sar"
+    ],
+    "name:fra_x_preferred":[
+        "J\u00falio C\u00e9sar"
+    ],
+    "name:ita_x_preferred":[
+        "J\u00falio C\u00e9sar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e5\u30ea\u30aa\u30fb\u30bb\u30b6\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ud6cc\ub9ac\uc624 \uc138\uc0ac\ub974"
+    ],
+    "name:nld_x_preferred":[
+        "J\u00falio C\u00e9sar"
+    ],
+    "name:nno_x_preferred":[
+        "J\u00falio C\u00e9sar"
+    ],
+    "name:por_x_preferred":[
+        "J\u00falio C\u00e9sar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u043b\u0438\u043e \u0421\u0435\u0437\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Julio C\u00e9sar"
+    ],
+    "name:tur_x_preferred":[
+        "Julio Cesar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0443\u043b\u0456\u043e \u0421\u0435\u0437\u0430\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Julio Cesar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +102,7 @@
         }
     ],
     "wof:id":1309927919,
-    "wof:lastmodified":1536755169,
+    "wof:lastmodified":1564121223,
     "wof:name":"Julio Cesar",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",

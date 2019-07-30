@@ -26,6 +26,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Catavi"
+    ],
+    "name:spa_x_preferred":[
+        "Catavi"
+    ],
     "name:und_x_variant":[
         "Comunidad Catavi",
         "Catavi"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1193161253,
-    "wof:lastmodified":1537588124,
+    "wof:lastmodified":1564120538,
     "wof:name":"Catavi",
     "wof:parent_id":421197575,
     "wof:placetype":"locality",

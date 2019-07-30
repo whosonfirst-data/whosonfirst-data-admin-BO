@@ -25,6 +25,18 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ipota"
+    ],
+    "name:fra_x_preferred":[
+        "Ipota"
+    ],
+    "name:hrv_x_preferred":[
+        "Ipota"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u043f\u043e\u0442\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1326526261,
-    "wof:lastmodified":1536991903,
+    "wof:lastmodified":1564118746,
     "wof:name":"Ipota",
     "wof:parent_id":421169235,
     "wof:placetype":"locality",

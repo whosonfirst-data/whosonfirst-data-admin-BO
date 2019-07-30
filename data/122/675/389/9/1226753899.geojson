@@ -25,6 +25,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mocomoco"
+    ],
+    "name:spa_x_preferred":[
+        "Moco Moco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226753899,
-    "wof:lastmodified":1536704009,
+    "wof:lastmodified":1564122017,
     "wof:name":"Mocomoco",
     "wof:parent_id":1092007003,
     "wof:placetype":"locality",

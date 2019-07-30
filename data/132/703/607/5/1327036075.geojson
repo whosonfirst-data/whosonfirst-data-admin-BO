@@ -26,6 +26,45 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Marcela"
+    ],
+    "name:deu_x_preferred":[
+        "Marcella"
+    ],
+    "name:fra_x_preferred":[
+        "Marcella"
+    ],
+    "name:hun_x_preferred":[
+        "Marcella"
+    ],
+    "name:ita_x_preferred":[
+        "Marcella"
+    ],
+    "name:nld_x_preferred":[
+        "Marcella"
+    ],
+    "name:pol_x_preferred":[
+        "Marcela"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0447\u0435\u043b\u043b\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Marcela"
+    ],
+    "name:spa_x_preferred":[
+        "Marcella"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0446\u0435\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Marcella"
+    ],
+    "name:tur_x_preferred":[
+        "Marcella"
+    ],
     "name:und_x_variant":[
         "Marcalla",
         "Marcella"
@@ -53,7 +92,7 @@
         }
     ],
     "wof:id":1327036075,
-    "wof:lastmodified":1537588016,
+    "wof:lastmodified":1564118690,
     "wof:name":"Marcella",
     "wof:parent_id":1092006923,
     "wof:placetype":"locality",

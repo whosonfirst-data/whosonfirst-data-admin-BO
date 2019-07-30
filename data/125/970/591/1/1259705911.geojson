@@ -25,6 +25,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Barrero"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259705911,
-    "wof:lastmodified":1537033381,
+    "wof:lastmodified":1564121815,
     "wof:name":"Barrero",
     "wof:parent_id":421177655,
     "wof:placetype":"locality",

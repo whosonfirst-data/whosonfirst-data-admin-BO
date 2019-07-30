@@ -26,6 +26,15 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05ea\u05d9"
+    ],
+    "name:por_x_preferred":[
+        "Itai"
+    ],
+    "name:spa_x_preferred":[
+        "Itai"
+    ],
     "name:und_x_variant":[
         "Itel",
         "Itai"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1276329887,
-    "wof:lastmodified":1537588054,
+    "wof:lastmodified":1564119826,
     "wof:name":"Itai",
     "wof:parent_id":1092009543,
     "wof:placetype":"locality",

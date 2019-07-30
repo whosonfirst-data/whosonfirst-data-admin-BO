@@ -25,6 +25,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pulacayo"
+    ],
+    "name:fra_x_preferred":[
+        "Pulacayo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1260204627,
-    "wof:lastmodified":1537487883,
+    "wof:lastmodified":1564120606,
     "wof:name":"Pulacayo",
     "wof:parent_id":421177657,
     "wof:placetype":"locality",

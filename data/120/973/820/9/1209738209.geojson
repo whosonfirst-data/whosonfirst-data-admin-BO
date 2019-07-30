@@ -26,8 +26,17 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Chata"
+    ],
+    "name:tgl_x_preferred":[
+        "Chata"
+    ],
     "name:und_x_variant":[
         "Quimsa Chata",
+        "Chata"
+    ],
+    "name:vie_x_preferred":[
         "Chata"
     ],
     "src:geom":"geonames",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1209738209,
-    "wof:lastmodified":1537588117,
+    "wof:lastmodified":1564120323,
     "wof:name":"Chata",
     "wof:parent_id":1092007165,
     "wof:placetype":"locality",

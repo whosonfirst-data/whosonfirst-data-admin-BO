@@ -25,6 +25,27 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Todos Santos"
+    ],
+    "name:deu_x_preferred":[
+        "Todos Santos"
+    ],
+    "name:nld_x_preferred":[
+        "Todos Santos"
+    ],
+    "name:sco_x_preferred":[
+        "Todos Santos"
+    ],
+    "name:spa_x_preferred":[
+        "Todos Santos"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u0434\u043e\u0441 \u0421\u0430\u043d\u0442\u043e\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Todos Santos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632623
@@ -34,7 +55,7 @@
         "gn:id":3902795
     },
     "wof:country":"BO",
-    "wof:geomhash":"679c7bf2aa9658a7c8afcc6fad0786f2",
+    "wof:geomhash":"09902f52f1a958798c3bbf3c4fca877f",
     "wof:hierarchy":[
         {
             "country_id":85632623,
@@ -42,7 +63,7 @@
         }
     ],
     "wof:id":1209518563,
-    "wof:lastmodified":1536284653,
+    "wof:lastmodified":1564120270,
     "wof:name":"Todos Santos",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",
@@ -53,9 +74,9 @@
 },
   "bbox": [
     -65.17271,
-    -16.813129999999994,
+    -16.81312999999999,
     -65.17271,
-    -16.813129999999994
+    -16.81312999999999
 ],
   "geometry": {"coordinates":[-65.17271,-16.81312999999999],"type":"Point"}
 }

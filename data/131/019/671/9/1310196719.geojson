@@ -26,6 +26,24 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Calo"
+    ],
+    "name:deu_x_preferred":[
+        "Calo"
+    ],
+    "name:glg_x_preferred":[
+        "Calo"
+    ],
+    "name:ita_x_preferred":[
+        "Calo"
+    ],
+    "name:spa_x_preferred":[
+        "Calo"
+    ],
+    "name:swe_x_preferred":[
+        "Calo"
+    ],
     "name:und_x_variant":[
         "Cato",
         "Calo"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1310196719,
-    "wof:lastmodified":1537588136,
+    "wof:lastmodified":1564120912,
     "wof:name":"Calo",
     "wof:parent_id":1092009387,
     "wof:placetype":"locality",

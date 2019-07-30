@@ -25,6 +25,30 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Industria"
+    ],
+    "name:fra_x_preferred":[
+        "Industria"
+    ],
+    "name:ita_x_preferred":[
+        "Industria"
+    ],
+    "name:lat_x_preferred":[
+        "Industria"
+    ],
+    "name:nld_x_preferred":[
+        "Industria"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0434\u0443\u0441\u0442\u0440\u0438\u044f"
+    ],
+    "name:slk_x_preferred":[
+        "Industria"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043d\u0434\u0443\u0441\u0442\u0440\u0456\u044f"
+    ],
     "name:und_x_variant":[
         "Industrial",
         "Industria"
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1343980159,
-    "wof:lastmodified":1537588057,
+    "wof:lastmodified":1564118897,
     "wof:name":"Industria",
     "wof:parent_id":421177655,
     "wof:placetype":"locality",

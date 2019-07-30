@@ -25,6 +25,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Caracara"
+    ],
+    "name:fra_x_preferred":[
+        "Caracara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1344268891,
-    "wof:lastmodified":1537068924,
+    "wof:lastmodified":1564119129,
     "wof:name":"Caracara",
     "wof:parent_id":1092005669,
     "wof:placetype":"locality",

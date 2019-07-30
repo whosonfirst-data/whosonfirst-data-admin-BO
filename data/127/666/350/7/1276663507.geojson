@@ -26,6 +26,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Chorro"
+    ],
+    "name:spa_x_preferred":[
+        "Chorro"
+    ],
     "name:und_x_variant":[
         "Chorra",
         "Chorro"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276663507,
-    "wof:lastmodified":1537588109,
+    "wof:lastmodified":1564119833,
     "wof:name":"Chorro",
     "wof:parent_id":421187929,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Naranjos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0440\u0430\u043d\u0445\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Naranjos"
+    ],
     "name:und_x_variant":[
         "Naranjo",
         "Naranjos"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1293475273,
-    "wof:lastmodified":1537587898,
+    "wof:lastmodified":1564119409,
     "wof:name":"Naranjos",
     "wof:parent_id":1092009543,
     "wof:placetype":"locality",

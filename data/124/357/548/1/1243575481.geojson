@@ -26,6 +26,15 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rendon"
+    ],
+    "name:fra_x_preferred":[
+        "Rendon"
+    ],
+    "name:por_x_preferred":[
+        "Rendon"
+    ],
     "name:und_x_variant":[
         "Bendom",
         "Rend\u00f3n"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1243575481,
-    "wof:lastmodified":1537587968,
+    "wof:lastmodified":1564121538,
     "wof:name":"Rendon",
     "wof:parent_id":421166639,
     "wof:placetype":"locality",

@@ -26,6 +26,36 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Totora"
+    ],
+    "name:deu_x_preferred":[
+        "Totora"
+    ],
+    "name:epo_x_preferred":[
+        "Totoro"
+    ],
+    "name:ita_x_preferred":[
+        "Totora"
+    ],
+    "name:nld_x_preferred":[
+        "Totora"
+    ],
+    "name:por_x_preferred":[
+        "Totora"
+    ],
+    "name:que_x_preferred":[
+        "Tutura"
+    ],
+    "name:sco_x_preferred":[
+        "Totora"
+    ],
+    "name:spa_x_preferred":[
+        "Totora"
+    ],
+    "name:swe_x_preferred":[
+        "Totora"
+    ],
     "name:und_x_variant":[
         "Estancia Churi Totora",
         "Totora"
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1242683813,
-    "wof:lastmodified":1537587926,
+    "wof:lastmodified":1564121456,
     "wof:name":"Totora",
     "wof:parent_id":1092006923,
     "wof:placetype":"locality",

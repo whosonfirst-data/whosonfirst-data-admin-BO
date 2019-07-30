@@ -26,6 +26,27 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Galo"
+    ],
+    "name:fra_x_preferred":[
+        "Galo"
+    ],
+    "name:glg_x_preferred":[
+        "Galo"
+    ],
+    "name:ita_x_preferred":[
+        "Galo"
+    ],
+    "name:por_x_preferred":[
+        "Galo"
+    ],
+    "name:spa_x_preferred":[
+        "Galo"
+    ],
+    "name:swe_x_preferred":[
+        "Galo"
+    ],
     "name:und_x_variant":[
         "Calo",
         "Gato",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1360192265,
-    "wof:lastmodified":1537588075,
+    "wof:lastmodified":1564121132,
     "wof:name":"Galo",
     "wof:parent_id":1092005669,
     "wof:placetype":"locality",

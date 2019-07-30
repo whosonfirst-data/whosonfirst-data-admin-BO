@@ -25,6 +25,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Palmarito"
+    ],
     "name:und_x_variant":[
         "Palmarita",
         "Palmarito"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243087585,
-    "wof:lastmodified":1537587995,
+    "wof:lastmodified":1564121374,
     "wof:name":"Palmarito",
     "wof:parent_id":1092009873,
     "wof:placetype":"locality",

@@ -25,7 +25,13 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Carara"
+    ],
     "name:spa_x_preferred":[
+        "Carara"
+    ],
+    "name:swe_x_preferred":[
         "Carara"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1360278699,
-    "wof:lastmodified":1537588167,
+    "wof:lastmodified":1564121074,
     "wof:name":"Carara",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",

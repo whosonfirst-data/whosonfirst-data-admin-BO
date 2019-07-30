@@ -25,6 +25,18 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u099a\u0986\u0995\u09be\u09b0\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Ch\u00e1cara"
+    ],
+    "name:por_x_preferred":[
+        "Ch\u00e1cara"
+    ],
+    "name:spa_x_preferred":[
+        "Ch\u00e1cara"
+    ],
     "name:und_x_variant":[
         "Khuchu Chacra",
         "Chacra"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1242967697,
-    "wof:lastmodified":1537588121,
+    "wof:lastmodified":1564121609,
     "wof:name":"Chacra",
     "wof:parent_id":1092008991,
     "wof:placetype":"locality",

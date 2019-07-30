@@ -25,6 +25,15 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pasto Pata"
+    ],
+    "name:deu_x_preferred":[
+        "Pasto Pata"
+    ],
+    "name:swe_x_preferred":[
+        "Pasto Pata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1310211129,
-    "wof:lastmodified":1537487888,
+    "wof:lastmodified":1564120920,
     "wof:name":"Pasto Pata",
     "wof:parent_id":421168083,
     "wof:placetype":"locality",

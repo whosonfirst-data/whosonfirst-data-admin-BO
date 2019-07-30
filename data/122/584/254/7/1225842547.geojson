@@ -26,6 +26,24 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "M\u0101noa"
+    ],
+    "name:haw_x_preferred":[
+        "M\u0101noa"
+    ],
+    "name:ilo_x_preferred":[
+        "Manoa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ce\u30a2"
+    ],
+    "name:nor_x_preferred":[
+        "Manoa"
+    ],
+    "name:por_x_preferred":[
+        "Manoa"
+    ],
     "name:und_x_variant":[
         "Fort\u00edn Manoa",
         "Manoa"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1225842547,
-    "wof:lastmodified":1537587902,
+    "wof:lastmodified":1564122345,
     "wof:name":"Manoa",
     "wof:parent_id":404562823,
     "wof:placetype":"locality",

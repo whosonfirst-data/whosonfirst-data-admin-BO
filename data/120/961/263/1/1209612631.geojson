@@ -25,7 +25,61 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Continental"
+    ],
+    "name:dan_x_preferred":[
+        "Continental"
+    ],
+    "name:deu_x_preferred":[
+        "Continental"
+    ],
+    "name:fin_x_preferred":[
+        "Continental"
+    ],
+    "name:fra_x_preferred":[
+        "Continental"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e0\u05d8\u05d9\u05e0\u05e0\u05d8\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "Continental"
+    ],
+    "name:ita_x_preferred":[
+        "Continental"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f3\u30c1\u30cd\u30f3\u30bf\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf58\ud2f0\ub128\ud138"
+    ],
+    "name:nld_x_preferred":[
+        "Continental"
+    ],
+    "name:nor_x_preferred":[
+        "Continental"
+    ],
+    "name:pol_x_preferred":[
+        "Continental"
+    ],
+    "name:por_x_preferred":[
+        "Continental"
+    ],
+    "name:ron_x_preferred":[
+        "Continental"
+    ],
+    "name:rus_x_preferred":[
+        "Continental"
+    ],
     "name:spa_x_preferred":[
+        "Continental"
+    ],
+    "name:swe_x_preferred":[
+        "Continental"
+    ],
+    "name:ukr_x_preferred":[
         "Continental"
     ],
     "src:geom":"geonames",
@@ -45,7 +99,7 @@
         }
     ],
     "wof:id":1209612631,
-    "wof:lastmodified":1537588180,
+    "wof:lastmodified":1564120220,
     "wof:name":"Continental",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",

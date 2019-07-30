@@ -28,7 +28,25 @@
     "name:aym_x_preferred":[
         "Turku"
     ],
+    "name:ceb_x_preferred":[
+        "Turco Municipality"
+    ],
+    "name:deu_x_preferred":[
+        "Municipio Turco"
+    ],
+    "name:ita_x_preferred":[
+        "Turco"
+    ],
+    "name:nld_x_preferred":[
+        "Turco"
+    ],
+    "name:que_x_preferred":[
+        "Turku munisipyu"
+    ],
     "name:spa_x_preferred":[
+        "Turco"
+    ],
+    "name:swe_x_preferred":[
         "Turco"
     ],
     "src:geom":"geonames",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1243295621,
-    "wof:lastmodified":1537587921,
+    "wof:lastmodified":1564121642,
     "wof:name":"Turco",
     "wof:parent_id":421204017,
     "wof:placetype":"locality",

@@ -15,6 +15,12 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d8\u10e8\u10d0\u10e0\u10d8"
+    ],
+    "name:tur_x_preferred":[
+        "Ali\u015far"
+    ],
     "qs:name":"Alisar",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":890429609,
-    "wof:lastmodified":1527792796,
+    "wof:lastmodified":1564121318,
     "wof:name":"Alisar",
     "wof:parent_id":1092006537,
     "wof:placetype":"locality",

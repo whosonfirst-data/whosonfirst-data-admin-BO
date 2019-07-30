@@ -25,6 +25,45 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aym_x_preferred":[
+        "Pedro Domingo Murillo jisk'a suyu"
+    ],
+    "name:deu_x_preferred":[
+        "Provinz Murillo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u067e\u062f\u0631\u0648 \u062f\u0648\u0645\u06cc\u0646\u06af\u0648 \u0645\u0648\u0631\u06cc\u0644\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10d3\u10e0\u10dd-\u10d3\u10dd\u10db\u10d8\u10dc\u10d2\u10dd-\u10db\u10e3\u10e0\u10d8\u10da\u10d8\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Pedro Domingo Murillo"
+    ],
+    "name:nor_x_preferred":[
+        "Provinsen Pedro Domingo Murillo"
+    ],
+    "name:por_x_preferred":[
+        "Pedro Domingo Murillo"
+    ],
+    "name:que_x_preferred":[
+        "Pedro Domingo Murillo pruwinsya"
+    ],
+    "name:sco_x_preferred":[
+        "Pedro Domingo Murillo Province"
+    ],
+    "name:spa_x_preferred":[
+        "Provincia Pedro Domingo Murillo"
+    ],
+    "name:swe_x_preferred":[
+        "Pedro Domingo Murillo"
+    ],
+    "name:war_x_preferred":[
+        "Pedro Domingo Murillo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5fb7\u7f85\u591a\u660e\u6208\u7a46\u91cc\u7565\u7701"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +88,7 @@
         }
     ],
     "wof:id":1310205355,
-    "wof:lastmodified":1537487887,
+    "wof:lastmodified":1564120854,
     "wof:name":"Pedro Domingo Murillo",
     "wof:parent_id":1092007165,
     "wof:placetype":"locality",

@@ -25,6 +25,42 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:deu_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:fra_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:ita_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:nor_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:pol_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:que_x_preferred":[
+        "Sika Sika llaqta"
+    ],
+    "name:sco_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:spa_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:swe_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:war_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u5361\u932b\u5361"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1193038183,
-    "wof:lastmodified":1536378769,
+    "wof:lastmodified":1564120508,
     "wof:name":"Sica Sica",
     "wof:parent_id":421186229,
     "wof:placetype":"locality",

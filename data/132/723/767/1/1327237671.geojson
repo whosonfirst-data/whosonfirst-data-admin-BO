@@ -25,6 +25,30 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Palca"
+    ],
+    "name:deu_x_preferred":[
+        "Palca"
+    ],
+    "name:fra_x_preferred":[
+        "Palca"
+    ],
+    "name:que_x_preferred":[
+        "Pallqa"
+    ],
+    "name:spa_x_preferred":[
+        "Palca"
+    ],
+    "name:swe_x_preferred":[
+        "Palca"
+    ],
+    "name:war_x_preferred":[
+        "Palca"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u723e\u5361"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1327237671,
-    "wof:lastmodified":1537487890,
+    "wof:lastmodified":1564118608,
     "wof:name":"Palca",
     "wof:parent_id":421177667,
     "wof:placetype":"locality",

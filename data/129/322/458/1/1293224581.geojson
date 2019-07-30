@@ -25,6 +25,33 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Luribay"
+    ],
+    "name:deu_x_preferred":[
+        "Luribay"
+    ],
+    "name:fra_x_preferred":[
+        "Luribay"
+    ],
+    "name:que_x_preferred":[
+        "Luriway"
+    ],
+    "name:sco_x_preferred":[
+        "Luribay"
+    ],
+    "name:spa_x_preferred":[
+        "Luribay"
+    ],
+    "name:swe_x_preferred":[
+        "Luribay"
+    ],
+    "name:war_x_preferred":[
+        "Luribay"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u91cc\u74e6\u4f0a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1293224581,
-    "wof:lastmodified":1537487898,
+    "wof:lastmodified":1564119433,
     "wof:name":"Luribay",
     "wof:parent_id":421182435,
     "wof:placetype":"locality",

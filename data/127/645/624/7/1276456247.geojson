@@ -25,6 +25,21 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Omereque"
+    ],
+    "name:deu_x_preferred":[
+        "Omereque"
+    ],
+    "name:que_x_preferred":[
+        "Umiriqi"
+    ],
+    "name:spa_x_preferred":[
+        "Omereque"
+    ],
+    "name:swe_x_preferred":[
+        "Omereque"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1276456247,
-    "wof:lastmodified":1537487892,
+    "wof:lastmodified":1564119752,
     "wof:name":"Omereque",
     "wof:parent_id":1092006465,
     "wof:placetype":"locality",

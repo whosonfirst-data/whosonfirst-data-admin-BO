@@ -25,6 +25,21 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Tuca"
+    ],
+    "name:cat_x_preferred":[
+        "Tuca"
+    ],
+    "name:ceb_x_preferred":[
+        "Tuca"
+    ],
+    "name:por_x_preferred":[
+        "Tuca"
+    ],
+    "name:swe_x_preferred":[
+        "Tuca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1259680763,
-    "wof:lastmodified":1537068007,
+    "wof:lastmodified":1564121904,
     "wof:name":"Tuca",
     "wof:parent_id":421177659,
     "wof:placetype":"locality",

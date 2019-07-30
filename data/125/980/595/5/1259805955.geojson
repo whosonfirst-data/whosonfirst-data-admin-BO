@@ -26,9 +26,75 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u0627\u0631\u064a\u062a\u0627"
+    ],
+    "name:aym_x_preferred":[
+        "T'ula"
+    ],
+    "name:cat_x_preferred":[
+        "Azorella compacta"
+    ],
+    "name:ceb_x_preferred":[
+        "Azorella compacta"
+    ],
+    "name:ces_x_preferred":[
+        "Azorela nahlou\u010den\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Yareta"
+    ],
+    "name:fin_x_preferred":[
+        "Azorella compacta"
+    ],
+    "name:fra_x_preferred":[
+        "Azorella compacta"
+    ],
+    "name:ind_x_preferred":[
+        "Yareta"
+    ],
+    "name:ita_x_preferred":[
+        "Azorella compacta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30ec\u30fc\u30bf"
+    ],
+    "name:lit_x_preferred":[
+        "Kupstin\u0117 azor\u0117l\u0117"
+    ],
+    "name:por_x_preferred":[
+        "Azorella compacta"
+    ],
+    "name:que_x_preferred":[
+        "Yarita"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0440\u0435\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Azorella compacta"
+    ],
+    "name:swe_x_preferred":[
+        "Azorella compacta"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2f\u0c30\u0c47\u0c1f\u0c3e"
+    ],
+    "name:tur_x_preferred":[
+        "Yareta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0440\u0435\u0442\u0430"
+    ],
     "name:und_x_variant":[
         "Yaraeta",
         "Yareta"
+    ],
+    "name:vie_x_preferred":[
+        "Azorella compacta"
+    ],
+    "name:war_x_preferred":[
+        "Azorella compacta"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +119,7 @@
         }
     ],
     "wof:id":1259805955,
-    "wof:lastmodified":1537587906,
+    "wof:lastmodified":1564121962,
     "wof:name":"Yareta",
     "wof:parent_id":1092009601,
     "wof:placetype":"locality",

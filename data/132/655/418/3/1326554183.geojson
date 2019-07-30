@@ -25,6 +25,9 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Umana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1326554183,
-    "wof:lastmodified":1536952518,
+    "wof:lastmodified":1564118741,
     "wof:name":"Umana",
     "wof:parent_id":421187929,
     "wof:placetype":"locality",

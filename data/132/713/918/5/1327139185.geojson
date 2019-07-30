@@ -29,6 +29,9 @@
         "Estancia Jalsuri",
         "Jalsuri"
     ],
+    "name:zho_x_preferred":[
+        "\u54c8\u723e\u8607\u91cc\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1327139185,
-    "wof:lastmodified":1537588051,
+    "wof:lastmodified":1564118579,
     "wof:name":"Jalsuri",
     "wof:parent_id":421204017,
     "wof:placetype":"locality",

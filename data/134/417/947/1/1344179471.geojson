@@ -26,9 +26,15 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Don Lorenzo"
+    ],
     "name:und_x_variant":[
         "Comunidad Don Lorenzo",
         "San Lorenzo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u6d1b\u502b\u4f50"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1344179471,
-    "wof:lastmodified":1537587958,
+    "wof:lastmodified":1564119139,
     "wof:name":"San Lorenzo",
     "wof:parent_id":421187923,
     "wof:placetype":"locality",

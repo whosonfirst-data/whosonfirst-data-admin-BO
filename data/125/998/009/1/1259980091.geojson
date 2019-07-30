@@ -25,6 +25,15 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Parina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u91cc\u7d0d\u6cb3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1259980091,
-    "wof:lastmodified":1536639018,
+    "wof:lastmodified":1564121732,
     "wof:name":"Parina",
     "wof:parent_id":421182439,
     "wof:placetype":"locality",

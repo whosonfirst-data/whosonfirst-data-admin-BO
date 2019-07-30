@@ -25,6 +25,24 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "PEZ"
+    ],
+    "name:fin_x_preferred":[
+        "Pez"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d6"
+    ],
+    "name:ita_x_preferred":[
+        "Pez"
+    ],
+    "name:spa_x_preferred":[
+        "Pez"
+    ],
+    "name:tur_x_preferred":[
+        "Pez"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632623
@@ -42,7 +60,7 @@
         }
     ],
     "wof:id":1209637505,
-    "wof:lastmodified":1536280994,
+    "wof:lastmodified":1564120104,
     "wof:name":"Pez",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",

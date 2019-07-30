@@ -26,9 +26,18 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Huacaraje"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0622\u06a9\u0627\u0631\u0627\u062c\u0647"
+    ],
     "name:und_x_variant":[
         "Guacarraje",
         "Huacaraje"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u5361\u62c9\u8d6b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1327031597,
-    "wof:lastmodified":1537588068,
+    "wof:lastmodified":1564118680,
     "wof:name":"Huacaraje",
     "wof:parent_id":1092005711,
     "wof:placetype":"locality",

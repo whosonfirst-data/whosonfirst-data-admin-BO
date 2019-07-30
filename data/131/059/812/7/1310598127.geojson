@@ -25,6 +25,18 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Siglo"
+    ],
+    "name:deu_x_preferred":[
+        "Siglo"
+    ],
+    "name:que_x_preferred":[
+        "Siglo"
+    ],
+    "name:spa_x_preferred":[
+        "Mina Siglo"
+    ],
     "name:und_x_variant":[
         "Siglo XX",
         "Siglo Veinte"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1310598127,
-    "wof:lastmodified":1537587949,
+    "wof:lastmodified":1564120936,
     "wof:name":"Siglo Veinte",
     "wof:parent_id":1092009153,
     "wof:placetype":"locality",

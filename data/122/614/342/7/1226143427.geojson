@@ -25,6 +25,15 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Apa"
+    ],
+    "name:glg_x_preferred":[
+        "Apa"
+    ],
+    "name:ind_x_preferred":[
+        "Upu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1226143427,
-    "wof:lastmodified":1537077935,
+    "wof:lastmodified":1564122189,
     "wof:name":"Upu",
     "wof:parent_id":421187929,
     "wof:placetype":"locality",

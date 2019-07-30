@@ -25,6 +25,24 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tribu"
+    ],
+    "name:deu_x_preferred":[
+        "Tribu"
+    ],
+    "name:eus_x_preferred":[
+        "Tribu"
+    ],
+    "name:fra_x_preferred":[
+        "Tribu"
+    ],
+    "name:por_x_preferred":[
+        "Tribo"
+    ],
+    "name:spa_x_preferred":[
+        "Tribu"
+    ],
     "name:und_x_variant":[
         "La Tribu",
         "Tribu"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1360206807,
-    "wof:lastmodified":1537587924,
+    "wof:lastmodified":1564121063,
     "wof:name":"Tribu",
     "wof:parent_id":1092008461,
     "wof:placetype":"locality",

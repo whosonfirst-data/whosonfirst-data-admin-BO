@@ -26,10 +26,25 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Padcaya"
+    ],
+    "name:que_x_preferred":[
+        "Patqaya"
+    ],
+    "name:spa_x_preferred":[
+        "Padcaya"
+    ],
     "name:und_x_variant":[
         "Villa Padcayo",
         "Villa Padcaya",
         "Padcaya"
+    ],
+    "name:war_x_preferred":[
+        "Padcaya"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5fb7\u5361\u4e9e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1293379765,
-    "wof:lastmodified":1537587998,
+    "wof:lastmodified":1564119299,
     "wof:name":"Padcaya",
     "wof:parent_id":421182443,
     "wof:placetype":"locality",

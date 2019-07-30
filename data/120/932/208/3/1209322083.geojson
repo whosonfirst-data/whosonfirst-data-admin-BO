@@ -25,6 +25,81 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u062c\u0627\u0631\u062c\u0627\u0646\u062a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "La Garganta"
+    ],
+    "name:cat_x_preferred":[
+        "La Garganta"
+    ],
+    "name:ceb_x_preferred":[
+        "La Garganta"
+    ],
+    "name:deu_x_preferred":[
+        "La Garganta"
+    ],
+    "name:epo_x_preferred":[
+        "La Garganta"
+    ],
+    "name:eus_x_preferred":[
+        "La Garganta"
+    ],
+    "name:fra_x_preferred":[
+        "La Garganta"
+    ],
+    "name:hun_x_preferred":[
+        "La Garganta"
+    ],
+    "name:ina_x_preferred":[
+        "La Garganta"
+    ],
+    "name:ita_x_preferred":[
+        "La Garganta"
+    ],
+    "name:msa_x_preferred":[
+        "La Garganta"
+    ],
+    "name:nld_x_preferred":[
+        "La Garganta"
+    ],
+    "name:oci_x_preferred":[
+        "La Garganta"
+    ],
+    "name:pol_x_preferred":[
+        "La Garganta"
+    ],
+    "name:por_x_preferred":[
+        "La Garganta"
+    ],
+    "name:ron_x_preferred":[
+        "La Garganta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0413\u0430\u0440\u0433\u0430\u043d\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "La Garganta"
+    ],
+    "name:swe_x_preferred":[
+        "La Garganta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0413\u0430\u0440\u0433\u0430\u043d\u0442\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "La Garganta"
+    ],
+    "name:vie_x_preferred":[
+        "La Garganta"
+    ],
+    "name:war_x_preferred":[
+        "La Garganta"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u52a0\u5c14\u7518\u5854"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632623
@@ -34,7 +109,7 @@
         "gn:id":3912220
     },
     "wof:country":"BO",
-    "wof:geomhash":"b7f3dda095b8aceede19f6b3bf70d1d9",
+    "wof:geomhash":"54b87255dc019acc4e8d88bf804004d2",
     "wof:hierarchy":[
         {
             "country_id":85632623,
@@ -42,7 +117,7 @@
         }
     ],
     "wof:id":1209322083,
-    "wof:lastmodified":1536290658,
+    "wof:lastmodified":1564120239,
     "wof:name":"La Garganta",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",
@@ -53,9 +128,9 @@
 },
   "bbox": [
     -65.13333,
-    -15.566670000000002,
+    -15.56667,
     -65.13333,
-    -15.566670000000002
+    -15.56667
 ],
   "geometry": {"coordinates":[-65.13333,-15.56667],"type":"Point"}
 }

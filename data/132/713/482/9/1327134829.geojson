@@ -26,6 +26,24 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Lupe"
+    ],
+    "name:ceb_x_preferred":[
+        "Lupe"
+    ],
+    "name:deu_x_preferred":[
+        "Lupe"
+    ],
+    "name:ita_x_preferred":[
+        "Lupe"
+    ],
+    "name:spa_x_preferred":[
+        "Lupe"
+    ],
+    "name:swe_x_preferred":[
+        "Lupe"
+    ],
     "name:und_x_variant":[
         "Estancia Lupe",
         "Lupe"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1327134829,
-    "wof:lastmodified":1537588020,
+    "wof:lastmodified":1564118572,
     "wof:name":"Lupe",
     "wof:parent_id":1092007133,
     "wof:placetype":"locality",

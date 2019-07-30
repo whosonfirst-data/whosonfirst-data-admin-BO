@@ -25,6 +25,18 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Severo"
+    ],
+    "name:por_x_preferred":[
+        "Severo"
+    ],
+    "name:spa_x_preferred":[
+        "Severo"
+    ],
+    "name:swe_x_preferred":[
+        "Severo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1225842775,
-    "wof:lastmodified":1537017284,
+    "wof:lastmodified":1564122344,
     "wof:name":"Severo",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",

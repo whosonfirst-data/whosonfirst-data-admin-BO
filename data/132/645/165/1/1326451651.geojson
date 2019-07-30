@@ -25,9 +25,117 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Tarija"
+    ],
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0631\u064a\u062e\u0627"
+    ],
+    "name:aym_x_preferred":[
+        "Tarixa"
+    ],
+    "name:bre_x_preferred":[
+        "Tarija"
+    ],
+    "name:ceb_x_preferred":[
+        "Tarija"
+    ],
+    "name:dan_x_preferred":[
+        "Tarija"
+    ],
+    "name:deu_x_preferred":[
+        "Tarija"
+    ],
+    "name:eus_x_preferred":[
+        "Tarija"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0631\u06cc\u062e\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Tarija"
+    ],
+    "name:fra_x_preferred":[
+        "Tarija"
+    ],
+    "name:glg_x_preferred":[
+        "Tarija"
+    ],
+    "name:ind_x_preferred":[
+        "Tarija"
+    ],
+    "name:ita_x_preferred":[
+        "Tarija"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30ea\u30cf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10e0\u10d8\u10ee\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ub9ac\ud558"
+    ],
+    "name:lit_x_preferred":[
+        "Taricha"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0430\u0440\u0438\u0445\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Tarija"
+    ],
+    "name:nor_x_preferred":[
+        "Tarija"
+    ],
+    "name:pol_x_preferred":[
+        "Tarija"
+    ],
+    "name:por_x_preferred":[
+        "Tarija"
+    ],
+    "name:que_x_preferred":[
+        "Tarija"
+    ],
+    "name:ron_x_preferred":[
+        "Tarija"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0438\u0445\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Tarija"
+    ],
+    "name:spa_x_preferred":[
+        "Tarija"
+    ],
+    "name:swe_x_preferred":[
+        "Tarija"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0440\u0438\u0445\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0440\u0456\u0445\u0430"
+    ],
     "name:und_x_variant":[
         "Estancia Tarija Khuchu",
         "Tarija"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0631\u06cc\u062e\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Tarija"
+    ],
+    "name:vol_x_preferred":[
+        "Tarija"
+    ],
+    "name:war_x_preferred":[
+        "Tarija"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u91cc\u54c8"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +160,7 @@
         }
     ],
     "wof:id":1326451651,
-    "wof:lastmodified":1537587936,
+    "wof:lastmodified":1564118501,
     "wof:name":"Tarija",
     "wof:parent_id":1092008843,
     "wof:placetype":"locality",

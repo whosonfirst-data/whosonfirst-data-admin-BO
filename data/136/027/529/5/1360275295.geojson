@@ -25,11 +25,32 @@
     "iso:country":"BO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u0648\u0627\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Aguaray"
+    ],
+    "name:nld_x_preferred":[
+        "Aguaray"
+    ],
+    "name:por_x_preferred":[
+        "Aguaray"
+    ],
+    "name:sco_x_preferred":[
+        "Aguaray"
+    ],
+    "name:spa_x_preferred":[
+        "Aguaray"
+    ],
     "name:und_x_variant":[
         "Palmar Aguaray",
         "Aguarai",
         "Aguarag\u00fce",
         "Aguaray"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u0648\u0627\u0631\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1360275295,
-    "wof:lastmodified":1537588158,
+    "wof:lastmodified":1564121075,
     "wof:name":"Aguaray",
     "wof:parent_id":421169235,
     "wof:placetype":"locality",
