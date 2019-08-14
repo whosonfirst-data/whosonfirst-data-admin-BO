@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OR"
+    ],
     "lbl:latitude":-18.742757,
     "lbl:longitude":-67.845264,
     "mps:latitude":-18.767126,
@@ -328,9 +331,6 @@
         }
     ],
     "wof:id":85669413,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que",
@@ -341,7 +341,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1563573170,
+    "wof:lastmodified":1565654343,
     "wof:name":"Oruro",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CB"
+    ],
     "lbl:latitude":-17.222061,
     "lbl:longitude":-65.524224,
     "mps:latitude":-17.205201,
@@ -337,9 +340,6 @@
         }
     ],
     "wof:id":85669395,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que",
@@ -350,7 +350,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1563573172,
+    "wof:lastmodified":1565654344,
     "wof:name":"Cochabamba",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

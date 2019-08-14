@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LP"
+    ],
     "lbl:latitude":-15.583121,
     "lbl:longitude":-68.155929,
     "mps:latitude":-15.577332,
@@ -338,9 +341,6 @@
         }
     ],
     "wof:id":85669409,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que",
@@ -351,7 +351,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1563573165,
+    "wof:lastmodified":1565654341,
     "wof:name":"La Paz",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

@@ -15,6 +15,9 @@
     "itu:country_code":[
         "591"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BO"
+    ],
     "lbl:latitude":-16.640652,
     "lbl:longitude":-64.661928,
     "mps:latitude":-16.640652,
@@ -1021,9 +1024,6 @@
         }
     ],
     "wof:id":85632623,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que",
@@ -1034,7 +1034,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1563573180,
+    "wof:lastmodified":1565654346,
     "wof:name":"Bolivia",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

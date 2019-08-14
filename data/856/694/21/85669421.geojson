@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PO"
+    ],
     "lbl:latitude":-20.608155,
     "lbl:longitude":-66.56073,
     "mps:latitude":-20.795205,
@@ -347,9 +350,6 @@
         }
     ],
     "wof:id":85669421,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que",
@@ -360,7 +360,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1563573162,
+    "wof:lastmodified":1565654339,
     "wof:name":"Potos\u00ed",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

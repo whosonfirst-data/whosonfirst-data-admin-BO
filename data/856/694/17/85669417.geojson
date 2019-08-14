@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PA"
+    ],
     "lbl:latitude":-11.324675,
     "lbl:longitude":-67.468404,
     "mps:latitude":-11.268752,
@@ -334,9 +337,6 @@
         }
     ],
     "wof:id":85669417,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que",
@@ -347,7 +347,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1563573159,
+    "wof:lastmodified":1565654338,
     "wof:name":"Pando",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

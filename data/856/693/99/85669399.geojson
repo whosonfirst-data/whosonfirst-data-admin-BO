@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CQ"
+    ],
     "lbl:latitude":-20.257594,
     "lbl:longitude":-64.313771,
     "mps:latitude":-20.292685,
@@ -339,9 +342,6 @@
         }
     ],
     "wof:id":85669399,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que",
@@ -352,7 +352,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1563573175,
+    "wof:lastmodified":1565654345,
     "wof:name":"Chuquisaca",
     "wof:parent_id":85632623,
     "wof:placetype":"region",
