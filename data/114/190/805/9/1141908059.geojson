@@ -10,10 +10,14 @@
     "geom:latitude":-13.260083,
     "geom:longitude":-64.052768,
     "iso:country":"BO",
+    "lbl:bbox":"-64.0727675798,-13.2800833955,-64.0327675798,-13.2400833955",
     "lbl:latitude":-13.260083,
     "lbl:longitude":-64.052768,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u063a\u062f\u0627\u0644\u064a\u0646\u0627"
     ],
@@ -166,7 +170,7 @@
         }
     ],
     "wof:id":1141908059,
-    "wof:lastmodified":1561840589,
+    "wof:lastmodified":1566618147,
     "wof:name":"Magdalena",
     "wof:parent_id":1092005711,
     "wof:placetype":"locality",

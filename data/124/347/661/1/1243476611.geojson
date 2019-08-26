@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-69.24107,-11.10148,-69.20107,-11.06148",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Natal"
     ],
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":1243476611,
-    "wof:lastmodified":1564121520,
+    "wof:lastmodified":1566617714,
     "wof:name":"Natal",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",

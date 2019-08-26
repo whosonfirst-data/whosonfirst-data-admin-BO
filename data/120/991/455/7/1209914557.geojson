@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-67.97,-15.60333,-67.93,-15.56333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Anocagua",
         "Anciaqui",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209914557,
-    "wof:lastmodified":1537588154,
+    "wof:lastmodified":1566616661,
     "wof:name":"Ancoaque",
     "wof:parent_id":421187929,
     "wof:placetype":"locality",

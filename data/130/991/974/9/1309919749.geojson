@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-65.41882,-18.83026,-65.37882,-18.79026",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Estancia Atocani",
         "Atocani"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309919749,
-    "wof:lastmodified":1537588149,
+    "wof:lastmodified":1566617484,
     "wof:name":"Atocani",
     "wof:parent_id":421190241,
     "wof:placetype":"locality",

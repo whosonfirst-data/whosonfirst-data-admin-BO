@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-15.638917,
     "lbl:longitude":-62.189788,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Cruz",
     "meso:gadm_admin":"\u00d1uflo de Ch\u00e1vez",
     "meso:gadm_hasc2":"BO.SC.NC",
@@ -37,6 +39,7 @@
     "mps:longitude":-62.189788,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Prov\u00edncia de \u00d1uflo de Ch\u00e1vez"
     ],
@@ -101,9 +104,9 @@
         "\u7d10\u5f17\u6d1b\u5fb7\u67e5\u97cb\u65af\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Concepci\u00f3n",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1092009873,
-    "wof:lastmodified":1563574897,
+    "wof:lastmodified":1566617467,
     "wof:name":"Nuflo De Chavez",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

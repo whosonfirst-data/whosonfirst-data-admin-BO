@@ -10,6 +10,9 @@
     "geom:latitude":-17.35,
     "geom:longitude":-63.4,
     "iso:country":"BO",
+    "lbl:bbox":"-63.42,-17.37,-63.38,-17.33",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -178,7 +181,7 @@
     "wof:concordances":{
         "gn:id":3907646,
         "gp:id":346084,
-        "qs:id":886405,
+        "qs_pg:id":886405,
         "wd:id":"Q1626079",
         "wk:page":"Portachuelo"
     },
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":421174537,
-    "wof:lastmodified":1563575044,
+    "wof:lastmodified":1566617561,
     "wof:name":"Portachuelo",
     "wof:parent_id":1092009959,
     "wof:placetype":"locality",

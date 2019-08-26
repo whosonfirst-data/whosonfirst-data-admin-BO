@@ -10,8 +10,12 @@
     "geom:latitude":-19.03694,
     "geom:longitude":-65.25767,
     "iso:country":"BO",
+    "lbl:bbox":"-65.35767,-19.13694,-65.15767,-18.93694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ady_x_preferred":[
         "\u0421\u0443\u043a\u0440\u0435"
@@ -360,7 +364,7 @@
     "wof:concordances":{
         "gn:id":6621292,
         "gp:id":55967875,
-        "qs:id":1200765
+        "qs_pg:id":1200765
     },
     "wof:country":"BO",
     "wof:created":1459008800,
@@ -375,7 +379,7 @@
         }
     ],
     "wof:id":421169237,
-    "wof:lastmodified":1564121289,
+    "wof:lastmodified":1566617558,
     "wof:name":"Sucre",
     "wof:parent_id":421190241,
     "wof:placetype":"localadmin",

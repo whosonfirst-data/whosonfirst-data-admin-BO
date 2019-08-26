@@ -10,10 +10,14 @@
     "geom:latitude":-18.180041,
     "geom:longitude":-63.77002,
     "iso:country":"BO",
+    "lbl:bbox":"-63.7900199805,-18.2000414848,-63.7500199805,-18.1600414848",
     "lbl:latitude":-18.180041,
     "lbl:longitude":-63.77002,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0438\u043f\u0430\u0442\u0430"
     ],
@@ -184,7 +188,7 @@
         }
     ],
     "wof:id":1141906799,
-    "wof:lastmodified":1563576043,
+    "wof:lastmodified":1566618148,
     "wof:name":"Samaipata",
     "wof:parent_id":1092009661,
     "wof:placetype":"locality",

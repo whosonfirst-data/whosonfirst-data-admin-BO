@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-17.628431,
     "lbl:longitude":-67.441839,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Oruro",
     "meso:gadm_admin":"Cercado",
     "meso:gadm_hasc2":"BO.OR.CE",
@@ -34,6 +36,7 @@
     "mps:longitude":-67.441839,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tomas Barron"
     ],
@@ -42,7 +45,7 @@
         "Cercado"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632623,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1092008287,
-    "wof:lastmodified":1555047034,
+    "wof:lastmodified":1566617431,
     "wof:name":"Tomas Barron",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

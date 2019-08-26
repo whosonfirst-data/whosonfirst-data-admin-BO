@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-19.4021,
     "lbl:longitude":-65.931724,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Potosi",
     "meso:gadm_admin":"Tom\u00e1s Fr\u00edas",
     "meso:gadm_hasc2":"BO.PO.TF",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.931724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Tom\u00e1s Fr\u00edas jisk'a suyu"
@@ -139,9 +142,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Potosi",
@@ -161,7 +164,7 @@
     "wof:concordances":{
         "gp:id":55967854,
         "hasc:id":"BO.PO.TF",
-        "qs:id":1347523,
+        "qs_pg:id":1347523,
         "wd:id":"Q1339683"
     },
     "wof:country":"BO",
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":421177665,
-    "wof:lastmodified":1563575092,
+    "wof:lastmodified":1566617585,
     "wof:name":"Tomas Frias",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

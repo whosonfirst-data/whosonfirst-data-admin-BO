@@ -10,8 +10,12 @@
     "geom:latitude":-16.360497,
     "geom:longitude":-68.395728,
     "iso:country":"BO",
+    "lbl:bbox":"-68.495728,-16.460497,-68.295728,-16.260497",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Pukarani"
@@ -74,7 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55967961,
-        "qs:id":1018803
+        "qs_pg:id":1018803
     },
     "wof:country":"BO",
     "wof:created":1459009434,
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421185163,
-    "wof:lastmodified":1564121312,
+    "wof:lastmodified":1566617591,
     "wof:name":"Pucarani",
     "wof:parent_id":421197575,
     "wof:placetype":"localadmin",

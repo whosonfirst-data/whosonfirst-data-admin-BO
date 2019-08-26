@@ -10,8 +10,12 @@
     "geom:latitude":-16.574997,
     "geom:longitude":-68.185273,
     "iso:country":"BO",
+    "lbl:bbox":"-68.285273,-16.674997,-68.085273,-16.474997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Achocalla"
@@ -71,7 +75,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55968147,
-        "qs:id":1002755,
         "qs_pg:id":1002755
     },
     "wof:country":"BO",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421184649,
-    "wof:lastmodified":1564121306,
+    "wof:lastmodified":1566617579,
     "wof:name":"Achocalla",
     "wof:parent_id":421177667,
     "wof:placetype":"localadmin",

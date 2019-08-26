@@ -10,10 +10,14 @@
     "geom:latitude":-17.330016,
     "geom:longitude":-67.729985,
     "iso:country":"BO",
+    "lbl:bbox":"-67.749984987,-17.35001585,-67.709984987,-17.31001585",
     "lbl:latitude":-17.330016,
     "lbl:longitude":-67.729985,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0633\u064a\u0643\u0627 \u0633\u064a\u0643\u0627"
     ],
@@ -178,7 +182,7 @@
         }
     ],
     "wof:id":1141906789,
-    "wof:lastmodified":1563576042,
+    "wof:lastmodified":1566618147,
     "wof:name":"Sica Sica",
     "wof:parent_id":1092006923,
     "wof:placetype":"locality",

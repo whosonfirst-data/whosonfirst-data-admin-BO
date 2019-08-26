@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-68.93667,-15.58667,-68.89667,-15.54667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632623
@@ -34,7 +38,7 @@
         "gn:id":3908840
     },
     "wof:country":"BO",
-    "wof:geomhash":"bc7c67377241be559a4d32568ab542da",
+    "wof:geomhash":"5a7d6b08c3c6909974640f4fe52e3895",
     "wof:hierarchy":[
         {
             "country_id":85632623,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209320513,
-    "wof:lastmodified":1536290711,
+    "wof:lastmodified":1566616801,
     "wof:name":"Palhuaya",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -68.91667,
-    -15.566670000000002,
+    -15.56667,
     -68.91667,
-    -15.566670000000002
+    -15.56667
 ],
   "geometry": {"coordinates":[-68.91667,-15.56667],"type":"Point"}
 }

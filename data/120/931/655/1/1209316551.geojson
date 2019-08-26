@@ -23,16 +23,17 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-65.25995,-13.29856,-65.21995,-13.25856",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Exaltaci\u00f3n"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06af\u0632\u0627\u0644\u062a\u0627\u0633\u06cc\u0648\u0646"
-    ],
-    "name:und_x_variant":[
-        "Exaltaci\u00f3n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1209316551,
-    "wof:lastmodified":1564120047,
+    "wof:lastmodified":1566616647,
     "wof:name":"Exaltacion",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",

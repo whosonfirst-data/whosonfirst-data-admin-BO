@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-65.93027,-20.22771,-65.89027,-20.18771",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Estancia Locajchi",
         "Locajchi"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209812221,
-    "wof:lastmodified":1537588023,
+    "wof:lastmodified":1566616898,
     "wof:name":"Locajchi",
     "wof:parent_id":421177657,
     "wof:placetype":"locality",

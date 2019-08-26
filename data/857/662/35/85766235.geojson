@@ -11,8 +11,10 @@
     "geom:longitude":-68.188843,
     "gn:id":"",
     "iso:country":"BO",
+    "lbl:bbox":"-68.193843,-16.515079,-68.183843,-16.505079",
     "lbl:latitude":-16.510079,
     "lbl:longitude":-68.188843,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-16.511529,
     "mps:longitude":-68.195406,
     "mz:hierarchy_label":0,
@@ -129,9 +131,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0410\u043b\u044c\u0442\u043e"
     ],
-    "name:unk_x_variant":[
-        "El Alto"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0644 \u0622\u0644\u062a\u0648"
     ],
@@ -176,7 +175,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85669409,
         102191577,
@@ -186,7 +185,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29396889,
-        "qs:id":1324513
+        "qs_pg:id":1324513
     },
     "wof:country":"BO",
     "wof:geomhash":"ac0de71f155321fe810fdeed7548d919",
@@ -204,7 +203,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564119251,
+    "wof:lastmodified":1566616005,
     "wof:name":"El Alto",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

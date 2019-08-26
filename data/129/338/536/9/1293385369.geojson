@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-62.89096,-16.98521,-62.85096,-16.94521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Comunidad El Plato"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293385369,
-    "wof:lastmodified":1537588162,
+    "wof:lastmodified":1566616028,
     "wof:name":"El Plato",
     "wof:parent_id":1092009873,
     "wof:placetype":"locality",

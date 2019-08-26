@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":-16.640652,
     "lbl:longitude":-64.661928,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-16.640652,
     "mps:longitude":-64.661928,
     "mz:hierarchy_label":1,
@@ -799,10 +801,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043b\u0456\u0432\u0456\u044f"
     ],
-    "name:und_x_preferred":[
-        "Bolivija",
-        "B\u00f3liv\u00eda"
-    ],
     "name:und_x_variant":[
         "Republika Bolivija"
     ],
@@ -962,7 +960,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"591",
     "statoids:ds":"BOL",
@@ -1008,7 +1006,7 @@
         "mzb:id":"bolivia",
         "ne:adm0_a3":"BOL",
         "nyt:id":"66221089036343704001",
-        "qs:id":461343,
+        "qs_pg:id":461343,
         "uncrt:id":"BOL",
         "wd:id":"Q750",
         "wk:page":"Bolivia",
@@ -1034,7 +1032,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1565654346,
+    "wof:lastmodified":1566616022,
     "wof:name":"Bolivia",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

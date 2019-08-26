@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-64.88667,-17.83667,-64.84667,-17.79667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Challuani",
         "Challhuani"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276121069,
-    "wof:lastmodified":1564119917,
+    "wof:lastmodified":1566616557,
     "wof:name":"Challhuani",
     "wof:parent_id":1092006537,
     "wof:placetype":"locality",

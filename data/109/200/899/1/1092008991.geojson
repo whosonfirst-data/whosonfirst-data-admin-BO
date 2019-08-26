@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-19.875523,
     "lbl:longitude":-65.467597,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Potosi",
     "meso:gadm_admin":"Jos\u00e9 Mar\u00eda Linares",
     "meso:gadm_hasc2":"BO.PO.JL",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.467597,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aym_x_preferred":[
         "Jos\u00e9 Mar\u00eda Linares jisk'a suyu"
     ],
@@ -102,9 +105,9 @@
         "\u4f55\u585e\u746a\u5229\u4e9e\u5229\u7d0d\u96f7\u65af\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Puna",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1092008991,
-    "wof:lastmodified":1563574894,
+    "wof:lastmodified":1566617463,
     "wof:name":"Jose Maria Linares",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

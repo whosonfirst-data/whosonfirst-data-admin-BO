@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-15.57624,
     "lbl:longitude":-68.182012,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Paz",
     "meso:gadm_admin":"Larecaja",
     "meso:gadm_hasc2":"BO.LP.LR",
@@ -37,6 +39,7 @@
     "mps:longitude":-68.182012,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Larikaxa jisk'a suyu"
@@ -102,9 +105,6 @@
     "name:swe_x_preferred":[
         "Larecaja"
     ],
-    "name:unk_x_variant":[
-        "Provincia Larecaja"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0631\u06cc\u06a9\u0627\u062c\u0627 \u0635\u0648\u0628\u06c1"
     ],
@@ -136,9 +136,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Sorata",
@@ -159,7 +159,7 @@
         "gn:id":3911853,
         "gp:id":55967858,
         "hasc:id":"BO.LP.LR",
-        "qs:id":1086771,
+        "qs_pg:id":1086771,
         "wd:id":"Q1325760",
         "wk:page":"Larecaja Province"
     },
@@ -175,7 +175,7 @@
         }
     ],
     "wof:id":421187929,
-    "wof:lastmodified":1563575050,
+    "wof:lastmodified":1566617564,
     "wof:name":"Larecaja",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

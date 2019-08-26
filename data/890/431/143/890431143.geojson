@@ -11,10 +11,14 @@
     "geom:longitude":-63.38026,
     "gn:country":"BO",
     "gn:fcode":"PPL",
-    "gn:pop":2419,
+    "gn:population":2419,
     "iso:country":"BO",
+    "lbl:bbox":"-63.40026,-18.90279,-63.36026,-18.86279",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Abap\u00f3"
     ],
@@ -36,7 +40,7 @@
     "name:swe_x_preferred":[
         "Abap\u00f3"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Misi\u00f3n Abap\u00f3"
     ],
     "name:zho_x_preferred":[
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3924668,
         "gp:id":332971,
-        "qs:id":150831,
+        "qs_pg:id":150831,
         "wd:id":"Q305531",
         "wk:page":"Abap\u00f3"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890431143,
-    "wof:lastmodified":1563575111,
+    "wof:lastmodified":1566617596,
     "wof:name":"Abap\u00f3",
     "wof:parent_id":1092009601,
     "wof:placetype":"locality",

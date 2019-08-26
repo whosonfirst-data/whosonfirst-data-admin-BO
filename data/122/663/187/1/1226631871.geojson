@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-63.21325,-18.14132,-63.17325,-18.10132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Basilio"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1226631871,
-    "wof:lastmodified":1564122271,
+    "wof:lastmodified":1566618099,
     "wof:name":"Basilio",
     "wof:parent_id":421187923,
     "wof:placetype":"locality",

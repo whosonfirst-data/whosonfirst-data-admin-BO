@@ -10,6 +10,9 @@
     "geom:latitude":-18.48923,
     "geom:longitude":-64.10609,
     "iso:country":"BO",
+    "lbl:bbox":"-64.12609,-18.50923,-64.08609,-18.46923",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -71,7 +74,7 @@
     "name:tur_x_preferred":[
         "Vallegrande"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciudad de Vallegrande"
     ],
     "name:urd_x_preferred":[
@@ -208,7 +211,7 @@
     "wof:concordances":{
         "gn:id":3901874,
         "gp:id":346115,
-        "qs:id":242445,
+        "qs_pg:id":242445,
         "wd:id":"Q735765",
         "wk:page":"Vallegrande"
     },
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":421204591,
-    "wof:lastmodified":1563575038,
+    "wof:lastmodified":1566617558,
     "wof:name":"Vallegrande",
     "wof:parent_id":421193471,
     "wof:placetype":"locality",

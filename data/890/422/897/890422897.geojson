@@ -11,10 +11,14 @@
     "geom:longitude":-65.13912,
     "gn:country":"BO",
     "gn:fcode":"PPL",
-    "gn:pop":518,
+    "gn:population":518,
     "iso:country":"BO",
+    "lbl:bbox":"-65.15912,-17.70587,-65.11912,-17.66587",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Ca\u00f1ada Hornillos",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":6618531,
         "gp:id":346111,
-        "qs:id":642841
+        "qs_pg:id":642841
     },
     "wof:country":"BO",
     "wof:created":1469051470,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890422897,
-    "wof:lastmodified":1505343472,
+    "wof:lastmodified":1566617593,
     "wof:name":"Ca\u00f1ada Hornillos",
     "wof:parent_id":1092006537,
     "wof:placetype":"locality",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-16.104598,
     "lbl:longitude":-67.143291,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Paz",
     "meso:gadm_admin":"Sud Yungas",
     "meso:gadm_hasc2":"BO.LP.SY",
@@ -37,6 +39,7 @@
     "mps:longitude":-67.143291,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Aynach Yunka jisk'a suyu"
@@ -99,7 +102,7 @@
     "name:swe_x_preferred":[
         "Sud Yungas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sur Yunga"
     ],
     "name:war_x_preferred":[
@@ -130,9 +133,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Chulumani",
@@ -153,7 +156,7 @@
         "gn:id":3903975,
         "gp:id":55967859,
         "hasc:id":"BO.LP.SY",
-        "qs:id":985853,
+        "qs_pg:id":985853,
         "wd:id":"Q609394",
         "wk:page":"Sud Yungas Province"
     },
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":421168083,
-    "wof:lastmodified":1563575017,
+    "wof:lastmodified":1566617545,
     "wof:name":"Sur Yungas",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

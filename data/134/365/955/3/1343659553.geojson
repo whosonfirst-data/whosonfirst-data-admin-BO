@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-61.70333,-14.82,-61.66333,-14.78",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Guardia"
     ],
@@ -69,8 +73,7 @@
         "La Guardia"
     ],
     "name:und_x_variant":[
-        "La Guadra",
-        "La Guardia"
+        "La Guadra"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1343659553,
-    "wof:lastmodified":1564118878,
+    "wof:lastmodified":1566615759,
     "wof:name":"La Guardia",
     "wof:parent_id":1092009873,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-59.63667,-18.28667,-59.59667,-18.24667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Morac\u00fa",
         "Motac\u00fa"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243354229,
-    "wof:lastmodified":1537587899,
+    "wof:lastmodified":1566617727,
     "wof:name":"Motacu",
     "wof:parent_id":1092009543,
     "wof:placetype":"locality",

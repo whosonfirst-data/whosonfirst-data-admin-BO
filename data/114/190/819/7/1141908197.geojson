@@ -10,10 +10,14 @@
     "geom:latitude":-17.169612,
     "geom:longitude":-68.449967,
     "iso:country":"BO",
+    "lbl:bbox":"-68.4699668799,-17.1896122042,-68.4299668799,-17.1496122042",
     "lbl:latitude":-17.169612,
     "lbl:longitude":-68.449967,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coro Coro"
     ],
@@ -166,7 +170,7 @@
         }
     ],
     "wof:id":1141908197,
-    "wof:lastmodified":1563576040,
+    "wof:lastmodified":1566618146,
     "wof:name":"Coro Coro",
     "wof:parent_id":421182439,
     "wof:placetype":"locality",

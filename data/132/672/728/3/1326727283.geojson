@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-65.70203,-20.66031,-65.66203,-20.62031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tambohuayco",
         "Tambohuaico"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326727283,
-    "wof:lastmodified":1537587939,
+    "wof:lastmodified":1566615599,
     "wof:name":"Tambohuaico",
     "wof:parent_id":421166639,
     "wof:placetype":"locality",

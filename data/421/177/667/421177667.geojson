@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-16.474198,
     "lbl:longitude":-68.09104,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Paz",
     "meso:gadm_admin":"Pedro Domingo Murillo",
     "meso:gadm_hasc2":"BO.LP.MR",
@@ -37,6 +39,7 @@
     "mps:longitude":-68.09104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Pedro Domingo Murillo jisk'a suyu"
@@ -131,9 +134,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Palca",
@@ -154,7 +157,7 @@
     "wof:concordances":{
         "gp:id":55967857,
         "hasc:id":"BO.LP.MR",
-        "qs:id":1347526,
+        "qs_pg:id":1347526,
         "wd:id":"Q590873"
     },
     "wof:country":"BO",
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":421177667,
-    "wof:lastmodified":1563575087,
+    "wof:lastmodified":1566617580,
     "wof:name":"Murillo",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-15.011995,
     "lbl:longitude":-68.773783,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Paz",
     "meso:gadm_admin":"Bautista Saavedra",
     "meso:gadm_hasc2":"BO.LP.BS",
@@ -37,6 +39,7 @@
     "mps:longitude":-68.773783,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aym_x_preferred":[
         "Bautista Saavedra jisk'a suyu"
     ],
@@ -107,9 +110,9 @@
         "\u9b91\u8482\u65af\u5854\u85a9\u7dad\u5fb7\u62c9\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Villa General Perez",
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":1092006969,
-    "wof:lastmodified":1563574891,
+    "wof:lastmodified":1566617461,
     "wof:name":"Bautista Saavedra",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

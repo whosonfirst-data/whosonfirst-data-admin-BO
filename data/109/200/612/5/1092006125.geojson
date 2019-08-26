@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-21.134679,
     "lbl:longitude":-65.332832,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chuquisaca",
     "meso:gadm_admin":"Sud Cinti",
     "meso:gadm_hasc2":"BO.CQ.SC",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.332832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Prov\u00edncia de Sud Cinti"
     ],
@@ -102,7 +105,7 @@
         "\u5357\u8f9b\u8482\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632623,
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1092006125,
-    "wof:lastmodified":1563574889,
+    "wof:lastmodified":1566617459,
     "wof:name":"Sur Cinti",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

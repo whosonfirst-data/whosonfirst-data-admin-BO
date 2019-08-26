@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-64.48675,-22.28456,-64.44675,-22.24456",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Arenal"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1276425371,
-    "wof:lastmodified":1564119754,
+    "wof:lastmodified":1566616430,
     "wof:name":"Arenal",
     "wof:parent_id":421182443,
     "wof:placetype":"locality",

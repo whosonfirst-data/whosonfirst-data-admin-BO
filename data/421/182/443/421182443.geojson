@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-22.058328,
     "lbl:longitude":-64.507514,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tarija",
     "meso:gadm_admin":"Aniceto Arce",
     "meso:gadm_hasc2":"BO.TR.AA",
@@ -37,6 +39,7 @@
     "mps:longitude":-64.507514,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Provincia Arce"
@@ -91,9 +94,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0456\u0441\u0435\u0442\u043e \u0410\u0440\u0441\u0435"
     ],
-    "name:unk_x_variant":[
-        "Aniceto Arce"
-    ],
     "name:war_x_preferred":[
         "Aniceto Arce"
     ],
@@ -122,9 +122,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Padcaya",
@@ -145,7 +145,7 @@
         "gn:id":3923749,
         "gp:id":55967838,
         "hasc:id":"BO.TR.AA",
-        "qs:id":911254,
+        "qs_pg:id":911254,
         "wd:id":"Q679350",
         "wk:page":"Aniceto Arce Province"
     },
@@ -161,7 +161,7 @@
         }
     ],
     "wof:id":421182443,
-    "wof:lastmodified":1563575096,
+    "wof:lastmodified":1566617588,
     "wof:name":"Arce",
     "wof:parent_id":85669431,
     "wof:placetype":"county",

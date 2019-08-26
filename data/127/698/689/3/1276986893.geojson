@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-68.72,-16.63667,-68.68,-16.59667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Comunidad Guabaya",
         "Guabaya"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276986893,
-    "wof:lastmodified":1537588073,
+    "wof:lastmodified":1566616608,
     "wof:name":"Guabaya",
     "wof:parent_id":1092007213,
     "wof:placetype":"locality",

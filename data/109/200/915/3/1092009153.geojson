@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-18.500247,
     "lbl:longitude":-66.486545,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Potosi",
     "meso:gadm_admin":"Rafael Bustillo",
     "meso:gadm_hasc2":"BO.PO.RB",
@@ -37,6 +39,7 @@
     "mps:longitude":-66.486545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aym_x_preferred":[
         "Rafael Bustillo jisk'a suyu"
     ],
@@ -104,9 +107,9 @@
         "\u62c9\u6590\u723e\u5e03\u65af\u8482\u7565\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Uncia",
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1092009153,
-    "wof:lastmodified":1563574869,
+    "wof:lastmodified":1566617441,
     "wof:name":"Rafael Bustillo",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

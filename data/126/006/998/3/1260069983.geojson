@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-63.78667,-21.43667,-63.74667,-21.39667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Palmar"
     ],
@@ -48,8 +52,7 @@
         "El Palmar"
     ],
     "name:und_x_variant":[
-        "El Palomar",
-        "El Palmar"
+        "El Palomar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1260069983,
-    "wof:lastmodified":1564120599,
+    "wof:lastmodified":1566617041,
     "wof:name":"El Palmar",
     "wof:parent_id":421169235,
     "wof:placetype":"locality",

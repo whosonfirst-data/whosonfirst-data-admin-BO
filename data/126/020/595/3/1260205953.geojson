@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-63.50333,-18.15333,-63.46333,-18.11333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "San Luis"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260205953,
-    "wof:lastmodified":1564120604,
+    "wof:lastmodified":1566617045,
     "wof:name":"San Luis",
     "wof:parent_id":421187923,
     "wof:placetype":"locality",

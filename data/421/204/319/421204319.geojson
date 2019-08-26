@@ -10,8 +10,12 @@
     "geom:latitude":-14.84051,
     "geom:longitude":-64.903129,
     "iso:country":"BO",
+    "lbl:bbox":"-65.003129,-14.94051,-64.803129,-14.74051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0631\u064a\u0646\u064a\u062f\u0627\u062f"
@@ -230,7 +234,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55967921,
-        "qs:id":239139
+        "qs_pg:id":239139
     },
     "wof:country":"BO",
     "wof:created":1459010181,
@@ -245,7 +249,7 @@
         }
     ],
     "wof:id":421204319,
-    "wof:lastmodified":1564121291,
+    "wof:lastmodified":1566617559,
     "wof:name":"Trinidad",
     "wof:parent_id":421191613,
     "wof:placetype":"localadmin",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-16.62515,
     "lbl:longitude":-65.50445,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cochabamba",
     "meso:gadm_admin":"Chapare",
     "meso:gadm_hasc2":"BO.CB.CH",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.50445,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Prov\u00edncia de Chapare"
@@ -98,7 +101,7 @@
     "name:swe_x_preferred":[
         "Chapare"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aranibar"
     ],
     "name:war_x_preferred":[
@@ -129,9 +132,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Sacaba",
@@ -152,7 +155,7 @@
         "gn:id":3921215,
         "gp:id":55967844,
         "hasc:id":"BO.CB.CH",
-        "qs:id":1311733,
+        "qs_pg:id":1311733,
         "wd:id":"Q1434538",
         "wk:page":"Chapare Province"
     },
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":421172489,
-    "wof:lastmodified":1563575064,
+    "wof:lastmodified":1566617568,
     "wof:name":"Chapare",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

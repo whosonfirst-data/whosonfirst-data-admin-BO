@@ -11,8 +11,11 @@
     "geom:longitude":-63.16667,
     "gn:country":"BO",
     "gn:fcode":"PPLA",
-    "gn:pop":1364389,
+    "gn:population":1364389,
     "iso:country":"BO",
+    "lbl:bbox":"-63.18667,-17.82,-63.14667,-17.78",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.0,
@@ -194,7 +197,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441-\u0434\u0435-\u043b\u0430-\u0421\u044c\u0454\u0440\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciudad de Santa Cruz de la Sierra"
     ],
     "name:urd_x_preferred":[
@@ -330,12 +333,12 @@
     "wof:concordances":{
         "gn:id":3904906,
         "gp:id":346059,
-        "qs:id":274542,
+        "qs_pg:id":274542,
         "wd:id":"Q170688",
         "wk:page":"Santa Cruz de la Sierra"
     },
     "wof:concordances_alt":{
-        "qs:id":1075159
+        "qs_pg:id":1075159
     },
     "wof:country":"BO",
     "wof:created":1469052353,
@@ -350,7 +353,7 @@
         }
     ],
     "wof:id":890442173,
-    "wof:lastmodified":1563575114,
+    "wof:lastmodified":1566617597,
     "wof:name":"Santa Cruz de la Sierra",
     "wof:parent_id":421187923,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-67.13667,-20.98667,-67.09667,-20.94667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pampa Puritari",
         "Pampa de Puripari",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310493475,
-    "wof:lastmodified":1537587994,
+    "wof:lastmodified":1566617157,
     "wof:name":"Pampa de Puritari",
     "wof:parent_id":421193357,
     "wof:placetype":"locality",

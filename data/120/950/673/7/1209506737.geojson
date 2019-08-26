@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-66.17602,-20.28656,-66.13602,-20.24656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Estancia Khochi",
         "Khochi"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209506737,
-    "wof:lastmodified":1537588040,
+    "wof:lastmodified":1566616774,
     "wof:name":"Khochi",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",

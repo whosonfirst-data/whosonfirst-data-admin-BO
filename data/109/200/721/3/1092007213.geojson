@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-16.869236,
     "lbl:longitude":-69.008973,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Paz",
     "meso:gadm_admin":"Ingavi",
     "meso:gadm_hasc2":"BO.LP.IG",
@@ -37,6 +39,7 @@
     "mps:longitude":-69.008973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aym_x_preferred":[
         "Inkawi jisk'a suyu"
     ],
@@ -110,9 +113,9 @@
         "\u56e0\u52a0\u7dad\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Viacha",
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":1092007213,
-    "wof:lastmodified":1563574898,
+    "wof:lastmodified":1566617468,
     "wof:name":"Ingavi",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

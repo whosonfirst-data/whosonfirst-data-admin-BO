@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-67.26205,-10.46146,-67.22205,-10.42146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Barraca San Juan"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343980205,
-    "wof:lastmodified":1537588194,
+    "wof:lastmodified":1566615769,
     "wof:name":"Barraca San Juan",
     "wof:parent_id":1092008329,
     "wof:placetype":"locality",

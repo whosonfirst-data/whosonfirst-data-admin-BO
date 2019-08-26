@@ -11,11 +11,15 @@
     "geom:longitude":-66.71667,
     "gn:country":"BO",
     "gn:fcode":"PPL",
-    "gn:pop":1074,
+    "gn:population":1074,
     "iso:country":"BO",
+    "lbl:bbox":"-66.73667,-17.33667,-66.69667,-17.29667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Calcheni"
     ],
     "qs:name":"Colchani",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3919886,
         "gp:id":334026,
-        "qs:id":1047193
+        "qs_pg:id":1047193
     },
     "wof:country":"BO",
     "wof:created":1469052173,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890437965,
-    "wof:lastmodified":1505343562,
+    "wof:lastmodified":1566617594,
     "wof:name":"Colchani",
     "wof:parent_id":1092006381,
     "wof:placetype":"locality",

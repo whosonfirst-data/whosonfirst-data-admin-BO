@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-64.72,-22.15333,-64.68,-22.11333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0644 \u0633\u0627\u0648\u062b\u0627\u0644"
     ],
@@ -90,9 +94,7 @@
         "\u0415\u043b\u044c-\u0421\u0430\u0443\u0441\u0430\u043b\u044c"
     ],
     "name:und_x_variant":[
-        "Sauzal",
-        "El Sausal",
-        "El Sauzal"
+        "El Sausal"
     ],
     "name:uzb_x_preferred":[
         "El Sauzal"
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":1209905943,
-    "wof:lastmodified":1564120107,
+    "wof:lastmodified":1566616689,
     "wof:name":"El Sauzal",
     "wof:parent_id":421182443,
     "wof:placetype":"locality",

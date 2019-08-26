@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-62.77,-17.65333,-62.73,-17.61333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Comunidad El Chafral",
         "El Chafral"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293709115,
-    "wof:lastmodified":1537588086,
+    "wof:lastmodified":1566616140,
     "wof:name":"El Chafral",
     "wof:parent_id":1092009543,
     "wof:placetype":"locality",

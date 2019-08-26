@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-17.87917,
     "lbl:longitude":-63.328277,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Cruz",
     "meso:gadm_admin":"Andr\u00e9s Ib\u00e1\u00f1ez",
     "meso:gadm_hasc2":"BO.SC.AI",
@@ -37,6 +39,7 @@
     "mps:longitude":-63.328277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0410\u043d\u0434\u0440\u044d\u0441 \u0406\u0431\u0430\u043d\u044c\u0435\u0441"
@@ -125,7 +128,7 @@
     "name:swe_x_preferred":[
         "Andr\u00e9s Ib\u00e1\u00f1ez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cercado"
     ],
     "name:war_x_preferred":[
@@ -156,9 +159,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Santa Cruz de la Sierra",
@@ -180,7 +183,7 @@
         "gn:id":3923972,
         "gp:id":55967824,
         "hasc:id":"BO.SC.AI",
-        "qs:id":1086768,
+        "qs_pg:id":1086768,
         "wd:id":"Q582935",
         "wk:page":"Andr\u00e9s Ib\u00e1\u00f1ez Province"
     },
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":421187923,
-    "wof:lastmodified":1563575048,
+    "wof:lastmodified":1566617563,
     "wof:name":"Andres Ibanez",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

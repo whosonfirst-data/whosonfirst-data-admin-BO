@@ -11,8 +11,11 @@
     "geom:longitude":-64.72956,
     "gn:country":"BO",
     "gn:fcode":"PPLA",
-    "gn:pop":159269,
+    "gn:population":159269,
     "iso:country":"BO",
+    "lbl:bbox":"-64.74956,-21.55549,-64.70956,-21.51549",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -175,7 +178,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u0456\u0445\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciudad Tarija"
     ],
     "name:urd_x_preferred":[
@@ -303,12 +306,12 @@
     "wof:concordances":{
         "gn:id":3903320,
         "gp:id":346109,
-        "qs:id":150667,
+        "qs_pg:id":150667,
         "wd:id":"Q35004",
         "wk:page":"Tarija"
     },
     "wof:concordances_alt":{
-        "qs:id":1075168
+        "qs_pg:id":1075168
     },
     "wof:country":"BO",
     "wof:created":1469052792,
@@ -323,7 +326,7 @@
         }
     ],
     "wof:id":890451755,
-    "wof:lastmodified":1563575126,
+    "wof:lastmodified":1566617601,
     "wof:name":"Tarija",
     "wof:parent_id":421169233,
     "wof:placetype":"locality",

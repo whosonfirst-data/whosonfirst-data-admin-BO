@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-18.663946,
     "lbl:longitude":-58.295397,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Cruz",
     "meso:gadm_admin":"Chiquitos",
     "meso:gadm_hasc2":"BO.SC.CQ",
@@ -34,6 +36,7 @@
     "mps:longitude":-58.295397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062c\u064a\u0631\u0645\u0627\u0646 \u0628\u0648\u0634"
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1050,
     "wof:belongsto":[
         102191577,
@@ -138,7 +141,7 @@
     "wof:concordances":{
         "gp:id":55967836,
         "hasc:id":"BO.SC.CQ",
-        "qs:id":961920,
+        "qs_pg:id":961920,
         "wd:id":"Q734606"
     },
     "wof:country":"BO",
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":421183095,
-    "wof:lastmodified":1563575093,
+    "wof:lastmodified":1566617586,
     "wof:name":"German Busch",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-68.34306,-20.14607,-68.30306,-20.10607",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Estancia Vila Kkollu",
         "Vilacollo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1292997349,
-    "wof:lastmodified":1537587914,
+    "wof:lastmodified":1566616268,
     "wof:name":"Vilacollo",
     "wof:parent_id":421177659,
     "wof:placetype":"locality",

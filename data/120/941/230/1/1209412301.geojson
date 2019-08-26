@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-60.20333,-16.20333,-60.16333,-16.16333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632623
@@ -34,7 +38,7 @@
         "gn:id":3919603
     },
     "wof:country":"BO",
-    "wof:geomhash":"1f969ffe3869816e90c41f2acbb6dc44",
+    "wof:geomhash":"a59242d382e0f903f29a13802f296b26",
     "wof:hierarchy":[
         {
             "country_id":85632623,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209412301,
-    "wof:lastmodified":1536287799,
+    "wof:lastmodified":1566616725,
     "wof:name":"Comunidad Espiritu",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -60.18333000000001,
-    -16.183329999999998,
+    -16.18333,
     -60.18333000000001,
-    -16.183329999999998
+    -16.18333
 ],
   "geometry": {"coordinates":[-60.18333000000001,-16.18333],"type":"Point"}
 }

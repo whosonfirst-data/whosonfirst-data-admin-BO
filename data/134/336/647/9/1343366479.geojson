@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-66.77722,-13.87583,-66.73722,-13.83583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Triunfo",
         "Triunfo",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343366479,
-    "wof:lastmodified":1537588028,
+    "wof:lastmodified":1566615758,
     "wof:name":"Las Petas",
     "wof:parent_id":1092005669,
     "wof:placetype":"locality",

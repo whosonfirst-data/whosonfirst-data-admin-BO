@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-66.81123,-21.09008,-66.77123,-21.05008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326651375,
-    "wof:lastmodified":1536811767,
+    "wof:lastmodified":1566615727,
     "wof:name":"Ventos Kaqui",
     "wof:parent_id":421193357,
     "wof:placetype":"locality",

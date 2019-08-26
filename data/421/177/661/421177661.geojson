@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-21.91324,
     "lbl:longitude":-65.647774,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Potosi",
     "meso:gadm_admin":"Modesto Omiste",
     "meso:gadm_hasc2":"BO.PO.MO",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.647774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Modesto Omiste jisk'a suyu"
@@ -142,9 +145,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Villazon",
@@ -165,7 +168,7 @@
     "wof:concordances":{
         "gp:id":55967817,
         "hasc:id":"BO.PO.MO",
-        "qs:id":1347486,
+        "qs_pg:id":1347486,
         "wd:id":"Q120514"
     },
     "wof:country":"BO",
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":421177661,
-    "wof:lastmodified":1563575090,
+    "wof:lastmodified":1566617584,
     "wof:name":"Modesto Omiste",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-66.0025,-18.28863,-65.9625,-18.24863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Pedro",
         "San Pedro Buena Vista",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276357403,
-    "wof:lastmodified":1537587956,
+    "wof:lastmodified":1566616479,
     "wof:name":"San Pedro de Buena Vista",
     "wof:parent_id":1092008737,
     "wof:placetype":"locality",

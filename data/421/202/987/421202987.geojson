@@ -10,8 +10,12 @@
     "geom:latitude":-21.2675,
     "geom:longitude":-66.31557,
     "iso:country":"BO",
+    "lbl:bbox":"-66.33557,-21.2875,-66.29557,-21.2475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "San Vicente"
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3904616,
         "gp:id":346243,
-        "qs:id":53705,
+        "qs_pg:id":53705,
         "wd:id":"Q18212380",
         "wk:page":"San Vicente Canton, Bolivia"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421202987,
-    "wof:lastmodified":1561840565,
+    "wof:lastmodified":1566617560,
     "wof:name":"San Vicente",
     "wof:parent_id":1092009203,
     "wof:placetype":"locality",

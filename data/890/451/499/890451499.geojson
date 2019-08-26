@@ -11,10 +11,14 @@
     "geom:longitude":-65.06267,
     "gn:country":"BO",
     "gn:fcode":"PPL",
-    "gn:pop":122,
+    "gn:population":122,
     "iso:country":"BO",
+    "lbl:bbox":"-65.08267,-17.79263,-65.04267,-17.75263",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cayarani"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3921712,
         "gp:id":335859,
-        "qs:id":96722,
+        "qs_pg:id":96722,
         "wk:page":"Cayarani District"
     },
     "wof:country":"BO",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890451499,
-    "wof:lastmodified":1564121321,
+    "wof:lastmodified":1566617601,
     "wof:name":"Cayarani",
     "wof:parent_id":1092006537,
     "wof:placetype":"locality",

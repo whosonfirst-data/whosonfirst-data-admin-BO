@@ -11,10 +11,14 @@
     "geom:longitude":-65.14646,
     "gn:country":"BO",
     "gn:fcode":"PPL",
-    "gn:pop":260,
+    "gn:population":260,
     "iso:country":"BO",
+    "lbl:bbox":"-65.16646,-17.64262,-65.12646,-17.60262",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Chimpa Chaupiloma Bajo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":6618535,
         "gp:id":346111,
-        "qs:id":642845
+        "qs_pg:id":642845
     },
     "wof:country":"BO",
     "wof:created":1469052515,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890445581,
-    "wof:lastmodified":1505343606,
+    "wof:lastmodified":1566617599,
     "wof:name":"Chimpa Chaupiloma Bajo",
     "wof:parent_id":1092006537,
     "wof:placetype":"locality",

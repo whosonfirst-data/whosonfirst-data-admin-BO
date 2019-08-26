@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-68.41459,-18.18878,-68.37459,-18.14878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:que_x_preferred":[
         "Turini"
     ],
     "name:und_x_variant":[
-        "Estancia Turini",
-        "Turini"
+        "Estancia Turini"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1242582227,
-    "wof:lastmodified":1564121489,
+    "wof:lastmodified":1566617697,
     "wof:name":"Turini",
     "wof:parent_id":421204017,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-63.05333,-17.92,-63.01333,-17.88",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Miguel"
     ],
@@ -122,8 +126,7 @@
     "name:und_x_variant":[
         "Junos",
         "Comunidad San Miguel de Los Junos",
-        "Los Junos",
-        "San Miguel"
+        "Los Junos"
     ],
     "name:war_x_preferred":[
         "San Miguel"
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":1292899267,
-    "wof:lastmodified":1564119339,
+    "wof:lastmodified":1566616102,
     "wof:name":"San Miguel",
     "wof:parent_id":421187923,
     "wof:placetype":"locality",

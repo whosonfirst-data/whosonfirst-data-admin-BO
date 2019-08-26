@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-19.447425,
     "lbl:longitude":-64.236228,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chuquisaca",
     "meso:gadm_admin":"Tomina",
     "meso:gadm_hasc2":"BO.CQ.TM",
@@ -37,6 +39,7 @@
     "mps:longitude":-64.236228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Prov\u00edncia de Tomina"
@@ -95,7 +98,7 @@
     "name:swe_x_preferred":[
         "Tomina"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia Tomina"
     ],
     "name:war_x_preferred":[
@@ -129,9 +132,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Padilla",
@@ -153,7 +156,7 @@
         "gn:id":3902667,
         "gp:id":55967757,
         "hasc:id":"BO.CQ.TM",
-        "qs:id":1200746,
+        "qs_pg:id":1200746,
         "wd:id":"Q1420320"
     },
     "wof:country":"BO",
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":421169227,
-    "wof:lastmodified":1563575030,
+    "wof:lastmodified":1566617555,
     "wof:name":"Tomina",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

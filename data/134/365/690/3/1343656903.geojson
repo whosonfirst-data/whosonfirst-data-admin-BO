@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-67.36516,-10.6297,-67.32516,-10.5897",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u0631\u064a\u0643\u0627"
     ],
@@ -101,8 +105,7 @@
         "\u0415\u0432\u0440\u0438\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Eureca",
-        "Eureka"
+        "Eureca"
     ],
     "name:vol_x_preferred":[
         "Eureka"
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1343656903,
-    "wof:lastmodified":1564118883,
+    "wof:lastmodified":1566615762,
     "wof:name":"Eureka",
     "wof:parent_id":1092008329,
     "wof:placetype":"locality",

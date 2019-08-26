@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-17.314223,
     "lbl:longitude":-66.310787,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cochabamba",
     "meso:gadm_admin":"Quillacollo",
     "meso:gadm_hasc2":"BO.CB.QC",
@@ -37,6 +39,7 @@
     "mps:longitude":-66.310787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Prov\u00edncia de Quillacollo"
@@ -98,7 +101,7 @@
     "name:swe_x_preferred":[
         "Quillacollo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia Quillacollo"
     ],
     "name:war_x_preferred":[
@@ -129,9 +132,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Quillacollo",
@@ -152,7 +155,7 @@
         "gn:id":3906790,
         "gp:id":55967845,
         "hasc:id":"BO.CB.QC",
-        "qs:id":1311734,
+        "qs_pg:id":1311734,
         "wd:id":"Q947724"
     },
     "wof:country":"BO",
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":421197123,
-    "wof:lastmodified":1563575079,
+    "wof:lastmodified":1566617576,
     "wof:name":"Quillacollo",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

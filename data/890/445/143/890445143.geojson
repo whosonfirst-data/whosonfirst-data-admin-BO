@@ -11,8 +11,11 @@
     "geom:longitude":-63.75,
     "gn:country":"BO",
     "gn:fcode":"PPL",
-    "gn:pop":4180,
+    "gn:population":4180,
     "iso:country":"BO",
+    "lbl:bbox":"-63.77,-17.42,-63.73,-17.38",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -142,7 +145,7 @@
     "wof:concordances":{
         "gn:id":3905775,
         "gp:id":346228,
-        "qs:id":1047136,
+        "qs_pg:id":1047136,
         "wd:id":"Q1309601",
         "wk:page":"San Carlos"
     },
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":890445143,
-    "wof:lastmodified":1561840574,
+    "wof:lastmodified":1566617599,
     "wof:name":"San Carlos",
     "wof:parent_id":1092009785,
     "wof:placetype":"locality",

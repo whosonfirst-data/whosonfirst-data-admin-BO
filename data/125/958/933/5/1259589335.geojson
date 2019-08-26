@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-69.18584,-16.03652,-69.14584,-15.99652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nld_x_preferred":[
         "Challa"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259589335,
-    "wof:lastmodified":1564121935,
+    "wof:lastmodified":1566617922,
     "wof:name":"Challa",
     "wof:parent_id":421187909,
     "wof:placetype":"locality",

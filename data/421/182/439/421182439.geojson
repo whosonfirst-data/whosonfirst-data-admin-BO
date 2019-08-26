@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-17.413321,
     "lbl:longitude":-68.76833,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Paz",
     "meso:gadm_admin":"Pacajes",
     "meso:gadm_hasc2":"BO.LP.PC",
@@ -37,6 +39,7 @@
     "mps:longitude":-68.76833,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Pakaxis jisk'a suyu"
@@ -99,9 +102,6 @@
     "name:swe_x_preferred":[
         "Pacajes"
     ],
-    "name:unk_x_variant":[
-        "Provincia Pacajes"
-    ],
     "name:war_x_preferred":[
         "Pacajes"
     ],
@@ -130,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632623,
@@ -141,7 +141,7 @@
         "gn:id":3909144,
         "gp:id":55967791,
         "hasc:id":"BO.LP.PC",
-        "qs:id":911253,
+        "qs_pg:id":911253,
         "wd:id":"Q1355941",
         "wk:page":"Pacajes Province"
     },
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":421182439,
-    "wof:lastmodified":1563575094,
+    "wof:lastmodified":1566617587,
     "wof:name":"Pacajes",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

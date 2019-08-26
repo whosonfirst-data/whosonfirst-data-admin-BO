@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-61.00333,-15.65333,-60.96333,-15.61333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276749147,
-    "wof:lastmodified":1536719129,
+    "wof:lastmodified":1566616442,
     "wof:name":"San Ramon",
     "wof:parent_id":1092010025,
     "wof:placetype":"locality",

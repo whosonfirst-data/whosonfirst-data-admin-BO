@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-67.65333,-16.85333,-67.61333,-16.81333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343262473,
-    "wof:lastmodified":1537030665,
+    "wof:lastmodified":1566615986,
     "wof:name":"Tanapaca",
     "wof:parent_id":421182435,
     "wof:placetype":"locality",

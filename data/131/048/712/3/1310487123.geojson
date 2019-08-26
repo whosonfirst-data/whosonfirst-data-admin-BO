@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-62.85333,-17.20333,-62.81333,-17.16333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Retiro"
     ],
@@ -39,8 +43,7 @@
         "El Retiro"
     ],
     "name:und_x_variant":[
-        "Estancia El Retiro",
-        "El Retiro"
+        "Estancia El Retiro"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1310487123,
-    "wof:lastmodified":1564120712,
+    "wof:lastmodified":1566617136,
     "wof:name":"El Retiro",
     "wof:parent_id":1092010083,
     "wof:placetype":"locality",

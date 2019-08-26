@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-69.07197,-11.46494,-69.03197,-11.42494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Asaizal"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343356869,
-    "wof:lastmodified":1537588162,
+    "wof:lastmodified":1566615881,
     "wof:name":"Asasal",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",

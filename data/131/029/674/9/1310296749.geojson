@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-65.05472,-19.44832,-65.01472,-19.40832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310296749,
-    "wof:lastmodified":1536720953,
+    "wof:lastmodified":1566617240,
     "wof:name":"Sala Pampa",
     "wof:parent_id":1092008843,
     "wof:placetype":"locality",

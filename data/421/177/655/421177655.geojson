@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-10.23646,
     "lbl:longitude":-66.015538,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Pando",
     "meso:gadm_admin":"Federico Rom\u00e1n",
     "meso:gadm_hasc2":"BO.PA.GR",
@@ -37,6 +39,7 @@
     "mps:longitude":-66.015538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Provincia General Federico Rom\u00e1n"
@@ -119,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":317,
     "wof:belongsto":[
         102191577,
@@ -130,7 +133,7 @@
     "wof:concordances":{
         "gp:id":55967809,
         "hasc:id":"BO.PA.GR",
-        "qs:id":1347477,
+        "qs_pg:id":1347477,
         "wd:id":"Q1473313"
     },
     "wof:country":"BO",
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":421177655,
-    "wof:lastmodified":1561840572,
+    "wof:lastmodified":1566617585,
     "wof:name":"Federico Roman",
     "wof:parent_id":85669417,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-66.48667,-17.70333,-66.44667,-17.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632623
@@ -34,7 +38,7 @@
         "gn:id":3916765
     },
     "wof:country":"BO",
-    "wof:geomhash":"1632939f9f12501d84ccfe3b75a65e9b",
+    "wof:geomhash":"b21a75c9d2d452ecfa5aa93f3bd43e83",
     "wof:hierarchy":[
         {
             "country_id":85632623,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209524429,
-    "wof:lastmodified":1536284476,
+    "wof:lastmodified":1566616697,
     "wof:name":"Estancia Llallagua",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -66.46667,
-    -17.683329999999994,
+    -17.68332999999999,
     -66.46667,
-    -17.683329999999994
+    -17.68332999999999
 ],
   "geometry": {"coordinates":[-66.46666999999999,-17.68332999999999],"type":"Point"}
 }

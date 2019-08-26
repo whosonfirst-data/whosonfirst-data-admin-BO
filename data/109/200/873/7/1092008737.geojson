@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-18.311447,
     "lbl:longitude":-65.867831,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Potosi",
     "meso:gadm_admin":"Charcas",
     "meso:gadm_hasc2":"BO.PO.CR",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.867831,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aym_x_preferred":[
         "Charkas jisk'a suyu"
     ],
@@ -104,9 +107,9 @@
         "\u67e5\u723e\u5361\u65af\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"San Pedro",
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1092008737,
-    "wof:lastmodified":1563574859,
+    "wof:lastmodified":1566617431,
     "wof:name":"Charcas",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

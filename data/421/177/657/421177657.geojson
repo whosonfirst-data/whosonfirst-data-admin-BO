@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-20.066356,
     "lbl:longitude":-66.480466,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Potosi",
     "meso:gadm_admin":"Antonio Quijarro",
     "meso:gadm_hasc2":"BO.PO.AQ",
@@ -37,6 +39,7 @@
     "mps:longitude":-66.480466,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Antonio Quijarro jisk'a suyu"
@@ -138,9 +141,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Uyuni",
@@ -161,7 +164,7 @@
     "wof:concordances":{
         "gp:id":55967812,
         "hasc:id":"BO.PO.AQ",
-        "qs:id":1347484,
+        "qs_pg:id":1347484,
         "wd:id":"Q1360766"
     },
     "wof:country":"BO",
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":421177657,
-    "wof:lastmodified":1563575090,
+    "wof:lastmodified":1566617584,
     "wof:name":"Antonio Quijarro",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

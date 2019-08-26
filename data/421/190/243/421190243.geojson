@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-17.451765,
     "lbl:longitude":-66.16212,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cochabamba",
     "meso:gadm_admin":"Cercado",
     "meso:gadm_hasc2":"BO.CB.CE",
@@ -31,6 +33,7 @@
     "mps:longitude":-66.16212,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Provinz Cercado"
@@ -71,7 +74,7 @@
     "name:swe_x_preferred":[
         "Cercado"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia Cercado"
     ],
     "name:war_x_preferred":[
@@ -102,9 +105,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Cochabamba",
@@ -125,7 +128,7 @@
         "gn:id":3921630,
         "gp:id":55967760,
         "hasc:id":"BO.CB.CE",
-        "qs:id":1119109,
+        "qs_pg:id":1119109,
         "wd:id":"Q200795",
         "wk:page":"Cercado Province (Cochabamba)"
     },
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421190243,
-    "wof:lastmodified":1563575076,
+    "wof:lastmodified":1566617574,
     "wof:name":"Cercado",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

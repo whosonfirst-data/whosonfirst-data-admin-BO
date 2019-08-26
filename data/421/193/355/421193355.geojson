@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-22.297338,
     "lbl:longitude":-67.305516,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Potosi",
     "meso:gadm_admin":"Sud L\u00edpez",
     "meso:gadm_hasc2":"BO.PO.SL",
@@ -37,6 +39,7 @@
     "mps:longitude":-67.305516,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Prov\u00edncia de Sud L\u00edpez"
@@ -110,9 +113,6 @@
     "name:swe_x_preferred":[
         "Sud L\u00edpez"
     ],
-    "name:unk_x_variant":[
-        "Sur L\u00edpez"
-    ],
     "name:war_x_preferred":[
         "Sud L\u00edpez"
     ],
@@ -141,9 +141,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"San Pablo de L\u00edpez",
@@ -164,7 +164,7 @@
         "gn:id":3903976,
         "gp:id":55967821,
         "hasc:id":"BO.PO.SL",
-        "qs:id":890493,
+        "qs_pg:id":890493,
         "wd:id":"Q537564",
         "wk:page":"Sur L\u00edpez Province"
     },
@@ -180,7 +180,7 @@
         }
     ],
     "wof:id":421193355,
-    "wof:lastmodified":1563575025,
+    "wof:lastmodified":1566617550,
     "wof:name":"Sur Lipez",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

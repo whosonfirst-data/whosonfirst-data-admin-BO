@@ -10,8 +10,12 @@
     "geom:latitude":-16.88854,
     "geom:longitude":-67.94949,
     "iso:country":"BO",
+    "lbl:bbox":"-67.96949,-16.90854,-67.92949,-16.86854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sapahaqui"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Sapahaqui"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sapanaqui"
     ],
     "qs:gn_country":"BO",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3904608,
         "gp:id":344206,
-        "qs:id":495128,
+        "qs_pg:id":495128,
         "wd:id":"Q941395",
         "wk:page":"Sapahaqui"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421181575,
-    "wof:lastmodified":1563575069,
+    "wof:lastmodified":1566617572,
     "wof:name":"Sapahaqui",
     "wof:parent_id":421182435,
     "wof:placetype":"locality",

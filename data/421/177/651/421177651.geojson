@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-17.618315,
     "lbl:longitude":-65.924098,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cochabamba",
     "meso:gadm_admin":"Germ\u00e1n Jord\u00e1n",
     "meso:gadm_hasc2":"BO.CB.GJ",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.924098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Prov\u00edncia de Germ\u00e1n Jord\u00e1n"
@@ -127,9 +130,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Cliza",
@@ -150,7 +153,7 @@
     "wof:concordances":{
         "gp:id":55967765,
         "hasc:id":"BO.CB.GJ",
-        "qs:id":1347428,
+        "qs_pg:id":1347428,
         "wd:id":"Q1424407"
     },
     "wof:country":"BO",
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421177651,
-    "wof:lastmodified":1563575086,
+    "wof:lastmodified":1566617580,
     "wof:name":"German Jordan",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

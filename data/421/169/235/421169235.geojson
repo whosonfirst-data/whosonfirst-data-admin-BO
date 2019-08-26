@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-21.503693,
     "lbl:longitude":-63.19428,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tarija",
     "meso:gadm_admin":"Gran Chaco",
     "meso:gadm_hasc2":"BO.TR.GC",
@@ -37,6 +39,7 @@
     "mps:longitude":-63.19428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Provincia Gran Chaco"
@@ -92,7 +95,7 @@
     "name:swe_x_preferred":[
         "Gran Chaco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia Del Gran Chaco"
     ],
     "name:war_x_preferred":[
@@ -123,9 +126,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Yacuiba",
@@ -146,7 +149,7 @@
         "gn:id":3915555,
         "gp:id":55967841,
         "hasc:id":"BO.TR.GC",
-        "qs:id":1200764,
+        "qs_pg:id":1200764,
         "wd:id":"Q267695",
         "wk:page":"Gran Chaco Province"
     },
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":421169235,
-    "wof:lastmodified":1563575031,
+    "wof:lastmodified":1566617556,
     "wof:name":"Gran Chaco",
     "wof:parent_id":85669431,
     "wof:placetype":"county",

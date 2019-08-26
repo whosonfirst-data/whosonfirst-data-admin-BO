@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-68.79987,-11.10407,-68.75987,-11.06407",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Villa Busch"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310227313,
-    "wof:lastmodified":1537588163,
+    "wof:lastmodified":1566617144,
     "wof:name":"Villa Busch",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",

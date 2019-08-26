@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-65.5618,-19.33985,-65.5218,-19.29985",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Felipe de Colavi",
         "San Felipe Colavi",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310301715,
-    "wof:lastmodified":1537588103,
+    "wof:lastmodified":1566617205,
     "wof:name":"Colavi",
     "wof:parent_id":1092008843,
     "wof:placetype":"locality",

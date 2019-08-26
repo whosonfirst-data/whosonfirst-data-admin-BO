@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-64.20314,-20.28812,-64.16314,-20.24812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cerrillos"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1259597221,
-    "wof:lastmodified":1564121915,
+    "wof:lastmodified":1566617911,
     "wof:name":"Cerrillos",
     "wof:parent_id":1092005923,
     "wof:placetype":"locality",
