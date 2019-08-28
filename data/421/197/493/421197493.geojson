@@ -10,8 +10,12 @@
     "geom:latitude":-17.71667,
     "geom:longitude":-66.26667,
     "iso:country":"BO",
+    "lbl:bbox":"-66.28667,-17.73667,-66.24667,-17.69667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Irpa Irpa"
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3914084,
         "gp:id":339579,
-        "qs:id":287732,
+        "qs_pg:id":287732,
         "wd:id":"Q1673170",
         "wk:page":"Irpa Irpa"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421197493,
-    "wof:lastmodified":1561840569,
+    "wof:lastmodified":1566617576,
     "wof:name":"Irpa Irpa",
     "wof:parent_id":1092006497,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-66.54984,-12.81922,-66.50984,-12.77922",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0430"
     ],
@@ -783,7 +787,7 @@
         }
     ],
     "wof:id":1259485139,
-    "wof:lastmodified":1564121803,
+    "wof:lastmodified":1566617861,
     "wof:name":"Australia",
     "wof:parent_id":1092005669,
     "wof:placetype":"locality",

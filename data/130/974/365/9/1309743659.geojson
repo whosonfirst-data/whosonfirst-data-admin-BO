@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-68.40881,-19.05286,-68.36881,-19.01286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Estancia Huancalle",
         "Huanalla",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309743659,
-    "wof:lastmodified":1537588066,
+    "wof:lastmodified":1566617527,
     "wof:name":"Huancalli",
     "wof:parent_id":1092008039,
     "wof:placetype":"locality",

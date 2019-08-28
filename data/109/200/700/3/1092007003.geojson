@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-15.528027,
     "lbl:longitude":-69.109912,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Paz",
     "meso:gadm_admin":"Eliodoro Camacho",
     "meso:gadm_hasc2":"BO.LP.CM",
@@ -37,6 +39,7 @@
     "mps:longitude":-69.109912,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aym_x_preferred":[
         "Eliodoro Camacho Suarez jisk'a suyu"
     ],
@@ -100,9 +103,9 @@
         "\u57c3\u5229\u5967\u591a\u7f85\u5361\u99ac\u55ac\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Puerto Acosta",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1092007003,
-    "wof:lastmodified":1561840541,
+    "wof:lastmodified":1566617429,
     "wof:name":"Camacho",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

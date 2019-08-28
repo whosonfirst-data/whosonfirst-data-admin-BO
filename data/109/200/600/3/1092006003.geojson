@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-20.388112,
     "lbl:longitude":-64.906135,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chuquisaca",
     "meso:gadm_admin":"Nor Cinti",
     "meso:gadm_hasc2":"BO.CQ.NC",
@@ -37,6 +39,7 @@
     "mps:longitude":-64.906135,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Prov\u00edncia de Nor Cinti"
     ],
@@ -101,9 +104,9 @@
         "\u5317\u8f9b\u8482\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Camargo",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1092006003,
-    "wof:lastmodified":1563574893,
+    "wof:lastmodified":1566617462,
     "wof:name":"Nor Cinti",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

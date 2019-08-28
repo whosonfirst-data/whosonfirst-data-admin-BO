@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-13.111853,
     "lbl:longitude":-68.089475,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Paz",
     "meso:gadm_admin":"Abel Iturralde",
     "meso:gadm_hasc2":"BO.LP.AI",
@@ -37,6 +39,7 @@
     "mps:longitude":-68.089475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Abel Iturralde jisk'a suyu"
@@ -135,9 +138,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Ixiamas",
@@ -159,7 +162,7 @@
         "gn:id":7910208,
         "gp:id":55967778,
         "hasc:id":"BO.LP.AI",
-        "qs:id":1119110,
+        "qs_pg:id":1119110,
         "wd:id":"Q1355914",
         "wk:page":"Abel Iturralde Province"
     },
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":421190245,
-    "wof:lastmodified":1563575075,
+    "wof:lastmodified":1566617574,
     "wof:name":"Abel Iturralde",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

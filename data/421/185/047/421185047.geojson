@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-17.831648,
     "lbl:longitude":-65.914172,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cochabamba",
     "meso:gadm_admin":"Esteban Arce",
     "meso:gadm_hasc2":"BO.CB.EA",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.914172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Esteban Arze"
@@ -101,7 +104,7 @@
     "name:swe_x_preferred":[
         "Esteban Arze"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia Tarata"
     ],
     "name:war_x_preferred":[
@@ -132,9 +135,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Tarata",
@@ -155,7 +158,7 @@
         "gn:id":3915859,
         "gp:id":55967764,
         "hasc:id":"BO.CB.EA",
-        "qs:id":1017151,
+        "qs_pg:id":1017151,
         "wd:id":"Q283889",
         "wk:page":"Esteban Arce Province"
     },
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":421185047,
-    "wof:lastmodified":1563575102,
+    "wof:lastmodified":1566617591,
     "wof:name":"Esteban Arce",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

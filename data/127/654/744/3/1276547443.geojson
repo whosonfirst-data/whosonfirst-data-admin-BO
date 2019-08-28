@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-68.23667,-13.70333,-68.19667,-13.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u0641\u0627\u062f\u0648\u0631"
     ],
@@ -137,10 +141,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
     ],
-    "name:und_x_variant":[
-        "Salvadora",
-        "Salvador"
-    ],
     "name:vie_x_preferred":[
         "Salvador"
     ],
@@ -173,7 +173,7 @@
         }
     ],
     "wof:id":1276547443,
-    "wof:lastmodified":1564120017,
+    "wof:lastmodified":1566616624,
     "wof:name":"Salvador",
     "wof:parent_id":421190245,
     "wof:placetype":"locality",

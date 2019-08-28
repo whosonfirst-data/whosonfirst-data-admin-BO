@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-18.007841,
     "lbl:longitude":-66.61721,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cochabamba",
     "meso:gadm_admin":"Arque",
     "meso:gadm_hasc2":"BO.CB.AQ",
@@ -37,6 +39,7 @@
     "mps:longitude":-66.61721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Arque"
     ],
@@ -111,7 +114,7 @@
         "\u963f\u723e\u514b\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632623,
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1092006427,
-    "wof:lastmodified":1563574860,
+    "wof:lastmodified":1566617432,
     "wof:name":"Bolivar",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

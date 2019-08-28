@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-69.07551,-15.28345,-69.03551,-15.24345",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Comunidad Llachuani"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226149139,
-    "wof:lastmodified":1537588100,
+    "wof:lastmodified":1566618052,
     "wof:name":"Comunidad Llachuani",
     "wof:parent_id":1092006969,
     "wof:placetype":"locality",

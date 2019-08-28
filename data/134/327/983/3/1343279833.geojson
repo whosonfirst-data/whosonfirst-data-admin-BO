@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-65.09041,-20.54383,-65.05041,-20.50383",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343279833,
-    "wof:lastmodified":1537006214,
+    "wof:lastmodified":1566615951,
     "wof:name":"Estancia Sajtreo",
     "wof:parent_id":1092006003,
     "wof:placetype":"locality",

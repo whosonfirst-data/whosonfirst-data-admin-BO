@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-67.66442,-11.47951,-67.62442,-11.43951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Siringayo Nuevo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310202283,
-    "wof:lastmodified":1537588188,
+    "wof:lastmodified":1566617225,
     "wof:name":"Siringayo Nuevo",
     "wof:parent_id":1092008461,
     "wof:placetype":"locality",

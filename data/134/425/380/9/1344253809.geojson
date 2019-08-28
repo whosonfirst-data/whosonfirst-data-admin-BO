@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-67.55515,-21.21502,-67.51515,-21.17502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Estancia Cachallcha",
         "Cachallcha"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344253809,
-    "wof:lastmodified":1537588140,
+    "wof:lastmodified":1566615787,
     "wof:name":"Cachallcha",
     "wof:parent_id":421193357,
     "wof:placetype":"locality",

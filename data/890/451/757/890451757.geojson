@@ -11,8 +11,11 @@
     "geom:longitude":-66.06312,
     "gn:country":"BO",
     "gn:fcode":"PPL",
-    "gn:pop":74014,
+    "gn:population":74014,
     "iso:country":"BO",
+    "lbl:bbox":"-66.08312,-11.02654,-66.04312,-10.98654",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.0,
@@ -205,7 +208,7 @@
     "wof:concordances":{
         "gn:id":3906466,
         "gp:id":12523692,
-        "qs:id":150690,
+        "qs_pg:id":150690,
         "wd:id":"Q941357",
         "wk:page":"Riberalta"
     },
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":890451757,
-    "wof:lastmodified":1563575127,
+    "wof:lastmodified":1566617601,
     "wof:name":"Riberalta",
     "wof:parent_id":1092005877,
     "wof:placetype":"locality",

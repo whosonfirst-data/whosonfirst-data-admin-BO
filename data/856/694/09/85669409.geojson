@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-15.583121,
     "lbl:longitude":-68.155929,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-15.577332,
     "mps:longitude":-68.176369,
     "mz:hierarchy_label":1,
@@ -186,7 +187,7 @@
         "La Paz"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bbe \u0baa\u0bb8\u0bcd  \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0bb2\u0bbe \u0baa\u0bb8\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e \u0c2a\u0c3e\u0c1c\u0c4d \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
@@ -202,9 +203,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041f\u0430\u0441"
-    ],
-    "name:unk_x_variant":[
-        "Departamento de La Paz"
     ],
     "name:urd_x_preferred":[
         "\u0645\u062d\u06a9\u0645\u06c1 \u0644\u0627 \u067e\u0627\u0632"
@@ -299,9 +297,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"133,985",
     "statoids:area_mi":"51,732",
     "statoids:as_of_date":"2012-11-21",
@@ -326,7 +324,7 @@
         "gp:id":2344804,
         "hasc:id":"BO.LP",
         "iso:id":"BO-L",
-        "qs:id":222809,
+        "qs_pg:id":222809,
         "unlc:id":"BO-L",
         "wd:id":"Q272784",
         "wk:page":"La Paz Department (Bolivia)"
@@ -351,11 +349,10 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1565654341,
+    "wof:lastmodified":1566616012,
     "wof:name":"La Paz",
     "wof:parent_id":85632623,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":2706359,
     "wof:population_rank":12,

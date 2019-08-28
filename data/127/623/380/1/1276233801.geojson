@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-69.12805,-15.47416,-69.08805,-15.43416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Comunidad Tahuar Kkota"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276233801,
-    "wof:lastmodified":1537588099,
+    "wof:lastmodified":1566616548,
     "wof:name":"Comunidad Tahuar Kkota",
     "wof:parent_id":1092007003,
     "wof:placetype":"locality",

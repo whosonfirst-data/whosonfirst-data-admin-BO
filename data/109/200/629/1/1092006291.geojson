@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-17.595554,
     "lbl:longitude":-65.638227,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cochabamba",
     "meso:gadm_admin":"Arani",
     "meso:gadm_hasc2":"BO.CB.AR",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.638227,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aym_x_preferred":[
         "Jarani jisk'a suyu"
     ],
@@ -114,7 +117,7 @@
         "\u963f\u62c9\u5c3c\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632623,
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1092006291,
-    "wof:lastmodified":1563574862,
+    "wof:lastmodified":1566617434,
     "wof:name":"Arani",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

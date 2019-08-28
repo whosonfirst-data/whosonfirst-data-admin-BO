@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-68.48667,-16.07241,-68.44667,-16.03241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632623
@@ -34,7 +38,7 @@
         "gn:id":9165878
     },
     "wof:country":"BO",
-    "wof:geomhash":"79c212d60ad2862bd983800d889fd49a",
+    "wof:geomhash":"15258b9c9c7a28b674417e757e6e01f5",
     "wof:hierarchy":[
         {
             "country_id":85632623,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209010571,
-    "wof:lastmodified":1536300460,
+    "wof:lastmodified":1566616675,
     "wof:name":"Cruz Loma",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -68.46667,
-    -16.052410000000002,
+    -16.05241,
     -68.46667,
-    -16.052410000000002
+    -16.05241
 ],
   "geometry": {"coordinates":[-68.46666999999999,-16.05241],"type":"Point"}
 }

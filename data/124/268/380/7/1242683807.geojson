@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-68.65333,-17.38667,-68.61333,-17.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Estancia Yajchu Chullpa",
         "Yajchu Chullpa"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242683807,
-    "wof:lastmodified":1537587907,
+    "wof:lastmodified":1566617675,
     "wof:name":"Yajchu Chullpa",
     "wof:parent_id":421182439,
     "wof:placetype":"locality",

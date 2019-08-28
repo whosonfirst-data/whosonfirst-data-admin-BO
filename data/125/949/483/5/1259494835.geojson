@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-63.80333,-13.13667,-63.76333,-13.09667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bella Vista"
     ],
@@ -33,8 +37,7 @@
         "Bella Vista"
     ],
     "name:und_x_variant":[
-        "Manuel Ruiz",
-        "Bella Vista"
+        "Manuel Ruiz"
     ],
     "name:zho_x_preferred":[
         "\u8c9d\u4e9e\u7dad\u65af\u5854"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1259494835,
-    "wof:lastmodified":1564121866,
+    "wof:lastmodified":1566617888,
     "wof:name":"Bella Vista",
     "wof:parent_id":1092005711,
     "wof:placetype":"locality",

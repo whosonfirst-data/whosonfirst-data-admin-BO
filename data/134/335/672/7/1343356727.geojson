@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-67.44411,-11.02187,-67.40411,-10.98187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Illimani Nacebe",
         "Illimani",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343356727,
-    "wof:lastmodified":1537588006,
+    "wof:lastmodified":1566615881,
     "wof:name":"Nacebe",
     "wof:parent_id":1092008329,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-67.44636,-10.48788,-67.40636,-10.44788",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0644 \u0647\u0648\u0631\u0645\u064a\u062c\u0648\u064a\u0631\u0648"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1327131759,
-    "wof:lastmodified":1564118575,
+    "wof:lastmodified":1566615635,
     "wof:name":"El Hormiguero",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",

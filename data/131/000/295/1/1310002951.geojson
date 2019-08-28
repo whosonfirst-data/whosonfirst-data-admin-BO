@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-65.93667,-21.20333,-65.89667,-21.16333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Catuana"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310002951,
-    "wof:lastmodified":1564120780,
+    "wof:lastmodified":1566617174,
     "wof:name":"Catuana",
     "wof:parent_id":1092009203,
     "wof:placetype":"locality",

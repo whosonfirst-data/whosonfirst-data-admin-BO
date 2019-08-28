@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-59.10333,-18.22,-59.06333,-18.18",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Naranjal"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209500707,
-    "wof:lastmodified":1564120207,
+    "wof:lastmodified":1566616773,
     "wof:name":"Naranjal",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",

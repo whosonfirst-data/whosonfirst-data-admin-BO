@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-66.12,-17.08667,-66.08,-17.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632623
@@ -34,7 +38,7 @@
         "gn:id":3916687
     },
     "wof:country":"BO",
-    "wof:geomhash":"0625753f3e2de07f95a434baa2118306",
+    "wof:geomhash":"b991ce0775716a438dc84ab05ee10bc8",
     "wof:hierarchy":[
         {
             "country_id":85632623,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209624179,
-    "wof:lastmodified":1536281413,
+    "wof:lastmodified":1566616669,
     "wof:name":"Estancia Mayca Mayu",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -66.1,
-    -17.066670000000002,
+    -17.06667,
     -66.1,
-    -17.066670000000002
+    -17.06667
 ],
   "geometry": {"coordinates":[-66.09999999999999,-17.06667],"type":"Point"}
 }

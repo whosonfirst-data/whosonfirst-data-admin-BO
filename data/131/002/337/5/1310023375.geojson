@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-64.53667,-20.52,-64.49667,-20.48",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tipuani"
     ],
@@ -48,8 +52,7 @@
         "Tipuani"
     ],
     "name:und_x_variant":[
-        "Tipani",
-        "Tipuani"
+        "Tipani"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1310023375,
-    "wof:lastmodified":1564120956,
+    "wof:lastmodified":1566617287,
     "wof:name":"Tipuani",
     "wof:parent_id":1092006003,
     "wof:placetype":"locality",

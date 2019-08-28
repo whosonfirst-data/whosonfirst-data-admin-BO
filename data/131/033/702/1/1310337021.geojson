@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-66.17,-19.23667,-66.13,-19.19667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Campanluri",
         "Campanturi",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310337021,
-    "wof:lastmodified":1537588051,
+    "wof:lastmodified":1566617285,
     "wof:name":"Jampaturi",
     "wof:parent_id":1092007777,
     "wof:placetype":"locality",

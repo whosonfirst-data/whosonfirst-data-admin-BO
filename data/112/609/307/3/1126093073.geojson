@@ -9,21 +9,21 @@
     "geom:bbox":"-68.16667,-16.5,-68.16667,-16.5",
     "geom:latitude":-16.5,
     "geom:longitude":-68.16667,
-    "gn:gn_country":"BO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"BO",
+    "gn:fcode":"PPLX",
     "gn:latitude":-16.5,
     "gn:longitude":-68.16667,
+    "gn:population":0,
     "iso:country":"BO",
+    "lbl:bbox":"-68.17167,-16.505,-68.16167,-16.495",
     "lbl:latitude":-16.5,
     "lbl:longitude":-68.16667,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
-        "Callampaya"
-    ],
-    "name:unk_x_variant":[
         "Callampaya"
     ],
     "qs_pg:aaroncc":"BO",
@@ -47,7 +47,7 @@
     "qs_pg:woe_adm0":23424762,
     "qs_pg:woe_id":334055,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424762,
     "woe:name_adm0":"Bolivia",
     "woe:name_adm1":"La Paz",
@@ -62,7 +62,6 @@
     "wof:concordances":{
         "gn:id":3922569,
         "gp:id":334055,
-        "qs:id":222198,
         "qs_pg:id":222198
     },
     "wof:country":"BO",
@@ -79,7 +78,7 @@
         }
     ],
     "wof:id":1126093073,
-    "wof:lastmodified":1534379236,
+    "wof:lastmodified":1566617603,
     "wof:name":"Callampaya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

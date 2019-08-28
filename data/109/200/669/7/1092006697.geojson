@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-17.983309,
     "lbl:longitude":-65.503347,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cochabamba",
     "meso:gadm_admin":"Mizque",
     "meso:gadm_hasc2":"BO.CB.MZ",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.503347,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Prov\u00edncia de Mizque"
     ],
@@ -104,9 +107,9 @@
         "\u7c73\u65af\u514b\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Mizque",
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1092006697,
-    "wof:lastmodified":1563574865,
+    "wof:lastmodified":1566617437,
     "wof:name":"Mizque",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

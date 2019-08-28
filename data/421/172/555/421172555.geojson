@@ -10,8 +10,12 @@
     "geom:latitude":-16.186568,
     "geom:longitude":-67.719726,
     "iso:country":"BO",
+    "lbl:bbox":"-67.819726,-16.286568,-67.619726,-16.086568",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Coroico"
@@ -86,7 +90,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55967976,
-        "qs:id":1313622
+        "qs_pg:id":1313622
     },
     "wof:country":"BO",
     "wof:created":1459008946,
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421172555,
-    "wof:lastmodified":1564121299,
+    "wof:lastmodified":1566617568,
     "wof:name":"Coroico",
     "wof:parent_id":1092007459,
     "wof:placetype":"localadmin",

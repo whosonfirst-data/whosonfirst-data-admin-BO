@@ -10,8 +10,12 @@
     "geom:latitude":-18.38026,
     "geom:longitude":-66.96695,
     "iso:country":"BO",
+    "lbl:bbox":"-66.98695,-18.40026,-66.94695,-18.36026",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Poop\u00f3"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3907685,
         "gp:id":346206,
-        "qs:id":214674,
+        "qs_pg:id":214674,
         "wd:id":"Q1520813"
     },
     "wof:country":"BO",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421201807,
-    "wof:lastmodified":1563575084,
+    "wof:lastmodified":1566617578,
     "wof:name":"Poop\u00f3",
     "wof:parent_id":1092007991,
     "wof:placetype":"locality",

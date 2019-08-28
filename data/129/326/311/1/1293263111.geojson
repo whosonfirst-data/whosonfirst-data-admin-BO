@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-58.06694,-18.36083,-58.02694,-18.32083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293263111,
-    "wof:lastmodified":1536610997,
+    "wof:lastmodified":1566616337,
     "wof:name":"Itanorte",
     "wof:parent_id":421183095,
     "wof:placetype":"locality",

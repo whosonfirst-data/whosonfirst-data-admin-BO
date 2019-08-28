@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-18.10414,
     "lbl:longitude":-66.408671,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Potosi",
     "meso:gadm_admin":"Alonso de Ib\u00e1\u00f1ez",
     "meso:gadm_hasc2":"BO.PO.AI",
@@ -37,6 +39,7 @@
     "mps:longitude":-66.408671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aym_x_preferred":[
         "Alonso de Ib\u00e1\u00f1ez jisk'a suyu"
     ],
@@ -101,9 +104,9 @@
         "\u963f\u9686\u7d22\u5fb7\u4f0a\u74e6\u6d85\u65af\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Sacaca",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1092008665,
-    "wof:lastmodified":1561840543,
+    "wof:lastmodified":1566617434,
     "wof:name":"Alonso de Ibanez",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

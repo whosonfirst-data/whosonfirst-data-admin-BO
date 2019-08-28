@@ -10,6 +10,9 @@
     "geom:latitude":-14.31667,
     "geom:longitude":-67.38333,
     "iso:country":"BO",
+    "lbl:bbox":"-67.40333,-14.33667,-67.36333,-14.29667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -172,7 +175,7 @@
     "wof:concordances":{
         "gn:id":3906478,
         "gp:id":346093,
-        "qs:id":194277,
+        "qs_pg:id":194277,
         "wd:id":"Q913102",
         "wk:page":"Reyes, Bolivia"
     },
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":421199545,
-    "wof:lastmodified":1561840569,
+    "wof:lastmodified":1566617577,
     "wof:name":"Reyes",
     "wof:parent_id":1092005669,
     "wof:placetype":"locality",

@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4340318.597671,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.130066,-16.481917,-68.130066,-16.481917",
     "geom:latitude":-16.481917,
     "geom:longitude":-68.130066,
-    "gn:gn_country":"BO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"BO",
+    "gn:fcode":"PPLX",
     "gn:latitude":-16.48333,
     "gn:longitude":-68.13333,
+    "gn:population":0,
     "iso:country":"BO",
+    "lbl:bbox":"-68.135066,-16.486917,-68.125066,-16.476917",
     "lbl:latitude":-16.481917,
     "lbl:longitude":-68.130066,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-16.478093,
     "mps:longitude":-68.129126,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Villa Pabon"
     ],
     "name:spa_x_preferred":[
-        "Villa Pab\u00f3n"
-    ],
-    "name:unk_x_variant":[
         "Villa Pab\u00f3n"
     ],
     "qs:gn_adm0_cc":"BO",
@@ -85,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85669409,
         102191577,
@@ -96,7 +95,6 @@
     "wof:concordances":{
         "gn:id":3901538,
         "gp:id":345715,
-        "qs:id":1165251,
         "qs_pg:id":1165251
     },
     "wof:country":"BO",
@@ -115,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379235,
+    "wof:lastmodified":1566616004,
     "wof:name":"Villa Pab\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-21.091686,
     "lbl:longitude":-67.126045,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Potosi",
     "meso:gadm_admin":"Nor L\u00edpez",
     "meso:gadm_hasc2":"BO.PO.NL",
@@ -37,6 +39,7 @@
     "mps:longitude":-67.126045,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Araxa Lipis jisk'a suyu"
@@ -109,7 +112,7 @@
     "name:swe_x_preferred":[
         "Nor L\u00edpez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia Villa Mart\u00edn"
     ],
     "name:war_x_preferred":[
@@ -140,7 +143,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632623,
@@ -151,7 +154,7 @@
         "gn:id":3909491,
         "gp:id":55967822,
         "hasc:id":"BO.PO.NL",
-        "qs:id":890494,
+        "qs_pg:id":890494,
         "wd:id":"Q1319477",
         "wk:page":"Nor L\u00edpez Province"
     },
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":421193357,
-    "wof:lastmodified":1563575028,
+    "wof:lastmodified":1566617553,
     "wof:name":"Nor Lipez",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

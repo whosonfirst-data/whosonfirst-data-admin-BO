@@ -10,8 +10,12 @@
     "geom:latitude":-16.59911,
     "geom:longitude":-68.85008,
     "iso:country":"BO",
+    "lbl:bbox":"-68.87008,-16.61911,-68.83008,-16.57911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Guaqui"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Guaqui"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Huaqui"
     ],
     "qs:gn_country":"BO",
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":3915410,
         "gp:id":346078,
-        "qs:id":1095805,
+        "qs_pg:id":1095805,
         "wd:id":"Q1002069",
         "wk:page":"Guaqui"
     },
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":421188391,
-    "wof:lastmodified":1563575057,
+    "wof:lastmodified":1566617566,
     "wof:name":"Guaqui",
     "wof:parent_id":1092007213,
     "wof:placetype":"locality",

@@ -10,10 +10,14 @@
     "geom:latitude":-18.949555,
     "geom:longitude":-57.849968,
     "iso:country":"BO",
+    "lbl:bbox":"-57.8699678972,-18.969555238,-57.8299678972,-18.929555238",
     "lbl:latitude":-18.949555,
     "lbl:longitude":-57.849968,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Puerto Su\u00e1rez"
     ],
@@ -187,7 +191,7 @@
         }
     ],
     "wof:id":1141908213,
-    "wof:lastmodified":1563576039,
+    "wof:lastmodified":1566618146,
     "wof:name":"Puerto Suarez",
     "wof:parent_id":421183095,
     "wof:placetype":"locality",

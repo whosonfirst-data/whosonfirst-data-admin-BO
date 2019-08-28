@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-63.37,-19.35333,-63.33,-19.31333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Gil"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1243574207,
-    "wof:lastmodified":1564121536,
+    "wof:lastmodified":1566617725,
     "wof:name":"Gil",
     "wof:parent_id":1092009601,
     "wof:placetype":"locality",

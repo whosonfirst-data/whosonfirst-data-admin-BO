@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-68.48175,-15.32218,-68.44175,-15.28218",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tacacoma"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293001557,
-    "wof:lastmodified":1564119270,
+    "wof:lastmodified":1566616038,
     "wof:name":"Tacacoma",
     "wof:parent_id":421187929,
     "wof:placetype":"locality",

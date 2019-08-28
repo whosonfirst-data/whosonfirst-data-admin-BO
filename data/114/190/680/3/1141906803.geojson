@@ -10,10 +10,14 @@
     "geom:latitude":-21.479943,
     "geom:longitude":-64.770011,
     "iso:country":"BO",
+    "lbl:bbox":"-64.7900106218,-21.4999434216,-64.7500106218,-21.4599434216",
     "lbl:latitude":-21.479943,
     "lbl:longitude":-64.770011,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "San Lorenzo"
     ],
@@ -160,7 +164,7 @@
         }
     ],
     "wof:id":1141906803,
-    "wof:lastmodified":1563576038,
+    "wof:lastmodified":1566618145,
     "wof:name":"San Lorenzo",
     "wof:parent_id":1092010287,
     "wof:placetype":"locality",

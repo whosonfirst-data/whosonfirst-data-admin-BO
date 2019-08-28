@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-18.753198,
     "lbl:longitude":-68.24154,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Oruro",
     "meso:gadm_admin":"Litoral",
     "meso:gadm_hasc2":"BO.OR.LT",
@@ -37,6 +39,7 @@
     "mps:longitude":-68.24154,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Prov\u00edncia de Litoral de Atacama"
     ],
@@ -101,9 +104,9 @@
         "\u6ff1\u6d77\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Huachacalla",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1092007939,
-    "wof:lastmodified":1563574880,
+    "wof:lastmodified":1566617449,
     "wof:name":"Litoral",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

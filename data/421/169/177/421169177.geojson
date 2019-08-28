@@ -12,6 +12,8 @@
     "iso:country":"BO",
     "lbl:latitude":-19.050768,
     "lbl:longitude":-65.255068,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -365,7 +367,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043a\u0440\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciudad Sucre"
     ],
     "name:urd_x_preferred":[
@@ -530,7 +532,7 @@
     "wof:concordances":{
         "gn:id":3903987,
         "gp:id":346062,
-        "qs:id":899063,
+        "qs_pg:id":899063,
         "wd:id":"Q2907",
         "wk:page":"Sucre"
     },
@@ -547,7 +549,7 @@
         }
     ],
     "wof:id":421169177,
-    "wof:lastmodified":1563575037,
+    "wof:lastmodified":1566617558,
     "wof:name":"Sucre",
     "wof:parent_id":421190241,
     "wof:placetype":"locality",

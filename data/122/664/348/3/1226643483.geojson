@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-67.34931,-10.50959,-67.30931,-10.46959",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Barraca Lorena"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226643483,
-    "wof:lastmodified":1537588193,
+    "wof:lastmodified":1566618096,
     "wof:name":"Barraca Lorena",
     "wof:parent_id":1092008329,
     "wof:placetype":"locality",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-18.829442,
     "lbl:longitude":-64.73546,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chuquisaca",
     "meso:gadm_admin":"Jaime Zud\u00e1\u00f1ez",
     "meso:gadm_hasc2":"BO.CQ.ZU",
@@ -37,6 +39,7 @@
     "mps:longitude":-64.73546,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Prov\u00edncia de Jaime Zud\u00e1\u00f1ez"
     ],
@@ -98,9 +101,9 @@
         "\u8a79\u59c6\u8607\u9054\u6d85\u65af\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Villa Zuda\u00f1ez",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1092006241,
-    "wof:lastmodified":1561840552,
+    "wof:lastmodified":1566617459,
     "wof:name":"Zudanez",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

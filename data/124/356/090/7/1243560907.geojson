@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-69.12,-16.12,-69.08,-16.08",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sampaya"
     ],
@@ -37,9 +41,7 @@
     ],
     "name:und_x_variant":[
         "Comunidad Sampaya",
-        "Zempeya",
-        "Zampaya",
-        "Sampaya"
+        "Zempeya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1243560907,
-    "wof:lastmodified":1564121555,
+    "wof:lastmodified":1566617735,
     "wof:name":"Sampaya",
     "wof:parent_id":1092007659,
     "wof:placetype":"locality",

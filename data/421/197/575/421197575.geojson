@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-16.350507,
     "lbl:longitude":-68.411276,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Paz",
     "meso:gadm_admin":"Omasuyos",
     "meso:gadm_hasc2":"BO.LP.OM",
@@ -34,6 +36,7 @@
     "mps:longitude":-68.411276,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Los Andes jisk'a suyu"
@@ -78,7 +81,7 @@
     "name:swe_x_preferred":[
         "Los Andes"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Andes"
     ],
     "name:war_x_preferred":[
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632623,
@@ -120,7 +123,7 @@
         "gn:id":3911185,
         "gp:id":55967785,
         "hasc:id":"BO.LP.OM",
-        "qs:id":361230,
+        "qs_pg:id":361230,
         "wd:id":"Q1355950",
         "wk:page":"Los Andes Province (Bolivia)"
     },
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421197575,
-    "wof:lastmodified":1563575078,
+    "wof:lastmodified":1566617576,
     "wof:name":"Los Andes",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

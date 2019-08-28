@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-66.43667,-21.63667,-66.39667,-21.59667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chaupi\u00f1an",
         "Chaupi\u00f1ac",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326922129,
-    "wof:lastmodified":1537588116,
+    "wof:lastmodified":1566615623,
     "wof:name":"Chaupinarca",
     "wof:parent_id":421193355,
     "wof:placetype":"locality",

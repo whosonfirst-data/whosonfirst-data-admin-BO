@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-69.32,-17.40333,-69.28,-17.36333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Lupe"
     ],
@@ -45,8 +49,7 @@
         "Lupe"
     ],
     "name:und_x_variant":[
-        "Estancia Lupe",
-        "Lupe"
+        "Estancia Lupe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1327134829,
-    "wof:lastmodified":1564118572,
+    "wof:lastmodified":1566615633,
     "wof:name":"Lupe",
     "wof:parent_id":1092007133,
     "wof:placetype":"locality",

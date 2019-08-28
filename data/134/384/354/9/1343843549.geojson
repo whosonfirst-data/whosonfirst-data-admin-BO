@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-62.57,-14.65333,-62.53,-14.61333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Victoria"
     ],
@@ -207,8 +211,7 @@
         "Victoria"
     ],
     "name:und_x_variant":[
-        "La Victoria",
-        "Victoria"
+        "La Victoria"
     ],
     "name:urd_x_preferred":[
         "\u0648\u06a9\u0679\u0648\u0631\u06cc\u06c1"
@@ -251,7 +254,7 @@
         }
     ],
     "wof:id":1343843549,
-    "wof:lastmodified":1564118997,
+    "wof:lastmodified":1566615816,
     "wof:name":"Victoria",
     "wof:parent_id":1092009873,
     "wof:placetype":"locality",

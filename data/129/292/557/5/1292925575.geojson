@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-60.28667,-15.87,-60.24667,-15.83",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Encrucijada"
     ],
@@ -48,8 +52,7 @@
         "Encrucijada"
     ],
     "name:und_x_variant":[
-        "Emcrucijada",
-        "Encrucijada"
+        "Emcrucijada"
     ],
     "name:vie_x_preferred":[
         "Encrucijada"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1292925575,
-    "wof:lastmodified":1564119341,
+    "wof:lastmodified":1566616103,
     "wof:name":"Encrucijada",
     "wof:parent_id":1092010025,
     "wof:placetype":"locality",

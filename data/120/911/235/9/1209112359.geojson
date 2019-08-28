@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-69.20333,-17.40333,-69.16333,-17.36333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632623
@@ -34,7 +38,7 @@
         "gn:id":3914531
     },
     "wof:country":"BO",
-    "wof:geomhash":"ae5cb84a032ee3f82315f1d8a097bf1b",
+    "wof:geomhash":"e14dee05ca752c0663a539cd0215b349",
     "wof:hierarchy":[
         {
             "country_id":85632623,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209112359,
-    "wof:lastmodified":1536297365,
+    "wof:lastmodified":1566616842,
     "wof:name":"Huichuraya",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -69.18333,
-    -17.383329999999994,
+    -17.38332999999999,
     -69.18333,
-    -17.383329999999994
+    -17.38332999999999
 ],
   "geometry": {"coordinates":[-69.18333,-17.38332999999999],"type":"Point"}
 }

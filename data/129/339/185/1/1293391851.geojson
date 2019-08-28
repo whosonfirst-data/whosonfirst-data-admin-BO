@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-63.43667,-13.40333,-63.39667,-13.36333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Montecito"
     ],
@@ -39,8 +43,7 @@
         "Montecito"
     ],
     "name:und_x_variant":[
-        "Montesito",
-        "Montecito"
+        "Montesito"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1293391851,
-    "wof:lastmodified":1564119318,
+    "wof:lastmodified":1566616091,
     "wof:name":"Montecito",
     "wof:parent_id":1092005711,
     "wof:placetype":"locality",

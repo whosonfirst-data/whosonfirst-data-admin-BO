@@ -10,8 +10,12 @@
     "geom:latitude":-16.40962,
     "geom:longitude":-67.52626,
     "iso:country":"BO",
+    "lbl:bbox":"-67.54626,-16.42962,-67.50626,-16.38962",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Chulumani"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3920244,
         "gp:id":346071,
-        "qs:id":886417,
+        "qs_pg:id":886417,
         "wd:id":"Q1766619",
         "wk:page":"Chulumani"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421185215,
-    "wof:lastmodified":1563575103,
+    "wof:lastmodified":1566617592,
     "wof:name":"Chulumani",
     "wof:parent_id":421168083,
     "wof:placetype":"locality",

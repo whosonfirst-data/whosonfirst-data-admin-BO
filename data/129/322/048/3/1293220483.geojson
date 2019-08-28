@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-61.93667,-14.75333,-61.89667,-14.71333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e"
     ],
@@ -489,7 +493,7 @@
         }
     ],
     "wof:id":1293220483,
-    "wof:lastmodified":1564119428,
+    "wof:lastmodified":1566616175,
     "wof:name":"Montevideo",
     "wof:parent_id":1092009873,
     "wof:placetype":"locality",

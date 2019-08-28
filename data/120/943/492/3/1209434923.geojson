@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-60.55333,-16.42,-60.51333,-16.38",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Los Patos"
     ],
@@ -45,8 +49,7 @@
         "\u0412\u043e\u043b\u043a\u0430\u043d-\u0434\u0435-\u043b\u043e\u0441-\u041f\u0430\u0442\u043e\u0441"
     ],
     "name:und_x_variant":[
-        "Los Pastos",
-        "Los Patos"
+        "Los Pastos"
     ],
     "name:zho_x_preferred":[
         "\u6d1b\u65af\u5e15\u6258\u65af\u5c71"
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1209434923,
-    "wof:lastmodified":1564120373,
+    "wof:lastmodified":1566616892,
     "wof:name":"Los Patos",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-65.18667,-18.60333,-65.14667,-18.56333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293886759,
-    "wof:lastmodified":1536708924,
+    "wof:lastmodified":1566616346,
     "wof:name":"Carapari",
     "wof:parent_id":1092006465,
     "wof:placetype":"locality",

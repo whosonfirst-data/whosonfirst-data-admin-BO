@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-17.282853,
     "lbl:longitude":-65.440692,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cochabamba",
     "meso:gadm_admin":"Arani",
     "meso:gadm_hasc2":"BO.CB.AR",
@@ -34,6 +36,7 @@
     "mps:longitude":-65.440692,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tiraque"
     ],
@@ -75,7 +78,7 @@
         "\u8482\u62c9\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632623,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1092006851,
-    "wof:lastmodified":1564121146,
+    "wof:lastmodified":1566617457,
     "wof:name":"Tiraque",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

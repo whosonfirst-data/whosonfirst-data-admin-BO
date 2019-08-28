@@ -10,6 +10,9 @@
     "geom:latitude":-17.55,
     "geom:longitude":-65.83333,
     "iso:country":"BO",
+    "lbl:bbox":"-65.85333,-17.57,-65.81333,-17.53",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
@@ -122,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u043d\u0430\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciudad Punata"
     ],
     "name:urd_x_preferred":[
@@ -262,7 +265,7 @@
     "wof:concordances":{
         "gn:id":3907080,
         "gp:id":346091,
-        "qs:id":242126,
+        "qs_pg:id":242126,
         "wd:id":"Q1026219",
         "wk:page":"Punata"
     },
@@ -279,7 +282,7 @@
         }
     ],
     "wof:id":421204575,
-    "wof:lastmodified":1563575037,
+    "wof:lastmodified":1566617558,
     "wof:name":"Punata",
     "wof:parent_id":1092006749,
     "wof:placetype":"locality",

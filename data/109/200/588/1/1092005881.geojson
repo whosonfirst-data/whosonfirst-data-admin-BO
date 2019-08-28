@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-20.000283,
     "lbl:longitude":-64.471443,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chuquisaca",
     "meso:gadm_admin":"Juana Azurduay de Padilla",
     "meso:gadm_hasc2":"BO.CQ.AZ",
@@ -37,6 +39,7 @@
     "mps:longitude":-64.471443,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Prov\u00edncia de Juana Azurduy de Padilla"
     ],
@@ -100,9 +103,9 @@
         "\u963f\u8607\u675c\u4f0a\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Azurduy",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1092005881,
-    "wof:lastmodified":1563574870,
+    "wof:lastmodified":1566617443,
     "wof:name":"Azurduy",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-62.96826,-21.67284,-62.92826,-21.63284",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Santa Barbara"
     ],
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1259372563,
-    "wof:lastmodified":1564121752,
+    "wof:lastmodified":1566617838,
     "wof:name":"Santa Barbara",
     "wof:parent_id":421169235,
     "wof:placetype":"locality",

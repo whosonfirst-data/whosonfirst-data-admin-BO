@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-68.79375,-15.75749,-68.75375,-15.71749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Churihumani"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343762371,
-    "wof:lastmodified":1537588111,
+    "wof:lastmodified":1566615828,
     "wof:name":"Churihumani",
     "wof:parent_id":421187929,
     "wof:placetype":"locality",

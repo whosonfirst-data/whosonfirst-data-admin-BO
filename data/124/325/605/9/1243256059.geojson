@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-69.58667,-10.95333,-69.54667,-10.91333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guarnici\u00f3n Paraguasu",
         "Paraguas\u00fa",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243256059,
-    "wof:lastmodified":1537587993,
+    "wof:lastmodified":1566617718,
     "wof:name":"Paraguazu",
     "wof:parent_id":102050011,
     "wof:placetype":"locality",

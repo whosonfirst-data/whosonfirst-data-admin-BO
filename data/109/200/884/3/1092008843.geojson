@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-19.443492,
     "lbl:longitude":-65.36013,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Potosi",
     "meso:gadm_admin":"Cornelio Saavedra",
     "meso:gadm_hasc2":"BO.PO.CS",
@@ -37,6 +39,7 @@
     "mps:longitude":-65.36013,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aym_x_preferred":[
         "Cornelio Saavedra jisk'a suyu"
     ],
@@ -104,9 +107,9 @@
         "\u79d1\u723e\u5167\u5229\u5967\u85a9\u97cb\u5fb7\u62c9\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Betanzos",
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1092008843,
-    "wof:lastmodified":1563574886,
+    "wof:lastmodified":1566617456,
     "wof:name":"Cornelio Saavedra",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-64.00083,-19.72116,-63.96083,-19.68116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Meson"
     ],
@@ -237,7 +241,7 @@
         }
     ],
     "wof:id":1193033579,
-    "wof:lastmodified":1564120511,
+    "wof:lastmodified":1566616974,
     "wof:name":"Meson",
     "wof:parent_id":1092005923,
     "wof:placetype":"locality",

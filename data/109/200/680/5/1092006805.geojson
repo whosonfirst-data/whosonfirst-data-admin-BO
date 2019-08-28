@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-17.575817,
     "lbl:longitude":-66.639205,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cochabamba",
     "meso:gadm_admin":"Tapacar\u00ed",
     "meso:gadm_hasc2":"BO.CB.TP",
@@ -37,6 +39,7 @@
     "mps:longitude":-66.639205,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Prov\u00edncia de Tapacar\u00ed"
     ],
@@ -105,9 +108,9 @@
         "\u5854\u5e15\u5361\u91cc\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Tapacar\u00ed",
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":1092006805,
-    "wof:lastmodified":1563574861,
+    "wof:lastmodified":1566617432,
     "wof:name":"Tapacari",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

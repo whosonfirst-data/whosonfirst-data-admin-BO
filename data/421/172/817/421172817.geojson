@@ -10,6 +10,9 @@
     "geom:latitude":-17.33333,
     "geom:longitude":-63.25,
     "iso:country":"BO",
+    "lbl:bbox":"-63.27,-17.35333,-63.23,-17.31333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -137,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0440\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "V\u00edbora"
     ],
     "name:urd_x_preferred":[
@@ -280,7 +283,7 @@
     "wof:concordances":{
         "gn:id":3910027,
         "gp:id":346081,
-        "qs:id":274546,
+        "qs_pg:id":274546,
         "wd:id":"Q990706",
         "wk:page":"Montero"
     },
@@ -297,7 +300,7 @@
         }
     ],
     "wof:id":421172817,
-    "wof:lastmodified":1563575060,
+    "wof:lastmodified":1566617567,
     "wof:name":"Montero",
     "wof:parent_id":1092009899,
     "wof:placetype":"locality",

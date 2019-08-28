@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":-21.38022,
     "lbl:longitude":-64.12738,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tarija",
     "meso:gadm_admin":"Burnet O'Connor",
     "meso:gadm_hasc2":"BO.TR.OC",
@@ -37,6 +39,7 @@
     "mps:longitude":-64.12738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Provinz Burnet O\u2019Connor"
     ],
@@ -95,9 +98,9 @@
         "\u4f2f\u5fb7\u7279\u5967\u5eb7\u7d0d\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-11-21",
+    "src:population_date":"2012-11-21",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-11-21",
     "statoids:capital":"Entre Rios",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1092010191,
-    "wof:lastmodified":1563574905,
+    "wof:lastmodified":1566617477,
     "wof:name":"Burnet O'Connor",
     "wof:parent_id":85669431,
     "wof:placetype":"county",

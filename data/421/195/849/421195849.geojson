@@ -10,8 +10,12 @@
     "geom:latitude":-16.535506,
     "geom:longitude":-68.386116,
     "iso:country":"BO",
+    "lbl:bbox":"-68.486116,-16.635506,-68.286116,-16.435506",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Laja"
@@ -77,7 +81,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55967963,
-        "qs:id":128314,
         "qs_pg:id":128314
     },
     "wof:country":"BO",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421195849,
-    "wof:lastmodified":1564121282,
+    "wof:lastmodified":1566617549,
     "wof:name":"Laja",
     "wof:parent_id":421197575,
     "wof:placetype":"localadmin",

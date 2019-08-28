@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/La_Paz",
     "iso:country":"BO",
+    "lbl:bbox":"-68.08667,-15.58667,-68.04667,-15.54667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632623
@@ -34,7 +38,7 @@
         "gn:id":3920180
     },
     "wof:country":"BO",
-    "wof:geomhash":"18559ad5d3f722eb774f1a7723f62130",
+    "wof:geomhash":"4149a227bfe9f3a8351735955e3f61b6",
     "wof:hierarchy":[
         {
             "country_id":85632623,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209320529,
-    "wof:lastmodified":1536290711,
+    "wof:lastmodified":1566616797,
     "wof:name":"Chuquini",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -68.06667,
-    -15.566670000000002,
+    -15.56667,
     -68.06667,
-    -15.566670000000002
+    -15.56667
 ],
   "geometry": {"coordinates":[-68.06667,-15.56667],"type":"Point"}
 }
