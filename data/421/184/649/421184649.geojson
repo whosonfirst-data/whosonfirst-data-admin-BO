@@ -79,6 +79,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009418,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"42d71e4e0f82c5063fb9a689eac20ec7",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421184649,
-    "wof:lastmodified":1566617579,
+    "wof:lastmodified":1582316812,
     "wof:name":"Achocalla",
     "wof:parent_id":421177667,
     "wof:placetype":"localadmin",

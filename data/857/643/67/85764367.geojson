@@ -95,6 +95,9 @@
         "qs_pg:id":211151
     },
     "wof:country":"BO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"89d29d45dcc58aeef887c41818549297",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566616004,
+    "wof:lastmodified":1582316759,
     "wof:name":"Chijini",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

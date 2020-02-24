@@ -52,6 +52,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009276,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"40898bf594f95930f766e2b4055826d6",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421180937,
-    "wof:lastmodified":1566617562,
+    "wof:lastmodified":1582316807,
     "wof:name":"San Pedro de Quemes",
     "wof:parent_id":421193357,
     "wof:placetype":"localadmin",

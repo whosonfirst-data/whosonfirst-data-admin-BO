@@ -164,6 +164,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009431,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"895ca88a9bbcf6184d7b58c01cace9b9",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":421185047,
-    "wof:lastmodified":1566617591,
+    "wof:lastmodified":1582316817,
     "wof:name":"Esteban Arce",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

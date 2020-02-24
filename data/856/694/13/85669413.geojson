@@ -320,6 +320,9 @@
         "wk:page":"Oruro Department"
     },
     "wof:country":"BO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6909bfc4f1bd507ddf1a80628ee13ace",
     "wof:hierarchy":[
         {
@@ -339,7 +342,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1566616017,
+    "wof:lastmodified":1582316769,
     "wof:name":"Oruro",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

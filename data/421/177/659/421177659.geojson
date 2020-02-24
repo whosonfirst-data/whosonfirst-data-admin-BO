@@ -156,6 +156,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009157,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a55b49d9ee6e5d8416f1a455be9fbcbe",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":421177659,
-    "wof:lastmodified":1566617581,
+    "wof:lastmodified":1582316813,
     "wof:name":"Daniel Campos",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

@@ -52,6 +52,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009861,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"342d11f2f16b59b41ca80f9791be6720",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421195853,
-    "wof:lastmodified":1566617549,
+    "wof:lastmodified":1582316803,
     "wof:name":"Tiahuanacu",
     "wof:parent_id":1092007213,
     "wof:placetype":"localadmin",

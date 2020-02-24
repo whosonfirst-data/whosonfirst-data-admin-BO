@@ -160,6 +160,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009903,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f2371f3c7b44e19929ba13a4f5c3dc4",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":421197123,
-    "wof:lastmodified":1566617576,
+    "wof:lastmodified":1582316811,
     "wof:name":"Quillacollo",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

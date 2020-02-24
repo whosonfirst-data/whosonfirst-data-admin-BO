@@ -75,6 +75,9 @@
         "qs:id":222198
     },
     "wof:country":"BO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6c79689dd320608817b95936e302c02e",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379236,
+    "wof:lastmodified":1582316759,
     "wof:name":"Callampaya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

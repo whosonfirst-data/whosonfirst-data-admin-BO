@@ -162,6 +162,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459008753,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bfd9dea8b4f6649bf82bd7f074e62489",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":421168083,
-    "wof:lastmodified":1566617545,
+    "wof:lastmodified":1582316802,
     "wof:name":"Sur Yungas",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

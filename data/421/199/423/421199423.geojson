@@ -73,6 +73,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009988,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6869ecd0d1c8544e8c2e08240fcde29b",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421199423,
-    "wof:lastmodified":1566617577,
+    "wof:lastmodified":1582316811,
     "wof:name":"Arani",
     "wof:parent_id":1092006291,
     "wof:placetype":"localadmin",

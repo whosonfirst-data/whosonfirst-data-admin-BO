@@ -162,6 +162,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009157,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f562dd49fbd5025ca0e04715a9fa28e6",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":421177667,
-    "wof:lastmodified":1566617580,
+    "wof:lastmodified":1582316812,
     "wof:name":"Murillo",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

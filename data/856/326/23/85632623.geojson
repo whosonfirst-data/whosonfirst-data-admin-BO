@@ -958,7 +958,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "meso"
+        "meso",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1014,6 +1015,11 @@
     },
     "wof:country":"BO",
     "wof:country_alpha3":"BOL",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "meso",
+        "naturalearth"
+    ],
     "wof:geomhash":"1aa993a7cd749b2a8c95546d1dd9fad0",
     "wof:hierarchy":[
         {
@@ -1032,7 +1038,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1566616022,
+    "wof:lastmodified":1582316773,
     "wof:name":"Bolivia",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

@@ -113,6 +113,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459010171,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ea714d043ad6a6911e6ea05c79ca8d35",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421204017,
-    "wof:lastmodified":1566617559,
+    "wof:lastmodified":1582316806,
     "wof:name":"Sajama",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

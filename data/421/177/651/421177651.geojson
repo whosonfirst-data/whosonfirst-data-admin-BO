@@ -158,6 +158,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009156,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ec8ac2559838f404588e7576996c65fe",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":421177651,
-    "wof:lastmodified":1566617580,
+    "wof:lastmodified":1582316812,
     "wof:name":"German Jordan",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

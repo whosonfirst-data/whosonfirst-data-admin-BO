@@ -170,6 +170,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009768,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"00298692f0b038ef89e1a983824bea06",
     "wof:hierarchy":[
         {
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":421193355,
-    "wof:lastmodified":1566617550,
+    "wof:lastmodified":1582316803,
     "wof:name":"Sur Lipez",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

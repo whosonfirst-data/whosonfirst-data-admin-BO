@@ -334,6 +334,9 @@
         "wk:page":"Chuquisaca Department"
     },
     "wof:country":"BO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"751e7327a94c01f1e0b5de32321320d9",
     "wof:hierarchy":[
         {
@@ -353,7 +356,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1566616020,
+    "wof:lastmodified":1582316771,
     "wof:name":"Chuquisaca",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

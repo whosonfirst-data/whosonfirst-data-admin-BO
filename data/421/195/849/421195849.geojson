@@ -85,6 +85,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009861,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8e9002793fbd8bbd39952fe647ae4ec5",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421195849,
-    "wof:lastmodified":1566617549,
+    "wof:lastmodified":1582316803,
     "wof:name":"Laja",
     "wof:parent_id":421197575,
     "wof:placetype":"localadmin",

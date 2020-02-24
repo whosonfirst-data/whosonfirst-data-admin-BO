@@ -188,6 +188,9 @@
         "qs_pg:id":1324513
     },
     "wof:country":"BO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ac0de71f155321fe810fdeed7548d919",
     "wof:hierarchy":[
         {
@@ -203,7 +206,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566616005,
+    "wof:lastmodified":1582316759,
     "wof:name":"El Alto",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

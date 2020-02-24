@@ -161,6 +161,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009329,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"016bf0b7032b703bab8515170c8163e1",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":421182437,
-    "wof:lastmodified":1566617587,
+    "wof:lastmodified":1582316816,
     "wof:name":"Munecas",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

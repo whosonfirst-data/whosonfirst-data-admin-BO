@@ -198,6 +198,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459010127,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"c05dce3cacf720caa94bc021d0c71349",
     "wof:hierarchy":[
         {
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":421202729,
-    "wof:lastmodified":1566617560,
+    "wof:lastmodified":1582316807,
     "wof:name":"Apolo",
     "wof:parent_id":421187093,
     "wof:placetype":"locality",

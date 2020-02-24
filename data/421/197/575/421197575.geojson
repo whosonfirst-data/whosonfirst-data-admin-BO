@@ -129,6 +129,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009918,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b4c13872631b208329f4b0aeabf77109",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":421197575,
-    "wof:lastmodified":1566617576,
+    "wof:lastmodified":1582316811,
     "wof:name":"Los Andes",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

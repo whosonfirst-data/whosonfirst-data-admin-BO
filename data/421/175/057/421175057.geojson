@@ -128,6 +128,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009053,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e400878308c9b3345600a82c5ba5c406",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421175057,
-    "wof:lastmodified":1566617573,
+    "wof:lastmodified":1582316810,
     "wof:name":"Enrique Baldivieso",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

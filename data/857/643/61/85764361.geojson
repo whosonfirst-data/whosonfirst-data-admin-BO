@@ -80,6 +80,9 @@
         "wd:id":"Q255177"
     },
     "wof:country":"BO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b2530cb589d71426e005249318418352",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379236,
+    "wof:lastmodified":1582316759,
     "wof:name":"Challapampa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

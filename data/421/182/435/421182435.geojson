@@ -164,6 +164,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009329,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1b282814d9c39babf15913b2100c6fea",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":421182435,
-    "wof:lastmodified":1566617589,
+    "wof:lastmodified":1582316816,
     "wof:name":"Loayza",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

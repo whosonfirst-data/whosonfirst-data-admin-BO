@@ -85,6 +85,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009617,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"93eb836eb088800c45a302dcea686084",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421189303,
-    "wof:lastmodified":1566617566,
+    "wof:lastmodified":1582316809,
     "wof:name":"Arque",
     "wof:parent_id":1092006343,
     "wof:placetype":"localadmin",

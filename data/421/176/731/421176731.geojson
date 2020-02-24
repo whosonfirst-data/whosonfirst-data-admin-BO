@@ -399,6 +399,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009117,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7b0cbdcdc22b0ab15307337b6c23047a",
     "wof:hierarchy":[
         {
@@ -410,7 +413,7 @@
         }
     ],
     "wof:id":421176731,
-    "wof:lastmodified":1566617590,
+    "wof:lastmodified":1582316817,
     "wof:name":"La Paz",
     "wof:parent_id":421177667,
     "wof:placetype":"locality",

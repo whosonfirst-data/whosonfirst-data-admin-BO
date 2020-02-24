@@ -91,6 +91,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009616,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e8c589d895a3b17b13f4ff136e83be30",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421189293,
-    "wof:lastmodified":1566617566,
+    "wof:lastmodified":1582316809,
     "wof:name":"Sorata",
     "wof:parent_id":421187929,
     "wof:placetype":"localadmin",

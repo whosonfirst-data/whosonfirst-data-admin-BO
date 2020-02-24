@@ -138,6 +138,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009156,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3d610ae55ba8567430aaca37a93fc5d8",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":421177655,
-    "wof:lastmodified":1566617585,
+    "wof:lastmodified":1582316815,
     "wof:name":"Federico Roman",
     "wof:parent_id":85669417,
     "wof:placetype":"county",

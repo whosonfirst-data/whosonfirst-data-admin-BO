@@ -151,6 +151,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009330,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ecd809078e140d9e5f71c8e3e22ab3f2",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":421182443,
-    "wof:lastmodified":1566617588,
+    "wof:lastmodified":1582316816,
     "wof:name":"Arce",
     "wof:parent_id":85669431,
     "wof:placetype":"county",

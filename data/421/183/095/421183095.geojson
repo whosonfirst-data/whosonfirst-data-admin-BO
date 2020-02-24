@@ -146,6 +146,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009357,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"23620db4d5e4d6e36a78fc16d6d9ee43",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421183095,
-    "wof:lastmodified":1566617586,
+    "wof:lastmodified":1582316815,
     "wof:name":"German Busch",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

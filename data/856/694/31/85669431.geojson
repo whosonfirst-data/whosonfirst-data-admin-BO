@@ -332,6 +332,9 @@
         "wk:page":"Tarija Department"
     },
     "wof:country":"BO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4df1f2322efe3202cab886207a2e4694",
     "wof:hierarchy":[
         {
@@ -351,7 +354,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1566616015,
+    "wof:lastmodified":1582316767,
     "wof:name":"Tarija",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

@@ -330,6 +330,9 @@
         "wk:page":"La Paz Department (Bolivia)"
     },
     "wof:country":"BO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"620adbbfd1374e67ead71e76b5c1fdc0",
     "wof:hierarchy":[
         {
@@ -349,7 +352,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1566616012,
+    "wof:lastmodified":1582316766,
     "wof:name":"La Paz",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

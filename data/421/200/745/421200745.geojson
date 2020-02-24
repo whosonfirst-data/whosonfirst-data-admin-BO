@@ -53,6 +53,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459010037,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fb5b33e4d201184ffd27814ae2e9dd69",
     "wof:hierarchy":[
         {
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421200745,
-    "wof:lastmodified":1566617578,
+    "wof:lastmodified":1582316811,
     "wof:name":"Yotala",
     "wof:parent_id":421190241,
     "wof:placetype":"localadmin",

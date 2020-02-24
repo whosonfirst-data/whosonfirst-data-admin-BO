@@ -75,6 +75,9 @@
         "qs:id":887586
     },
     "wof:country":"BO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0f1185a3ce59a2b06e30db7fb2314fac",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379236,
+    "wof:lastmodified":1582316759,
     "wof:name":"Pura Pura",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

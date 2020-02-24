@@ -88,6 +88,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009616,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8810a5ff69695371cc2e563a2b3ae3e0",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421189295,
-    "wof:lastmodified":1566617566,
+    "wof:lastmodified":1582316809,
     "wof:name":"Atocha",
     "wof:parent_id":1092009203,
     "wof:placetype":"localadmin",
