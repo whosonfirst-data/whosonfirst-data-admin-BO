@@ -958,8 +958,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "meso",
-        "naturalearth"
+        "meso"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1038,7 +1037,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1582316773,
+    "wof:lastmodified":1583203424,
     "wof:name":"Bolivia",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
