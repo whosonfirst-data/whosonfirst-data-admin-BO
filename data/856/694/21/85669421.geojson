@@ -339,6 +339,9 @@
         "wk:page":"Potos\u00ed Department"
     },
     "wof:country":"BO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"416563407620e1d06b21e83b637829ac",
     "wof:hierarchy":[
         {
@@ -358,7 +361,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1566616010,
+    "wof:lastmodified":1582316764,
     "wof:name":"Potos\u00ed",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

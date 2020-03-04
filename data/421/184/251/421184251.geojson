@@ -52,6 +52,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009405,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cbe1ad36e92a4994f3df81724168268d",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421184251,
-    "wof:lastmodified":1566617579,
+    "wof:lastmodified":1582316812,
     "wof:name":"San Buena Ventura",
     "wof:parent_id":421190245,
     "wof:placetype":"localadmin",

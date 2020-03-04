@@ -89,6 +89,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009827,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"932cdd43666fa9cc4989a7e5f5688718",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421194979,
-    "wof:lastmodified":1566617550,
+    "wof:lastmodified":1582316803,
     "wof:name":"Tiraque",
     "wof:parent_id":1092006537,
     "wof:placetype":"localadmin",

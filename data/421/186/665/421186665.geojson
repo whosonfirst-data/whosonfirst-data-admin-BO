@@ -211,6 +211,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009488,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"380fb6dacc16a9866c6ec100a0afbe83",
     "wof:hierarchy":[
         {
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":421186665,
-    "wof:lastmodified":1566617571,
+    "wof:lastmodified":1582316810,
     "wof:name":"La Santisima Trinidad",
     "wof:parent_id":421191613,
     "wof:placetype":"locality",

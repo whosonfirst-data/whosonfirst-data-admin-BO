@@ -161,6 +161,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459008800,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"628d607563cde35245fc4bbe82b608a1",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":421169227,
-    "wof:lastmodified":1566617555,
+    "wof:lastmodified":1582316805,
     "wof:name":"Tomina",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

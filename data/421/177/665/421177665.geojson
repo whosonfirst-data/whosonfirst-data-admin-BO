@@ -169,6 +169,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009157,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"29de610926057d66fe1621895b8df07c",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":421177665,
-    "wof:lastmodified":1566617585,
+    "wof:lastmodified":1582316815,
     "wof:name":"Tomas Frias",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

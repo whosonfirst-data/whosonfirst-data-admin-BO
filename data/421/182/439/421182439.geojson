@@ -147,6 +147,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009330,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bd3bf726aecc21f9d1bf6a568504825d",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":421182439,
-    "wof:lastmodified":1566617587,
+    "wof:lastmodified":1582316815,
     "wof:name":"Pacajes",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

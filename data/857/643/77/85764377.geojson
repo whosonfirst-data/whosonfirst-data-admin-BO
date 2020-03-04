@@ -129,6 +129,9 @@
         "qs_pg:id":1082687
     },
     "wof:country":"BO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1baa2555c3fbc3eff97b23a1fc199d47",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566616004,
+    "wof:lastmodified":1582316759,
     "wof:name":"San Jorge",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

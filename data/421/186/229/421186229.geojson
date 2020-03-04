@@ -161,6 +161,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009474,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"62311cc61a96196c5f12acf9efc6b7b3",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":421186229,
-    "wof:lastmodified":1566617569,
+    "wof:lastmodified":1582316809,
     "wof:name":"Manuel M. Caballero",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

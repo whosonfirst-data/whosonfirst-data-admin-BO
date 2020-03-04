@@ -165,6 +165,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009528,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"71928eaa1126673670f286efbf3c0996",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":421187929,
-    "wof:lastmodified":1566617564,
+    "wof:lastmodified":1582316808,
     "wof:name":"Larecaja",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

@@ -118,6 +118,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009501,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dae191311bb305bc5f37c17788ecbb88",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421187093,
-    "wof:lastmodified":1566617563,
+    "wof:lastmodified":1582316807,
     "wof:name":"Franz Tamayo",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

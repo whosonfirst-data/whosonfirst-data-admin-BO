@@ -100,6 +100,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009616,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"87ce96544f7a727bb1cf1464cb7e7da9",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421189297,
-    "wof:lastmodified":1566617566,
+    "wof:lastmodified":1582316809,
     "wof:name":"Villamontes",
     "wof:parent_id":421169235,
     "wof:placetype":"localadmin",

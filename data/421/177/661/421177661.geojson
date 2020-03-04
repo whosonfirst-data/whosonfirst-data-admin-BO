@@ -173,6 +173,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009157,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d89ca9d3b2c698dc7922dad294a77179",
     "wof:hierarchy":[
         {
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":421177661,
-    "wof:lastmodified":1566617584,
+    "wof:lastmodified":1582316814,
     "wof:name":"Modesto Omiste",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

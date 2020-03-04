@@ -329,6 +329,9 @@
         "wk:page":"Pando Department"
     },
     "wof:country":"BO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9b276976e0042a5b9519e5c45f407104",
     "wof:hierarchy":[
         {
@@ -348,7 +351,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1566616008,
+    "wof:lastmodified":1582316763,
     "wof:name":"Pando",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

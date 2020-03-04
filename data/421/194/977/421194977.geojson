@@ -92,6 +92,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009826,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f58ae2d17e3844b4203c6aff6411eaec",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421194977,
-    "wof:lastmodified":1566617550,
+    "wof:lastmodified":1582316803,
     "wof:name":"Tarabuco",
     "wof:parent_id":421188855,
     "wof:placetype":"localadmin",

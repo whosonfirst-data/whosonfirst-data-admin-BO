@@ -155,6 +155,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459008800,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2163edec3cdc14e3aba77b0041243e2f",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421169235,
-    "wof:lastmodified":1566617556,
+    "wof:lastmodified":1582316805,
     "wof:name":"Gran Chaco",
     "wof:parent_id":85669431,
     "wof:placetype":"county",

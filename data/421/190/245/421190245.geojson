@@ -168,6 +168,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009652,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cb62c557d5e61d7a86182ec971ee38f8",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":421190245,
-    "wof:lastmodified":1566617574,
+    "wof:lastmodified":1582316810,
     "wof:name":"Abel Iturralde",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

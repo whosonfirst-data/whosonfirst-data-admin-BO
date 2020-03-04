@@ -335,6 +335,9 @@
         "wk:page":"Beni Department"
     },
     "wof:country":"BO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c3dd2635008c5290f81aa0f8e78eaf22",
     "wof:hierarchy":[
         {
@@ -354,7 +357,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1566616005,
+    "wof:lastmodified":1582316761,
     "wof:name":"El Beni",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

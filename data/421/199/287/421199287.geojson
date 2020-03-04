@@ -51,6 +51,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009984,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ccd0bf257a565b26cab15ec31db29eb3",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":421199287,
-    "wof:lastmodified":1534379235,
+    "wof:lastmodified":1582316811,
     "wof:name":"Copacabana",
     "wof:parent_id":1092007659,
     "wof:placetype":"localadmin",

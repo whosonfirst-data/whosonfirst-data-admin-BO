@@ -164,6 +164,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009651,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cd1d7b22cbd155c776229eea86ed8d6f",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":421190241,
-    "wof:lastmodified":1566617575,
+    "wof:lastmodified":1582316811,
     "wof:name":"Oropeza",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

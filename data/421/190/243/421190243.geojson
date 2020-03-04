@@ -134,6 +134,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009652,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6754451fed503154be9fb6397f1077e4",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421190243,
-    "wof:lastmodified":1566617574,
+    "wof:lastmodified":1582316810,
     "wof:name":"Cercado",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

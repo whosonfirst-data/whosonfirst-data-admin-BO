@@ -160,6 +160,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009768,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6303330d5b72c949b8997094150c1fed",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":421193357,
-    "wof:lastmodified":1566617553,
+    "wof:lastmodified":1582316804,
     "wof:name":"Nor Lipez",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

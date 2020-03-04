@@ -332,6 +332,9 @@
         "wk:page":"Cochabamba Department"
     },
     "wof:country":"BO",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"447745ab4fc5b8223e8c02839686534b",
     "wof:hierarchy":[
         {
@@ -351,7 +354,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1566616019,
+    "wof:lastmodified":1582316770,
     "wof:name":"Cochabamba",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

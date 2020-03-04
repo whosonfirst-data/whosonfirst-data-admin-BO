@@ -164,6 +164,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009527,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"56868f8c85ec3280e27d36404e0650f3",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":421187909,
-    "wof:lastmodified":1566617562,
+    "wof:lastmodified":1582316807,
     "wof:name":"Manco Kapac",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

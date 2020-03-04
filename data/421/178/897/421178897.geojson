@@ -76,6 +76,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009197,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8fcae3b1c2da525c35d0e1f8b46ad97b",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421178897,
-    "wof:lastmodified":1566617587,
+    "wof:lastmodified":1582316815,
     "wof:name":"Puerto Quijarro",
     "wof:parent_id":421183095,
     "wof:placetype":"localadmin",

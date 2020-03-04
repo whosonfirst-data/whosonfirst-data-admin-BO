@@ -162,6 +162,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009772,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a164eb0add430e65abc19867883bb128",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":421193471,
-    "wof:lastmodified":1566617551,
+    "wof:lastmodified":1582316803,
     "wof:name":"Valle Grande",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

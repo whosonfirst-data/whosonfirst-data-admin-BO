@@ -164,6 +164,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459008697,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"846e899f06500746aff73735d87b4d1e",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":421166639,
-    "wof:lastmodified":1566617547,
+    "wof:lastmodified":1582316802,
     "wof:name":"Nor Chichas",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

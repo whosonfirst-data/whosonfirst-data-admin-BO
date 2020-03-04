@@ -538,6 +538,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459008797,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1d5323fb1b27330c4cc9e489d912dd2b",
     "wof:hierarchy":[
         {
@@ -549,7 +552,7 @@
         }
     ],
     "wof:id":421169177,
-    "wof:lastmodified":1566617558,
+    "wof:lastmodified":1582316806,
     "wof:name":"Sucre",
     "wof:parent_id":421190241,
     "wof:placetype":"locality",

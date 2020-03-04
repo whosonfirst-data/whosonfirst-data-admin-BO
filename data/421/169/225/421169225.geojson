@@ -162,6 +162,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459008800,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f7f26168c2ac63ec35e144e1c183c410",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":421169225,
-    "wof:lastmodified":1566617557,
+    "wof:lastmodified":1582316806,
     "wof:name":"Belisario Boeto",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

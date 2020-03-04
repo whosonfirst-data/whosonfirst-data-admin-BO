@@ -192,6 +192,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009389,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"d61f69278d444cb4aaae121ad36bac9a",
     "wof:hierarchy":[
         {
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":421183869,
-    "wof:lastmodified":1566617586,
+    "wof:lastmodified":1582316815,
     "wof:name":"San Javier",
     "wof:parent_id":1092009873,
     "wof:placetype":"locality",

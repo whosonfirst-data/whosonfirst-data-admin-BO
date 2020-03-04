@@ -91,6 +91,9 @@
     },
     "wof:country":"BO",
     "wof:created":1459009861,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2fb1cc01b100ed214b1630e2e4717a40",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421195855,
-    "wof:lastmodified":1566617549,
+    "wof:lastmodified":1582316803,
     "wof:name":"San Agust\u00edn",
     "wof:parent_id":421175057,
     "wof:placetype":"localadmin",
