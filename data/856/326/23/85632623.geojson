@@ -990,9 +990,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Bolivia",
-        "digitalenvoy:country_code":[
-            68
-        ],
+        "digitalenvoy:country_code":68,
         "fb:id":"en.bolivia",
         "fifa:id":"BOL",
         "fips:code":"BL",
@@ -1040,7 +1038,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1583529084,
+    "wof:lastmodified":1583797287,
     "wof:name":"Bolivia",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
