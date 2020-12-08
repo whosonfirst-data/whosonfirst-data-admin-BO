@@ -555,7 +555,9 @@
         85669399
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632623,
+    "wof:capital_of":[
+        85632623
+    ],
     "wof:concordances":{
         "gn:id":3903987,
         "gp:id":346062,
@@ -579,7 +581,7 @@
         }
     ],
     "wof:id":421169177,
-    "wof:lastmodified":1587428048,
+    "wof:lastmodified":1607390899,
     "wof:name":"Sucre",
     "wof:parent_id":421190241,
     "wof:placetype":"locality",
