@@ -17,7 +17,7 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":4.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ace_x_preferred":[
         "La Paz"
@@ -83,6 +83,9 @@
         "La Paz"
     ],
     "name:ell_x_preferred":[
+        "\u039b\u03b1 \u03a0\u03b1\u03b6"
+    ],
+    "name:ell_x_variant":[
         "\u039b\u03b1 \u03a0\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
@@ -394,8 +397,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3911925,
         "gp:id":346057,
-        "qs_pg:id":1075157
+        "ne:id":1159151133,
+        "qs_pg:id":1075157,
+        "wd:id":"Q1491"
     },
     "wof:country":"BO",
     "wof:created":1459009117,
@@ -413,7 +419,7 @@
         }
     ],
     "wof:id":421176731,
-    "wof:lastmodified":1608675981,
+    "wof:lastmodified":1608677540,
     "wof:megacity":1,
     "wof:name":"La Paz",
     "wof:parent_id":421177667,
