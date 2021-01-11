@@ -13,7 +13,6 @@
     "gn:fcode":"PPLA",
     "gn:population":1364389,
     "iso:country":"BO",
-    "lbl:bbox":"-63.18667,-17.82,-63.14667,-17.78",
     "lbl:latitude":-17.783777,
     "lbl:longitude":-63.180481,
     "lbl:max_zoom":13.0,
@@ -369,7 +368,7 @@
         }
     ],
     "wof:id":890442173,
-    "wof:lastmodified":1608689810,
+    "wof:lastmodified":1610148571,
     "wof:megacity":1,
     "wof:name":"Santa Cruz de la Sierra",
     "wof:parent_id":421187923,
