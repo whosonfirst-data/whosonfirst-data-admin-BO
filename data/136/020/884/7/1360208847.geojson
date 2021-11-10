@@ -29,17 +29,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09a6\u09bf\u09b2\u09cd\u09b2\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Padilla"
     ],
     "name:deu_x_preferred":[
         "Padilla"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03b4\u03af\u03b3\u03b9\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u062f\u06cc\u0644\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Padilla"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d3\u05d9\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093e\u0921\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Padilla"
+    ],
+    "name:ind_x_preferred":[
         "Padilla"
     ],
     "name:ita_x_preferred":[
         "Padilla"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\ub514\uc57c"
     ],
     "name:nds_x_preferred":[
         "Padilla"
@@ -56,6 +80,18 @@
     "name:swe_x_preferred":[
         "Padilla"
     ],
+    "name:tur_x_preferred":[
+        "Padilla"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0434\u0456\u043b\u044c\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0688\u06cc\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Padilla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -68,7 +104,7 @@
         "gn:id":3909040
     },
     "wof:country":"BO",
-    "wof:geomhash":"81d15e2c49340f07bb6fff0bd40258f1",
+    "wof:geomhash":"13ac005170c54826ae4bf8ae95afaf22",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +115,7 @@
         }
     ],
     "wof:id":1360208847,
-    "wof:lastmodified":1566617362,
+    "wof:lastmodified":1636495286,
     "wof:name":"Padilla",
     "wof:parent_id":1092007459,
     "wof:placetype":"locality",
@@ -90,9 +126,9 @@
 },
   "bbox": [
     -67.7,
-    -16.11667000000001,
+    -16.11667,
     -67.7,
-    -16.11667000000001
+    -16.11667
 ],
-  "geometry": {"coordinates":[-67.7,-16.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-67.7,-16.11667],"type":"Point"}
 }

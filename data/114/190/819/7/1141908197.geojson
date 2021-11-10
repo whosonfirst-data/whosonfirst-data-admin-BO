@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-68.4499668799,-17.1696122042,-68.4499668799,-17.1696122042",
+    "geom:bbox":"-68.449967,-17.169612,-68.449967,-17.169612",
     "geom:latitude":-17.169612,
     "geom:longitude":-68.449967,
     "iso:country":"BO",
@@ -18,32 +18,83 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0631\u0648 \u0643\u0648\u0631\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u09b0\u09cb \u0995\u09cb\u09b0\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "Coro Coro"
     ],
     "name:deu_x_preferred":[
         "Coro Coro"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03c1\u03bf \u039a\u03cc\u03c1\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Coro Coro"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u0648 \u06a9\u0648\u0631\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Coro Coro"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05d5 \u05e7\u05d5\u05e8\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0930\u094b \u0915\u094b\u0930\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Coro Coro"
+    ],
+    "name:ind_x_preferred":[
+        "Coro Coro"
+    ],
+    "name:ita_x_preferred":[
         "Coro Coro"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30ed\u30b3\u30ed\u9285\u5c71"
     ],
+    "name:kor_x_preferred":[
+        "\ucf54\ub85c \ucf54\ub85c"
+    ],
     "name:nld_x_preferred":[
+        "Coro Coro"
+    ],
+    "name:pol_x_preferred":[
+        "Coro Coro"
+    ],
+    "name:por_x_preferred":[
         "Coro Coro"
     ],
     "name:que_x_preferred":[
         "Kuru Kuru"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043a\u043e\u0440\u043e"
     ],
     "name:spa_x_preferred":[
         "Coro Coro"
     ],
     "name:swe_x_preferred":[
         "Corocoro"
+    ],
+    "name:tur_x_preferred":[
+        "Coro Coro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043e-\u041a\u043e\u0440\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0631\u0648 \u06a9\u0648\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Coro Coro"
     ],
     "name:war_x_preferred":[
         "Coro Coro"
@@ -159,7 +210,7 @@
     },
     "wof:country":"BO",
     "wof:created":1499130846,
-    "wof:geomhash":"bfbe8dc4f664c5ea4b5d766e05c86fc9",
+    "wof:geomhash":"33ec0291d01f0b4cd656663c1c707626",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -170,7 +221,7 @@
         }
     ],
     "wof:id":1141908197,
-    "wof:lastmodified":1566618146,
+    "wof:lastmodified":1636495362,
     "wof:name":"Coro Coro",
     "wof:parent_id":421182439,
     "wof:placetype":"locality",
@@ -180,10 +231,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -68.44996687994359,
-    -17.16961220415385,
-    -68.44996687994359,
-    -17.16961220415385
+    -68.449967,
+    -17.169612,
+    -68.449967,
+    -17.169612
 ],
-  "geometry": {"coordinates":[-68.44996687994359,-17.16961220415385],"type":"Point"}
+  "geometry": {"coordinates":[-68.449967,-17.169612],"type":"Point"}
 }

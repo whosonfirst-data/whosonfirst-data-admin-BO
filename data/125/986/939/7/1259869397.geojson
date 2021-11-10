@@ -30,14 +30,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u099a\u09be\u09ae\u09bf\u0995\u09cd\u09af\u09be\u09b2"
+    ],
     "name:ceb_x_preferred":[
         "Chamical"
+    ],
+    "name:deu_x_preferred":[
+        "Chamical"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03bc\u03b9\u03ba\u03ac\u03bb"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0645\u06cc\u06a9\u0627\u0644"
     ],
     "name:fra_x_preferred":[
         "Chamical"
     ],
+    "name:heb_x_preferred":[
+        "\u05db\u05de\u05d9\u05e7\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u092e\u093f\u0915\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Chamical"
+    ],
+    "name:ind_x_preferred":[
+        "Chamical"
+    ],
     "name:ita_x_preferred":[
         "Chamical"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc60\ubbf8\uce7c"
     ],
     "name:pol_x_preferred":[
         "Chamical"
@@ -48,9 +75,18 @@
     "name:spa_x_preferred":[
         "Chamical"
     ],
+    "name:tur_x_preferred":[
+        "Chamical"
+    ],
     "name:und_x_variant":[
         "Onamanate",
         "Chamarete"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0627\u0645\u06cc\u06a9\u0627\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Chamical"
     ],
     "name:zho_x_preferred":[
         "\u67e5\u99ac\u5361\u723e"
@@ -78,7 +114,7 @@
         }
     ],
     "wof:id":1259869397,
-    "wof:lastmodified":1566617949,
+    "wof:lastmodified":1636495340,
     "wof:name":"Chamical",
     "wof:parent_id":1092010191,
     "wof:placetype":"locality",

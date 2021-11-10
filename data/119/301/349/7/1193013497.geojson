@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05d8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Lata"
+    ],
     "name:spa_x_preferred":[
         "Lata"
     ],
@@ -44,7 +50,7 @@
         "gn:id":11504007
     },
     "wof:country":"BO",
-    "wof:geomhash":"b94b4606ff2e0db894b560f31a74b1a0",
+    "wof:geomhash":"962108978761a60124f5f345fd096333",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1193013497,
-    "wof:lastmodified":1566616943,
+    "wof:lastmodified":1636495251,
     "wof:name":"Lata",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -67.74141999999999,
+    -67.74142,
     -10.92066,
-    -67.74141999999999,
+    -67.74142,
     -10.92066
 ],
-  "geometry": {"coordinates":[-67.74141999999999,-10.92066],"type":"Point"}
+  "geometry": {"coordinates":[-67.74142000000001,-10.92066],"type":"Point"}
 }

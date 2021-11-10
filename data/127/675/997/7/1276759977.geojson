@@ -49,6 +49,9 @@
         "Ascension"
     ],
     "name:jpn_x_preferred":[
+        "\u30a2\u30b5\u30f3\u30b7\u30aa\u30f3"
+    ],
+    "name:jpn_x_variant":[
         "\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3"
     ],
     "name:kor_x_preferred":[
@@ -61,6 +64,9 @@
         "Ascension"
     ],
     "name:pol_x_preferred":[
+        "Ascensi\u00f3n"
+    ],
+    "name:pol_x_variant":[
         "Ascension"
     ],
     "name:por_x_preferred":[
@@ -75,10 +81,19 @@
     "name:swe_x_preferred":[
         "Ascension"
     ],
+    "name:tur_x_preferred":[
+        "Ascension"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0441\u0441\u0435\u043d\u0441\u044c\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "Acensi\u00f3n",
         "Ascenci\u00f3n",
         "Ascensi\u00f3n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u06cc\u0646\u0634\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":1276759977,
-    "wof:lastmodified":1566616390,
+    "wof:lastmodified":1636495213,
     "wof:name":"Ascension",
     "wof:parent_id":1092008329,
     "wof:placetype":"locality",

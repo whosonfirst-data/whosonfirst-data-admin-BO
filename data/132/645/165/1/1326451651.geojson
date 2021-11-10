@@ -65,6 +65,12 @@
     "name:glg_x_preferred":[
         "Tarija"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05e8\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Tarija"
+    ],
     "name:ind_x_preferred":[
         "Tarija"
     ],
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1326451651,
-    "wof:lastmodified":1566615607,
+    "wof:lastmodified":1636495144,
     "wof:name":"Tarija",
     "wof:parent_id":1092008843,
     "wof:placetype":"locality",

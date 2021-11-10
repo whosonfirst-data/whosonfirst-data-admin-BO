@@ -53,7 +53,13 @@
     "name:glg_x_preferred":[
         "Pando"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e0\u05d3\u05d5"
+    ],
     "name:hrv_x_preferred":[
+        "Pando"
+    ],
+    "name:hun_x_preferred":[
         "Pando"
     ],
     "name:ita_x_preferred":[
@@ -86,7 +92,7 @@
         "gn:id":3908603
     },
     "wof:country":"BO",
-    "wof:geomhash":"5f7392c06f1b601921fd2aaef81f7a9e",
+    "wof:geomhash":"add65f45d243df6399394f8bfbc86f64",
     "wof:hierarchy":[
         {
             "country_id":85632623,
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1209336553,
-    "wof:lastmodified":1566616838,
+    "wof:lastmodified":1636495243,
     "wof:name":"Pando",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",
@@ -104,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -68.00983000000001,
+    -68.00983,
     -11.82479,
-    -68.00983000000001,
+    -68.00983,
     -11.82479
 ],
-  "geometry": {"coordinates":[-68.00983000000001,-11.82479],"type":"Point"}
+  "geometry": {"coordinates":[-68.00982999999999,-11.82479],"type":"Point"}
 }

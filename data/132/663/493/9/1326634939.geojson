@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09ae\u09be"
+    ],
     "name:bih_x_preferred":[
         "\u0915\u093e\u092e"
     ],
@@ -116,7 +119,7 @@
         "gn:id":3913055
     },
     "wof:country":"BO",
-    "wof:geomhash":"58d0c8da7c6b9cb431d5b1d3a4af0041",
+    "wof:geomhash":"04b99488b134073c53c06727fa57556b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1326634939,
-    "wof:lastmodified":1566615716,
+    "wof:lastmodified":1636495155,
     "wof:name":"Kama",
     "wof:parent_id":1092008219,
     "wof:placetype":"locality",
@@ -137,10 +140,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -66.66644000000001,
+    -66.66644,
     -19.31524,
-    -66.66644000000001,
+    -66.66644,
     -19.31524
 ],
-  "geometry": {"coordinates":[-66.66644000000001,-19.31524],"type":"Point"}
+  "geometry": {"coordinates":[-66.66643999999999,-19.31524],"type":"Point"}
 }

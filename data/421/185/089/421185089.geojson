@@ -32,6 +32,9 @@
     "name:heb_x_preferred":[
         "\u05e1\u05df \u05d0\u05d9\u05d2\u05e0\u05e1\u05d9\u05d5"
     ],
+    "name:hun_x_preferred":[
+        "San Ignacio"
+    ],
     "name:ita_x_preferred":[
         "San Ignacio"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421185089,
-    "wof:lastmodified":1566617592,
+    "wof:lastmodified":1636495304,
     "wof:name":"San Ignacio",
     "wof:parent_id":1092010025,
     "wof:placetype":"localadmin",

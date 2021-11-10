@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0644\u064a\u062f\u0627\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cb\u09b2\u09c7\u09a6\u09be\u09a6"
+    ],
     "name:bre_x_preferred":[
         "Soledad"
     ],
@@ -44,8 +50,23 @@
     "name:fra_x_preferred":[
         "Soledad"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05dc\u05d3\u05d0\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094b\u0932\u0921\u0948\u0921"
+    ],
+    "name:hun_x_preferred":[
+        "Soledad"
+    ],
+    "name:ind_x_preferred":[
+        "Soledad"
+    ],
     "name:ita_x_preferred":[
         "Soledad"
+    ],
+    "name:kor_x_preferred":[
+        "\uc194\ub808\ub2e4\ub4dc"
     ],
     "name:lit_x_preferred":[
         "Soledad"
@@ -68,6 +89,9 @@
     "name:swe_x_preferred":[
         "Soledad"
     ],
+    "name:vie_x_preferred":[
+        "Soledad"
+    ],
     "name:vol_x_preferred":[
         "Soledad"
     ],
@@ -86,7 +110,7 @@
         "gn:id":3904111
     },
     "wof:country":"BO",
-    "wof:geomhash":"568cda361405a761e33e9dee4318f775",
+    "wof:geomhash":"92f7bea93ee80b5ff1d741a222e697c9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,7 +121,7 @@
         }
     ],
     "wof:id":1226044427,
-    "wof:lastmodified":1566618025,
+    "wof:lastmodified":1636495349,
     "wof:name":"Soledad",
     "wof:parent_id":421191613,
     "wof:placetype":"locality",
@@ -107,10 +131,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.98333000000001,
+    -64.98333,
     -14.68333,
-    -64.98333000000001,
+    -64.98333,
     -14.68333
 ],
-  "geometry": {"coordinates":[-64.98333000000001,-14.68333],"type":"Point"}
+  "geometry": {"coordinates":[-64.98333,-14.68333],"type":"Point"}
 }

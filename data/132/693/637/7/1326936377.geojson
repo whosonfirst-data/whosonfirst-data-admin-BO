@@ -129,6 +129,9 @@
         "Zamora"
     ],
     "name:ukr_x_preferred":[
+        "\u0417\u0430\u043c\u043e\u0440\u0430"
+    ],
+    "name:ukr_x_variant":[
         "\u0421\u0430\u043c\u043e\u0440\u0430"
     ],
     "name:vie_x_preferred":[
@@ -152,7 +155,7 @@
         "gn:id":3900825
     },
     "wof:country":"BO",
-    "wof:geomhash":"aa05425a072d797813603882969c975a",
+    "wof:geomhash":"b7f59238e96824e005967c73e81b76a9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":1326936377,
-    "wof:lastmodified":1566615619,
+    "wof:lastmodified":1636495145,
     "wof:name":"Zamora",
     "wof:parent_id":1092007507,
     "wof:placetype":"locality",
@@ -173,10 +176,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -68.88571999999999,
+    -68.88572,
     -15.8649,
-    -68.88571999999999,
+    -68.88572,
     -15.8649
 ],
-  "geometry": {"coordinates":[-68.88571999999999,-15.8649],"type":"Point"}
+  "geometry": {"coordinates":[-68.88572000000001,-15.8649],"type":"Point"}
 }

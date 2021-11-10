@@ -84,6 +84,9 @@
         "Cochabamba"
     ],
     "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e6'\u05d1\u05d0\u05de\u05d1\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05e7\u05d5\u05e6'\u05d1\u05de\u05d1\u05d4"
     ],
     "name:hun_x_preferred":[
@@ -209,7 +212,7 @@
         "gn:id":11469179
     },
     "wof:country":"BO",
-    "wof:geomhash":"e0eed78dba7e509aee17d810adcff3d7",
+    "wof:geomhash":"1a16b78dd3a46513bd5a7890475f9005",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":1243356005,
-    "wof:lastmodified":1566617732,
+    "wof:lastmodified":1636495318,
     "wof:name":"Cochabamba",
     "wof:parent_id":1092008461,
     "wof:placetype":"locality",
@@ -230,10 +233,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -68.51319000000001,
+    -68.51319,
     -11.70166,
-    -68.51319000000001,
+    -68.51319,
     -11.70166
 ],
-  "geometry": {"coordinates":[-68.51319000000001,-11.70166],"type":"Point"}
+  "geometry": {"coordinates":[-68.51318999999999,-11.70166],"type":"Point"}
 }

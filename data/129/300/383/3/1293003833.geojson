@@ -84,9 +84,18 @@
         "Rodeo"
     ],
     "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d3\u05d0\u05d5"
+    ],
+    "name:heb_x_variant":[
         "\u05e8\u05d5\u05d3\u05d9\u05d0\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u0930\u094b\u0921\u093f\u092f\u094b"
+    ],
     "name:hrv_x_preferred":[
+        "Rodeo"
+    ],
+    "name:hun_x_preferred":[
         "Rodeo"
     ],
     "name:ind_x_preferred":[
@@ -143,8 +152,17 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0434\u0435\u043e"
     ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0688\u06cc\u0648"
+    ],
     "name:vie_x_preferred":[
         "Rodeo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7f57\u5fb7\u5965"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7f85\u5730\u5967"
     ],
     "name:zho_x_preferred":[
         "\u725b\u4ed4\u7af6\u6280"
@@ -161,7 +179,7 @@
         "gn:id":3906377
     },
     "wof:country":"BO",
-    "wof:geomhash":"dbdb251df343745b9b6d29be8c1d3ed4",
+    "wof:geomhash":"7337c1dba7b84c67028fd036d0a626f7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -172,7 +190,7 @@
         }
     ],
     "wof:id":1293003833,
-    "wof:lastmodified":1566616035,
+    "wof:lastmodified":1636495189,
     "wof:name":"Rodeo",
     "wof:parent_id":1092006291,
     "wof:placetype":"locality",
@@ -183,9 +201,9 @@
 },
   "bbox": [
     -65.63333,
-    -17.61667000000001,
+    -17.61667,
     -65.63333,
-    -17.61667000000001
+    -17.61667
 ],
-  "geometry": {"coordinates":[-65.63333,-17.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.63333,-17.61667],"type":"Point"}
 }

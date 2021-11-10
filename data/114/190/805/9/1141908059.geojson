@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-64.0527675798,-13.2600833955,-64.0527675798,-13.2600833955",
+    "geom:bbox":"-64.052768,-13.260083,-64.052768,-13.260083",
     "geom:latitude":-13.260083,
     "geom:longitude":-64.052768,
     "iso:country":"BO",
@@ -19,10 +19,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0645\u0627\u062c\u062f\u0627\u0644\u064a\u0646\u0627"
+    ],
+    "name:ara_x_variant":[
         "\u0645\u0627\u063a\u062f\u0627\u0644\u064a\u0646\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cd\u09af\u09be\u0997\u09a1\u09be\u09b2\u09c7\u09a8\u09be"
     ],
     "name:deu_x_preferred":[
         "Magdalena"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b3\u03b4\u03b1\u03bb\u03ad\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Magdalena"
@@ -33,8 +42,26 @@
     "name:fra_x_preferred":[
         "Magdalena"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d2\u05d3\u05dc\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0948\u0917\u0921\u0947\u0932\u0947\u0928\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Magdalena"
+    ],
+    "name:ind_x_preferred":[
+        "Magdalena"
+    ],
+    "name:ita_x_preferred":[
+        "Magdalena"
+    ],
     "name:jpn_x_preferred":[
         "\u30de\u30b0\u30c0\u30ec\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c9\ub2ec\ub808\ub098"
     ],
     "name:nld_x_preferred":[
         "Magdalena"
@@ -43,6 +70,27 @@
         "Magdalena"
     ],
     "name:que_x_preferred":[
+        "Magdalena"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0433\u0434\u0430\u043b\u0435\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Magdalena"
+    ],
+    "name:swe_x_preferred":[
+        "Magdalena"
+    ],
+    "name:tur_x_preferred":[
+        "Magdalena"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0433\u0434\u0430\u043b\u0435\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06af\u0688\u0627\u0644\u06cc\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Magdalena"
     ],
     "name:war_x_preferred":[
@@ -159,7 +207,7 @@
     },
     "wof:country":"BO",
     "wof:created":1499130810,
-    "wof:geomhash":"09e204bf80c92349adfcef89108f354e",
+    "wof:geomhash":"447059ee8c8312289e630502c8635581",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -170,7 +218,7 @@
         }
     ],
     "wof:id":1141908059,
-    "wof:lastmodified":1566618147,
+    "wof:lastmodified":1636495363,
     "wof:name":"Magdalena",
     "wof:parent_id":1092005711,
     "wof:placetype":"locality",
@@ -180,10 +228,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.05276757979584,
-    -13.26008339554448,
-    -64.05276757979584,
-    -13.26008339554448
+    -64.052768,
+    -13.260083,
+    -64.052768,
+    -13.260083
 ],
-  "geometry": {"coordinates":[-64.05276757979584,-13.26008339554448],"type":"Point"}
+  "geometry": {"coordinates":[-64.052768,-13.260083],"type":"Point"}
 }

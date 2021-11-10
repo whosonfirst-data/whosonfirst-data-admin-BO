@@ -47,8 +47,14 @@
     "name:guj_x_preferred":[
         "\u0aaa\u0ac1\u0aa8\u0abe\u0a9f\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e0\u05d0\u05d8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u0941\u0928\u093e\u0924\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Punata"
     ],
     "name:ind_x_preferred":[
         "Punata"
@@ -282,7 +288,7 @@
         }
     ],
     "wof:id":421204575,
-    "wof:lastmodified":1566617558,
+    "wof:lastmodified":1636495297,
     "wof:name":"Punata",
     "wof:parent_id":1092006749,
     "wof:placetype":"locality",

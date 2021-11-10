@@ -26,6 +26,9 @@
     "name:aym_x_variant":[
         "Jachakachi"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u099a\u09be\u0995\u09be\u099a\u09bf"
+    ],
     "name:cat_x_preferred":[
         "Achacachi"
     ],
@@ -38,6 +41,9 @@
     "name:deu_x_preferred":[
         "Achacachi"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c7\u03b1\u03ba\u03ac\u03c4\u03c3\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Achacachi"
     ],
@@ -48,6 +54,18 @@
         "\u0627\u06a9\u0627\u0633\u0627\u0686\u06cc"
     ],
     "name:fra_x_preferred":[
+        "Achacachi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d7\u05e6'\u05d0\u05e6'\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u091a\u093e\u0915\u091a\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Achacachi"
+    ],
+    "name:ind_x_preferred":[
         "Achacachi"
     ],
     "name:ita_x_preferred":[
@@ -89,8 +107,20 @@
     "name:swe_x_preferred":[
         "Achacachi"
     ],
+    "name:tur_x_preferred":[
+        "Achacachi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0447\u0430\u043a\u0430\u0447\u0456"
+    ],
     "name:und_x_variant":[
         "Villa Lealtad"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u06a9\u0627\u06a9\u0627\u0686\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Achacachi"
     ],
     "name:war_x_preferred":[
         "Achacachi"
@@ -243,7 +273,7 @@
         }
     ],
     "wof:id":421204917,
-    "wof:lastmodified":1566617560,
+    "wof:lastmodified":1636495297,
     "wof:name":"Achacachi",
     "wof:parent_id":1092007507,
     "wof:placetype":"locality",

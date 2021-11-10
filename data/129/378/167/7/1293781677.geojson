@@ -29,20 +29,68 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09bf\u099f"
+    ],
     "name:cat_x_preferred":[
         "Pit"
     ],
     "name:deu_x_preferred":[
         "Pit"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03c4"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u062a"
+    ],
     "name:fin_x_preferred":[
         "Pit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093f\u091f "
+    ],
+    "name:hun_x_preferred":[
+        "Pit"
+    ],
+    "name:ind_x_preferred":[
+        "Pit"
+    ],
+    "name:kor_x_preferred":[
+        "\ud53c\ud2b8"
     ],
     "name:nld_x_preferred":[
         "Pit"
     ],
     "name:nor_x_preferred":[
         "Pit"
+    ],
+    "name:pol_x_preferred":[
+        "Pit"
+    ],
+    "name:swe_x_preferred":[
+        "Pit River"
+    ],
+    "name:tur_x_preferred":[
+        "Pit"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Pit"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u76ae\u7279\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u76ae\u7279\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +104,7 @@
         "gn:id":3907814
     },
     "wof:country":"BO",
-    "wof:geomhash":"d071e534c09fe6643d30486df5e2b6b5",
+    "wof:geomhash":"ddd00ec55674320d6c623fe3d5269c4e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -67,7 +115,7 @@
         }
     ],
     "wof:id":1293781677,
-    "wof:lastmodified":1566616165,
+    "wof:lastmodified":1636495198,
     "wof:name":"Pit",
     "wof:parent_id":102050009,
     "wof:placetype":"locality",
@@ -77,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -66.98333000000001,
+    -66.98333,
     -10.18333,
-    -66.98333000000001,
+    -66.98333,
     -10.18333
 ],
-  "geometry": {"coordinates":[-66.98333000000001,-10.18333],"type":"Point"}
+  "geometry": {"coordinates":[-66.98333,-10.18333],"type":"Point"}
 }

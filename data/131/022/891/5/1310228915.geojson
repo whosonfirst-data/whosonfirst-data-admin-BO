@@ -29,8 +29,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0644\u0627\u062c\u0648\u0627"
+    ],
     "name:aym_x_preferred":[
         "Llallawa"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09bf\u0987\u09df\u09be\u09b2\u09cd\u09b2\u09be\u0997\u09c1\u09df\u09be"
     ],
     "name:ceb_x_preferred":[
         "Llallagua"
@@ -38,11 +44,35 @@
     "name:deu_x_preferred":[
         "Llallagua"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03b1\u03bb\u03bb\u03ac\u03b3\u03ba\u03bf\u03c5\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0644\u0627\u06af\u0648\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Llallagua"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05dc\u05d0\u05d2\u05d5\u05d0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e\u0932\u093e\u0917\u0941\u0906"
+    ],
+    "name:hun_x_preferred":[
+        "Llallagua"
+    ],
+    "name:ind_x_preferred":[
         "Llallagua"
     ],
     "name:ita_x_preferred":[
         "Llallagua"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30e3\u30ea\u30e3\u30b0\u30a2"
+    ],
+    "name:kor_x_preferred":[
+        "\ub784\ub77c\uad6c\uc544"
     ],
     "name:nld_x_preferred":[
         "Llallagua"
@@ -59,10 +89,25 @@
     "name:ron_x_preferred":[
         "Llallagua"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u044c\u044f\u043b\u044c\u044f\u0433\u0443\u0430"
+    ],
     "name:spa_x_preferred":[
         "Llallagua"
     ],
     "name:swe_x_preferred":[
+        "Llallagua"
+    ],
+    "name:tur_x_preferred":[
+        "Llallagua"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043b\u0430\u043b\u0430\u0433\u0443\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0644\u0627\u06af\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Llallagua"
     ],
     "name:zho_x_preferred":[
@@ -91,7 +136,7 @@
         }
     ],
     "wof:id":1310228915,
-    "wof:lastmodified":1566617148,
+    "wof:lastmodified":1636495267,
     "wof:name":"Llallagua",
     "wof:parent_id":421182439,
     "wof:placetype":"locality",

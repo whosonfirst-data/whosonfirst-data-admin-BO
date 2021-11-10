@@ -45,6 +45,9 @@
         "Matara"
     ],
     "name:por_x_preferred":[
+        "Matara"
+    ],
+    "name:por_x_variant":[
         "Matar\u00e1"
     ],
     "name:rus_x_preferred":[
@@ -65,7 +68,7 @@
         "gn:id":3910612
     },
     "wof:country":"BO",
-    "wof:geomhash":"e78d12b8e64def380b2c85a4eab660ad",
+    "wof:geomhash":"ce38baf33ccb1190a1b062d93926ca0f",
     "wof:hierarchy":[
         {
             "country_id":85632623,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1209123919,
-    "wof:lastmodified":1566616727,
+    "wof:lastmodified":1636495236,
     "wof:name":"Matara",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",
@@ -83,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -63.93333000000001,
+    -63.93333,
     -20.2,
-    -63.93333000000001,
+    -63.93333,
     -20.2
 ],
-  "geometry": {"coordinates":[-63.93333000000001,-20.2],"type":"Point"}
+  "geometry": {"coordinates":[-63.93333,-20.2],"type":"Point"}
 }

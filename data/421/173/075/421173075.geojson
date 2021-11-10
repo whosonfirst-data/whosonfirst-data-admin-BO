@@ -20,11 +20,17 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u0631\u064a\u0646\u0627\u0628\u0627\u0643\u0648\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09c1\u09b0\u09b0\u09c7\u09a8\u09be\u09ac\u09be\u0995\u09c1\u0987"
+    ],
     "name:ceb_x_preferred":[
         "Rurrenabaque"
     ],
     "name:deu_x_preferred":[
         "Rurrenabaque"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03c5\u03c1\u03b5\u03bd\u03b1\u03bc\u03c0\u03ac\u03ba\u03bf\u03c5\u03b5"
     ],
     "name:eng_x_preferred":[
         "Rurrenabaque"
@@ -38,11 +44,23 @@
     "name:heb_x_preferred":[
         "\u05e8\u05d5\u05e8\u05e0\u05d1\u05d0\u05e7\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0930\u0942\u0930\u0947\u0928\u093e\u092c\u093e\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Rurrenabaque"
+    ],
+    "name:ind_x_preferred":[
+        "Rurrenabaque"
+    ],
     "name:ita_x_preferred":[
         "Rurrenabaque"
     ],
     "name:jpn_x_preferred":[
         "\u30eb\u30ec\u30ca\u30d0\u30b1"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\ub808\ub098\ubc14\ud06c"
     ],
     "name:lit_x_preferred":[
         "Rurenabak\u0117"
@@ -72,6 +90,18 @@
         "Rurre"
     ],
     "name:swe_x_preferred":[
+        "Rurrenabaque"
+    ],
+    "name:tur_x_preferred":[
+        "Rurrenabaque"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0440\u0440\u0435\u043d\u0430\u0431\u0430\u043a\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0631\u06cc\u0646\u0628\u06cc\u0642"
+    ],
+    "name:vie_x_preferred":[
         "Rurrenabaque"
     ],
     "name:zho_x_preferred":[
@@ -219,7 +249,7 @@
         }
     ],
     "wof:id":421173075,
-    "wof:lastmodified":1566617565,
+    "wof:lastmodified":1636495299,
     "wof:name":"Rurrenabaque",
     "wof:parent_id":1092005669,
     "wof:placetype":"locality",

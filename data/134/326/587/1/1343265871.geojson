@@ -35,6 +35,9 @@
     "name:aym_x_preferred":[
         "Uyuni"
     ],
+    "name:ben_x_preferred":[
+        "\u0989\u09df\u09be\u09a8\u09bf"
+    ],
     "name:cat_x_preferred":[
         "Uyuni"
     ],
@@ -47,6 +50,9 @@
     "name:deu_x_preferred":[
         "Uyuni"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03b3\u03b9\u03bf\u03cd\u03bd\u03b9"
+    ],
     "name:fra_x_preferred":[
         "Uyuni"
     ],
@@ -56,11 +62,20 @@
     "name:hin_x_preferred":[
         "\u0909\u092f\u0942\u0928\u0940"
     ],
+    "name:hun_x_preferred":[
+        "Uyuni"
+    ],
+    "name:ind_x_preferred":[
+        "Uyuni"
+    ],
     "name:ita_x_preferred":[
         "Uyuni"
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30e6\u30cb"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\uc720\ub2c8"
     ],
     "name:lit_x_preferred":[
         "Uj\u016bnis"
@@ -101,6 +116,12 @@
     "name:und_x_variant":[
         "Estancia Uyuni"
     ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u0646\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Uyuni"
+    ],
     "name:war_x_preferred":[
         "Uyuni"
     ],
@@ -119,7 +140,7 @@
         "gn:id":3901905
     },
     "wof:country":"BO",
-    "wof:geomhash":"22e44fafa95b92f24066ac4545c2e854",
+    "wof:geomhash":"29528fffd6dc649b1504a66069b988d5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -130,7 +151,7 @@
         }
     ],
     "wof:id":1343265871,
-    "wof:lastmodified":1566615985,
+    "wof:lastmodified":1636495180,
     "wof:name":"Uyuni",
     "wof:parent_id":1092006241,
     "wof:placetype":"locality",
@@ -140,10 +161,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.83570999999999,
+    -64.83571,
     -19.4491,
-    -64.83570999999999,
+    -64.83571,
     -19.4491
 ],
-  "geometry": {"coordinates":[-64.83570999999999,-19.4491],"type":"Point"}
+  "geometry": {"coordinates":[-64.83571000000001,-19.4491],"type":"Point"}
 }

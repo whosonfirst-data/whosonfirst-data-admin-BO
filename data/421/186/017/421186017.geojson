@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-67.11084,-17.9717835,-67.11084,-17.9717835",
+    "geom:bbox":"-67.11084,-17.971784,-67.11084,-17.971784",
     "geom:latitude":-17.971784,
     "geom:longitude":-67.11084,
     "iso:country":"BO",
@@ -75,6 +75,9 @@
         "\u0a93\u0ab0\u0ac2\u0ab0\u0acb"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05d5\u05bc\u05e8\u05d5"
+    ],
+    "name:heb_x_variant":[
         "\u05d0\u05d5\u05e8\u05d5\u05e8\u05d5"
     ],
     "name:hin_x_preferred":[
@@ -237,7 +240,7 @@
     },
     "wof:country":"BO",
     "wof:created":1459009462,
-    "wof:geomhash":"3f66c20e0384402adef7fc4d5fa56ea7",
+    "wof:geomhash":"e4b51713e4c8f9d212e09e318c9d1972",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -248,7 +251,7 @@
         }
     ],
     "wof:id":421186017,
-    "wof:lastmodified":1566617570,
+    "wof:lastmodified":1636495301,
     "wof:name":"Oruro",
     "wof:parent_id":421187927,
     "wof:placetype":"locality",
@@ -259,9 +262,9 @@
 },
   "bbox": [
     -67.11084,
-    -17.9717835,
+    -17.971784,
     -67.11084,
-    -17.9717835
+    -17.971784
 ],
-  "geometry": {"coordinates":[-67.11084,-17.9717835],"type":"Point"}
+  "geometry": {"coordinates":[-67.11084,-17.971784],"type":"Point"}
 }

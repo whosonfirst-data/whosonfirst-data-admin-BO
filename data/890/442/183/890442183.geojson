@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0622\u064a\u0643\u0648\u064a\u0644\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u0987\u0995\u09c1\u0987\u09b2\u09c7"
+    ],
     "name:ceb_x_preferred":[
         "Aiquile"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:deu_x_preferred":[
         "Aiquile"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03ca\u03ba\u03af\u03bb\u03b5"
     ],
     "name:eng_x_preferred":[
         "Aiquile"
@@ -40,8 +46,26 @@
     "name:fra_x_preferred":[
         "Aiquile"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05e7\u05d5\u05d5\u05d9\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0910\u0915\u094d\u0935\u093f\u0932\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Aiquile"
+    ],
+    "name:ind_x_preferred":[
+        "Aiquile"
+    ],
+    "name:ita_x_preferred":[
+        "Aiquile"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30a4\u30ad\u30ec"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc774\ud0ac\ub808"
     ],
     "name:nld_x_preferred":[
         "Aiquile"
@@ -58,10 +82,25 @@
     "name:que_x_preferred":[
         "Aykili"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043a\u0438\u043b\u0435"
+    ],
     "name:spa_x_preferred":[
         "Aiquile"
     ],
     "name:swe_x_preferred":[
+        "Aiquile"
+    ],
+    "name:tur_x_preferred":[
+        "Aiquile"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u043a\u0456\u043b\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u06a9\u0648\u0626\u0644\u06d2"
+    ],
+    "name:vie_x_preferred":[
         "Aiquile"
     ],
     "name:war_x_preferred":[
@@ -197,7 +236,7 @@
         }
     ],
     "wof:id":890442183,
-    "wof:lastmodified":1566617598,
+    "wof:lastmodified":1636495304,
     "wof:name":"Aiquile",
     "wof:parent_id":1092006465,
     "wof:placetype":"locality",

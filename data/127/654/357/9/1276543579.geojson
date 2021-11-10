@@ -47,6 +47,9 @@
     "name:fra_x_preferred":[
         "Guanare"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05d5\u05d0\u05e0\u05d0\u05e8\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Guanare"
     ],
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1276543579,
-    "wof:lastmodified":1566616621,
+    "wof:lastmodified":1636495230,
     "wof:name":"Guanare",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

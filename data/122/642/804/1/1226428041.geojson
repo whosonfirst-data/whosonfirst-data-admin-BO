@@ -66,6 +66,9 @@
     "name:glg_x_preferred":[
         "Chimbote"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d9\u05de\u05d1\u05d5\u05d8\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Chimbote"
     ],
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":1226428041,
-    "wof:lastmodified":1566617988,
+    "wof:lastmodified":1636495344,
     "wof:name":"Chimbote",
     "wof:parent_id":1092010083,
     "wof:placetype":"locality",

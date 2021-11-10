@@ -131,6 +131,9 @@
         "\u05dc\u05d4 \u05e4\u05d0\u05e1"
     ],
     "name:hin_x_preferred":[
+        "\u0932\u093e \u092a\u093e\u091c\u093c"
+    ],
+    "name:hin_x_variant":[
         "\u0932\u093e \u092a\u093e\u0938"
     ],
     "name:hrv_x_preferred":[
@@ -361,6 +364,12 @@
     "name:yor_x_preferred":[
         "La Paz"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u62c9\u5df4\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u62c9\u5df4\u65af"
+    ],
     "name:zho_x_preferred":[
         "\u62c9\u5df4\u65af"
     ],
@@ -389,8 +398,8 @@
     "wof:belongsto":[
         102191577,
         85632623,
-        421177667,
-        85669409
+        85669409,
+        421177667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -416,7 +425,7 @@
         }
     ],
     "wof:id":421176731,
-    "wof:lastmodified":1608688179,
+    "wof:lastmodified":1636495303,
     "wof:megacity":1,
     "wof:name":"La Paz",
     "wof:parent_id":421177667,

@@ -213,6 +213,9 @@
         "Kaldera"
     ],
     "name:vie_x_preferred":[
+        "Caldera"
+    ],
+    "name:vie_x_variant":[
         "H\u00f5m ch\u1ea3o"
     ],
     "name:xmf_x_preferred":[
@@ -233,7 +236,7 @@
         "gn:id":3922606
     },
     "wof:country":"BO",
-    "wof:geomhash":"26fd86d80d4bbc5892884b34d01753c1",
+    "wof:geomhash":"e7d483a6a7a7afb2c5e96345316685a2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -244,7 +247,7 @@
         }
     ],
     "wof:id":1344041887,
-    "wof:lastmodified":1566615948,
+    "wof:lastmodified":1636495178,
     "wof:name":"Caldera",
     "wof:parent_id":421169233,
     "wof:placetype":"locality",
@@ -254,10 +257,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.56506999999999,
+    -64.56507,
     -21.45429,
-    -64.56506999999999,
+    -64.56507,
     -21.45429
 ],
-  "geometry": {"coordinates":[-64.56506999999999,-21.45429],"type":"Point"}
+  "geometry": {"coordinates":[-64.56507000000001,-21.45429],"type":"Point"}
 }

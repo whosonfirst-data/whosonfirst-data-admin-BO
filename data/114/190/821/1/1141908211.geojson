@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-60.679950197,-16.7795068168,-60.679950197,-16.7795068168",
+    "geom:bbox":"-60.67995,-16.779507,-60.67995,-16.779507",
     "geom:latitude":-16.779507,
     "geom:longitude":-60.67995,
     "iso:country":"BO",
@@ -55,6 +55,9 @@
         "\u30b5\u30f3\u30fb\u30e9\u30d5\u30a1\u30a8\u30eb"
     ],
     "name:kor_x_preferred":[
+        "\uc0b0 \ub77c\ud30c\uc5d8"
+    ],
+    "name:kor_x_variant":[
         "\uc0b0\ub77c\ud30c\uc5d8"
     ],
     "name:mlg_x_preferred":[
@@ -83,6 +86,15 @@
     ],
     "name:swe_x_preferred":[
         "San Rafael"
+    ],
+    "name:tur_x_preferred":[
+        "San Rafael"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u0430\u0444\u0430\u0435\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0631\u0627\u0641\u0627\u0626\u0644"
     ],
     "name:vie_x_preferred":[
         "San Rafael"
@@ -196,7 +208,7 @@
     "wof:concordances":{},
     "wof:country":"BO",
     "wof:created":1499130850,
-    "wof:geomhash":"e0da581c6c0e77678e9220f8f52cee6a",
+    "wof:geomhash":"d4eaab63db51719809236916b7f928d5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -207,7 +219,7 @@
         }
     ],
     "wof:id":1141908211,
-    "wof:lastmodified":1566618145,
+    "wof:lastmodified":1636495362,
     "wof:name":"San Rafael",
     "wof:parent_id":1092010025,
     "wof:placetype":"locality",
@@ -217,10 +229,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -60.67995019696991,
-    -16.77950681678249,
-    -60.67995019696991,
-    -16.77950681678249
+    -60.67995,
+    -16.779507,
+    -60.67995,
+    -16.779507
 ],
-  "geometry": {"coordinates":[-60.67995019696991,-16.77950681678249],"type":"Point"}
+  "geometry": {"coordinates":[-60.67995,-16.779507],"type":"Point"}
 }

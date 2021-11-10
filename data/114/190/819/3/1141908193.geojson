@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-69.1666673194,-15.4995849418,-69.1666673194,-15.4995849418",
+    "geom:bbox":"-69.166667,-15.499585,-69.166667,-15.499585",
     "geom:latitude":-15.499585,
     "geom:longitude":-69.166667,
     "iso:country":"BO",
@@ -18,8 +18,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u064a\u0631\u062a\u0648 \u0623\u0643\u0648\u0633\u062a\u0627"
+    ],
     "name:ast_x_preferred":[
         "Puerto Acosta"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c1\u09df\u09c7\u09b0\u09cd\u09a4\u09cb \u0985\u09cd\u09af\u09be\u0995\u09cb\u09b8\u09cd\u09a4\u09be"
     ],
     "name:ceb_x_preferred":[
         "Puerto Acosta"
@@ -27,11 +33,38 @@
     "name:deu_x_preferred":[
         "Puerto Acosta"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u0391\u03ba\u03cc\u03c3\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Puerto Acosta"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0626\u0631\u062a\u0648 \u0622\u06a9\u0648\u0633\u062a\u0627"
+    ],
     "name:fra_x_preferred":[
         "Puerto Acosta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d0\u05e8\u05d8\u05d5 \u05d0\u05e7\u05d5\u05e1\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094d\u092f\u0942\u0930\u094d\u091f\u094b \u0905\u0915\u094b\u0938\u094d\u091f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Puerto Acosta"
+    ],
+    "name:ind_x_preferred":[
+        "Puerto Acosta"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto Acosta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30a8\u30eb\u30c8\u30a2\u30b3\u30b9\u30bf"
+    ],
+    "name:kor_x_preferred":[
+        "\ud478\uc5d0\ub974\ud1a0 \uc544\ucf54\uc2a4\ud0c0"
     ],
     "name:nld_x_preferred":[
         "Puerto Acosta"
@@ -42,13 +75,31 @@
     "name:pol_x_preferred":[
         "Puerto Acosta"
     ],
+    "name:por_x_preferred":[
+        "Puerto Acosta"
+    ],
     "name:que_x_preferred":[
         "Waychu llaqta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u044d\u0440\u0442\u043e-\u0410\u043a\u043e\u0441\u0442\u0430"
     ],
     "name:spa_x_preferred":[
         "Puerto Acosta"
     ],
     "name:swe_x_preferred":[
+        "Puerto Acosta"
+    ],
+    "name:tur_x_preferred":[
+        "Puerto Acosta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e-\u0410\u043a\u043e\u0441\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0631\u0679\u0648 \u0627\u06a9\u0648\u0633\u0679\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Puerto Acosta"
     ],
     "name:war_x_preferred":[
@@ -165,7 +216,7 @@
     },
     "wof:country":"BO",
     "wof:created":1499130846,
-    "wof:geomhash":"c6ceb3a5dfbb859a55595243ea5e133c",
+    "wof:geomhash":"b01579890428779d3739f5b6ec04afa1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -176,7 +227,7 @@
         }
     ],
     "wof:id":1141908193,
-    "wof:lastmodified":1566618147,
+    "wof:lastmodified":1636495363,
     "wof:name":"Puerto Acosta",
     "wof:parent_id":1092007003,
     "wof:placetype":"locality",
@@ -186,10 +237,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.16666731939961,
-    -15.49958494177736,
-    -69.16666731939961,
-    -15.49958494177736
+    -69.166667,
+    -15.499585,
+    -69.166667,
+    -15.499585
 ],
-  "geometry": {"coordinates":[-69.16666731939961,-15.49958494177736],"type":"Point"}
+  "geometry": {"coordinates":[-69.166667,-15.499585],"type":"Point"}
 }

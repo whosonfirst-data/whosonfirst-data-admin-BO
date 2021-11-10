@@ -33,6 +33,12 @@
     "name:deu_x_preferred":[
         "Montero Hoyos"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d8\u05e8\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Montero"
+    ],
     "name:und_x_variant":[
         "Montero"
     ],
@@ -52,7 +58,7 @@
         "wk:page":"Montero_Hoyos"
     },
     "wof:country":"BO",
-    "wof:geomhash":"8a194390c1f179141ca423402357b511",
+    "wof:geomhash":"57d1cda65967ea9722505f07e7ffd822",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1226439525,
-    "wof:lastmodified":1566617968,
+    "wof:lastmodified":1636495341,
     "wof:name":"Montero",
     "wof:parent_id":421187923,
     "wof:placetype":"locality",
@@ -74,9 +80,9 @@
 },
   "bbox": [
     -62.8,
-    -17.63332999999999,
+    -17.63333,
     -62.8,
-    -17.63332999999999
+    -17.63333
 ],
-  "geometry": {"coordinates":[-62.8,-17.63332999999999],"type":"Point"}
+  "geometry": {"coordinates":[-62.8,-17.63333],"type":"Point"}
 }

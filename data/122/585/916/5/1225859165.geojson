@@ -66,6 +66,9 @@
         "\u30e1\u30f3\u30c9\u30fc\u30b5"
     ],
     "name:kor_x_preferred":[
+        "\uba58\ub3c4\uc790"
+    ],
+    "name:kor_x_variant":[
         "\uba58\ub3c4\uc0ac"
     ],
     "name:lit_x_preferred":[
@@ -108,7 +111,13 @@
         "Estancia Mendoza",
         "La Mendoza"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0646\u0688\u0648\u0632\u0627"
+    ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Mendoza"
+    ],
+    "name:vie_x_variant":[
         "Mendoza"
     ],
     "src:geom":"geonames",
@@ -134,7 +143,7 @@
         }
     ],
     "wof:id":1225859165,
-    "wof:lastmodified":1566618133,
+    "wof:lastmodified":1636495359,
     "wof:name":"Mendoza",
     "wof:parent_id":421188855,
     "wof:placetype":"locality",

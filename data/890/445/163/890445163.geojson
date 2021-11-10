@@ -89,10 +89,11 @@
         "\u0a95\u0acb\u0a9a\u0abe\u0aac\u0abe\u0aae\u0acd\u0aac\u0abe"
     ],
     "name:heb_x_preferred":[
-        "\u05e7\u05d5\u05e6\u05d1\u05de\u05d1\u05d4"
+        "\u05e7\u05d5\u05e6'\u05d1\u05d0\u05de\u05d1\u05d4"
     ],
     "name:heb_x_variant":[
-        "\u05e7\u05d5\u05e6'\u05d1\u05de\u05d1\u05d4"
+        "\u05e7\u05d5\u05e6'\u05d1\u05de\u05d1\u05d4",
+        "\u05e7\u05d5\u05e6\u05d1\u05de\u05d1\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0915\u094b\u0915\u093e\u092c\u0947\u092e\u094d\u092c\u093e"
@@ -366,7 +367,7 @@
         }
     ],
     "wof:id":890445163,
-    "wof:lastmodified":1566617600,
+    "wof:lastmodified":1636495305,
     "wof:name":"Cochabamba",
     "wof:parent_id":421190243,
     "wof:placetype":"locality",

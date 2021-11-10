@@ -67,6 +67,9 @@
     "name:fre_x_variant":[
         "province de Florida"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d5\u05e8\u05d9\u05d3\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Florida"
     ],
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":1092009661,
-    "wof:lastmodified":1587163112,
+    "wof:lastmodified":1636495290,
     "wof:name":"Florida",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

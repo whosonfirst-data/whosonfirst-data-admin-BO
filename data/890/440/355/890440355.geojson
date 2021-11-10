@@ -77,6 +77,9 @@
         "\u0a93\u0ab0\u0ac2\u0ab0\u0acb"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05d5\u05bc\u05e8\u05d5"
+    ],
+    "name:heb_x_variant":[
         "\u05d0\u05d5\u05e8\u05d5\u05e8\u05d5"
     ],
     "name:hin_x_preferred":[
@@ -333,7 +336,7 @@
         }
     ],
     "wof:id":890440355,
-    "wof:lastmodified":1566617592,
+    "wof:lastmodified":1636495304,
     "wof:name":"Oruro",
     "wof:parent_id":421187927,
     "wof:placetype":"locality",

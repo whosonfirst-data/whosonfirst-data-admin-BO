@@ -327,6 +327,7 @@
     "name:spa_x_preferred":[
         "Liverpool"
     ],
+    "name:spa_x_variant":[],
     "name:sqi_x_preferred":[
         "Liverpool"
     ],
@@ -437,7 +438,7 @@
         }
     ],
     "wof:id":1360070819,
-    "wof:lastmodified":1566617328,
+    "wof:lastmodified":1636495283,
     "wof:name":"Liverpool",
     "wof:parent_id":1092009873,
     "wof:placetype":"locality",

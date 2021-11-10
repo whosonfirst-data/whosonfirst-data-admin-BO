@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-67.729984987,-17.33001585,-67.729984987,-17.33001585",
+    "geom:bbox":"-67.729985,-17.330016,-67.729985,-17.330016",
     "geom:latitude":-17.330016,
     "geom:longitude":-67.729985,
     "iso:country":"BO",
@@ -21,17 +21,47 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0633\u064a\u0643\u0627 \u0633\u064a\u0643\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09bf\u0995\u09be \u09b8\u09bf\u0995\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Sica Sica"
     ],
     "name:deu_x_preferred":[
         "Sica Sica"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03af\u03ba\u03b1 \u03a3\u03af\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Sica Sica"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u06a9\u0627 \u0633\u06cc\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
         "Sica Sica"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05e7\u05d4 \u05e1\u05d9\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093f\u0915\u093e \u0938\u093f\u0915\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:ind_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:ita_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30ab\u30b7\u30ab"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\uce74 \uc2dc\uce74"
     ],
     "name:nld_x_preferred":[
         "Sica Sica"
@@ -48,6 +78,9 @@
     "name:que_x_preferred":[
         "Sika Sika llaqta"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043a\u0430-\u0421\u0438\u043a\u0430"
+    ],
     "name:sco_x_preferred":[
         "Sica Sica"
     ],
@@ -55,6 +88,18 @@
         "Sica Sica"
     ],
     "name:swe_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:tur_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u043a\u0430-\u0421\u0456\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u06a9\u0627 \u0633\u06cc\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Sica Sica"
     ],
     "name:war_x_preferred":[
@@ -171,7 +216,7 @@
     },
     "wof:country":"BO",
     "wof:created":1499130639,
-    "wof:geomhash":"b04f90575200e61c0012a2462adbd697",
+    "wof:geomhash":"f6b85a92917c5e67e3c392b3301e2213",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -182,7 +227,7 @@
         }
     ],
     "wof:id":1141906789,
-    "wof:lastmodified":1566618147,
+    "wof:lastmodified":1636495363,
     "wof:name":"Sica Sica",
     "wof:parent_id":1092006923,
     "wof:placetype":"locality",
@@ -192,10 +237,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -67.72998498703708,
-    -17.33001584998783,
-    -67.72998498703708,
-    -17.33001584998783
+    -67.729985,
+    -17.330016,
+    -67.729985,
+    -17.330016
 ],
-  "geometry": {"coordinates":[-67.72998498703708,-17.33001584998783],"type":"Point"}
+  "geometry": {"coordinates":[-67.729985,-17.330016],"type":"Point"}
 }

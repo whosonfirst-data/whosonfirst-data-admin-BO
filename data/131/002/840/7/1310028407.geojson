@@ -57,6 +57,9 @@
         "\u30a8\u30b9\u30da\u30e9\u30f3\u30b5"
     ],
     "name:kor_x_preferred":[
+        "\uc5d0\uc2a4\ud398\ub780\uc790"
+    ],
+    "name:kor_x_variant":[
         "\uc5d0\uc2a4\ud398\ub780\uc0ac"
     ],
     "name:nds_x_preferred":[
@@ -83,11 +86,26 @@
     "name:tgl_x_preferred":[
         "Esperanza"
     ],
+    "name:tur_x_preferred":[
+        "Esperanza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0441\u043f\u0435\u0440\u0430\u043d\u0441\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0633\u067e\u06cc\u0631\u06cc\u0646\u0632\u0627"
+    ],
     "name:vie_x_preferred":[
         "Esperanza"
     ],
     "name:war_x_preferred":[
         "Esperanza"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u57c3\u65af\u4f69\u5170\u8428"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u57c3\u65af\u4f69\u862d\u85a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -101,7 +119,7 @@
         "gn:id":3917850
     },
     "wof:country":"BO",
-    "wof:geomhash":"7de32b56ff572f25c2a8b2d9fee78287",
+    "wof:geomhash":"f77266c394428a98d8cdf17732f28aeb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +130,7 @@
         }
     ],
     "wof:id":1310028407,
-    "wof:lastmodified":1566617292,
+    "wof:lastmodified":1636495280,
     "wof:name":"Esperanza",
     "wof:parent_id":421182439,
     "wof:placetype":"locality",
@@ -123,9 +141,9 @@
 },
   "bbox": [
     -68.78333,
-    -17.81667000000001,
+    -17.81667,
     -68.78333,
-    -17.81667000000001
+    -17.81667
 ],
-  "geometry": {"coordinates":[-68.78333000000001,-17.81667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-68.78333000000001,-17.81667],"type":"Point"}
 }

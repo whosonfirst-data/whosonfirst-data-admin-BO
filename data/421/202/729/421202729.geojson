@@ -23,6 +23,9 @@
     "name:ara_x_variant":[
         "\u0623\u0628\u0648\u0644\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u0985\u09cd\u09af\u09be\u09aa\u09cb\u09b2\u09cb"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u043f\u043e\u043b\u043e"
     ],
@@ -32,10 +35,28 @@
     "name:deu_x_preferred":[
         "Apolo"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c0\u03cc\u03bb\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Apolo"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u067e\u0648\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Apolo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e4\u05d5\u05dc\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u092a\u094b\u0932\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Apolo"
+    ],
+    "name:ind_x_preferred":[
         "Apolo"
     ],
     "name:ita_x_preferred":[
@@ -43,6 +64,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30dd\u30ed"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ud3f4\ub85c"
     ],
     "name:nld_x_preferred":[
         "Apolo"
@@ -56,7 +80,25 @@
     "name:que_x_preferred":[
         "Apulu"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u043f\u043e\u043b\u043e"
+    ],
     "name:spa_x_preferred":[
+        "Apolo"
+    ],
+    "name:swe_x_preferred":[
+        "Apolo"
+    ],
+    "name:tur_x_preferred":[
+        "Apolo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043f\u043e\u043b\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u067e\u0648\u0644\u0648"
+    ],
+    "name:vie_x_preferred":[
         "Apolo"
     ],
     "name:war_x_preferred":[
@@ -212,7 +254,7 @@
         }
     ],
     "wof:id":421202729,
-    "wof:lastmodified":1582316807,
+    "wof:lastmodified":1636495298,
     "wof:name":"Apolo",
     "wof:parent_id":421187093,
     "wof:placetype":"locality",

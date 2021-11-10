@@ -129,6 +129,9 @@
         "Polarna svjetlost"
     ],
     "name:hun_x_preferred":[
+        "Aurora"
+    ],
+    "name:hun_x_variant":[
         "Sarki f\u00e9ny"
     ],
     "name:hye_x_preferred":[
@@ -307,7 +310,7 @@
         }
     ],
     "wof:id":1310027899,
-    "wof:lastmodified":1566617296,
+    "wof:lastmodified":1636495280,
     "wof:name":"Aurora",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",

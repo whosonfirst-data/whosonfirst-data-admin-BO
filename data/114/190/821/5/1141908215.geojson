@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-64.3499845801,-22.7295829073,-64.3499845801,-22.7295829073",
+    "geom:bbox":"-64.349985,-22.729583,-64.349985,-22.729583",
     "geom:latitude":-22.729583,
     "geom:longitude":-64.349985,
     "iso:country":"BO",
@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0645\u064a\u062e\u0648"
+    ],
     "name:cat_x_preferred":[
         "Bermejo"
     ],
@@ -27,14 +30,32 @@
     "name:deu_x_preferred":[
         "Bermejo"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0645\u062c\u0648"
+    ],
     "name:fra_x_preferred":[
         "Bermejo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05de\u05d7\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0930\u094d\u092e\u0947\u091c\u094b"
     ],
     "name:hrv_x_preferred":[
         "Bermejo"
     ],
+    "name:hun_x_preferred":[
+        "Bermejo"
+    ],
+    "name:ind_x_preferred":[
+        "Bermejo"
+    ],
     "name:ita_x_preferred":[
         "Bermejo"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ub974\uba54\ud638"
     ],
     "name:nld_x_preferred":[
         "Bermejo"
@@ -50,6 +71,9 @@
     ],
     "name:swe_x_preferred":[
         "Bermejo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0645\u06cc\u062c\u0648"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Bolivia",
@@ -157,7 +181,7 @@
     "wof:concordances":{},
     "wof:country":"BO",
     "wof:created":1499130851,
-    "wof:geomhash":"4561774f1e8c32c4c81c007e0060e67d",
+    "wof:geomhash":"67b7ac76a8281adb68372da343fa29e6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -168,7 +192,7 @@
         }
     ],
     "wof:id":1141908215,
-    "wof:lastmodified":1566618146,
+    "wof:lastmodified":1636495362,
     "wof:name":"Bermejo",
     "wof:parent_id":421182443,
     "wof:placetype":"locality",
@@ -178,10 +202,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.34998458012257,
-    -22.72958290730099,
-    -64.34998458012257,
-    -22.72958290730099
+    -64.349985,
+    -22.729583,
+    -64.349985,
+    -22.729583
 ],
-  "geometry": {"coordinates":[-64.34998458012257,-22.72958290730099],"type":"Point"}
+  "geometry": {"coordinates":[-64.349985,-22.729583],"type":"Point"}
 }

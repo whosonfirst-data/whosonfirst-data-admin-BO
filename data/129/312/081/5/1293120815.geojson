@@ -29,6 +29,45 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0645\u0627\u064a\u0628\u0627\u062a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09ae\u09be\u0987\u09aa\u09be\u09a4\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bc\u03b1\u03ca\u03c0\u03ac\u03c4\u03b1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05de\u05e4\u05d0\u05d9\u05e4\u05d0\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u092e\u0908\u092a\u093e\u091f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Samaipata"
+    ],
+    "name:ind_x_preferred":[
+        "Samaipata"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ub9c8\uc774\ud30c\ud0c0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0430\u0439\u043f\u0430\u0442\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Samaipata"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043c\u0430\u0439\u043f\u0430\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0645\u0627\u0626\u06cc\u067e\u0627\u0679\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Samaipata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -41,7 +80,7 @@
         "gn:id":3905952
     },
     "wof:country":"BO",
-    "wof:geomhash":"404cc2970f80a2c6636d29fca2b3f2bc",
+    "wof:geomhash":"3b9fff1514708aefad8690a8e4ac5597",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -52,7 +91,7 @@
         }
     ],
     "wof:id":1293120815,
-    "wof:lastmodified":1566616145,
+    "wof:lastmodified":1636495196,
     "wof:name":"Samaipata",
     "wof:parent_id":1092009873,
     "wof:placetype":"locality",
@@ -62,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -61.53333000000001,
+    -61.53333,
     -14.95,
-    -61.53333000000001,
+    -61.53333,
     -14.95
 ],
-  "geometry": {"coordinates":[-61.53333000000001,-14.95],"type":"Point"}
+  "geometry": {"coordinates":[-61.53333,-14.95],"type":"Point"}
 }

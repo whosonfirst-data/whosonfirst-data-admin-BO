@@ -29,6 +29,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09cd\u0995\u09be\u099f\u09be"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05e7\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u094d\u0915\u093e\u0924\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Arcata"
+    ],
+    "name:ind_x_preferred":[
+        "Arcata"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub974\uce74\ud0c0"
+    ],
+    "name:vie_x_preferred":[
+        "Arcata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -41,7 +62,7 @@
         "gn:id":3923750
     },
     "wof:country":"BO",
-    "wof:geomhash":"f152d985d65e778534836892cda5f7ae",
+    "wof:geomhash":"5548bd7a01074df88278d5150a1e2db9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1309718353,
-    "wof:lastmodified":1566617509,
+    "wof:lastmodified":1636495294,
     "wof:name":"Arcata",
     "wof:parent_id":1092006923,
     "wof:placetype":"locality",
@@ -63,9 +84,9 @@
 },
   "bbox": [
     -68.0,
-    -17.11667000000001,
+    -17.11667,
     -68.0,
-    -17.11667000000001
+    -17.11667
 ],
-  "geometry": {"coordinates":[-68.0,-17.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-68.0,-17.11667],"type":"Point"}
 }

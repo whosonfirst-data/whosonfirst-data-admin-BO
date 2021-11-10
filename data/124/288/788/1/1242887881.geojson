@@ -48,6 +48,9 @@
         "Tambo"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u0422\u0430\u043c\u0431\u043e"
+    ],
+    "name:rus_x_variant":[
         "\u0422\u0430\u043c\u0431\u043e"
     ],
     "name:spa_x_preferred":[
@@ -56,8 +59,14 @@
     "name:swe_x_preferred":[
         "Tambo"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043c\u0431\u043e"
+    ],
     "name:und_x_variant":[
         "Pampa Tambo"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0645\u0628\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +80,7 @@
         "gn:id":3903564
     },
     "wof:country":"BO",
-    "wof:geomhash":"e45771a05807c2556fbe80d636fe2160",
+    "wof:geomhash":"222f992587f345e737990d83604f9d83",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":1242887881,
-    "wof:lastmodified":1566617662,
+    "wof:lastmodified":1636495313,
     "wof:name":"Tambo",
     "wof:parent_id":421169227,
     "wof:placetype":"locality",
@@ -93,9 +102,9 @@
 },
   "bbox": [
     -64.28333,
-    -19.61667000000001,
+    -19.61667,
     -64.28333,
-    -19.61667000000001
+    -19.61667
 ],
-  "geometry": {"coordinates":[-64.28333000000001,-19.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-64.28333000000001,-19.61667],"type":"Point"}
 }

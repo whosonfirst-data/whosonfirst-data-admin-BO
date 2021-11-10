@@ -48,6 +48,9 @@
         "Tambo"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u0422\u0430\u043c\u0431\u043e"
+    ],
+    "name:rus_x_variant":[
         "\u0422\u0430\u043c\u0431\u043e"
     ],
     "name:spa_x_preferred":[
@@ -56,8 +59,14 @@
     "name:swe_x_preferred":[
         "Tambo"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043c\u0431\u043e"
+    ],
     "name:und_x_variant":[
         "Estancia Tambo Mayu"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0645\u0628\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +80,7 @@
         "gn:id":3903563
     },
     "wof:country":"BO",
-    "wof:geomhash":"d3528c5765ac43f7fda6d2d0da9a79c4",
+    "wof:geomhash":"500b03db99feee95c301743b23e003b4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":1343949879,
-    "wof:lastmodified":1566615914,
+    "wof:lastmodified":1636495175,
     "wof:name":"Tambo",
     "wof:parent_id":421177657,
     "wof:placetype":"locality",
@@ -92,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -65.86128000000001,
+    -65.86128,
     -19.83223,
-    -65.86128000000001,
+    -65.86128,
     -19.83223
 ],
-  "geometry": {"coordinates":[-65.86128000000001,-19.83223],"type":"Point"}
+  "geometry": {"coordinates":[-65.86127999999999,-19.83223],"type":"Point"}
 }

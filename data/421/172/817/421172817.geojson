@@ -59,8 +59,14 @@
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0a82\u0a9f\u0ac7\u0ab0\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d8\u05e8\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u0902\u091f\u0947\u0930\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Montero"
     ],
     "name:ind_x_preferred":[
         "Montero"
@@ -300,7 +306,7 @@
         }
     ],
     "wof:id":421172817,
-    "wof:lastmodified":1566617567,
+    "wof:lastmodified":1636495301,
     "wof:name":"Montero",
     "wof:parent_id":1092009899,
     "wof:placetype":"locality",

@@ -41,6 +41,12 @@
     "name:glg_x_preferred":[
         "Tupiza"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e4\u05d9\u05e6\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Tupiza"
+    ],
     "name:ita_x_preferred":[
         "Tupiza"
     ],
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421172561,
-    "wof:lastmodified":1566617567,
+    "wof:lastmodified":1636495300,
     "wof:name":"Tupiza",
     "wof:parent_id":1092009203,
     "wof:placetype":"localadmin",

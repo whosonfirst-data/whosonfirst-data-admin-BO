@@ -29,17 +29,44 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b8\u09bf\u0995\u09be \u09b8\u09bf\u0995\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Sica Sica"
     ],
     "name:deu_x_preferred":[
         "Sica Sica"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03af\u03ba\u03b1 \u03a3\u03af\u03ba\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u06a9\u0627 \u0633\u06cc\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05e7\u05d4 \u05e1\u05d9\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093f\u0915\u093e \u0938\u093f\u0915\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:ind_x_preferred":[
         "Sica Sica"
     ],
     "name:ita_x_preferred":[
         "Sica Sica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30ab\u30b7\u30ab"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\uce74 \uc2dc\uce74"
     ],
     "name:nor_x_preferred":[
         "Sica Sica"
@@ -50,6 +77,9 @@
     "name:que_x_preferred":[
         "Sika Sika llaqta"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043a\u0430-\u0421\u0438\u043a\u0430"
+    ],
     "name:sco_x_preferred":[
         "Sica Sica"
     ],
@@ -57,6 +87,18 @@
         "Sica Sica"
     ],
     "name:swe_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:tur_x_preferred":[
+        "Sica Sica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u043a\u0430-\u0421\u0456\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u06a9\u0627 \u0633\u06cc\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Sica Sica"
     ],
     "name:war_x_preferred":[
@@ -78,7 +120,7 @@
         "wk:page":"Sica_Sica"
     },
     "wof:country":"BO",
-    "wof:geomhash":"7bff4e371dcd8d9488d13179e96496f9",
+    "wof:geomhash":"d3e4893772be910c53683f695bbf304b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,7 +131,7 @@
         }
     ],
     "wof:id":1326836117,
-    "wof:lastmodified":1566615698,
+    "wof:lastmodified":1636495154,
     "wof:name":"Sica Sica",
     "wof:parent_id":1092006923,
     "wof:placetype":"locality",
@@ -99,10 +141,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -67.74096999999999,
+    -67.74097,
     -17.33478,
-    -67.74096999999999,
+    -67.74097,
     -17.33478
 ],
-  "geometry": {"coordinates":[-67.74096999999999,-17.33478],"type":"Point"}
+  "geometry": {"coordinates":[-67.74097,-17.33478],"type":"Point"}
 }

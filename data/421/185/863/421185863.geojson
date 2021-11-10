@@ -23,16 +23,37 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0631\u0627\u0628\u0648\u0643\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u09b0\u09be\u09ac\u09c1\u0995\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "Tarabuco"
     ],
     "name:deu_x_preferred":[
         "Tarabuco"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03c1\u03b1\u03bc\u03c0\u03bf\u03cd\u03ba\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Tarabuco"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0631\u0627\u0628\u0648\u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Tarabuco"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05e8\u05d1\u05d5\u05e7\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u093e\u0930\u093e\u092c\u0942\u0915\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Tarabuco"
+    ],
+    "name:ind_x_preferred":[
         "Tarabuco"
     ],
     "name:ita_x_preferred":[
@@ -62,7 +83,25 @@
     "name:que_x_preferred":[
         "Tarapuku"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0431\u0443\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Tarabuco"
+    ],
     "name:swe_x_preferred":[
+        "Tarabuco"
+    ],
+    "name:tur_x_preferred":[
+        "Tarabuco"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0431\u0443\u043a\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0627\u0631\u0627\u0628\u0648\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
         "Tarabuco"
     ],
     "name:war_x_preferred":[
@@ -124,7 +163,7 @@
         }
     ],
     "wof:id":421185863,
-    "wof:lastmodified":1566617592,
+    "wof:lastmodified":1636495304,
     "wof:name":"Tarabuco",
     "wof:parent_id":421188855,
     "wof:placetype":"locality",

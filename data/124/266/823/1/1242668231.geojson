@@ -45,6 +45,9 @@
         "Laetitia"
     ],
     "name:hun_x_preferred":[
+        "Leticia"
+    ],
+    "name:hun_x_variant":[
         "Let\u00edcia"
     ],
     "name:ita_x_preferred":[
@@ -80,7 +83,7 @@
         "gn:id":3911567
     },
     "wof:country":"BO",
-    "wof:geomhash":"84c53f31b28f52322be7e28a430fc0b3",
+    "wof:geomhash":"b11364b44700e1b479b0f584f41ae727",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1242668231,
-    "wof:lastmodified":1566617678,
+    "wof:lastmodified":1636495314,
     "wof:name":"Leticia",
     "wof:parent_id":1092010025,
     "wof:placetype":"locality",
@@ -101,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -61.63333000000001,
+    -61.63333,
     -14.33333,
-    -61.63333000000001,
+    -61.63333,
     -14.33333
 ],
-  "geometry": {"coordinates":[-61.63333000000001,-14.33333],"type":"Point"}
+  "geometry": {"coordinates":[-61.63333,-14.33333],"type":"Point"}
 }

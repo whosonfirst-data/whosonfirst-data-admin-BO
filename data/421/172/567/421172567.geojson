@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-68.8459105,-16.214842,-68.8459105,-16.214842",
+    "geom:bbox":"-68.845911,-16.214842,-68.845911,-16.214842",
     "geom:latitude":-16.214842,
     "geom:longitude":-68.845911,
     "iso:country":"BO",
@@ -20,6 +20,9 @@
     "name:aym_x_preferred":[
         "Jach'ak'achi"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u099a\u09be\u0995\u09be\u099a\u09bf"
+    ],
     "name:cat_x_preferred":[
         "Achacachi"
     ],
@@ -29,6 +32,9 @@
     "name:deu_x_preferred":[
         "Achacachi"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c7\u03b1\u03ba\u03ac\u03c4\u03c3\u03b9"
+    ],
     "name:eus_x_preferred":[
         "Achacachi"
     ],
@@ -36,6 +42,18 @@
         "\u0627\u06a9\u0627\u0633\u0627\u0686\u06cc"
     ],
     "name:fra_x_preferred":[
+        "Achacachi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d7\u05e6'\u05d0\u05e6'\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u091a\u093e\u0915\u091a\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Achacachi"
+    ],
+    "name:ind_x_preferred":[
         "Achacachi"
     ],
     "name:ita_x_preferred":[
@@ -63,6 +81,18 @@
         "Achacachi"
     ],
     "name:swe_x_preferred":[
+        "Achacachi"
+    ],
+    "name:tur_x_preferred":[
+        "Achacachi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0447\u0430\u043a\u0430\u0447\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u06a9\u0627\u06a9\u0627\u0686\u06cc"
+    ],
+    "name:vie_x_preferred":[
         "Achacachi"
     ],
     "name:war_x_preferred":[
@@ -106,7 +136,7 @@
     },
     "wof:country":"BO",
     "wof:created":1459008947,
-    "wof:geomhash":"f7fd4200bd30c835700a99ac5e5d5dbd",
+    "wof:geomhash":"ca26cafe0e2960a4aee43ba54056f06c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +147,7 @@
         }
     ],
     "wof:id":421172567,
-    "wof:lastmodified":1566617567,
+    "wof:lastmodified":1636495300,
     "wof:name":"Achacachi",
     "wof:parent_id":421187909,
     "wof:placetype":"localadmin",
@@ -127,10 +157,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -68.8459105,
+    -68.845911,
     -16.214842,
-    -68.8459105,
+    -68.845911,
     -16.214842
 ],
-  "geometry": {"coordinates":[-68.8459105,-16.214842],"type":"Point"}
+  "geometry": {"coordinates":[-68.845911,-16.214842],"type":"Point"}
 }

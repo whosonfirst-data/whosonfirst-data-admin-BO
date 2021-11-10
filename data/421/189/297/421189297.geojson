@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-63.460636,-21.2684455,-63.460636,-21.2684455",
+    "geom:bbox":"-63.460636,-21.268445,-63.460636,-21.268445",
     "geom:latitude":-21.268445,
     "geom:longitude":-63.460636,
     "iso:country":"BO",
@@ -27,6 +27,12 @@
         "\u0648\u0627\u0644\u0644\u0627\u0645\u0648\u0646\u062a\u0633"
     ],
     "name:fra_x_preferred":[
+        "Villamontes"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d9\u05dc\u05de\u05d5\u05e0\u05d8\u05e1"
+    ],
+    "name:hun_x_preferred":[
         "Villamontes"
     ],
     "name:ita_x_preferred":[
@@ -103,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"87ce96544f7a727bb1cf1464cb7e7da9",
+    "wof:geomhash":"17532050c4a5940f85179943f36a8055",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421189297,
-    "wof:lastmodified":1582316809,
+    "wof:lastmodified":1636495300,
     "wof:name":"Villamontes",
     "wof:parent_id":421169235,
     "wof:placetype":"localadmin",
@@ -125,9 +131,9 @@
 },
   "bbox": [
     -63.460636,
-    -21.2684455,
+    -21.268445,
     -63.460636,
-    -21.2684455
+    -21.268445
 ],
-  "geometry": {"coordinates":[-63.460636,-21.2684455],"type":"Point"}
+  "geometry": {"coordinates":[-63.460636,-21.268445],"type":"Point"}
 }

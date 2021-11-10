@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09ac\u09cb\u09b0\u099c\u09be"
+    ],
     "name:cat_x_preferred":[
         "San Borja"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:deu_x_preferred":[
         "San Borja"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u039c\u03c0\u03cc\u03c1\u03c7\u03b1"
     ],
     "name:eng_x_preferred":[
         "San Borja"
@@ -38,14 +44,32 @@
     "name:hbs_x_preferred":[
         "San Borja"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d1\u05d5\u05e8\u05d7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u092c\u094b\u0930\u094d\u091c\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "San Borja"
+    ],
+    "name:ind_x_preferred":[
+        "San Borja"
+    ],
     "name:ita_x_preferred":[
         "San Borja"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0 \ubcf4\ub974\uc790"
     ],
     "name:nld_x_preferred":[
         "San Borja"
     ],
     "name:por_x_preferred":[
         "San Borja"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0411\u043e\u0440\u0445\u0430"
     ],
     "name:sco_x_preferred":[
         "San Borja"
@@ -54,6 +78,15 @@
         "San Borja"
     ],
     "name:swe_x_preferred":[
+        "San Borja"
+    ],
+    "name:tur_x_preferred":[
+        "San Borja"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0628\u0648\u0631\u062c\u0627"
+    ],
+    "name:vie_x_preferred":[
         "San Borja"
     ],
     "ne:ADM0CAP":0.0,
@@ -195,7 +228,7 @@
         }
     ],
     "wof:id":421172815,
-    "wof:lastmodified":1566617568,
+    "wof:lastmodified":1636495301,
     "wof:name":"San Borja",
     "wof:parent_id":1092005669,
     "wof:placetype":"locality",

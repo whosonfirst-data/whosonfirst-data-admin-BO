@@ -45,10 +45,16 @@
         "San Pablo"
     ],
     "name:fas_x_preferred":[
+        "\u0633\u0646 \u067e\u0627\u0628\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
         "\u0633\u0627\u0646 \u067e\u0627\u0628\u0644\u0648"
     ],
     "name:fra_x_preferred":[
         "San Pablo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05e4\u05d1\u05dc\u05d5"
     ],
     "name:ilo_x_preferred":[
         "San Pablo"
@@ -113,7 +119,7 @@
         "gn:id":3905202
     },
     "wof:country":"BO",
-    "wof:geomhash":"fb1e8aa2e3ea1cde4acb978b8825188c",
+    "wof:geomhash":"5057586b13a1145ad621852088fa8cfc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1210007297,
-    "wof:lastmodified":1566616910,
+    "wof:lastmodified":1636495249,
     "wof:name":"San Pablo",
     "wof:parent_id":1092009543,
     "wof:placetype":"locality",
@@ -134,10 +140,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -61.11666999999999,
+    -61.11667,
     -17.41667,
-    -61.11666999999999,
+    -61.11667,
     -17.41667
 ],
-  "geometry": {"coordinates":[-61.11666999999999,-17.41667],"type":"Point"}
+  "geometry": {"coordinates":[-61.11667,-17.41667],"type":"Point"}
 }

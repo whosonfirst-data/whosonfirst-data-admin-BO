@@ -72,6 +72,9 @@
         "Cochabamba"
     ],
     "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e6'\u05d1\u05d0\u05de\u05d1\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05e7\u05d5\u05e6'\u05d1\u05de\u05d1\u05d4"
     ],
     "name:hun_x_preferred":[
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":421172573,
-    "wof:lastmodified":1566617568,
+    "wof:lastmodified":1636495301,
     "wof:name":"Cochabamba",
     "wof:parent_id":421190243,
     "wof:placetype":"localadmin",

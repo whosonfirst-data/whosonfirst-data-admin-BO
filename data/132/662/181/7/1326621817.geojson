@@ -48,6 +48,9 @@
         "Tambo"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u0422\u0430\u043c\u0431\u043e"
+    ],
+    "name:rus_x_variant":[
         "\u0422\u0430\u043c\u0431\u043e"
     ],
     "name:spa_x_preferred":[
@@ -56,8 +59,14 @@
     "name:swe_x_preferred":[
         "Tambo"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043c\u0431\u043e"
+    ],
     "name:und_x_variant":[
         "Estancia Tambo Nuevo"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0645\u0628\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +80,7 @@
         "gn:id":3903566
     },
     "wof:country":"BO",
-    "wof:geomhash":"6ed59784f3933c835cd1807dd6973e3f",
+    "wof:geomhash":"3d731e4893538b02616d645f19cb9de1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":1326621817,
-    "wof:lastmodified":1566615720,
+    "wof:lastmodified":1636495156,
     "wof:name":"Tambo",
     "wof:parent_id":421177665,
     "wof:placetype":"locality",
@@ -92,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -65.88620999999999,
+    -65.88621,
     -19.19695,
-    -65.88620999999999,
+    -65.88621,
     -19.19695
 ],
-  "geometry": {"coordinates":[-65.88620999999999,-19.19695],"type":"Point"}
+  "geometry": {"coordinates":[-65.88621000000001,-19.19695],"type":"Point"}
 }

@@ -29,10 +29,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u099f\u09b2\u09c7\u09a1\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "Toledo"
     ],
     "name:deu_x_preferred":[
+        "Toledo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05dc\u05d3\u05d5"
+    ],
+    "name:hun_x_preferred":[
         "Toledo"
     ],
     "name:ita_x_preferred":[
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1277108493,
-    "wof:lastmodified":1566616630,
+    "wof:lastmodified":1636495230,
     "wof:name":"Toledo",
     "wof:parent_id":1092008167,
     "wof:placetype":"locality",

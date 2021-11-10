@@ -48,6 +48,9 @@
         "Salado"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u0420\u0438\u043e-\u0421\u0430\u043b\u0430\u0434\u043e"
+    ],
+    "name:rus_x_variant":[
         "\u0420\u0438\u043e-\u0421\u0430\u043b\u0430\u0434\u043e"
     ],
     "name:spa_x_preferred":[
@@ -55,6 +58,24 @@
     ],
     "name:swe_x_preferred":[
         "Salado"
+    ],
+    "name:tur_x_preferred":[
+        "Salado"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u0434\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0644\u0627\u062f\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Salado"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8428\u62c9\u591a\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u96a1\u62c9\u591a\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +89,7 @@
         "gn:id":3906076
     },
     "wof:country":"BO",
-    "wof:geomhash":"a4b648d449034ad19371817a19b30741",
+    "wof:geomhash":"dae670fa0ea97d083645474c0050e4e0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -79,7 +100,7 @@
         }
     ],
     "wof:id":1277096537,
-    "wof:lastmodified":1566616368,
+    "wof:lastmodified":1636495211,
     "wof:name":"Salado",
     "wof:parent_id":421187923,
     "wof:placetype":"locality",
@@ -90,9 +111,9 @@
 },
   "bbox": [
     -62.83333,
-    -17.61667000000001,
+    -17.61667,
     -62.83333,
-    -17.61667000000001
+    -17.61667
 ],
-  "geometry": {"coordinates":[-62.83333,-17.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-62.83333,-17.61667],"type":"Point"}
 }

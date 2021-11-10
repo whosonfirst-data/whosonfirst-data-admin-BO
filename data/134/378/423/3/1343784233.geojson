@@ -210,12 +210,18 @@
         "Victoria"
     ],
     "name:urd_x_preferred":[
+        "\u0648\u06a9\u0679\u0648\u0631\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u0648\u06a9\u0679\u0648\u0631\u06cc\u06c1"
     ],
     "name:vep_x_preferred":[
         "Viktorii"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Victoria"
+    ],
+    "name:vie_x_variant":[
         "Victoria"
     ],
     "name:vol_x_preferred":[
@@ -223,6 +229,12 @@
     ],
     "name:war_x_preferred":[
         "Victoria"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7ef4\u591a\u5229\u4e9a\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7dad\u591a\u5229\u4e9e\u6cb3"
     ],
     "name:zho_x_preferred":[
         "\u7ef4\u591a\u5229\u4e9a"
@@ -239,7 +251,7 @@
         "gn:id":11501957
     },
     "wof:country":"BO",
-    "wof:geomhash":"352782c301ac60d1b3a121e47cf3e29c",
+    "wof:geomhash":"d0bdc4d3666d5f128c6434aae0f8f084",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -250,7 +262,7 @@
         }
     ],
     "wof:id":1343784233,
-    "wof:lastmodified":1566615833,
+    "wof:lastmodified":1636495171,
     "wof:name":"Victoria",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",
@@ -260,10 +272,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -68.37704000000001,
+    -68.37704,
     -11.06699,
-    -68.37704000000001,
+    -68.37704,
     -11.06699
 ],
-  "geometry": {"coordinates":[-68.37704000000001,-11.06699],"type":"Point"}
+  "geometry": {"coordinates":[-68.37703999999999,-11.06699],"type":"Point"}
 }

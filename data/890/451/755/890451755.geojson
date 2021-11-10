@@ -74,6 +74,9 @@
         "\u0aa4\u0ab0\u0abf\u0a9c\u0abe"
     ],
     "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05e8\u05d9\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05d8\u05e8\u05d9\u05d7\u05d4"
     ],
     "name:hin_x_preferred":[
@@ -81,6 +84,9 @@
     ],
     "name:hin_x_variant":[
         "\u0924\u093e\u0930\u093f\u0939\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Tarija"
     ],
     "name:ind_x_preferred":[
         "Tarija"
@@ -326,7 +332,7 @@
         }
     ],
     "wof:id":890451755,
-    "wof:lastmodified":1566617601,
+    "wof:lastmodified":1636495306,
     "wof:name":"Tarija",
     "wof:parent_id":421169233,
     "wof:placetype":"locality",

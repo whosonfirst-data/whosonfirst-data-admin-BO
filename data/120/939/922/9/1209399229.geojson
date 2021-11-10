@@ -35,6 +35,12 @@
     "name:fra_x_preferred":[
         "Serere"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e8\u05b6\u05e8\u05b6\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Serere"
+    ],
     "name:lug_x_preferred":[
         "Serere"
     ],
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1209399229,
-    "wof:lastmodified":1566616676,
+    "wof:lastmodified":1636495233,
     "wof:name":"Serere",
     "wof:parent_id":85632623,
     "wof:placetype":"locality",
