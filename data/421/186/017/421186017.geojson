@@ -23,8 +23,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u0648\u0631\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0631\u0648\u0631\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Oruro"
+    ],
     "name:aym_x_preferred":[
         "Ururu"
+    ],
+    "name:aze_x_preferred":[
+        "Oruro"
     ],
     "name:bel_x_preferred":[
         "\u0410\u0440\u0443\u0440\u0430"
@@ -66,6 +75,12 @@
         "Oruro"
     ],
     "name:fra_x_preferred":[
+        "Oruro"
+    ],
+    "name:frr_x_preferred":[
+        "Oruro"
+    ],
+    "name:gle_x_preferred":[
         "Oruro"
     ],
     "name:glg_x_preferred":[
@@ -170,8 +185,14 @@
     "name:swe_x_preferred":[
         "Oruro"
     ],
+    "name:szl_x_preferred":[
+        "Oruro"
+    ],
     "name:tam_x_preferred":[
         "\u0b92\u0bb0\u0bc1\u0bb0\u0bcb"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0440\u0443\u0440\u043e"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c4b\u0c30\u0c41\u0c30\u0c4b"
@@ -188,11 +209,17 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0443\u0440\u043e"
     ],
+    "name:ukr_x_variant":[
+        "\u0423\u0440\u0443\u0440\u0443"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0631\u0648\u0631\u0648\u060c \u0628\u0648\u0644\u06cc\u0648\u06cc\u0627"
     ],
     "name:urd_x_variant":[
         "\u0627\u0648\u0631\u0648\u0631\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Oruro"
     ],
     "name:vie_x_preferred":[
         "Oruro"
@@ -251,7 +278,7 @@
         }
     ],
     "wof:id":421186017,
-    "wof:lastmodified":1636495301,
+    "wof:lastmodified":1690860355,
     "wof:name":"Oruro",
     "wof:parent_id":421187927,
     "wof:placetype":"locality",

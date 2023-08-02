@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627\u0645\u0648\u0646\u062a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u064a\u0644\u0627\u0645\u0648\u0646\u062a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Villamontes"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09b2\u09cd\u09b2\u09be\u09ae\u09a8\u09cd\u099f\u09c7"
     ],
@@ -283,7 +289,7 @@
         }
     ],
     "wof:id":421181943,
-    "wof:lastmodified":1566617572,
+    "wof:lastmodified":1690860357,
     "wof:name":"Villa Montes",
     "wof:parent_id":421169235,
     "wof:placetype":"locality",

@@ -52,6 +52,9 @@
     "name:swe_x_preferred":[
         "Colquechaca"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u044c\u043a\u0435\u0447\u0430\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Ciudad de Colquechaca"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":890445171,
-    "wof:lastmodified":1566617601,
+    "wof:lastmodified":1690860377,
     "wof:name":"Colquechaca",
     "wof:parent_id":1092008791,
     "wof:placetype":"locality",

@@ -41,6 +41,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09a8\u09bf \u09ac\u09bf\u09ad\u09be\u0997"
     ],
+    "name:bre_x_preferred":[
+        "Departamant Beni"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u043d\u0438"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:ceb_x_preferred":[
         "El Beni"
+    ],
+    "name:ces_x_preferred":[
+        "Departement Beni"
     ],
     "name:dan_x_preferred":[
         "Beni"
@@ -100,6 +106,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc \u05d1\u05e0\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d1\u05e0\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0947\u0928\u0940 \u0935\u093f\u092d\u093e\u0917"
@@ -233,6 +242,9 @@
     "name:yid_x_preferred":[
         "\u05d1\u05e2\u05e0\u05d9 \u05d3\u05e2\u05e4\u05d0\u05e8\u05d8\u05de\u05e2\u05e0\u05d8"
     ],
+    "name:yue_x_preferred":[
+        "\u5564\u5c3c\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u8d1d\u5c3c\u7701"
     ],
@@ -363,7 +375,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1636495182,
+    "wof:lastmodified":1690860292,
     "wof:name":"El Beni",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

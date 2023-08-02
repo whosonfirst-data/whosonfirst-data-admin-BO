@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0622\u064a\u0643\u0648\u064a\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0622\u064a\u0643\u0648\u064a\u0644\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Aiquile"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u0987\u0995\u09c1\u0987\u09b2\u09c7"
     ],
@@ -236,7 +242,7 @@
         }
     ],
     "wof:id":890442183,
-    "wof:lastmodified":1636495304,
+    "wof:lastmodified":1690860374,
     "wof:name":"Aiquile",
     "wof:parent_id":1092006465,
     "wof:placetype":"locality",

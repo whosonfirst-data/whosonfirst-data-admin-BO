@@ -41,11 +41,17 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u0995\u09cd\u09b0\u09c1\u099c \u09ac\u09bf\u09ad\u09be\u0997"
     ],
+    "name:bre_x_preferred":[
+        "Departamant Santa Cruz"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u041a\u0440\u0443\u0441"
     ],
     "name:cat_x_preferred":[
         "Departament de Santa Cruz"
+    ],
+    "name:ces_x_preferred":[
+        "departement Santa Cruz"
     ],
     "name:dan_x_preferred":[
         "Santa Cruz"
@@ -104,6 +110,9 @@
     "name:hrv_x_preferred":[
         "Santa Cruz"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0561 \u053f\u0580\u0578\u0582\u0566"
+    ],
     "name:ind_x_preferred":[
         "Departemen Santa Cruz"
     ],
@@ -139,6 +148,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u041a\u0440\u0443\u0437"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0430\u043d\u0442\u0430 \u041a\u0440\u0443\u0441"
     ],
     "name:msa_x_preferred":[
         "Santa Cruz Department"
@@ -229,6 +241,9 @@
     ],
     "name:war_x_preferred":[
         "Santa Cruz"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5723\u514b\u9c81\u65af\u7701"
     ],
     "name:yid_x_preferred":[
         "\u05e1\u05d0\u05e0\u05d8\u05d0 \u05e7\u05e8\u05d5\u05d6"
@@ -372,7 +387,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1636495183,
+    "wof:lastmodified":1690860292,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

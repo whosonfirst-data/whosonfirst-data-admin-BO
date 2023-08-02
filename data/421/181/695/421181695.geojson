@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Tarata"
+    ],
     "name:cat_x_preferred":[
         "Tarata"
     ],
@@ -38,6 +41,9 @@
     "name:fra_x_preferred":[
         "Tarata"
     ],
+    "name:grn_x_preferred":[
+        "Tar\u00e1ta"
+    ],
     "name:nld_x_preferred":[
         "Tarata"
     ],
@@ -48,6 +54,9 @@
         "Tarata"
     ],
     "name:pol_x_preferred":[
+        "Tarata"
+    ],
+    "name:por_x_preferred":[
         "Tarata"
     ],
     "name:que_x_preferred":[
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":421181695,
-    "wof:lastmodified":1566617571,
+    "wof:lastmodified":1690860355,
     "wof:name":"Tarata",
     "wof:parent_id":421185047,
     "wof:placetype":"locality",

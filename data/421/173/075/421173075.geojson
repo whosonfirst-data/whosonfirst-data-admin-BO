@@ -20,10 +20,19 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u0631\u064a\u0646\u0627\u0628\u0627\u0643\u0648\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0648\u0631\u064a\u0646\u0627\u0628\u0627\u0643\u0648\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Rurrenabaque"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09c1\u09b0\u09b0\u09c7\u09a8\u09be\u09ac\u09be\u0995\u09c1\u0987"
     ],
     "name:ceb_x_preferred":[
+        "Rurrenabaque"
+    ],
+    "name:ces_x_preferred":[
         "Rurrenabaque"
     ],
     "name:deu_x_preferred":[
@@ -81,6 +90,12 @@
         "Rurrenabaque"
     ],
     "name:que_x_preferred":[
+        "Rurrenabaque"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0440\u0440\u0435\u043d\u0430\u0431\u0430\u043a\u0435"
+    ],
+    "name:slk_x_preferred":[
         "Rurrenabaque"
     ],
     "name:spa_x_preferred":[
@@ -249,7 +264,7 @@
         }
     ],
     "wof:id":421173075,
-    "wof:lastmodified":1636495299,
+    "wof:lastmodified":1690860352,
     "wof:name":"Rurrenabaque",
     "wof:parent_id":1092005669,
     "wof:placetype":"locality",

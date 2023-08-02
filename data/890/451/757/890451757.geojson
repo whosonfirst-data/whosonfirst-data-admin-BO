@@ -28,6 +28,9 @@
     "name:bod_x_preferred":[
         "\u0f62\u0f72\u0f0b\u0f63\u0fa6\u0f7a\u0f0b\u0f0b\u0f62\u0f63\u0f0b\u0f4f\u0f0b"
     ],
+    "name:cat_x_preferred":[
+        "Riberalta"
+    ],
     "name:ceb_x_preferred":[
         "Riberalta"
     ],
@@ -258,7 +261,7 @@
         }
     ],
     "wof:id":890451757,
-    "wof:lastmodified":1636495306,
+    "wof:lastmodified":1690860378,
     "wof:name":"Riberalta",
     "wof:parent_id":1092005877,
     "wof:placetype":"locality",

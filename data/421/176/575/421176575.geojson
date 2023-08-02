@@ -32,6 +32,9 @@
     "name:nld_x_preferred":[
         "Machacamarca"
     ],
+    "name:pol_x_preferred":[
+        "Machacamarca"
+    ],
     "name:que_x_preferred":[
         "Machaqa Marka"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421176575,
-    "wof:lastmodified":1566617590,
+    "wof:lastmodified":1690860369,
     "wof:name":"Machacamarca",
     "wof:parent_id":1092007979,
     "wof:placetype":"locality",

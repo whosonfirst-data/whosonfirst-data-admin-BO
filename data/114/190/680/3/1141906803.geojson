@@ -75,11 +75,17 @@
     "name:que_x_preferred":[
         "San Lorenzo"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041b\u043e\u0440\u0435\u043d\u0441\u043e"
+    ],
     "name:sco_x_preferred":[
         "San Lorenzo"
     ],
     "name:spa_x_preferred":[
         "san lorenzo bolivia"
+    ],
+    "name:spa_x_variant":[
+        "San Lorenzo"
     ],
     "name:swe_x_preferred":[
         "San Lorenzo"
@@ -227,7 +233,7 @@
         }
     ],
     "wof:id":1141906803,
-    "wof:lastmodified":1636495362,
+    "wof:lastmodified":1690860384,
     "wof:name":"San Lorenzo",
     "wof:parent_id":1092010287,
     "wof:placetype":"locality",

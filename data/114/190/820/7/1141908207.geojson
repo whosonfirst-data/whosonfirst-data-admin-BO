@@ -27,6 +27,9 @@
     "name:ast_x_preferred":[
         "Puertu Quijarro"
     ],
+    "name:ast_x_variant":[
+        "Puerto Quijarro"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09df\u09c7\u09b0\u09cd\u09a4\u09cb \u0995\u09c1\u0987\u099c\u09be\u09b0\u09b0\u09cb"
     ],
@@ -70,6 +73,9 @@
         "\ud478\uc5d0\ub974\ud1a0 \ud0a4\ud558\ub85c"
     ],
     "name:nld_x_preferred":[
+        "Puerto Quijarro"
+    ],
+    "name:pol_x_preferred":[
         "Puerto Quijarro"
     ],
     "name:por_x_preferred":[
@@ -232,7 +238,7 @@
         }
     ],
     "wof:id":1141908207,
-    "wof:lastmodified":1636495361,
+    "wof:lastmodified":1690860383,
     "wof:name":"Puerto Quijarro",
     "wof:parent_id":1092009511,
     "wof:placetype":"locality",

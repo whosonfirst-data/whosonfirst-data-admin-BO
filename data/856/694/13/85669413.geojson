@@ -38,11 +38,17 @@
     "name:ben_x_preferred":[
         "\u0993\u09b0\u09c1\u09b0\u09c1 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
+    "name:bre_x_preferred":[
+        "Departamant Oruro"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0440\u0443\u0440\u043e"
     ],
     "name:cat_x_preferred":[
         "Departament d'Oruro"
+    ],
+    "name:ces_x_preferred":[
+        "Departement Oruro"
     ],
     "name:dan_x_preferred":[
         "Oruro"
@@ -61,6 +67,9 @@
     ],
     "name:epo_x_preferred":[
         "Oruro"
+    ],
+    "name:est_x_preferred":[
+        "Oruro departemang"
     ],
     "name:eus_x_preferred":[
         "Oruroko departamendua"
@@ -92,6 +101,9 @@
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e8\u05d5\u05bc\u05e8\u05d5"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05d5\u05e8\u05d5\u05e8\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0913\u0930\u0942\u0930\u094b \u0935\u093f\u092d\u093e\u0917"
     ],
@@ -100,6 +112,9 @@
     ],
     "name:hun_x_preferred":[
         "Oruro"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0580\u0578\u0582\u0580\u0578"
     ],
     "name:ind_x_preferred":[
         "Departemen Oruro"
@@ -151,6 +166,9 @@
     ],
     "name:nob_x_preferred":[
         "Oruro"
+    ],
+    "name:oss_x_preferred":[
+        "\u041e\u0440\u0443\u0440\u043e"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0631\u0648\u0631\u0648"
@@ -215,8 +233,14 @@
     "name:war_x_preferred":[
         "Oruro"
     ],
+    "name:wuu_x_preferred":[
+        "\u5965\u9c81\u7f57\u7701"
+    ],
     "name:yid_x_preferred":[
         "\u05d0\u05e8\u05d5\u05e8\u05d0 \u05d3\u05e2\u05e4\u05d0\u05e8\u05d8\u05de\u05e2\u05e0\u05d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u67ef\u9b6f\u7f85\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5965\u9c81\u7f57\u7701"
@@ -348,7 +372,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1636495186,
+    "wof:lastmodified":1690860297,
     "wof:name":"Oruro",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

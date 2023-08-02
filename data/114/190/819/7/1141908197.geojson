@@ -99,6 +99,9 @@
     "name:war_x_preferred":[
         "Coro Coro"
     ],
+    "name:yue_x_preferred":[
+        "\u79d1\u7f85\u79d1\u7f85"
+    ],
     "name:zho_x_preferred":[
         "\u79d1\u7f85\u79d1\u7f85"
     ],
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":1141908197,
-    "wof:lastmodified":1636495362,
+    "wof:lastmodified":1690860384,
     "wof:name":"Coro Coro",
     "wof:parent_id":421182439,
     "wof:placetype":"locality",

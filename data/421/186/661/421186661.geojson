@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0628\u064a\u062e\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0628\u064a\u062e\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Cobija"
+    ],
     "name:aym_x_preferred":[
         "Kuwixa"
     ],
@@ -35,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Cobija"
     ],
+    "name:ces_x_preferred":[
+        "Cobija"
+    ],
     "name:dan_x_preferred":[
         "Cobija"
     ],
@@ -45,6 +54,9 @@
         "\u039a\u03bf\u03bc\u03c0\u03af\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Cobija"
+    ],
+    "name:epo_x_preferred":[
         "Cobija"
     ],
     "name:eus_x_preferred":[
@@ -235,7 +247,7 @@
         }
     ],
     "wof:id":421186661,
-    "wof:lastmodified":1636495301,
+    "wof:lastmodified":1690860355,
     "wof:name":"Cobija",
     "wof:parent_id":1092008501,
     "wof:placetype":"locality",

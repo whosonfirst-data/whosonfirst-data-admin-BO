@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-69.4665973324,-17.5996117973,-69.4665973324,-17.5996117973",
+    "geom:bbox":"-69.466597,-17.599612,-69.466597,-17.599612",
     "geom:latitude":-17.599612,
     "geom:longitude":-69.466597,
     "iso:country":"BO",
@@ -19,6 +19,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u062a\u0634\u0627\u0631\u0627\u0646\u0627"
+    ],
+    "name:arz_x_preferred":[
         "\u062a\u0634\u0627\u0631\u0627\u0646\u0627"
     ],
     "name:ceb_x_preferred":[
@@ -162,7 +165,7 @@
     },
     "wof:country":"BO",
     "wof:created":1499130845,
-    "wof:geomhash":"af906ad6d97eef9e8430a1ada8eefc39",
+    "wof:geomhash":"f88f044bbdcb1e81be2c1fa580627cfb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":1141908191,
-    "wof:lastmodified":1566618147,
+    "wof:lastmodified":1690860385,
     "wof:name":"Charana",
     "wof:parent_id":421182439,
     "wof:placetype":"locality",
@@ -183,10 +186,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.46659733242171,
-    -17.59961179725451,
-    -69.46659733242171,
-    -17.59961179725451
+    -69.466597,
+    -17.599612,
+    -69.466597,
+    -17.599612
 ],
-  "geometry": {"coordinates":[-69.46659733242171,-17.59961179725451],"type":"Point"}
+  "geometry": {"coordinates":[-69.46659699999999,-17.599612],"type":"Point"}
 }

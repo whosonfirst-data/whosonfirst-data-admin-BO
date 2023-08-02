@@ -41,6 +41,9 @@
     "name:nld_x_preferred":[
         "Entre R\u00edos"
     ],
+    "name:pol_x_preferred":[
+        "Entre R\u00edos"
+    ],
     "name:que_x_preferred":[
         "Mayupura"
     ],
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":421205551,
-    "wof:lastmodified":1566617561,
+    "wof:lastmodified":1690860347,
     "wof:name":"Entre R\u00edos",
     "wof:parent_id":1092010191,
     "wof:placetype":"locality",

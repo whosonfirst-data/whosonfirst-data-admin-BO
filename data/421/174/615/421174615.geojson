@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Patacamaya"
+    ],
     "name:ceb_x_preferred":[
         "Patacamaya"
     ],
@@ -33,6 +36,9 @@
         "Patacamaya"
     ],
     "name:pol_x_preferred":[
+        "Patacamaya"
+    ],
+    "name:por_x_preferred":[
         "Patacamaya"
     ],
     "name:que_x_preferred":[
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421174615,
-    "wof:lastmodified":1566617561,
+    "wof:lastmodified":1690860348,
     "wof:name":"Patacamaya",
     "wof:parent_id":1092006923,
     "wof:placetype":"locality",

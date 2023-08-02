@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Tiwanacu"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Tiwanaku"
+    ],
     "name:deu_x_preferred":[
         "Municipio Tiahuanacu"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421202429,
-    "wof:lastmodified":1566617560,
+    "wof:lastmodified":1690860347,
     "wof:name":"Tiwanacu",
     "wof:parent_id":1092007213,
     "wof:placetype":"locality",

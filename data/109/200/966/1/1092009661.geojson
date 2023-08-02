@@ -46,6 +46,12 @@
     "name:ceb_x_preferred":[
         "Provincia Florida"
     ],
+    "name:ces_x_preferred":[
+        "Provincie Florida"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0641\u0644\u06c6\u0631\u06cc\u062f\u0627"
+    ],
     "name:deu_x_preferred":[
         "Provinz Florida"
     ],
@@ -57,6 +63,9 @@
     ],
     "name:est_x_preferred":[
         "Florida provints"
+    ],
+    "name:eus_x_preferred":[
+        "Florida probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0641\u0644\u0648\u0631\u06cc\u062f\u0627"
@@ -125,10 +134,13 @@
         "Florida"
     ],
     "name:vie_x_variant":[
-        "Florida"
+        "Florida "
     ],
     "name:war_x_preferred":[
         "Florida"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5f17\u6d1b\u91cc\u8fbe\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5f17\u6d1b\u91cc\u9054\u7701"
@@ -169,7 +181,7 @@
         }
     ],
     "wof:id":1092009661,
-    "wof:lastmodified":1636495290,
+    "wof:lastmodified":1690860323,
     "wof:name":"Florida",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

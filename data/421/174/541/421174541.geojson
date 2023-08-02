@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0644\u0627\u0628\u0627\u062a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Challapata"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09be\u09b2\u09cd\u09b2\u09be\u09aa\u09be\u09a4\u09be"
     ],
@@ -56,6 +59,9 @@
     "name:ind_x_preferred":[
         "Challapata"
     ],
+    "name:ita_x_preferred":[
+        "Challapata"
+    ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30e4\u30d1\u30bf"
     ],
@@ -63,6 +69,9 @@
         "\ucc30\ub77c\ud30c\ud0c0"
     ],
     "name:nld_x_preferred":[
+        "Challapata"
+    ],
+    "name:pol_x_preferred":[
         "Challapata"
     ],
     "name:por_x_preferred":[
@@ -241,7 +250,7 @@
         }
     ],
     "wof:id":421174541,
-    "wof:lastmodified":1636495298,
+    "wof:lastmodified":1690860349,
     "wof:name":"Challapata",
     "wof:parent_id":1092007777,
     "wof:placetype":"locality",

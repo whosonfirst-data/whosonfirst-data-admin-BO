@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u064a\u0641\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u064a\u0641\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Cuevo"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09df\u09c7\u09ad\u09cb"
     ],
@@ -218,7 +224,7 @@
         }
     ],
     "wof:id":1141906801,
-    "wof:lastmodified":1636495362,
+    "wof:lastmodified":1690860384,
     "wof:name":"Cuevo",
     "wof:parent_id":1092009601,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "name:ara_x_variant":[
         "\u0628\u0627\u062f\u064a\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u062f\u064a\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Padilla"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09a6\u09bf\u09b2\u09cd\u09b2\u09be"
     ],
@@ -66,6 +72,9 @@
         "\ud30c\ub514\uc57c"
     ],
     "name:nld_x_preferred":[
+        "Padilla"
+    ],
+    "name:pol_x_preferred":[
         "Padilla"
     ],
     "name:por_x_preferred":[
@@ -243,7 +252,7 @@
         }
     ],
     "wof:id":421171009,
-    "wof:lastmodified":1636495304,
+    "wof:lastmodified":1690860370,
     "wof:name":"Padilla",
     "wof:parent_id":421169227,
     "wof:placetype":"locality",

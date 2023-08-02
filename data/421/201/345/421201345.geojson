@@ -20,10 +20,16 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0627\u0643\u0648\u064a\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0627\u0643\u0648\u064a\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u0989\u09b2\u09cd\u09b2\u09be\u0995\u09b2\u09cb"
     ],
     "name:ceb_x_preferred":[
+        "Quillacollo"
+    ],
+    "name:ces_x_preferred":[
         "Quillacollo"
     ],
     "name:dan_x_preferred":[
@@ -38,10 +44,16 @@
     "name:eng_x_preferred":[
         "Quillacollo"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0627\u06a9\u0648\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Quillacollo"
     ],
     "name:fra_x_preferred":[
+        "Quillacollo"
+    ],
+    "name:gle_x_preferred":[
         "Quillacollo"
     ],
     "name:guj_x_preferred":[
@@ -54,6 +66,9 @@
         "\u0915\u094d\u0935\u093f\u0932\u0948\u0915\u094b\u0932\u094b"
     ],
     "name:hun_x_preferred":[
+        "Quillacollo"
+    ],
+    "name:ina_x_preferred":[
         "Quillacollo"
     ],
     "name:ind_x_preferred":[
@@ -119,6 +134,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bc1\u0bb2\u0bcd\u0bb2\u0bbe\u0b95\u0bcd \u0b92\u0bb2\u0bcd\u0bb2\u0bcb"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0438\u043b\u044c\u044f\u043a\u043e\u043b\u044c\u043e"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4d\u0c35\u0c3f\u0c32\u0c15\u0c4b\u0c32\u0c4b"
     ],
@@ -136,6 +154,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0642\u0648\u06cc\u0644\u0627\u06a9\u0648\u0644\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Quillacollo"
     ],
     "name:vie_x_preferred":[
         "Quillacollo"
@@ -296,7 +317,7 @@
         }
     ],
     "wof:id":421201345,
-    "wof:lastmodified":1636495303,
+    "wof:lastmodified":1690860363,
     "wof:name":"Quillacollo",
     "wof:parent_id":421197123,
     "wof:placetype":"locality",

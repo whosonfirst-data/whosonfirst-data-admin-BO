@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Comarapa"
+    ],
     "name:cat_x_preferred":[
         "Comarapa"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421201799,
-    "wof:lastmodified":1566617578,
+    "wof:lastmodified":1690860362,
     "wof:name":"Comarapa",
     "wof:parent_id":421186229,
     "wof:placetype":"locality",

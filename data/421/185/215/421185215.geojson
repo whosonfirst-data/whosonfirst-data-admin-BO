@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Chulumani"
+    ],
     "name:aym_x_preferred":[
         "Chulumani"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421185215,
-    "wof:lastmodified":1566617592,
+    "wof:lastmodified":1690860370,
     "wof:name":"Chulumani",
     "wof:parent_id":421168083,
     "wof:placetype":"locality",
