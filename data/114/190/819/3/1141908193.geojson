@@ -27,6 +27,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09df\u09c7\u09b0\u09cd\u09a4\u09cb \u0985\u09cd\u09af\u09be\u0995\u09cb\u09b8\u09cd\u09a4\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Puerto Acosta"
+    ],
     "name:ceb_x_preferred":[
         "Puerto Acosta"
     ],
@@ -227,7 +230,7 @@
         }
     ],
     "wof:id":1141908193,
-    "wof:lastmodified":1636495363,
+    "wof:lastmodified":1690860385,
     "wof:name":"Puerto Acosta",
     "wof:parent_id":1092007003,
     "wof:placetype":"locality",

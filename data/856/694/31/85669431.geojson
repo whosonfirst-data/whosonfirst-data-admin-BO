@@ -38,11 +38,17 @@
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09b0\u09bf\u099c\u09be \u09ac\u09bf\u09ad\u09be\u0997"
     ],
+    "name:bre_x_preferred":[
+        "Departamant Tarija"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0430\u0440\u0438\u0445\u0430"
     ],
     "name:cat_x_preferred":[
         "Departament de Tarija"
+    ],
+    "name:ces_x_preferred":[
+        "Departement Tarija"
     ],
     "name:dan_x_preferred":[
         "Tarija Department"
@@ -61,6 +67,9 @@
     ],
     "name:epo_x_preferred":[
         "Tari\u015dio"
+    ],
+    "name:est_x_preferred":[
+        "Tarija departemang"
     ],
     "name:eus_x_preferred":[
         "Tarijako departamendua"
@@ -91,6 +100,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d0\u05e8\u05d9\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d8\u05d0\u05e8\u05d9\u05d7\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0924\u093e\u0930\u093f\u0939\u093e \u0935\u093f\u092d\u093e\u0917"
@@ -215,6 +227,9 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u0456\u0445\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u0422\u0430\u0440\u0438\u0445\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u062d\u06a9\u0645\u06c1 \u062a\u0627\u0631\u06cc\u062e\u0627"
     ],
@@ -223,6 +238,9 @@
     ],
     "name:war_x_preferred":[
         "Tarija"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5854\u91cc\u54c8\u7701"
     ],
     "name:yid_x_preferred":[
         "\u05d8\u05d0\u05e8\u05d9\u05db\u05d0 \u05d3\u05e2\u05e4\u05d0\u05e8\u05d8\u05de\u05e2\u05e0\u05d8"
@@ -360,7 +378,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1636495185,
+    "wof:lastmodified":1690860296,
     "wof:name":"Tarija",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

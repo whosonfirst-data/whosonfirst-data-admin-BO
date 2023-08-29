@@ -43,6 +43,12 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Punata"
     ],
+    "name:ceb_x_preferred":[
+        "Provincia Punata"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Punata"
+    ],
     "name:deu_x_preferred":[
         "Provinz Punata"
     ],
@@ -51,6 +57,9 @@
     ],
     "name:eng_x_variant":[
         "Punata Province"
+    ],
+    "name:eus_x_preferred":[
+        "Punata probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u067e\u0648\u0646\u0627\u062a\u0627"
@@ -106,6 +115,9 @@
     "name:war_x_preferred":[
         "Punata"
     ],
+    "name:wuu_x_preferred":[
+        "\u666e\u7eb3\u5854\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u666e\u7d0d\u5854\u7701"
     ],
@@ -145,7 +157,7 @@
         }
     ],
     "wof:id":1092006749,
-    "wof:lastmodified":1636495290,
+    "wof:lastmodified":1690860315,
     "wof:name":"Punata",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

@@ -49,6 +49,9 @@
     "name:ceb_x_preferred":[
         "Provincia Atahuallpa"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Sabaya"
+    ],
     "name:deu_x_preferred":[
         "Provinz Sabaya"
     ],
@@ -59,6 +62,9 @@
         "Sabaya",
         "Atahuallpa",
         "Sabaya Province"
+    ],
+    "name:eus_x_preferred":[
+        "Sabaya probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0628\u0627\u06cc\u0627"
@@ -120,6 +126,9 @@
     "name:war_x_preferred":[
         "Atahuallpa"
     ],
+    "name:wuu_x_preferred":[
+        "\u8428\u74e6\u4e9a\u7701"
+    ],
     "name:zho_cn_x_preferred":[
         "\u79d1\u4f0a\u5e15\u8428\u76d0\u6cbc"
     ],
@@ -153,7 +162,7 @@
         }
     ],
     "wof:id":1092009317,
-    "wof:lastmodified":1636495289,
+    "wof:lastmodified":1690860308,
     "wof:name":"Salar de Coipasa",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

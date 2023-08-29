@@ -34,17 +34,32 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0628\u0627\u0632"
     ],
+    "name:ary_x_preferred":[
+        "\u0644\u0627\u067e\u0627\u0632"
+    ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627 \u067e\u0627\u0632"
+    ],
     "name:ast_x_preferred":[
         "La Paz"
     ],
     "name:aym_x_preferred":[
         "Chuqi Yapu"
     ],
+    "name:aym_x_variant":[
+        "Chuqiyapu"
+    ],
     "name:azb_x_preferred":[
         "\u0644\u0627\u067e\u0627\u0632"
     ],
     "name:aze_x_preferred":[
         "La Pas"
+    ],
+    "name:aze_x_variant":[
+        "La-Pas"
+    ],
+    "name:ban_x_preferred":[
+        "La Paz"
     ],
     "name:bel_x_preferred":[
         "\u041b\u0430-\u041f\u0430\u0441"
@@ -82,8 +97,14 @@
     "name:deu_x_preferred":[
         "La Paz"
     ],
+    "name:diq_x_preferred":[
+        "La Paz"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03b1 \u03a0\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b1 \u03a0\u03b1\u03b6"
     ],
     "name:eng_x_preferred":[
         "La Paz"
@@ -109,6 +130,9 @@
     "name:frp_x_preferred":[
         "La Paz"
     ],
+    "name:frr_x_preferred":[
+        "La Paz"
+    ],
     "name:fry_x_preferred":[
         "La Paz"
     ],
@@ -123,6 +147,9 @@
     ],
     "name:grn_x_preferred":[
         "La Paz"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0abe \u0aaa\u0abe\u0a9d"
     ],
     "name:hat_x_preferred":[
         "La Paz"
@@ -151,6 +178,12 @@
     "name:ido_x_preferred":[
         "La Paz"
     ],
+    "name:ile_x_preferred":[
+        "La Paz"
+    ],
+    "name:ina_x_preferred":[
+        "La Paz"
+    ],
     "name:ind_x_preferred":[
         "La Paz"
     ],
@@ -172,6 +205,9 @@
     "name:kal_x_preferred":[
         "La Paz"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbe \u0caa\u0cbe\u0c9d\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10da\u10d0-\u10de\u10d0\u10e1\u10d8"
     ],
@@ -180,6 +216,9 @@
     ],
     "name:kir_x_preferred":[
         "\u041b\u0430-\u041f\u0430\u0441"
+    ],
+    "name:kir_x_variant":[
+        "\u041b\u0430-\u041f\u0430\u0441 \u0448\u0430\u0430\u0440\u044b"
     ],
     "name:kon_x_preferred":[
         "La Paz"
@@ -214,6 +253,9 @@
     "name:lrc_x_preferred":[
         "\u0644\u0627\u067e\u0627\u0632"
     ],
+    "name:ltz_x_preferred":[
+        "La Paz"
+    ],
     "name:mal_x_preferred":[
         "\u0d32\u0d3e \u0d2a\u0d3e\u0d38\u0d4d"
     ],
@@ -223,10 +265,28 @@
     "name:mkd_x_preferred":[
         "\u041b\u0430 \u041f\u0430\u0437"
     ],
+    "name:mkd_x_variant":[
+        "\u041b\u0430 \u041f\u0430\u0441"
+    ],
+    "name:mlt_x_preferred":[
+        "La Paz"
+    ],
+    "name:mon_x_preferred":[
+        "\u041b\u0430-\u041f\u0430\u0441"
+    ],
     "name:mri_x_preferred":[
         "La Paz"
     ],
     "name:msa_x_preferred":[
+        "La Paz"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0644\u0627\u067e\u0627\u0632"
+    ],
+    "name:nah_x_preferred":[
+        "La Paz"
+    ],
+    "name:nan_x_preferred":[
         "La Paz"
     ],
     "name:nau_x_preferred":[
@@ -238,7 +298,13 @@
     "name:nno_x_preferred":[
         "La Paz"
     ],
+    "name:nob_x_preferred":[
+        "La Paz"
+    ],
     "name:nor_x_preferred":[
+        "La Paz"
+    ],
+    "name:nov_x_preferred":[
         "La Paz"
     ],
     "name:oci_x_preferred":[
@@ -254,6 +320,9 @@
         "\u0a32\u0a3e \u0a2a\u0a3e\u0a38"
     ],
     "name:pap_x_preferred":[
+        "La Paz"
+    ],
+    "name:pcd_x_preferred":[
         "La Paz"
     ],
     "name:pms_x_preferred":[
@@ -277,17 +346,29 @@
     "name:rus_x_preferred":[
         "\u041b\u0430-\u041f\u0430\u0441"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5e\u1c5f \u1c6f\u1c5f\u1c61\u1c7d"
+    ],
     "name:scn_x_preferred":[
         "La Paz"
     ],
     "name:sco_x_preferred":[
         "La Paz"
     ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dcf \u0db4\u0dcf\u0dc3\u0dca"
+    ],
     "name:slk_x_preferred":[
         "La Paz"
     ],
     "name:slv_x_preferred":[
         "La Paz"
+    ],
+    "name:sme_x_preferred":[
+        "Chuqi Yapu"
+    ],
+    "name:smn_x_preferred":[
+        "Chupiyapu"
     ],
     "name:sna_x_preferred":[
         "La Paz"
@@ -319,8 +400,23 @@
     "name:tat_x_preferred":[
         "La-Pas"
     ],
+    "name:tat_x_variant":[
+        "\u041b\u0430-\u041f\u0430\u0441"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3e \u0c2a\u0c3e\u0c1c\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041b\u0430-\u041f\u0430\u0441"
+    ],
+    "name:tgl_x_preferred":[
+        "Lungsod ng La Paz"
+    ],
     "name:tha_x_preferred":[
         "\u0e25\u0e32\u0e1b\u0e32\u0e0b"
+    ],
+    "name:tuk_x_preferred":[
+        "La-pas"
     ],
     "name:tur_x_preferred":[
         "La Paz"
@@ -339,6 +435,9 @@
     ],
     "name:uzb_x_preferred":[
         "La-Pas"
+    ],
+    "name:uzb_x_variant":[
+        "La Pas"
     ],
     "name:vec_x_preferred":[
         "La Paz"
@@ -363,6 +462,9 @@
     ],
     "name:yor_x_preferred":[
         "La Paz"
+    ],
+    "name:yue_x_preferred":[
+        "\u62c9\u5df4\u65af"
     ],
     "name:zho_cn_x_preferred":[
         "\u62c9\u5df4\u65af"
@@ -425,7 +527,7 @@
         }
     ],
     "wof:id":421176731,
-    "wof:lastmodified":1636495303,
+    "wof:lastmodified":1690860369,
     "wof:megacity":1,
     "wof:name":"La Paz",
     "wof:parent_id":421177667,

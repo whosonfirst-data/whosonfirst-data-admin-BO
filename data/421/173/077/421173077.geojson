@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0648\u064a\u0643\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Coroico"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09b0\u09cb\u0987\u0995\u09cb"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:eng_x_preferred":[
         "Coroico"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u06cc\u06a9\u0648"
     ],
     "name:fra_x_preferred":[
         "Coroico"
@@ -72,6 +78,9 @@
         "Coroico"
     ],
     "name:pol_x_preferred":[
+        "Coroico"
+    ],
+    "name:por_x_preferred":[
         "Coroico"
     ],
     "name:que_x_preferred":[
@@ -247,7 +256,7 @@
         }
     ],
     "wof:id":421173077,
-    "wof:lastmodified":1636495299,
+    "wof:lastmodified":1690860351,
     "wof:name":"Coroico",
     "wof:parent_id":1092007459,
     "wof:placetype":"locality",

@@ -49,6 +49,9 @@
     "name:ceb_x_preferred":[
         "Provincia Atahuallpa"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Sabaya"
+    ],
     "name:deu_x_preferred":[
         "Provinz Sabaya"
     ],
@@ -58,6 +61,9 @@
     "name:eng_x_variant":[
         "Atahuallpa",
         "Sabaya Province"
+    ],
+    "name:eus_x_preferred":[
+        "Sabaya probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0628\u0627\u06cc\u0627"
@@ -119,6 +125,9 @@
     "name:war_x_preferred":[
         "Atahuallpa"
     ],
+    "name:wuu_x_preferred":[
+        "\u8428\u74e6\u4e9a\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u85a9\u74e6\u4e9e\u7701"
     ],
@@ -146,7 +155,7 @@
         }
     ],
     "wof:id":1092008039,
-    "wof:lastmodified":1636495290,
+    "wof:lastmodified":1690860318,
     "wof:name":"Sabaya",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

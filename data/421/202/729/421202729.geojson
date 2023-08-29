@@ -23,11 +23,20 @@
     "name:ara_x_variant":[
         "\u0623\u0628\u0648\u0644\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0628\u0648\u0644\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Apolo"
+    ],
     "name:ben_x_preferred":[
         "\u0985\u09cd\u09af\u09be\u09aa\u09cb\u09b2\u09cb"
     ],
     "name:bul_x_preferred":[
         "\u0410\u043f\u043e\u043b\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Apolo"
     ],
     "name:ceb_x_preferred":[
         "Apolo"
@@ -254,7 +263,7 @@
         }
     ],
     "wof:id":421202729,
-    "wof:lastmodified":1636495298,
+    "wof:lastmodified":1690860347,
     "wof:name":"Apolo",
     "wof:parent_id":421187093,
     "wof:placetype":"locality",

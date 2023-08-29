@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Mizque"
+    ],
     "name:cat_x_preferred":[
         "Mizque"
     ],
@@ -33,6 +36,15 @@
         "\u0645\u06cc\u0632\u06a9\u0647"
     ],
     "name:fra_x_preferred":[
+        "Mizque"
+    ],
+    "name:glg_x_preferred":[
+        "Mizque"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e1\u05e7\u05d4"
+    ],
+    "name:ita_x_preferred":[
         "Mizque"
     ],
     "name:jpn_x_preferred":[
@@ -61,6 +73,9 @@
     ],
     "name:swe_x_preferred":[
         "Mizque"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0441\u043a\u0435"
     ],
     "name:und_x_variant":[
         "Ciudad Mizque"
@@ -121,7 +136,7 @@
         }
     ],
     "wof:id":421201763,
-    "wof:lastmodified":1566617578,
+    "wof:lastmodified":1690860361,
     "wof:name":"Mizque",
     "wof:parent_id":1092006697,
     "wof:placetype":"locality",

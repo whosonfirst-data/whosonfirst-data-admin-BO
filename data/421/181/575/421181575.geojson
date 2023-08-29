@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Sapahaqui"
     ],
+    "name:eng_x_variant":[
+        "Sapahaqui recursos"
+    ],
     "name:fra_x_preferred":[
         "Sapahaqui"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421181575,
-    "wof:lastmodified":1566617572,
+    "wof:lastmodified":1690860356,
     "wof:name":"Sapahaqui",
     "wof:parent_id":421182435,
     "wof:placetype":"locality",

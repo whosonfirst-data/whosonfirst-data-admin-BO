@@ -35,8 +35,14 @@
     "name:aym_x_preferred":[
         "Chuqisaka jach'a suyu"
     ],
+    "name:bel_x_preferred":[
+        "\u0434\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0427\u0443\u043a\u0456\u0441\u0430\u043a\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09c1\u0995\u09c1\u0987\u09b8\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997"
+    ],
+    "name:bre_x_preferred":[
+        "Departamant Chuquisaca"
     ],
     "name:bul_x_preferred":[
         "\u0427\u0443\u043a\u0438\u0441\u0430\u043a\u0430"
@@ -44,11 +50,17 @@
     "name:cat_x_preferred":[
         "Departament de Chuquisaca"
     ],
+    "name:ces_x_preferred":[
+        "Departement Chuquisaca"
+    ],
     "name:dan_x_preferred":[
         "Chuquisaca"
     ],
     "name:deu_x_preferred":[
         "Chuquisaca"
+    ],
+    "name:deu_x_variant":[
+        "Departamento Chuquisaca"
     ],
     "name:ell_x_preferred":[
         "\u0393\u03b5\u03c9\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc \u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u03a4\u03c3\u03bf\u03c5\u03ba\u03b9\u03c3\u03ac\u03ba\u03b1"
@@ -229,6 +241,9 @@
     "name:yid_x_preferred":[
         "\u05d8\u05e9\u05d5\u05e7\u05d9\u05e1\u05d0\u05e7\u05d0 \u05d3\u05e2\u05e4\u05d0\u05e8\u05d8\u05de\u05e2\u05e0\u05d8"
     ],
+    "name:yue_x_preferred":[
+        "\u6731\u57fa\u85a9\u5361\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u4e18\u57fa\u8428\u5361\u7701"
     ],
@@ -359,7 +374,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1636495187,
+    "wof:lastmodified":1690860299,
     "wof:name":"Chuquisaca",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

@@ -50,6 +50,9 @@
     "name:que_x_variant":[
         "Laqha llaqta"
     ],
+    "name:spa_x_preferred":[
+        "Laja"
+    ],
     "name:swe_x_preferred":[
         "Laja"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421183873,
-    "wof:lastmodified":1566617586,
+    "wof:lastmodified":1690860366,
     "wof:name":"Laja",
     "wof:parent_id":421197575,
     "wof:placetype":"locality",

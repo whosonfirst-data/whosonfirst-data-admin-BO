@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0627\u0641\u064a\u064a\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u0627\u0641\u064a\u064a\u0631"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u099c\u09be\u09ad\u09bf\u09df\u09c7\u09b0"
     ],
@@ -242,7 +245,7 @@
         }
     ],
     "wof:id":421183869,
-    "wof:lastmodified":1636495303,
+    "wof:lastmodified":1690860366,
     "wof:name":"San Javier",
     "wof:parent_id":1092009873,
     "wof:placetype":"locality",

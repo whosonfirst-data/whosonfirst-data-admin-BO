@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Urubich\u00e1"
+    ],
     "name:ceb_x_preferred":[
         "Urubich\u00e1"
     ],
@@ -35,6 +38,9 @@
         "Urubich\u00e1"
     ],
     "name:nld_x_preferred":[
+        "Urubich\u00e1"
+    ],
+    "name:pol_x_preferred":[
         "Urubich\u00e1"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1125870841,
-    "wof:lastmodified":1566617602,
+    "wof:lastmodified":1690860378,
     "wof:name":"Urubich\u00e1",
     "wof:parent_id":1092009737,
     "wof:placetype":"locality",

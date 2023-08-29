@@ -22,6 +22,9 @@
     "name:aym_x_preferred":[
         "Jach'aq'achi Marka"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Achacachi"
+    ],
     "name:deu_x_preferred":[
         "Municipio Achacachi"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":890436761,
-    "wof:lastmodified":1566617595,
+    "wof:lastmodified":1690860372,
     "wof:name":"Huatajata",
     "wof:parent_id":1092007507,
     "wof:placetype":"locality",

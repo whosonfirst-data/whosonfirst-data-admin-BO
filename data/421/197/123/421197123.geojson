@@ -44,6 +44,12 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Quillacollo"
     ],
+    "name:ceb_x_preferred":[
+        "Provincia Quillacollo"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Quillacollo"
+    ],
     "name:deu_x_preferred":[
         "Provinz Quillacollo"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:eng_x_variant":[
         "Quillacollo Province"
+    ],
+    "name:eus_x_preferred":[
+        "Quillacollo probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u0626\u06cc\u0644\u0627\u06a9\u0648\u0644\u0648"
@@ -112,6 +121,9 @@
     ],
     "name:war_x_preferred":[
         "Quillacollo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u57fa\u4e9a\u79d1\u7ea6\u7701"
     ],
     "name:zho_x_preferred":[
         "\u57fa\u4e9e\u79d1\u7d04\u7701"
@@ -179,7 +191,7 @@
         }
     ],
     "wof:id":421197123,
-    "wof:lastmodified":1636495302,
+    "wof:lastmodified":1690860360,
     "wof:name":"Quillacollo",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

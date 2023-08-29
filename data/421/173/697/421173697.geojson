@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0628\u064a\u0632\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u0628\u064a\u0632\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Tupiza"
+    ],
     "name:aym_x_preferred":[
         "Tupisa"
     ],
@@ -33,6 +39,9 @@
         "Tupiza"
     ],
     "name:ceb_x_preferred":[
+        "Tupiza"
+    ],
+    "name:ces_x_preferred":[
         "Tupiza"
     ],
     "name:cym_x_preferred":[
@@ -133,6 +142,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0da7\u0dd4\u0db4\u0dd2\u0dc3\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Tupiza"
     ],
     "name:spa_x_preferred":[
         "Tupiza"
@@ -313,7 +325,7 @@
         }
     ],
     "wof:id":421173697,
-    "wof:lastmodified":1636495299,
+    "wof:lastmodified":1690860352,
     "wof:name":"Tupiza",
     "wof:parent_id":1092009203,
     "wof:placetype":"locality",

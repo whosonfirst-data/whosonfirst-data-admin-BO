@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a\u0627\u0634\u0648\u064a\u0644\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Portachuelo"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u09b0\u09cd\u09a4\u09be\u099a\u09c1\u09df\u09c7\u09b2\u09cb"
     ],
@@ -246,7 +249,7 @@
         }
     ],
     "wof:id":421174537,
-    "wof:lastmodified":1636495298,
+    "wof:lastmodified":1690860348,
     "wof:name":"Portachuelo",
     "wof:parent_id":1092009959,
     "wof:placetype":"locality",

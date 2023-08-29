@@ -23,6 +23,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Challapampa"
+    ],
     "name:deu_x_preferred":[
         "Challapampa"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1126093079,
-    "wof:lastmodified":1566617603,
+    "wof:lastmodified":1690860379,
     "wof:name":"Challapampa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Viloco"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0648\u06a9\u0648"
+    ],
     "name:nld_x_preferred":[
         "Viloco"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421194479,
-    "wof:lastmodified":1566617550,
+    "wof:lastmodified":1690860342,
     "wof:name":"Viloco",
     "wof:parent_id":421182435,
     "wof:placetype":"locality",

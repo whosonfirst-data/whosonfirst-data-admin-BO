@@ -69,6 +69,9 @@
     "name:nob_x_preferred":[
         "Puerto Villarroel"
     ],
+    "name:pol_x_preferred":[
+        "Puerto Villarroel"
+    ],
     "name:por_x_preferred":[
         "Puerto Villarroel"
     ],
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":1141906723,
-    "wof:lastmodified":1636495361,
+    "wof:lastmodified":1690860383,
     "wof:name":"Puerto Villarroel",
     "wof:parent_id":1092009785,
     "wof:placetype":"locality",

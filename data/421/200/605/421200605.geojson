@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Mapiri"
+    ],
     "name:ceb_x_preferred":[
         "Mapiri"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421200605,
-    "wof:lastmodified":1566617577,
+    "wof:lastmodified":1690860361,
     "wof:name":"Mapiri",
     "wof:parent_id":421187929,
     "wof:placetype":"locality",

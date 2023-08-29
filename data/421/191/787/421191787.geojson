@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Tiquipaya"
+    ],
     "name:ceb_x_preferred":[
         "Tiquipaya"
     ],
@@ -47,11 +50,17 @@
     "name:nor_x_preferred":[
         "Tiquipaya"
     ],
+    "name:pol_x_preferred":[
+        "Tiquipaya"
+    ],
     "name:por_x_preferred":[
         "Tiquipaya"
     ],
     "name:que_x_preferred":[
         "Tikipaya"
+    ],
+    "name:spa_x_preferred":[
+        "Tiquipaya"
     ],
     "name:swe_x_preferred":[
         "Tiquipaya"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":421191787,
-    "wof:lastmodified":1566617574,
+    "wof:lastmodified":1690860358,
     "wof:name":"Tiquipaya",
     "wof:parent_id":1092006381,
     "wof:placetype":"locality",

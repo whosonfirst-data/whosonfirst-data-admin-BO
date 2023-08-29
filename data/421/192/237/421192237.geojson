@@ -20,11 +20,20 @@
     "name:aka_x_preferred":[
         "Nkuu"
     ],
+    "name:aka_x_variant":[
+        "nkuu"
+    ],
     "name:ces_x_preferred":[
         "Pom\u00e1da"
     ],
+    "name:ces_x_variant":[
+        "pom\u00e1da"
+    ],
     "name:cym_x_preferred":[
         "Pom\u00e2d"
+    ],
+    "name:dag_x_preferred":[
+        "kpa\u0292\u025brim"
     ],
     "name:dan_x_preferred":[
         "Pomade"
@@ -32,14 +41,23 @@
     "name:deu_x_preferred":[
         "Pomade"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03bc\u03ac\u03b4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Pomade"
+    ],
+    "name:eng_x_variant":[
+        "pomade"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0645\u0627\u062f \u0645\u0648"
     ],
     "name:fin_x_preferred":[
         "Hiusrasva"
+    ],
+    "name:fra_x_preferred":[
+        "gomina"
     ],
     "name:hye_x_preferred":[
         "\u054a\u0578\u0574\u0561\u0564\u0561"
@@ -53,8 +71,17 @@
     "name:kor_x_preferred":[
         "\ud3ec\ub9c8\ub4dc"
     ],
+    "name:lit_x_preferred":[
+        "Pomada"
+    ],
+    "name:msa_x_preferred":[
+        "Pomade"
+    ],
     "name:nld_x_preferred":[
         "Pommade"
+    ],
+    "name:nld_x_variant":[
+        "pommade"
     ],
     "name:nob_x_preferred":[
         "Pomade"
@@ -71,8 +98,17 @@
     "name:swe_x_preferred":[
         "Pomada"
     ],
+    "name:swe_x_variant":[
+        "pomada"
+    ],
+    "name:twi_x_preferred":[
+        "nku"
+    ],
     "name:und_x_variant":[
         "Pumuta"
+    ],
+    "name:uzb_x_preferred":[
+        "Pomada"
     ],
     "name:vie_x_preferred":[
         "Pomade"
@@ -134,7 +170,7 @@
         }
     ],
     "wof:id":421192237,
-    "wof:lastmodified":1566617548,
+    "wof:lastmodified":1690860340,
     "wof:name":"Pomata",
     "wof:parent_id":1108693919,
     "wof:placetype":"locality",

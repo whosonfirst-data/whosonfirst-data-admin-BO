@@ -46,6 +46,9 @@
     "name:ceb_x_preferred":[
         "Provincia Cordillera"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Cordillera"
+    ],
     "name:deu_x_preferred":[
         "Provinz Cordillera"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:eng_x_variant":[
         "Cordillera Province"
+    ],
+    "name:eus_x_preferred":[
+        "Cordillera probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u0631\u062f\u06cc\u0644\u0631\u0627"
@@ -109,6 +115,9 @@
     "name:war_x_preferred":[
         "Cordillera"
     ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u8fea\u52d2\u62c9\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u79d1\u8fea\u52d2\u62c9\u7701"
     ],
@@ -148,7 +157,7 @@
         }
     ],
     "wof:id":1092009601,
-    "wof:lastmodified":1636495291,
+    "wof:lastmodified":1690860325,
     "wof:name":"Cordillera",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

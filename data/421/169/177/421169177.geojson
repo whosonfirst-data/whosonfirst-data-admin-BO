@@ -31,7 +31,16 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0643\u0631\u064a"
     ],
+    "name:arg_x_preferred":[
+        "Sucre"
+    ],
+    "name:ary_x_preferred":[
+        "\u0633\u0648\u0643\u0631\u064a"
+    ],
     "name:ast_x_preferred":[
+        "Sucre"
+    ],
+    "name:avk_x_preferred":[
         "Sucre"
     ],
     "name:aym_x_preferred":[
@@ -39,6 +48,9 @@
     ],
     "name:aze_x_preferred":[
         "Sukre"
+    ],
+    "name:ban_x_preferred":[
+        "Sucr\u00e9"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0443\u043a\u0440\u044d"
@@ -48,6 +60,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u0995\u09cd\u09b0\u09bf"
+    ],
+    "name:ben_x_variant":[
+        "\u09b8\u09c1\u0995\u09cd\u09b0\u09c7"
     ],
     "name:bod_x_preferred":[
         "\u0f66\u0f74\u0f0b\u0f41\u0f74\u0f0b\u0f62\u0f7a\u0f0d"
@@ -124,10 +139,16 @@
     "name:frp_x_preferred":[
         "Sucre"
     ],
+    "name:frr_x_preferred":[
+        "Sucre"
+    ],
     "name:fry_x_preferred":[
         "Sucre"
     ],
     "name:gla_x_preferred":[
+        "Sucre"
+    ],
+    "name:gle_x_preferred":[
         "Sucre"
     ],
     "name:glg_x_preferred":[
@@ -187,6 +208,9 @@
     "name:ilo_x_preferred":[
         "Sucre"
     ],
+    "name:ina_x_preferred":[
+        "Sucre"
+    ],
     "name:ind_x_preferred":[
         "Sucre"
     ],
@@ -198,6 +222,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30af\u30ec"
+    ],
+    "name:kaa_x_preferred":[
+        "Sukre"
     ],
     "name:kab_x_preferred":[
         "Sucre"
@@ -238,6 +265,9 @@
     "name:mar_x_preferred":[
         "\u0938\u0941\u0915\u094d\u0930\u0947"
     ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0443\u043a\u0440\u044d"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0443\u043a\u0440\u0435"
     ],
@@ -249,6 +279,9 @@
     ],
     "name:msa_x_preferred":[
         "Sucre"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0633\u0648\u06a9\u0631\u0647"
     ],
     "name:nah_x_preferred":[
         "Sucre"
@@ -291,6 +324,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a42\u0a15\u0a30\u0a47"
+    ],
+    "name:pcd_x_preferred":[
+        "Sucre"
     ],
     "name:pms_x_preferred":[
         "Sucre"
@@ -551,8 +587,8 @@
     "wof:belongsto":[
         102191577,
         85632623,
-        421190241,
-        85669399
+        85669399,
+        421190241
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -581,7 +617,7 @@
         }
     ],
     "wof:id":421169177,
-    "wof:lastmodified":1607390899,
+    "wof:lastmodified":1690860345,
     "wof:name":"Sucre",
     "wof:parent_id":421190241,
     "wof:placetype":"locality",
