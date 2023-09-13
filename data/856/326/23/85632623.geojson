@@ -1150,7 +1150,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"591",
     "statoids:ds":"BOL",
     "statoids:fifa":"BOL",
@@ -1228,7 +1228,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1694492052,
+    "wof:lastmodified":1694639507,
     "wof:name":"Bolivia",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
