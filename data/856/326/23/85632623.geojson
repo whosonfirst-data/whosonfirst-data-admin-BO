@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":91.947461,
-    "geom:area_square_m":1087472651263.296997,
+    "geom:area_square_m":1087472651263.303833,
     "geom:bbox":"-69.64499,-22.89809,-57.453803,-9.669323",
     "geom:latitude":-16.712028,
     "geom:longitude":-64.662468,
@@ -14,6 +14,9 @@
     "iso:country":"BO",
     "itu:country_code":[
         "591"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "BO"
@@ -1146,7 +1149,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"591",
     "statoids:ds":"BOL",
     "statoids:fifa":"BOL",
@@ -1206,7 +1210,7 @@
         "meso",
         "naturalearth"
     ],
-    "wof:geomhash":"8845b820883193933e4b0d9c45d4d906",
+    "wof:geomhash":"25552f5a1bdc096075658db5508b51d2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -1224,12 +1228,12 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1690860300,
+    "wof:lastmodified":1694639507,
     "wof:name":"Bolivia",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
-    "wof:population":10671200,
-    "wof:population_rank":14,
+    "wof:population":11513100,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:shortcode":"BO",
     "wof:superseded_by":[],
