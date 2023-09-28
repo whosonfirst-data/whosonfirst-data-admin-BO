@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":17.037897,
-    "geom:area_square_m":204589408179.402435,
+    "geom:area_square_m":204589413903.957001,
     "geom:bbox":"-67.566214,-16.418886,-61.527452,-10.381218",
     "geom:latitude":-13.749783,
     "geom:longitude":-65.273388,
@@ -346,17 +346,19 @@
         "gn:id":3923172,
         "gp:id":2344803,
         "hasc:id":"BO.EB",
+        "iso:code":"BO-B",
         "iso:id":"BO-B",
         "qs_pg:id":423603,
         "unlc:id":"BO-B",
         "wd:id":"Q233169",
         "wk:page":"Beni Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"af5cda551e085722e0a90dcea0ec30f8",
+    "wof:geomhash":"6ab2a8b3b0b86aac35096541c97e261e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -375,7 +377,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1690860292,
+    "wof:lastmodified":1695884786,
     "wof:name":"El Beni",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.40065,
-    "geom:area_square_m":51113757508.935776,
+    "geom:area_square_m":51113757675.461075,
     "geom:bbox":"-65.695004,-21.506912,-62.191836,-18.345948",
     "geom:latitude":-20.046245,
     "geom:longitude":-64.287063,
@@ -345,17 +345,19 @@
         "gn:id":3920177,
         "gp:id":2344801,
         "hasc:id":"BO.CQ",
+        "iso:code":"BO-H",
         "iso:id":"BO-H",
         "qs_pg:id":219508,
         "unlc:id":"BO-H",
         "wd:id":"Q235110",
         "wk:page":"Chuquisaca Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4eedc10dd6d901c3f0e1fe2b9ac72aa8",
+    "wof:geomhash":"584ba75e60e735a9dfc91ef6093b06b4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -374,7 +376,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1690860299,
+    "wof:lastmodified":1695884792,
     "wof:name":"Chuquisaca",
     "wof:parent_id":85632623,
     "wof:placetype":"region",
