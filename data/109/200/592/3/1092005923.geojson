@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.549254,
-    "geom:area_square_m":6370218743.732308,
+    "geom:area_square_m":6370219167.831939,
     "geom:bbox":"-64.337953,-21.003698,-63.804154,-19.467467",
     "geom:latitude":-20.286612,
     "geom:longitude":-64.046777,
@@ -139,9 +139,10 @@
         "hasc:id":"BO.CQ.HS",
         "wd:id":"Q1244642"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896784,
-    "wof:geomhash":"f6ada812c96d16783a19400284802a54",
+    "wof:geomhash":"343e06ece015e1030bcee303ff16ab69",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1092005923,
-    "wof:lastmodified":1690860312,
+    "wof:lastmodified":1695886170,
     "wof:name":"Hernando Siles",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

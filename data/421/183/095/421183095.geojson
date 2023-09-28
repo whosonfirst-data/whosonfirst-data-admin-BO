@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.169077,
-    "geom:area_square_m":25392689266.372749,
+    "geom:area_square_m":25392694885.291687,
     "geom:bbox":"-59.250338,-20.165863,-57.454433,-17.970812",
     "geom:latitude":-18.774908,
     "geom:longitude":-58.356682,
@@ -171,12 +171,13 @@
         "qs_pg:id":961920,
         "wd:id":"Q734606"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009357,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1c50ca366698123afca5502f24423ea3",
+    "wof:geomhash":"423f23c1fa7e0ff952bb129da41007ea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":421183095,
-    "wof:lastmodified":1690860367,
+    "wof:lastmodified":1695886585,
     "wof:name":"German Busch",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

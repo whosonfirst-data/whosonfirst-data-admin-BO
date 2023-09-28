@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.722963,
-    "geom:area_square_m":8323501427.384342,
+    "geom:area_square_m":8323501732.996183,
     "geom:bbox":"-66.46867,-21.860069,-65.24468,-20.876977",
     "geom:latitude":-21.394338,
     "geom:longitude":-65.893015,
@@ -140,9 +140,10 @@
         "hasc:id":"BO.PO.SC",
         "wd:id":"Q1425463"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896914,
-    "wof:geomhash":"1701d0fc7252d4ab16987782cd1c0e44",
+    "wof:geomhash":"f9cfb9e0d2914fae05322af579b49549",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1092009203,
-    "wof:lastmodified":1690860332,
+    "wof:lastmodified":1695886201,
     "wof:name":"Sur Chichas",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

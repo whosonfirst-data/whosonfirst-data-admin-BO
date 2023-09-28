@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.232142,
-    "geom:area_square_m":2741153566.707819,
+    "geom:area_square_m":2741153566.708559,
     "geom:bbox":"-65.8566109008,-17.5252013686,-65.1721550236,-16.8588027558",
     "geom:latitude":-17.263929,
     "geom:longitude":-65.463947,
@@ -88,9 +88,10 @@
     "wof:concordances":{
         "hasc:id":"BO.CB.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896820,
-    "wof:geomhash":"0db16fbbb4ae45dfb2c81cc16558609a",
+    "wof:geomhash":"8352663f10fe0a1b7fb068c346a2a897",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1092006851,
-    "wof:lastmodified":1566617457,
+    "wof:lastmodified":1695886192,
     "wof:name":"Tiraque",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

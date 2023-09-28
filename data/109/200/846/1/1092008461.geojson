@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.627505,
-    "geom:area_square_m":19716860857.144394,
+    "geom:area_square_m":19716862057.932735,
     "geom:bbox":"-69.257476,-12.500775,-66.01128,-10.801455",
     "geom:latitude":-11.544594,
     "geom:longitude":-68.008085,
@@ -133,9 +133,10 @@
         "hasc:id":"BO.PA.MN",
         "wd:id":"Q1473356"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896885,
-    "wof:geomhash":"f4e0076890e8daf7e8092cc2aa41d066",
+    "wof:geomhash":"046f9734a1511a793b45421efcee8da0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1092008461,
-    "wof:lastmodified":1690860326,
+    "wof:lastmodified":1695886190,
     "wof:name":"Manuripi",
     "wof:parent_id":85669417,
     "wof:placetype":"county",

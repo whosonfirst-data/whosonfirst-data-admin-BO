@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.607226,
-    "geom:area_square_m":7185170618.177658,
+    "geom:area_square_m":7185170411.730907,
     "geom:bbox":"-67.541185,-17.64175,-66.732113,-16.245133",
     "geom:latitude":-16.87131,
     "geom:longitude":-67.096316,
@@ -145,9 +145,10 @@
         "hasc:id":"BO.LP.IQ",
         "wd:id":"Q1325725"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896836,
-    "wof:geomhash":"a3b54ed25f2a1f85779ea750e1ced976",
+    "wof:geomhash":"ebab7a19f17e701949706a0ad8dc2435",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -157,7 +158,7 @@
         }
     ],
     "wof:id":1092007257,
-    "wof:lastmodified":1690860319,
+    "wof:lastmodified":1695886180,
     "wof:name":"Inquisivi",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

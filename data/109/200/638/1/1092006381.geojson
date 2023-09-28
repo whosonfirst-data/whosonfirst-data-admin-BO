@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.786444,
-    "geom:area_square_m":9316526641.697477,
+    "geom:area_square_m":9316526073.075935,
     "geom:bbox":"-67.005779,-17.449438,-66.141608,-15.673504",
     "geom:latitude":-16.650816,
     "geom:longitude":-66.604099,
@@ -142,9 +142,10 @@
         "hasc:id":"BO.CB.AY",
         "wd:id":"Q1365999"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896801,
-    "wof:geomhash":"38f1fd337e1e77243d2f169490d58402",
+    "wof:geomhash":"42bc8e99af0e113b4cb0f3c128dfedbc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1092006381,
-    "wof:lastmodified":1690860332,
+    "wof:lastmodified":1695886199,
     "wof:name":"Ayopaya",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

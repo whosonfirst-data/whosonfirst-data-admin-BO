@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.30621,
-    "geom:area_square_m":15478360679.356604,
+    "geom:area_square_m":15478359987.708546,
     "geom:bbox":"-66.332973,-17.50246,-64.725425,-15.789168",
     "geom:latitude":-16.595529,
     "geom:longitude":-65.559201,
@@ -165,12 +165,13 @@
         "wd:id":"Q1434538",
         "wk:page":"Chapare Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459008944,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7fdf3ca0a6c4eeb72d9fa5ab3c08124b",
+    "wof:geomhash":"85638a87ae1f661ddac58070e098a7f2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":421172489,
-    "wof:lastmodified":1690860354,
+    "wof:lastmodified":1695886575,
     "wof:name":"Chapare",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

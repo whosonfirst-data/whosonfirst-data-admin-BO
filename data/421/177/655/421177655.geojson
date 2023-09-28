@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.078854,
-    "geom:area_square_m":13127217026.15575,
+    "geom:area_square_m":13127218969.254843,
     "geom:bbox":"-66.592211,-10.853701,-65.28681,-9.669633",
     "geom:latitude":-10.248964,
     "geom:longitude":-65.962768,
@@ -147,12 +147,13 @@
         "qs_pg:id":1347477,
         "wd:id":"Q1473313"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009156,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"29470aead2686170740a208939970d0d",
+    "wof:geomhash":"0f0b702b5ca3b283cb037d27e6b3411d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":421177655,
-    "wof:lastmodified":1690860366,
+    "wof:lastmodified":1695886583,
     "wof:name":"Federico Roman",
     "wof:parent_id":85669417,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.219228,
-    "geom:area_square_m":2609034869.958585,
+    "geom:area_square_m":2609034869.958902,
     "geom:bbox":"-67.6828722048,-16.0584211131,-67.1344710918,-15.3310581071",
     "geom:latitude":-15.748474,
     "geom:longitude":-67.44851,
@@ -94,9 +94,10 @@
     "wof:concordances":{
         "hasc:id":"BO.LP.NY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896828,
-    "wof:geomhash":"16c3fd85ed43f3f7782b296482df485a",
+    "wof:geomhash":"a4e0c160d884a6ca76bf489ae8b8673d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1092007051,
-    "wof:lastmodified":1566617447,
+    "wof:lastmodified":1695886187,
     "wof:name":"Caranavi",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

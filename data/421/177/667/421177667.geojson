@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.32157,
-    "geom:area_square_m":3814644343.417772,
+    "geom:area_square_m":3814644949.411393,
     "geom:bbox":"-68.305092,-16.860646,-67.619086,-15.758642",
     "geom:latitude":-16.390227,
     "geom:longitude":-67.973052,
@@ -166,12 +166,13 @@
         "qs_pg:id":1347526,
         "wd:id":"Q590873"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009157,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ee5b569bf88cf2576df410892a8bcdcc",
+    "wof:geomhash":"94a14d480530d815f2b2fdf555bc8c17",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -181,7 +182,7 @@
         }
     ],
     "wof:id":421177667,
-    "wof:lastmodified":1690860363,
+    "wof:lastmodified":1695886579,
     "wof:name":"Murillo",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021187,
-    "geom:area_square_m":251622915.426106,
+    "geom:area_square_m":251623006.848332,
     "geom:bbox":"-69.232345,-16.30235,-68.802566,-15.953169",
     "geom:latitude":-16.160996,
     "geom:longitude":-69.010962,
@@ -171,12 +171,13 @@
         "wd:id":"Q1325738",
         "wk:page":"Manco Kapac Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009527,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d5fe3b3e61f6b9147a3308e6eae9921f",
+    "wof:geomhash":"44c44a2d4eec866b061f26c39536dd8e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":421187909,
-    "wof:lastmodified":1690860349,
+    "wof:lastmodified":1695886573,
     "wof:name":"Manco Kapac",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

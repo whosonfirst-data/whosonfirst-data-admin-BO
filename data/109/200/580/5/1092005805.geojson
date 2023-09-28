@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.239768,
-    "geom:area_square_m":14777402636.511433,
+    "geom:area_square_m":14777400543.385757,
     "geom:bbox":"-65.369019,-15.883952,-63.381395,-14.841481",
     "geom:latitude":-15.429334,
     "geom:longitude":-64.395828,
@@ -152,9 +152,10 @@
         "hasc:id":"BO.EB.MR",
         "wd:id":"Q841"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896775,
-    "wof:geomhash":"1a5749ec4ed1ae1aaf4932475c45d53b",
+    "wof:geomhash":"beec9d900aa925376091f12fb8177c0c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":1092005805,
-    "wof:lastmodified":1690860321,
+    "wof:lastmodified":1695886185,
     "wof:name":"Marban",
     "wof:parent_id":85669403,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.314203,
-    "geom:area_square_m":3676923098.673194,
+    "geom:area_square_m":3676922695.928562,
     "geom:bbox":"-65.695004,-19.375006,-65.007063,-18.345948",
     "geom:latitude":-18.843243,
     "geom:longitude":-65.308006,
@@ -666,12 +666,13 @@
         "qs_pg:id":1119108,
         "wd:id":"Q1420303"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009651,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ad708c93e54bb7027068b09b3eb1c8e8",
+    "wof:geomhash":"02d3f7181d33a8ec6e830901b4d7f6f7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -681,7 +682,7 @@
         }
     ],
     "wof:id":421190241,
-    "wof:lastmodified":1690860359,
+    "wof:lastmodified":1695886578,
     "wof:name":"Oropeza",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

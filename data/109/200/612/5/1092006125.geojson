@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147903,
-    "geom:area_square_m":1705590760.034843,
+    "geom:area_square_m":1705590438.970839,
     "geom:bbox":"-65.46675,-21.506912,-65.100056,-20.846957",
     "geom:latitude":-21.155121,
     "geom:longitude":-65.318074,
@@ -128,9 +128,10 @@
         "hasc:id":"BO.CQ.SC",
         "wd:id":"Q1420287"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896792,
-    "wof:geomhash":"7a2239fca71fe37e0295d363c0ee5a3c",
+    "wof:geomhash":"1e503aea6a96ae4268e1889cb6227e6c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1092006125,
-    "wof:lastmodified":1690860329,
+    "wof:lastmodified":1695886194,
     "wof:name":"Sur Cinti",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

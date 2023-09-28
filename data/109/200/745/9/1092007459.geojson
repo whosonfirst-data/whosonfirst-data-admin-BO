@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.150029,
-    "geom:area_square_m":1781642227.28685,
+    "geom:area_square_m":1781642402.548877,
     "geom:bbox":"-67.967154,-16.402101,-67.339305,-16.00119",
     "geom:latitude":-16.181443,
     "geom:longitude":-67.692477,
@@ -133,9 +133,10 @@
         "hasc:id":"BO.LP.NY",
         "wd:id":"Q389311"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896843,
-    "wof:geomhash":"469af4b87fee85fe8b5333e0355d5cc1",
+    "wof:geomhash":"546bc2f7f6ebd79e42f634e13c347799",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1092007459,
-    "wof:lastmodified":1690860335,
+    "wof:lastmodified":1695886207,
     "wof:name":"Nor Yungas",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

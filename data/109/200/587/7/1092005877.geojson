@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.342192,
-    "geom:area_square_m":16269085073.247162,
+    "geom:area_square_m":16269084618.186062,
     "geom:bbox":"-66.49241,-12.000077,-65.018892,-10.381218",
     "geom:latitude":-11.392536,
     "geom:longitude":-65.73989,
@@ -134,9 +134,10 @@
         "hasc:id":"BO.EB.VD",
         "wd:id":"Q1325798"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896779,
-    "wof:geomhash":"3c16f4d43dc85e3d61850dd637ad7041",
+    "wof:geomhash":"8418cf859c81b0a931289831d2476105",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":1092005877,
-    "wof:lastmodified":1690860322,
+    "wof:lastmodified":1695886185,
     "wof:name":"Vaca Diez",
     "wof:parent_id":85669403,
     "wof:placetype":"county",

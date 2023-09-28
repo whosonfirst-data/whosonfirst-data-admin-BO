@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.737515,
-    "geom:area_square_m":20916776876.714458,
+    "geom:area_square_m":20916777708.787117,
     "geom:bbox":"-65.34142,-14.23548,-64.203031,-11.889179",
     "geom:latitude":-13.188257,
     "geom:longitude":-64.713271,
@@ -164,9 +164,10 @@
         "hasc:id":"BO.EB.MM",
         "wd:id":"Q832"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896774,
-    "wof:geomhash":"0fc2385217aefc587b722920485300d0",
+    "wof:geomhash":"e689164ebdfa39306bb9c71d54ec1479",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":1092005759,
-    "wof:lastmodified":1690860320,
+    "wof:lastmodified":1695886181,
     "wof:name":"Mamore",
     "wof:parent_id":85669403,
     "wof:placetype":"county",

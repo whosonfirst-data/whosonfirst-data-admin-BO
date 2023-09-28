@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.708942,
-    "geom:area_square_m":8205127988.15949,
+    "geom:area_square_m":8205129424.250404,
     "geom:bbox":"-66.279128,-21.166145,-65.21704,-20.028636",
     "geom:latitude":-20.608804,
     "geom:longitude":-65.710221,
@@ -171,12 +171,13 @@
         "wd:id":"Q1360821",
         "wk:page":"Nor Chichas Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459008697,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d49f715da8938be51653f7dfe3536c06",
+    "wof:geomhash":"2291c24463e3b7fed8e762a146f3d882",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":421166639,
-    "wof:lastmodified":1690860340,
+    "wof:lastmodified":1695886564,
     "wof:name":"Nor Chichas",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

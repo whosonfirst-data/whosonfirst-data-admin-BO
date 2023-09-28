@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.891444,
-    "geom:area_square_m":10346717100.618843,
+    "geom:area_square_m":10346717148.987234,
     "geom:bbox":"-68.276771,-20.71655,-66.891077,-19.529769",
     "geom:latitude":-20.171071,
     "geom:longitude":-67.590143,
@@ -132,9 +132,10 @@
         "hasc:id":"BO.PO.NL",
         "wd:id":"Q1319477"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896921,
-    "wof:geomhash":"3574e1b8ebf44cb3e29106fe921541aa",
+    "wof:geomhash":"87a924d3f60b7267217562171109ec8b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1092009387,
-    "wof:lastmodified":1690860309,
+    "wof:lastmodified":1695886164,
     "wof:name":"Salar de Uyuni",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

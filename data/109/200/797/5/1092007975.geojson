@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059068,
-    "geom:area_square_m":690640426.812746,
+    "geom:area_square_m":690640353.255372,
     "geom:bbox":"-68.8412,-19.172204,-68.557205,-18.820963",
     "geom:latitude":-18.990136,
     "geom:longitude":-68.694555,
@@ -143,9 +143,10 @@
         "hasc:id":"BO.OR.AT",
         "wd:id":"Q1425469"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896863,
-    "wof:geomhash":"3e06557700e9f56cb6a043b3ab70a50a",
+    "wof:geomhash":"d548891626ba144529b45764d96aeb23",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":1092007975,
-    "wof:lastmodified":1690860308,
+    "wof:lastmodified":1695886645,
     "wof:name":"Mejillones",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

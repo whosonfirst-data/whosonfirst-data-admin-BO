@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.422613,
-    "geom:area_square_m":40291573992.229134,
+    "geom:area_square_m":40291571355.348564,
     "geom:bbox":"-62.816052,-18.66968,-58.960925,-17.009051",
     "geom:latitude":-17.814467,
     "geom:longitude":-60.785731,
@@ -139,9 +139,10 @@
         "hasc:id":"BO.SC.CQ",
         "wd:id":"Q1147271"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896927,
-    "wof:geomhash":"25609ee372efb912983dc195459bc8b5",
+    "wof:geomhash":"9a09b159ba04ab7ae53161f43bb6407f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1092009543,
-    "wof:lastmodified":1690860311,
+    "wof:lastmodified":1695886168,
     "wof:name":"Chiquitos",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

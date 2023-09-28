@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.593374,
-    "geom:area_square_m":6890159119.676464,
+    "geom:area_square_m":6890160230.746648,
     "geom:bbox":"-68.774038,-20.720733,-67.57141,-19.436504",
     "geom:latitude":-20.100771,
     "geom:longitude":-68.329004,
@@ -163,12 +163,13 @@
         "qs_pg:id":1347485,
         "wd:id":"Q938354"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009157,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"68dc82fa63752ed17c093c347beff16d",
+    "wof:geomhash":"fa70b756c0550bb332a21c24263841a0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":421177659,
-    "wof:lastmodified":1690860364,
+    "wof:lastmodified":1695886580,
     "wof:name":"Daniel Campos",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

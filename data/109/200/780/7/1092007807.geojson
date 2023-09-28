@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.359644,
-    "geom:area_square_m":4219692786.74083,
+    "geom:area_square_m":4219693274.277306,
     "geom:bbox":"-68.151564,-18.82365,-67.506831,-18.009654",
     "geom:latitude":-18.399762,
     "geom:longitude":-67.833783,
@@ -124,9 +124,10 @@
         "hasc:id":"BO.OR.CR",
         "wd:id":"Q1420332"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896857,
-    "wof:geomhash":"db7051b5762be27b832eb218de849d7d",
+    "wof:geomhash":"72a4c30408929476d56c148d1856bbc9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1092007807,
-    "wof:lastmodified":1690860334,
+    "wof:lastmodified":1695886205,
     "wof:name":"Carangas",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

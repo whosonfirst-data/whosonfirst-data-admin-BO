@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.682717,
-    "geom:area_square_m":20060400883.83287,
+    "geom:area_square_m":20060401740.217575,
     "geom:bbox":"-66.802798,-16.418886,-64.927053,-14.151259",
     "geom:latitude":-15.385513,
     "geom:longitude":-65.620235,
@@ -142,9 +142,10 @@
         "hasc:id":"BO.EB.MX",
         "wd:id":"Q1325710"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896777,
-    "wof:geomhash":"33bcf64de3f328b49ff099a931a4d347",
+    "wof:geomhash":"fc32945e1ad42aca1ab2ee2411c66c5a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1092005839,
-    "wof:lastmodified":1690860335,
+    "wof:lastmodified":1695886207,
     "wof:name":"Moxos",
     "wof:parent_id":85669403,
     "wof:placetype":"county",

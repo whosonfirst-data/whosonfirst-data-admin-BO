@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024553,
-    "geom:area_square_m":289668411.423226,
+    "geom:area_square_m":289668427.035575,
     "geom:bbox":"-66.280267,-17.534055,-66.067174,-17.278124",
     "geom:latitude":-17.426108,
     "geom:longitude":-66.169344,
@@ -141,12 +141,13 @@
         "wd:id":"Q200795",
         "wk:page":"Cercado Province (Cochabamba)"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009652,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2db3ac40954e5c3ac8d88bc079f4c00d",
+    "wof:geomhash":"67aa162654291be3a8bd6f6cf780a90b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":421190243,
-    "wof:lastmodified":1690860359,
+    "wof:lastmodified":1695886577,
     "wof:name":"Cercado",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

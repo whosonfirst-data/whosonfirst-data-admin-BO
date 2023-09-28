@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.661952,
-    "geom:area_square_m":7673112714.068584,
+    "geom:area_square_m":7673112852.004519,
     "geom:bbox":"-65.379251,-20.901987,-64.27278,-19.78001",
     "geom:latitude":-20.372282,
     "geom:longitude":-64.914458,
@@ -136,9 +136,10 @@
         "hasc:id":"BO.CQ.NC",
         "wd:id":"Q1420337"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896788,
-    "wof:geomhash":"03b20891c20c66e607909eb468d6df46",
+    "wof:geomhash":"a56ff25c1335d8634d74c49809862931",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1092006003,
-    "wof:lastmodified":1690860331,
+    "wof:lastmodified":1695886198,
     "wof:name":"Nor Cinti",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

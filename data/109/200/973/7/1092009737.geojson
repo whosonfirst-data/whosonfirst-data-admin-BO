@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.18089,
-    "geom:area_square_m":26001685644.22715,
+    "geom:area_square_m":26001683872.253365,
     "geom:bbox":"-64.727067,-16.42365,-62.768437,-14.11085",
     "geom:latitude":-15.367034,
     "geom:longitude":-63.373434,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"BO.EB.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896934,
-    "wof:geomhash":"9925397499c76657a17c81f5cc237258",
+    "wof:geomhash":"a9ae3da4de109b50e5ccaf654e8df4dd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1092009737,
-    "wof:lastmodified":1627521600,
+    "wof:lastmodified":1695886183,
     "wof:name":"Guarayos",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.747365,
-    "geom:area_square_m":8887140074.079288,
+    "geom:area_square_m":8887139647.496256,
     "geom:bbox":"-67.954757,-16.74249,-66.802798,-14.922203",
     "geom:latitude":-15.907143,
     "geom:longitude":-67.295961,
@@ -178,12 +178,13 @@
         "wd:id":"Q609394",
         "wk:page":"Sud Yungas Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459008753,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"13655a0c5646a91a3ea0d727bbb940ec",
+    "wof:geomhash":"17227663629724ef0dc98103f81f6f0f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -193,7 +194,7 @@
         }
     ],
     "wof:id":421168083,
-    "wof:lastmodified":1690860339,
+    "wof:lastmodified":1695886565,
     "wof:name":"Sur Yungas",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

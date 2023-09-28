@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.230081,
-    "geom:area_square_m":2641955620.778301,
+    "geom:area_square_m":2641955015.285962,
     "geom:bbox":"-65.419242,-22.085651,-64.482549,-21.479175",
     "geom:latitude":-21.776836,
     "geom:longitude":-65.025806,
@@ -123,9 +123,10 @@
         "hasc:id":"BO.TR.AV",
         "wd:id":"Q1409118"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896952,
-    "wof:geomhash":"0b866aa066bd8a82bc95744cdf7d39e1",
+    "wof:geomhash":"cc41efab09094188ad0b36c43b47a080",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1092010137,
-    "wof:lastmodified":1690860336,
+    "wof:lastmodified":1695886209,
     "wof:name":"Avilez",
     "wof:parent_id":85669431,
     "wof:placetype":"county",

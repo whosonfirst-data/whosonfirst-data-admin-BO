@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.898475,
-    "geom:area_square_m":10753894301.895065,
+    "geom:area_square_m":10753900816.560181,
     "geom:bbox":"-65.119646,-15.074093,-63.756706,-13.979852",
     "geom:latitude":-14.542917,
     "geom:longitude":-64.491203,
@@ -134,12 +134,13 @@
         "qs_pg:id":74566,
         "wd:id":"Q120891"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009698,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"57e0fa72ae19611d99ca2c3c24b0429c",
+    "wof:geomhash":"edce1cbf8db259c1407f9eb22d27efdc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421191613,
-    "wof:lastmodified":1690860358,
+    "wof:lastmodified":1695886578,
     "wof:name":"Cercado",
     "wof:parent_id":85669403,
     "wof:placetype":"county",

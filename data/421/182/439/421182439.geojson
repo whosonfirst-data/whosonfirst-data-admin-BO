@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.964132,
-    "geom:area_square_m":11373824931.449486,
+    "geom:area_square_m":11373825537.82152,
     "geom:bbox":"-69.469031,-18.053321,-68.08957,-16.781116",
     "geom:latitude":-17.435089,
     "geom:longitude":-68.778648,
@@ -156,12 +156,13 @@
         "wd:id":"Q1355941",
         "wk:page":"Pacajes Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009330,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f4c5e3e3b8fa7641aa926f4a92e55ff0",
+    "wof:geomhash":"420ab42d77e502e67d6463315b616ba6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":421182439,
-    "wof:lastmodified":1690860367,
+    "wof:lastmodified":1695886584,
     "wof:name":"Pacajes",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

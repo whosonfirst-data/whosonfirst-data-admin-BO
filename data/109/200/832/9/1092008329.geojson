@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.766957,
-    "geom:area_square_m":9321840506.714638,
+    "geom:area_square_m":9321840506.715843,
     "geom:bbox":"-67.5617290092,-11.1059981361,-66.4461857681,-9.89623628305",
     "geom:latitude":-10.593805,
     "geom:longitude":-66.950994,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"BO.PA.GR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896880,
-    "wof:geomhash":"f61805c1a62205f9c0c938144c9cfcc0",
+    "wof:geomhash":"64d0d306df395a6c737a94bf42eb56e5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1092008329,
-    "wof:lastmodified":1566617439,
+    "wof:lastmodified":1695886179,
     "wof:name":"Abuna",
     "wof:parent_id":85669417,
     "wof:placetype":"county",

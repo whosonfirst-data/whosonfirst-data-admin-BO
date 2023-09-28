@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.38783,
-    "geom:area_square_m":4580161357.695859,
+    "geom:area_square_m":4580161300.517904,
     "geom:bbox":"-68.380254,-17.589804,-67.37238,-16.751997",
     "geom:latitude":-17.237871,
     "geom:longitude":-67.881311,
@@ -151,9 +151,10 @@
         "hasc:id":"BO.LP.AR",
         "wd:id":"Q490997"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896823,
-    "wof:geomhash":"edc41bc01d9a866a507be275bb88678f",
+    "wof:geomhash":"42bf0e9194130256ada1338e97d8c972",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -163,7 +164,7 @@
         }
     ],
     "wof:id":1092006923,
-    "wof:lastmodified":1690860318,
+    "wof:lastmodified":1695886179,
     "wof:name":"Aroma",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

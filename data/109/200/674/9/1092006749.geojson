@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034551,
-    "geom:area_square_m":407271713.430082,
+    "geom:area_square_m":407271922.272271,
     "geom:bbox":"-65.952655,-17.746418,-65.714915,-17.439376",
     "geom:latitude":-17.579541,
     "geom:longitude":-65.841901,
@@ -145,9 +145,10 @@
         "hasc:id":"BO.CB.PN",
         "wd:id":"Q1424427"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896815,
-    "wof:geomhash":"7489c01fbe06199907ce20cb70923f21",
+    "wof:geomhash":"1da4de12ad1898820b60d64b098663a9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -157,7 +158,7 @@
         }
     ],
     "wof:id":1092006749,
-    "wof:lastmodified":1690860315,
+    "wof:lastmodified":1695886647,
     "wof:name":"Punata",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

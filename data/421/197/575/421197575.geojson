@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.231133,
-    "geom:area_square_m":2742137345.846323,
+    "geom:area_square_m":2742137312.479482,
     "geom:bbox":"-68.780707,-16.773523,-68.153723,-16.008144",
     "geom:latitude":-16.369949,
     "geom:longitude":-68.440556,
@@ -139,12 +139,13 @@
         "wd:id":"Q1355950",
         "wk:page":"Los Andes Province (Bolivia)"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009918,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9b905e2dc76576b75b7fe8e6f39e12a0",
+    "wof:geomhash":"ba46f08663395cd841fb4c10118f7d11",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":421197575,
-    "wof:lastmodified":1690860360,
+    "wof:lastmodified":1695886650,
     "wof:name":"Los Andes",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

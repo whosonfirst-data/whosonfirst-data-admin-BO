@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.12014,
-    "geom:area_square_m":1411733051.237584,
+    "geom:area_square_m":1411732827.567023,
     "geom:bbox":"-66.772998,-18.388785,-66.182045,-17.947071",
     "geom:latitude":-18.138006,
     "geom:longitude":-66.428813,
@@ -130,9 +130,10 @@
         "hasc:id":"BO.PO.AI",
         "wd:id":"Q1360913"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896889,
-    "wof:geomhash":"6a3058a6fe46c4c80c83d918d891e241",
+    "wof:geomhash":"fd6ae4d412016f5458892ccd04c7da3f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":1092008665,
-    "wof:lastmodified":1690860316,
+    "wof:lastmodified":1695886177,
     "wof:name":"Alonso de Ibanez",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

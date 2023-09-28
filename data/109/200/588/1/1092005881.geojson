@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.261962,
-    "geom:area_square_m":3043694143.189597,
+    "geom:area_square_m":3043693980.702921,
     "geom:bbox":"-64.776159,-20.485821,-64.280617,-19.557504",
     "geom:latitude":-20.007155,
     "geom:longitude":-64.488159,
@@ -129,9 +129,10 @@
         "hasc:id":"BO.CQ.AZ",
         "wd:id":"Q1477938"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896782,
-    "wof:geomhash":"99fd23b4a38b064465f637a74ab1c8ab",
+    "wof:geomhash":"31a48d42c0dda630f0811ca4db29ea8c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1092005881,
-    "wof:lastmodified":1690860320,
+    "wof:lastmodified":1695886182,
     "wof:name":"Azurduy",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

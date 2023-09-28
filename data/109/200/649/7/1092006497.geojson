@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083547,
-    "geom:area_square_m":984095374.819761,
+    "geom:area_square_m":984095668.214241,
     "geom:bbox":"-66.393835,-17.951729,-66.107717,-17.472591",
     "geom:latitude":-17.713516,
     "geom:longitude":-66.241323,
@@ -142,9 +142,10 @@
         "hasc:id":"BO.CB.CP",
         "wd:id":"Q1366004"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896806,
-    "wof:geomhash":"2244fe8d8dfc07ae6fba6f43f30feddd",
+    "wof:geomhash":"f6aa9b11032e6323e5acd939e8e8bdda",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1092006497,
-    "wof:lastmodified":1690860327,
+    "wof:lastmodified":1695886192,
     "wof:name":"Capinota",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

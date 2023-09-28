@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.435763,
-    "geom:area_square_m":5128166192.900427,
+    "geom:area_square_m":5128165915.581566,
     "geom:bbox":"-67.731506,-18.577855,-66.712267,-17.323932",
     "geom:latitude":-17.873951,
     "geom:longitude":-67.169132,
@@ -129,12 +129,13 @@
         "wd:id":"Q590859",
         "wk:page":"Cercado Province (Oruro)"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009528,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"753d87c2f718f5e08be2a832eaa543a4",
+    "wof:geomhash":"fea4d00d67be8d321266408d28a72189",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":421187927,
-    "wof:lastmodified":1690860351,
+    "wof:lastmodified":1695886574,
     "wof:name":"Cercado",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

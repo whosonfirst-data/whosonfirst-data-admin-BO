@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.522619,
-    "geom:area_square_m":6122228148.916579,
+    "geom:area_square_m":6122227985.198139,
     "geom:bbox":"-64.494877,-19.184845,-63.523674,-18.159674",
     "geom:latitude":-18.668484,
     "geom:longitude":-63.993803,
@@ -169,12 +169,13 @@
         "qs_pg:id":902719,
         "wd:id":"Q1215562"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009772,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"23609134d93b056575988b7009ae80e8",
+    "wof:geomhash":"8a404041384f85edc4b19d896f2853c8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -184,7 +185,7 @@
         }
     ],
     "wof:id":421193471,
-    "wof:lastmodified":1690860342,
+    "wof:lastmodified":1695886567,
     "wof:name":"Valle Grande",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.291411,
-    "geom:area_square_m":27058144374.175766,
+    "geom:area_square_m":27058140633.40411,
     "geom:bbox":"-59.527878,-18.079782,-57.636516,-16.262846",
     "geom:latitude":-17.250602,
     "geom:longitude":-58.820726,
@@ -58,9 +58,10 @@
     "wof:concordances":{
         "hasc:id":"BO.SC.VL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896926,
-    "wof:geomhash":"559b7d15145d94f02b51045244c1fb3c",
+    "wof:geomhash":"978185d51eb99b742badb0d59f069702",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1092009511,
-    "wof:lastmodified":1627521600,
+    "wof:lastmodified":1695886183,
     "wof:name":"Angel Sandoval",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

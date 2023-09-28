@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147342,
-    "geom:area_square_m":1727762235.556295,
+    "geom:area_square_m":1727762595.247302,
     "geom:bbox":"-67.105543,-18.790971,-66.694046,-18.212433",
     "geom:latitude":-18.499716,
     "geom:longitude":-66.900038,
@@ -137,9 +137,10 @@
         "hasc:id":"BO.OR.PP",
         "wd:id":"Q1420274"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896868,
-    "wof:geomhash":"56e30c36a974698ef25048436598b736",
+    "wof:geomhash":"f340e0af053f96c2d383b2e7d4eae3e6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":1092007991,
-    "wof:lastmodified":1690860310,
+    "wof:lastmodified":1695886168,
     "wof:name":"Poopo",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

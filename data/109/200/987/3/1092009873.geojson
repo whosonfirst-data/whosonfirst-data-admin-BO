@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.362643,
-    "geom:area_square_m":51917173008.971176,
+    "geom:area_square_m":51917171753.330261,
     "geom:bbox":"-63.45562,-17.525375,-61.369149,-13.759605",
     "geom:latitude":-15.732201,
     "geom:longitude":-62.292994,
@@ -130,9 +130,10 @@
         "hasc:id":"BO.SC.NC",
         "wd:id":"Q1215592"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896939,
-    "wof:geomhash":"f989c60c2a653a7d8b5c7110665e0225",
+    "wof:geomhash":"7bce43ef5c78f57eb34e8a861ec005b2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":1092009873,
-    "wof:lastmodified":1690860333,
+    "wof:lastmodified":1695886202,
     "wof:name":"Nuflo De Chavez",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

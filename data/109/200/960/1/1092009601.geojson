@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.21181,
-    "geom:area_square_m":84249224776.382202,
+    "geom:area_square_m":84249223801.996323,
     "geom:bbox":"-63.757261,-20.473214,-58.870368,-18.016558",
     "geom:latitude":-19.124907,
     "geom:longitude":-61.861531,
@@ -145,9 +145,10 @@
         "hasc:id":"BO.SC.CR",
         "wd:id":"Q652371"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896929,
-    "wof:geomhash":"05e5e813fd42d7d67812965468872f60",
+    "wof:geomhash":"56548173b103e4826d771a436c6d4065",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -157,7 +158,7 @@
         }
     ],
     "wof:id":1092009601,
-    "wof:lastmodified":1690860325,
+    "wof:lastmodified":1695886649,
     "wof:name":"Cordillera",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

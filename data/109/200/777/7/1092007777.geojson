@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.297462,
-    "geom:area_square_m":3477483707.473928,
+    "geom:area_square_m":3477483707.130676,
     "geom:bbox":"-67.0177,-19.46247,-66.077663,-18.589688",
     "geom:latitude":-19.013369,
     "geom:longitude":-66.613517,
@@ -114,9 +114,10 @@
         "hasc:id":"BO.OR.AV",
         "wd:id":"Q1427732"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896855,
-    "wof:geomhash":"5087ea73f73be0ba69e7343d7aea73d8",
+    "wof:geomhash":"de04afd51865d124a7d91973814be4a2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1092007777,
-    "wof:lastmodified":1690860321,
+    "wof:lastmodified":1695886184,
     "wof:name":"Abaroa",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

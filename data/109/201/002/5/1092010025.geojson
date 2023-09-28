@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.758214,
-    "geom:area_square_m":68586234830.5056,
+    "geom:area_square_m":68586234755.570473,
     "geom:bbox":"-62.144669,-17.402521,-59.495547,-13.476198",
     "geom:latitude":-15.538285,
     "geom:longitude":-60.909788,
@@ -114,9 +114,10 @@
         "hasc:id":"BO.SC.VL",
         "wd:id":"Q1215518"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896947,
-    "wof:geomhash":"3c3fecf0f8440dfa07b961ce9d6ca7db",
+    "wof:geomhash":"22db172deb4e99b9f6b3b797c4d3ab86",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1092010025,
-    "wof:lastmodified":1690860338,
+    "wof:lastmodified":1695886210,
     "wof:name":"Velasco",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

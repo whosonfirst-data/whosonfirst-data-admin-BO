@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.657704,
-    "geom:area_square_m":7725426430.31803,
+    "geom:area_square_m":7725426207.500992,
     "geom:bbox":"-69.142341,-18.625643,-67.905484,-17.593356",
     "geom:latitude":-18.206828,
     "geom:longitude":-68.576688,
@@ -114,12 +114,13 @@
         "wd:id":"Q1427724",
         "wk:page":"Nor Carangas Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459010171,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f627263c47e39057acc7744a2816ac50",
+    "wof:geomhash":"d5f3f2204fb8b9299b37df89cfbc45e9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421204017,
-    "wof:lastmodified":1690860346,
+    "wof:lastmodified":1695886572,
     "wof:name":"Sajama",
     "wof:parent_id":85669413,
     "wof:placetype":"county",
