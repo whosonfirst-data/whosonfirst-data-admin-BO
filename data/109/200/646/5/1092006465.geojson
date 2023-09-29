@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.501666,
-    "geom:area_square_m":5888905180.517859,
+    "geom:area_square_m":5888904684.672158,
     "geom:bbox":"-65.354904,-18.682883,-64.27749,-17.866714",
     "geom:latitude":-18.31596,
     "geom:longitude":-64.873532,
@@ -132,9 +132,10 @@
         "hasc:id":"BO.CB.CM",
         "wd:id":"Q1360942"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896804,
-    "wof:geomhash":"d24669641a282763a4d67d8d53320b6b",
+    "wof:geomhash":"8435519ef290d044e7fe602eadb0cfd5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1092006465,
-    "wof:lastmodified":1690860329,
+    "wof:lastmodified":1695886195,
     "wof:name":"Campero",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.80676,
-    "geom:area_square_m":9791471367.64328,
+    "geom:area_square_m":9791471335.885017,
     "geom:bbox":"-69.574807,-11.467762,-67.18497,-10.313477",
     "geom:latitude":-11.027089,
     "geom:longitude":-68.380525,
@@ -58,9 +58,10 @@
     "wof:concordances":{
         "hasc:id":"BO.PA.GR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896887,
-    "wof:geomhash":"32a1af71656328260c827d38eda25d62",
+    "wof:geomhash":"c2a2a12a442d908d4eb7878205854da8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1092008501,
-    "wof:lastmodified":1627521601,
+    "wof:lastmodified":1695886185,
     "wof:name":"Nicolas Suarez",
     "wof:parent_id":85669417,
     "wof:placetype":"county",

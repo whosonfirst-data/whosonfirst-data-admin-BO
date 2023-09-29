@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.26813,
-    "geom:area_square_m":3186297218.447879,
+    "geom:area_square_m":3186298314.806644,
     "geom:bbox":"-69.40919,-16.680834,-68.567064,-15.53695",
     "geom:latitude":-16.044246,
     "geom:longitude":-69.033534,
@@ -137,9 +137,10 @@
         "hasc:id":"BO.LP.OM",
         "wd:id":"Q951271"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896851,
-    "wof:geomhash":"21cb8a3efa0ed677dc230c02f9c1f003",
+    "wof:geomhash":"98817903b3de79a39b2c9d7923ee15cc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":1092007659,
-    "wof:lastmodified":1690860312,
+    "wof:lastmodified":1695886171,
     "wof:name":"Lago Titicaca",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

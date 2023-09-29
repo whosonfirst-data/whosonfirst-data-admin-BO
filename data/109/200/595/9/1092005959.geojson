@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.114127,
-    "geom:area_square_m":12904572511.663326,
+    "geom:area_square_m":12904572860.902748,
     "geom:bbox":"-64.012281,-21.0037,-62.191836,-19.030713",
     "geom:latitude":-20.486732,
     "geom:longitude":-63.223673,
@@ -139,9 +139,10 @@
         "hasc:id":"BO.CQ.LC",
         "wd:id":"Q1419381"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896786,
-    "wof:geomhash":"4ab1e51a789fc28c46caf9e767426d04",
+    "wof:geomhash":"c33058316102e6d6d1afb8053ee60826",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1092005959,
-    "wof:lastmodified":1690860312,
+    "wof:lastmodified":1695886170,
     "wof:name":"Luis Calvo",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

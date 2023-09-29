@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198648,
-    "geom:area_square_m":2329489820.470249,
+    "geom:area_square_m":2329489548.996849,
     "geom:bbox":"-66.741056,-18.771963,-66.177441,-18.178455",
     "geom:latitude":-18.492137,
     "geom:longitude":-66.481175,
@@ -139,9 +139,10 @@
         "hasc:id":"BO.PO.RB",
         "wd:id":"Q1360897"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896912,
-    "wof:geomhash":"b37a69c409a0a3db8a37a5c6cfc7a6d3",
+    "wof:geomhash":"37789e366c49773f76f4feeadcc7d78c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1092009153,
-    "wof:lastmodified":1690860319,
+    "wof:lastmodified":1695886181,
     "wof:name":"Rafael Bustillo",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

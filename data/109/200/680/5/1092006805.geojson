@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140136,
-    "geom:area_square_m":1651912085.965239,
+    "geom:area_square_m":1651912161.07656,
     "geom:bbox":"-66.932959,-17.794078,-66.38829,-17.366645",
     "geom:latitude":-17.576767,
     "geom:longitude":-66.661235,
@@ -140,9 +140,10 @@
         "hasc:id":"BO.CB.TP",
         "wd:id":"Q277886"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896818,
-    "wof:geomhash":"75eac2fb65f1a23d5ca137a923911ead",
+    "wof:geomhash":"67ac4cbc1d468b5342fa3d2cf88c11a1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1092006805,
-    "wof:lastmodified":1690860315,
+    "wof:lastmodified":1695886175,
     "wof:name":"Tapacari",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

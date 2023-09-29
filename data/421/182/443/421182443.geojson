@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.42145,
-    "geom:area_square_m":4825724873.994602,
+    "geom:area_square_m":4825724947.355252,
     "geom:bbox":"-65.056236,-22.880182,-64.100419,-21.795411",
     "geom:latitude":-22.177659,
     "geom:longitude":-64.514637,
@@ -152,12 +152,13 @@
         "wd:id":"Q679350",
         "wk:page":"Aniceto Arce Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009330,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b6b2257dad46565b60e18ce680594df9",
+    "wof:geomhash":"84b218f62908485e0a09f965f016632c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":421182443,
-    "wof:lastmodified":1690860368,
+    "wof:lastmodified":1695886586,
     "wof:name":"Arce",
     "wof:parent_id":85669431,
     "wof:placetype":"county",

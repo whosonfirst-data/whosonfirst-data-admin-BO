@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.404881,
-    "geom:area_square_m":4764416265.467095,
+    "geom:area_square_m":4764416567.292834,
     "geom:bbox":"-63.646758,-18.27145,-62.748636,-17.508098",
     "geom:latitude":-17.887353,
     "geom:longitude":-63.202034,
@@ -193,12 +193,13 @@
         "wd:id":"Q582935",
         "wk:page":"Andr\u00e9s Ib\u00e1\u00f1ez Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009528,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4fb74879daf962c06f3cda87848875db",
+    "wof:geomhash":"f265bc7970b2270cd10d78fc7940797c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -208,7 +209,7 @@
         }
     ],
     "wof:id":421187923,
-    "wof:lastmodified":1690860349,
+    "wof:lastmodified":1695886573,
     "wof:name":"Andres Ibanez",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

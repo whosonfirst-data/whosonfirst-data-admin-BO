@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091092,
-    "geom:area_square_m":1072316823.989844,
+    "geom:area_square_m":1072316697.893151,
     "geom:bbox":"-66.776089,-17.976158,-66.251083,-17.671911",
     "geom:latitude":-17.821726,
     "geom:longitude":-66.527521,
@@ -133,9 +133,10 @@
         "hasc:id":"BO.CB.AQ",
         "wd:id":"Q1366072"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896800,
-    "wof:geomhash":"670c10a06dae058eb8912b020824d3d0",
+    "wof:geomhash":"0ee03ab2a7531e4c355813e369b681cf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1092006343,
-    "wof:lastmodified":1690860316,
+    "wof:lastmodified":1695886177,
     "wof:name":"Arque",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

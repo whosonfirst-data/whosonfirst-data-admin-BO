@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.397364,
-    "geom:area_square_m":40778313262.043953,
+    "geom:area_square_m":40778321295.10733,
     "geom:bbox":"-67.566214,-15.864973,-66.235217,-11.373438",
     "geom:latitude":-13.870539,
     "geom:longitude":-66.814979,
@@ -159,9 +159,10 @@
         "hasc:id":"BO.EB.GB",
         "wd:id":"Q827"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896770,
-    "wof:geomhash":"b2b2b31c05efd8733500431f6b766c74",
+    "wof:geomhash":"8334b365c0b9301d3dc6c8260498ba32",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":1092005669,
-    "wof:lastmodified":1690860311,
+    "wof:lastmodified":1695886169,
     "wof:name":"General Jose Balliv",
     "wof:parent_id":85669403,
     "wof:placetype":"county",

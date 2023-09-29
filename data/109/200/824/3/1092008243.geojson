@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.290217,
-    "geom:area_square_m":3395345031.902576,
+    "geom:area_square_m":3395345073.643208,
     "geom:bbox":"-67.965409,-19.099138,-67.056954,-18.587858",
     "geom:latitude":-18.888058,
     "geom:longitude":-67.502043,
@@ -125,9 +125,10 @@
         "hasc:id":"BO.OR.CR",
         "wd:id":"Q1420332"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896877,
-    "wof:geomhash":"2a3c94a771518681fad6849c6543c632",
+    "wof:geomhash":"0e22b3268562b8e880c49caf95e41c3f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1092008243,
-    "wof:lastmodified":1690860328,
+    "wof:lastmodified":1695886193,
     "wof:name":"Sur Carangas",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.851556,
-    "geom:area_square_m":10142115509.153675,
+    "geom:area_square_m":10142115000.85639,
     "geom:bbox":"-68.854894,-16.106023,-67.472322,-15.123657",
     "geom:latitude":-15.59126,
     "geom:longitude":-68.16875,
@@ -175,12 +175,13 @@
         "wd:id":"Q1325760",
         "wk:page":"Larecaja Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009528,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"50f77ee467efd581d29c1adc40241934",
+    "wof:geomhash":"489ca82a252a365de247a2c4497a165f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -190,7 +191,7 @@
         }
     ],
     "wof:id":421187929,
-    "wof:lastmodified":1690860350,
+    "wof:lastmodified":1695886575,
     "wof:name":"Larecaja",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

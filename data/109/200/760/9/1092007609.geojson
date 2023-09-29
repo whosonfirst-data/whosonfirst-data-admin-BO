@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110088,
-    "geom:area_square_m":1288310937.705189,
+    "geom:area_square_m":1288310734.11964,
     "geom:bbox":"-67.267097,-19.200177,-66.860916,-18.447642",
     "geom:latitude":-18.841056,
     "geom:longitude":-67.049331,
@@ -129,9 +129,10 @@
         "hasc:id":"BO.OR.AV",
         "wd:id":"Q1427732"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896849,
-    "wof:geomhash":"7ec79562a392d507ed74800b8e81516d",
+    "wof:geomhash":"1477f371e8fd9ce903a098d504d65e12",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1092007609,
-    "wof:lastmodified":1690860324,
+    "wof:lastmodified":1695886188,
     "wof:name":"Lago Poopo",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

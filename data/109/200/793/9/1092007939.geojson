@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.212332,
-    "geom:area_square_m":2485800118.798544,
+    "geom:area_square_m":2485799709.220102,
     "geom:bbox":"-68.496389,-19.037507,-67.837731,-18.489971",
     "geom:latitude":-18.775851,
     "geom:longitude":-68.202474,
@@ -142,9 +142,10 @@
         "hasc:id":"BO.OR.LT",
         "wd:id":"Q388758"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896862,
-    "wof:geomhash":"d0c7b74b0fe177282e06009a0412b114",
+    "wof:geomhash":"e08d4ee2f16fcf0613d6978afc3c19df",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1092007939,
-    "wof:lastmodified":1690860324,
+    "wof:lastmodified":1695886649,
     "wof:name":"Litoral",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

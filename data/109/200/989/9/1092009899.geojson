@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.432973,
-    "geom:area_square_m":5126964409.498692,
+    "geom:area_square_m":5126964351.833764,
     "geom:bbox":"-64.230275,-17.418886,-63.023551,-16.042761",
     "geom:latitude":-16.734705,
     "geom:longitude":-63.454765,
@@ -140,9 +140,10 @@
         "hasc:id":"BO.SC.OS",
         "wd:id":"Q1215579"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896941,
-    "wof:geomhash":"2ea8c231d04a50149534a303b2e63481",
+    "wof:geomhash":"36e3e0c12b9d54333f9f47ed999a5e09",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1092009899,
-    "wof:lastmodified":1690860334,
+    "wof:lastmodified":1695886204,
     "wof:name":"Obispo Santisteban",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185934,
-    "geom:area_square_m":2138202111.224134,
+    "geom:area_square_m":2138202947.555808,
     "geom:bbox":"-65.011637,-21.869021,-64.331717,-21.237378",
     "geom:latitude":-21.562576,
     "geom:longitude":-64.59734,
@@ -138,12 +138,13 @@
         "wd:id":"Q328661",
         "wk:page":"Cercado Province (Tarija)"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459008800,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c00a1637059df320f109aad9e316fc88",
+    "wof:geomhash":"92f8a28212f517962aff3f6c818699b5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":421169233,
-    "wof:lastmodified":1690860344,
+    "wof:lastmodified":1695886571,
     "wof:name":"Cercado",
     "wof:parent_id":85669431,
     "wof:placetype":"county",

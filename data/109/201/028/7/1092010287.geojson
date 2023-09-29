@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.350292,
-    "geom:area_square_m":4036708940.663196,
+    "geom:area_square_m":4036708988.661067,
     "geom:bbox":"-65.249947,-21.617009,-64.390423,-20.931364",
     "geom:latitude":-21.257311,
     "geom:longitude":-64.876988,
@@ -123,9 +123,10 @@
         "hasc:id":"BO.TR.MD",
         "wd:id":"Q1473342"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896958,
-    "wof:geomhash":"298571d2d1cc0514cecb29c22866c09b",
+    "wof:geomhash":"bf48c9bca0f0d8e41ec27fafcbb315a0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1092010287,
-    "wof:lastmodified":1690860337,
+    "wof:lastmodified":1695886209,
     "wof:name":"Mendez",
     "wof:parent_id":85669431,
     "wof:placetype":"county",

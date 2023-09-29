@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.512282,
-    "geom:area_square_m":5975433063.387566,
+    "geom:area_square_m":5975432633.014495,
     "geom:bbox":"-68.094436,-19.88625,-66.987438,-19.049791",
     "geom:latitude":-19.382265,
     "geom:longitude":-67.536711,
@@ -136,9 +136,10 @@
         "hasc:id":"BO.OR.LC",
         "wd:id":"Q1420326"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896860,
-    "wof:geomhash":"52faf5c97ebaac91336c69fe25fea5b8",
+    "wof:geomhash":"8cf6402c0f1e1dbdb9a7d7a19f3f174d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1092007893,
-    "wof:lastmodified":1690860334,
+    "wof:lastmodified":1695886205,
     "wof:name":"Ladislao Cabrera",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.24496,
-    "geom:area_square_m":37306789134.150726,
+    "geom:area_square_m":37306789772.11525,
     "geom:bbox":"-65.419242,-22.880182,-62.260665,-20.88733",
     "geom:latitude":-21.597129,
     "geom:longitude":-63.880432,
@@ -349,17 +349,19 @@
         "gn:id":3903319,
         "gp:id":2344809,
         "hasc:id":"BO.TR",
+        "iso:code":"BO-T",
         "iso:id":"BO-T",
         "qs_pg:id":219510,
         "unlc:id":"BO-T",
         "wd:id":"Q233933",
         "wk:page":"Tarija Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7a2b16e6f2fdef1b4e299bf92b4b47eb",
+    "wof:geomhash":"445d07e9c4a9a51b1e38847e29af03e9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -378,7 +380,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1690860296,
+    "wof:lastmodified":1695884789,
     "wof:name":"Tarija",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

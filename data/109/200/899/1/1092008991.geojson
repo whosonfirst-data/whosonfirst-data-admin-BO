@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.420073,
-    "geom:area_square_m":4885652723.635115,
+    "geom:area_square_m":4885652080.703075,
     "geom:bbox":"-65.888741,-20.240862,-64.714226,-19.470552",
     "geom:latitude":-19.849804,
     "geom:longitude":-65.312178,
@@ -140,9 +140,10 @@
         "hasc:id":"BO.PO.JL",
         "wd:id":"Q1416432"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896906,
-    "wof:geomhash":"fc4cc794cfdfcfacbd5b12fc9b19d019",
+    "wof:geomhash":"b34c468c5ba54de066cf1c4c93f81ce7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1092008991,
-    "wof:lastmodified":1690860331,
+    "wof:lastmodified":1695886200,
     "wof:name":"Jose Maria Linares",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

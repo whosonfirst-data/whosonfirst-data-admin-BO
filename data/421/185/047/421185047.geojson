@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112107,
-    "geom:area_square_m":1320165592.650211,
+    "geom:area_square_m":1320165641.363549,
     "geom:bbox":"-66.179096,-17.996656,-65.717206,-17.472099",
     "geom:latitude":-17.758946,
     "geom:longitude":-65.956176,
@@ -171,12 +171,13 @@
         "wd:id":"Q283889",
         "wk:page":"Esteban Arce Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009431,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"faac9fd9eb8c34faeb1bfab2f0b31e24",
+    "wof:geomhash":"0c49e39c9e261efbaf1e837fe9d6d78b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":421185047,
-    "wof:lastmodified":1690860370,
+    "wof:lastmodified":1695886587,
     "wof:name":"Esteban Arce",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

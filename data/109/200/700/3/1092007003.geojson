@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149702,
-    "geom:area_square_m":1783470476.565269,
+    "geom:area_square_m":1783470753.310282,
     "geom:bbox":"-69.34114,-15.896341,-68.907165,-15.255014",
     "geom:latitude":-15.534178,
     "geom:longitude":-69.095609,
@@ -132,9 +132,10 @@
         "hasc:id":"BO.LP.CM",
         "wd:id":"Q863138"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896826,
-    "wof:geomhash":"38e01d56c63d073d311a9272fed52d6a",
+    "wof:geomhash":"a0c6f8861caed1413df772415724ee70",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1092007003,
-    "wof:lastmodified":1690860313,
+    "wof:lastmodified":1695886173,
     "wof:name":"Camacho",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

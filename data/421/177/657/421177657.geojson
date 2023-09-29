@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.479224,
-    "geom:area_square_m":17177252048.340261,
+    "geom:area_square_m":17177251392.307543,
     "geom:bbox":"-67.270831,-20.997305,-65.756785,-19.35601",
     "geom:latitude":-20.092804,
     "geom:longitude":-66.541492,
@@ -179,12 +179,13 @@
         "qs_pg:id":1347484,
         "wd:id":"Q1360766"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009156,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d0fdfe39107a6991547470228d3bbcc8",
+    "wof:geomhash":"d63e367f89b6872f46be4842941fbb97",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -194,7 +195,7 @@
         }
     ],
     "wof:id":421177657,
-    "wof:lastmodified":1690860365,
+    "wof:lastmodified":1695886582,
     "wof:name":"Antonio Quijarro",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

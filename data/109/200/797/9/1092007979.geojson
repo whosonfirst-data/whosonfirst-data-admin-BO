@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073203,
-    "geom:area_square_m":859848599.486059,
+    "geom:area_square_m":859848500.243404,
     "geom:bbox":"-67.092872,-18.433283,-66.527936,-18.036858",
     "geom:latitude":-18.207978,
     "geom:longitude":-66.841541,
@@ -137,9 +137,10 @@
         "hasc:id":"BO.OR.PD",
         "wd:id":"Q1420290"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896866,
-    "wof:geomhash":"f6b675d0b82aca5c5a5acc0206644d96",
+    "wof:geomhash":"f84fe666887688a16fe3f41065040948",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":1092007979,
-    "wof:lastmodified":1690860307,
+    "wof:lastmodified":1695886163,
     "wof:name":"Pantaleon Dalence",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

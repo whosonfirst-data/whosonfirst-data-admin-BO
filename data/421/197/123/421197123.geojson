@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138434,
-    "geom:area_square_m":1634229580.870407,
+    "geom:area_square_m":1634229344.877862,
     "geom:bbox":"-66.535051,-17.707338,-66.094707,-17.044989",
     "geom:latitude":-17.309799,
     "geom:longitude":-66.325804,
@@ -176,12 +176,13 @@
         "qs_pg:id":1311734,
         "wd:id":"Q947724"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009903,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6a76545201d23cdc2414d97542438e40",
+    "wof:geomhash":"88a080e3bbdd457df60bcd248d9f65bd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -191,7 +192,7 @@
         }
     ],
     "wof:id":421197123,
-    "wof:lastmodified":1690860360,
+    "wof:lastmodified":1695886650,
     "wof:name":"Quillacollo",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

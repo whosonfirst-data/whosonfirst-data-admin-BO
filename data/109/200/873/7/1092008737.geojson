@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.285547,
-    "geom:area_square_m":3352430521.474775,
+    "geom:area_square_m":3352430494.3351,
     "geom:bbox":"-66.28638,-18.615069,-65.345041,-17.970886",
     "geom:latitude":-18.291641,
     "geom:longitude":-65.874961,
@@ -139,9 +139,10 @@
         "hasc:id":"BO.PO.CR",
         "wd:id":"Q936944"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896897,
-    "wof:geomhash":"6ee84f63be57f57b2e537988d96d3bf0",
+    "wof:geomhash":"364b09cbbfe0dc23063a205b063969f8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1092008737,
-    "wof:lastmodified":1690860314,
+    "wof:lastmodified":1695886175,
     "wof:name":"Charcas",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

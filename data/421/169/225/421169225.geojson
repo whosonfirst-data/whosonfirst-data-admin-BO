@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.146996,
-    "geom:area_square_m":1719095948.760995,
+    "geom:area_square_m":1719096402.077812,
     "geom:bbox":"-64.508967,-19.224083,-64.022492,-18.614446",
     "geom:latitude":-18.951869,
     "geom:longitude":-64.298812,
@@ -169,12 +169,13 @@
         "wd:id":"Q638697",
         "wk:page":"Belisario Boeto Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459008800,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b10b8dc75a110481ad27e37434a41aa2",
+    "wof:geomhash":"6215cec6d60a075118c40261da7d523c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -184,7 +185,7 @@
         }
     ],
     "wof:id":421169225,
-    "wof:lastmodified":1690860345,
+    "wof:lastmodified":1695886571,
     "wof:name":"Belisario Boeto",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

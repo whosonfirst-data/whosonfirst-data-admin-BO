@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.465063,
-    "geom:area_square_m":5503646362.494466,
+    "geom:area_square_m":5503646706.026173,
     "geom:bbox":"-64.524878,-17.633386,-63.196898,-15.950099",
     "geom:latitude":-16.846649,
     "geom:longitude":-63.731375,
@@ -136,9 +136,10 @@
         "hasc:id":"BO.SC.SG",
         "wd:id":"Q1215541"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896944,
-    "wof:geomhash":"0d85f48aa159d3997e583f1543575da1",
+    "wof:geomhash":"38639ea423078275cdeb6b3877a696fd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1092009959,
-    "wof:lastmodified":1690860323,
+    "wof:lastmodified":1695886187,
     "wof:name":"Sara",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

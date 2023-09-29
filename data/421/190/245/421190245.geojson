@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.337824,
-    "geom:area_square_m":40183710688.53157,
+    "geom:area_square_m":40183711303.135307,
     "geom:bbox":"-69.072211,-14.603454,-66.920392,-11.857086",
     "geom:latitude":-13.178139,
     "geom:longitude":-67.999832,
@@ -175,12 +175,13 @@
         "wd:id":"Q1355914",
         "wk:page":"Abel Iturralde Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009652,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"465451f0b5c5799aa0fbd563393e3fff",
+    "wof:geomhash":"989a69bd8fdbed28f9185233f00d189f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -190,7 +191,7 @@
         }
     ],
     "wof:id":421190245,
-    "wof:lastmodified":1690860358,
+    "wof:lastmodified":1695886577,
     "wof:name":"Abel Iturralde",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

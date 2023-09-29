@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.353757,
-    "geom:area_square_m":4136647736.27815,
+    "geom:area_square_m":4136647661.704448,
     "geom:bbox":"-65.065041,-19.669385,-64.478715,-18.483649",
     "geom:latitude":-18.969702,
     "geom:longitude":-64.755456,
@@ -130,9 +130,10 @@
         "hasc:id":"BO.CQ.ZU",
         "wd:id":"Q266010"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896796,
-    "wof:geomhash":"9fb1d3538b1d3b54cd56396c1e28d3af",
+    "wof:geomhash":"ce0ee4bf8f922a2280b1b1f34308c730",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":1092006241,
-    "wof:lastmodified":1690860328,
+    "wof:lastmodified":1695886194,
     "wof:name":"Zudanez",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126408,
-    "geom:area_square_m":1506604629.651797,
+    "geom:area_square_m":1506604571.456809,
     "geom:bbox":"-68.968576,-15.803081,-68.437258,-15.151365",
     "geom:latitude":-15.444615,
     "geom:longitude":-68.766108,
@@ -170,12 +170,13 @@
         "wd:id":"Q1355881",
         "wk:page":"Mu\u00f1ecas Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009329,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b7e39ada46552002a6b5a8e9b4365c51",
+    "wof:geomhash":"2a82f43c775afa5cc656456a78c3db8d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":421182437,
-    "wof:lastmodified":1690860367,
+    "wof:lastmodified":1695886586,
     "wof:name":"Munecas",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

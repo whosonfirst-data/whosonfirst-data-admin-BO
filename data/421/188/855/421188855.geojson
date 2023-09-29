@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139795,
-    "geom:area_square_m":1632786898.393535,
+    "geom:area_square_m":1632787319.107118,
     "geom:bbox":"-65.206281,-19.385715,-64.723143,-18.858466",
     "geom:latitude":-19.164478,
     "geom:longitude":-64.971151,
@@ -176,12 +176,13 @@
         "wd:id":"Q1420314",
         "wk:page":"Yampar\u00e1ez Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009583,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6260aa0b863e9c126ff05a6abf2746f0",
+    "wof:geomhash":"1ee42fecbe027a654392d4f2c5c9d99e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -191,7 +192,7 @@
         }
     ],
     "wof:id":421188855,
-    "wof:lastmodified":1690860353,
+    "wof:lastmodified":1695886576,
     "wof:name":"Yamparaez",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

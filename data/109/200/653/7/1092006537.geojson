@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.060719,
-    "geom:area_square_m":12526924833.136499,
+    "geom:area_square_m":12526923779.691933,
     "geom:bbox":"-65.552102,-18.042228,-64.188217,-15.941518",
     "geom:latitude":-17.231167,
     "geom:longitude":-64.899841,
@@ -139,9 +139,10 @@
         "hasc:id":"BO.CB.CR",
         "wd:id":"Q1366060"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896808,
-    "wof:geomhash":"6d77009442fac56f9246140343d55a5c",
+    "wof:geomhash":"8a18f9585b213e16dd1c4f274fb2d9d1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1092006537,
-    "wof:lastmodified":1690860330,
+    "wof:lastmodified":1695886197,
     "wof:name":"Carrasco",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017172,
-    "geom:area_square_m":202418037.554803,
+    "geom:area_square_m":202418063.754422,
     "geom:bbox":"-66.082823,-17.716781,-65.872835,-17.476003",
     "geom:latitude":-17.577648,
     "geom:longitude":-65.960637,
@@ -168,12 +168,13 @@
         "qs_pg:id":1347428,
         "wd:id":"Q1424407"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009156,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"574fa1fd60d2abdabd84ce3c31dc5d43",
+    "wof:geomhash":"90c4a8cceb74b25ef7110e85fefb2c26",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":421177651,
-    "wof:lastmodified":1690860363,
+    "wof:lastmodified":1695886579,
     "wof:name":"German Jordan",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

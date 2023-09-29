@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119168,
-    "geom:area_square_m":1416351168.94872,
+    "geom:area_square_m":1416351050.143756,
     "geom:bbox":"-68.99656,-16.255486,-68.494691,-15.754521",
     "geom:latitude":-16.013804,
     "geom:longitude":-68.71818,
@@ -136,9 +136,10 @@
         "hasc:id":"BO.LP.OM",
         "wd:id":"Q951271"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896845,
-    "wof:geomhash":"12c143406aab7dbbae741f0f2f949964",
+    "wof:geomhash":"2a31f30c919590f6379670677ae83aa2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1092007507,
-    "wof:lastmodified":1690860325,
+    "wof:lastmodified":1695886189,
     "wof:name":"Omasuyos",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

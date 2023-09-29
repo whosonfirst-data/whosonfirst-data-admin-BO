@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.375571,
-    "geom:area_square_m":16454711816.07881,
+    "geom:area_square_m":16454713543.047792,
     "geom:bbox":"-69.363095,-15.249087,-67.38808,-13.931796",
     "geom:latitude":-14.667531,
     "geom:longitude":-68.366113,
@@ -137,12 +137,13 @@
         "qs_pg:id":1080248,
         "wd:id":"Q2367617"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009501,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a8bbba1623d28ddc88ef6947110b96e3",
+    "wof:geomhash":"1e3ad587233b29b977c2e167b79fa86c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421187093,
-    "wof:lastmodified":1690860350,
+    "wof:lastmodified":1695886572,
     "wof:name":"Franz Tamayo",
     "wof:parent_id":85669409,
     "wof:placetype":"county",

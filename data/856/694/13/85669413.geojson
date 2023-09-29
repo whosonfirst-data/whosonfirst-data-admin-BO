@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.420517,
-    "geom:area_square_m":51792858610.646744,
+    "geom:area_square_m":51792857980.102898,
     "geom:bbox":"-69.142341,-19.88625,-66.077663,-17.323932",
     "geom:latitude":-18.633941,
     "geom:longitude":-67.694588,
@@ -343,17 +343,19 @@
         "gn:id":3909233,
         "gp:id":2344805,
         "hasc:id":"BO.OR",
+        "iso:code":"BO-O",
         "iso:id":"BO-O",
         "qs_pg:id":318300,
         "unlc:id":"BO-O",
         "wd:id":"Q1061368",
         "wk:page":"Oruro Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"de920b7f2710adc9907c0f064949b4f9",
+    "wof:geomhash":"684d359eaf1c5f65b6c53afd40e083b8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -372,7 +374,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1690860297,
+    "wof:lastmodified":1695884790,
     "wof:name":"Oruro",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

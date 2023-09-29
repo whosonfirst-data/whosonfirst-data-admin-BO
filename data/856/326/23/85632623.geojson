@@ -1189,6 +1189,7 @@
         "hasc:id":"BO",
         "icao:code":"CP",
         "ioc:id":"BOL",
+        "iso:code":"BO",
         "itu:id":"BOL",
         "loc:id":"n79066590",
         "m49:code":"068",
@@ -1203,6 +1204,7 @@
         "wk:page":"Bolivia",
         "wmo:id":"BO"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BO",
     "wof:country_alpha3":"BOL",
     "wof:geom_alt":[
@@ -1228,7 +1230,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1694639507,
+    "wof:lastmodified":1695881162,
     "wof:name":"Bolivia",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

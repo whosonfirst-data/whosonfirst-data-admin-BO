@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065574,
-    "geom:area_square_m":771183131.318928,
+    "geom:area_square_m":771183124.659858,
     "geom:bbox":"-66.272857,-18.163804,-65.897193,-17.801214",
     "geom:latitude":-17.992377,
     "geom:longitude":-66.069534,
@@ -141,9 +141,10 @@
         "hasc:id":"BO.PO.GB",
         "wd:id":"Q1360850"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896904,
-    "wof:geomhash":"7b7aa94926eeff3f8950f1c3927c1121",
+    "wof:geomhash":"b5b9298184747ae88f6bcab4ebee1670",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1092008953,
-    "wof:lastmodified":1690860317,
+    "wof:lastmodified":1695886177,
     "wof:name":"General Bernardino",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

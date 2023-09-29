@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.248852,
-    "geom:area_square_m":2926520361.036016,
+    "geom:area_square_m":2926520347.340881,
     "geom:bbox":"-65.829348,-18.40543,-65.233296,-17.671302",
     "geom:latitude":-17.998009,
     "geom:longitude":-65.50788,
@@ -139,9 +139,10 @@
         "hasc:id":"BO.CB.MZ",
         "wd:id":"Q1427763"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896814,
-    "wof:geomhash":"ca8ef16fd7e96bb729324fa81c8acd0d",
+    "wof:geomhash":"6a9a1eb4a5512a231ae199c042159783",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1092006697,
-    "wof:lastmodified":1690860317,
+    "wof:lastmodified":1695886178,
     "wof:name":"Mizque",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

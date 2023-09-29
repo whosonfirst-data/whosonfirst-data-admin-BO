@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04907,
-    "geom:area_square_m":578381731.617196,
+    "geom:area_square_m":578381430.75781,
     "geom:bbox":"-65.811468,-17.708378,-65.435616,-17.491204",
     "geom:latitude":-17.593833,
     "geom:longitude":-65.634658,
@@ -136,9 +136,10 @@
         "hasc:id":"BO.CB.AR",
         "wd:id":"Q1325748"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896798,
-    "wof:geomhash":"a40f1cfb22fddc84ef8381377041fce6",
+    "wof:geomhash":"2d79dc046273709377b513f507c8a212",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1092006291,
-    "wof:lastmodified":1690860316,
+    "wof:lastmodified":1695886176,
     "wof:name":"Arani",
     "wof:parent_id":85669395,
     "wof:placetype":"county",

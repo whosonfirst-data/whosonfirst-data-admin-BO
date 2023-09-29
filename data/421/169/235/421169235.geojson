@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.618598,
-    "geom:area_square_m":18615409692.129875,
+    "geom:area_square_m":18615410437.15395,
     "geom:bbox":"-64.319157,-22.346337,-62.260665,-21.003653",
     "geom:latitude":-21.545853,
     "geom:longitude":-63.194847,
@@ -162,12 +162,13 @@
         "wd:id":"Q267695",
         "wk:page":"Gran Chaco Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459008800,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5cf5b1a5010b8a8e5a42627c1779e118",
+    "wof:geomhash":"503d2d3d4fbebf0926c40f1371e502cf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -177,7 +178,7 @@
         }
     ],
     "wof:id":421169235,
-    "wof:lastmodified":1690860344,
+    "wof:lastmodified":1695886570,
     "wof:name":"Gran Chaco",
     "wof:parent_id":85669431,
     "wof:placetype":"county",

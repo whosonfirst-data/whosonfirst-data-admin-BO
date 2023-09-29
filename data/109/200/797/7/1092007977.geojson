@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074335,
-    "geom:area_square_m":874553825.406935,
+    "geom:area_square_m":874553793.085585,
     "geom:bbox":"-68.056312,-18.08749,-67.585451,-17.72616",
     "geom:latitude":-17.924784,
     "geom:longitude":-67.82451,
@@ -58,9 +58,10 @@
     "wof:concordances":{
         "hasc:id":"BO.OR.CR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896864,
-    "wof:geomhash":"63629c41a8b2caf92910c2d076c2f97b",
+    "wof:geomhash":"c9f86f5c64f5b7d2cfd0954209a46c8a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1092007977,
-    "wof:lastmodified":1627521602,
+    "wof:lastmodified":1695886187,
     "wof:name":"Nor Carangas",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

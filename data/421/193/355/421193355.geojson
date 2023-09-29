@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.590431,
-    "geom:area_square_m":18217888056.382133,
+    "geom:area_square_m":18217888092.736019,
     "geom:bbox":"-68.077675,-22.906568,-66.22278,-21.296617",
     "geom:latitude":-22.121916,
     "geom:longitude":-67.165214,
@@ -180,12 +180,13 @@
         "wd:id":"Q537564",
         "wk:page":"Sur L\u00edpez Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009768,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c81658c4aa0bb0a28f106ae26ed6eed4",
+    "wof:geomhash":"25493528e8bee699ab17fc92459e0f22",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -195,7 +196,7 @@
         }
     ],
     "wof:id":421193355,
-    "wof:lastmodified":1690860342,
+    "wof:lastmodified":1695886566,
     "wof:name":"Sur Lipez",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.330939,
-    "geom:area_square_m":3870928948.111136,
+    "geom:area_square_m":3870928939.880847,
     "geom:bbox":"-69.014201,-19.433719,-67.893526,-18.521996",
     "geom:latitude":-18.923825,
     "geom:longitude":-68.558793,
@@ -143,9 +143,10 @@
         "hasc:id":"BO.OR.AT",
         "wd:id":"Q1425469"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896870,
-    "wof:geomhash":"21a0bde8b27fd7f31d97123c2864db51",
+    "wof:geomhash":"45dcdfb19a81b1f31dabbd5f103afcc6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":1092008039,
-    "wof:lastmodified":1690860318,
+    "wof:lastmodified":1695886647,
     "wof:name":"Sabaya",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

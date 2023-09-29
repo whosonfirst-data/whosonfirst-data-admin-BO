@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.41207,
-    "geom:area_square_m":4844590308.112616,
+    "geom:area_square_m":4844590308.113071,
     "geom:bbox":"-64.326035,-18.455004,-63.485129,-17.519424",
     "geom:latitude":-18.047855,
     "geom:longitude":-63.946486,
@@ -169,9 +169,10 @@
         "hasc:id":"BO.SC.FL",
         "wd:id":"Q818"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896931,
-    "wof:geomhash":"c2b4da3387668d1c9d92751c651f4392",
+    "wof:geomhash":"1a85d7b1f82095d1063529cdc7781488",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -181,7 +182,7 @@
         }
     ],
     "wof:id":1092009661,
-    "wof:lastmodified":1690860323,
+    "wof:lastmodified":1695886648,
     "wof:name":"Florida",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

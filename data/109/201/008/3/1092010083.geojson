@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.200614,
-    "geom:area_square_m":2367389624.991886,
+    "geom:area_square_m":2367389307.617455,
     "geom:bbox":"-63.268058,-17.684736,-62.725025,-17.035606",
     "geom:latitude":-17.378154,
     "geom:longitude":-62.979628,
@@ -135,9 +135,10 @@
         "hasc:id":"BO.SC.WR",
         "wd:id":"Q1215506"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896949,
-    "wof:geomhash":"f4ef6cd2954753b0b62a91c57786ad4f",
+    "wof:geomhash":"36d2eb71cba72e214f200af9ab248b58",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1092010083,
-    "wof:lastmodified":1690860337,
+    "wof:lastmodified":1695886209,
     "wof:name":"Warnes",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

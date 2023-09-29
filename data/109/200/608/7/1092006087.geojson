@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.342867,
-    "geom:area_square_m":3961427262.466003,
+    "geom:area_square_m":3961427250.853469,
     "geom:bbox":"-65.188893,-21.155074,-64.160306,-20.514578",
     "geom:latitude":-20.870846,
     "geom:longitude":-64.581163,
@@ -128,9 +128,10 @@
         "hasc:id":"BO.CQ.SC",
         "wd:id":"Q1420287"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896791,
-    "wof:geomhash":"f966b479b1b2f0ac8ab1151503aaec3f",
+    "wof:geomhash":"9b3297d890568d4809a28bea77ad99c4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1092006087,
-    "wof:lastmodified":1690860330,
+    "wof:lastmodified":1695886196,
     "wof:name":"Sud Cinti",
     "wof:parent_id":85669399,
     "wof:placetype":"county",

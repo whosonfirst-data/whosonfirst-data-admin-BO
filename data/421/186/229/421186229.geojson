@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.289019,
-    "geom:area_square_m":3401740784.401551,
+    "geom:area_square_m":3401740903.927618,
     "geom:bbox":"-64.819462,-18.235978,-64.207956,-17.421704",
     "geom:latitude":-17.849275,
     "geom:longitude":-64.478496,
@@ -168,12 +168,13 @@
         "qs_pg:id":1062250,
         "wd:id":"Q1215606"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009474,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"17c99532fa7420f875efabd55085c5b8",
+    "wof:geomhash":"938806eaba589b9be52d14f0a49dfa21",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":421186229,
-    "wof:lastmodified":1690860354,
+    "wof:lastmodified":1695886576,
     "wof:name":"Manuel M. Caballero",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

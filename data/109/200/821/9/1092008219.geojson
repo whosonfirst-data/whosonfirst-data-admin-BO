@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.206178,
-    "geom:area_square_m":2408143188.57444,
+    "geom:area_square_m":2408143097.276497,
     "geom:bbox":"-66.904389,-19.414447,-66.191211,-18.866314",
     "geom:latitude":-19.164148,
     "geom:longitude":-66.56738,
@@ -128,9 +128,10 @@
         "hasc:id":"BO.OR.AV",
         "wd:id":"Q1427732"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896876,
-    "wof:geomhash":"8830524f886fea6834f34ba5a701f2e8",
+    "wof:geomhash":"f6aecff6ea32cfdcf21a09e977b55fea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1092008219,
-    "wof:lastmodified":1690860315,
+    "wof:lastmodified":1695886176,
     "wof:name":"Sebastian Pagador",
     "wof:parent_id":85669413,
     "wof:placetype":"county",

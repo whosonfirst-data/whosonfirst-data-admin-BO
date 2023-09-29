@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.982242,
-    "geom:area_square_m":35867897350.960815,
+    "geom:area_square_m":35867896863.763657,
     "geom:bbox":"-64.319572,-14.358511,-61.527452,-12.428946",
     "geom:latitude":-13.415958,
     "geom:longitude":-63.317514,
@@ -58,9 +58,10 @@
     "wof:concordances":{
         "hasc:id":"BO.EB.VD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896772,
-    "wof:geomhash":"f612484497f55ddaada2993a9e81930e",
+    "wof:geomhash":"c974cb5e687d898bf7f941f521d51698",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1092005711,
-    "wof:lastmodified":1627521601,
+    "wof:lastmodified":1695886184,
     "wof:name":"Itenez",
     "wof:parent_id":85669403,
     "wof:placetype":"county",

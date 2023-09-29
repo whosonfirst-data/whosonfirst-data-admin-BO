@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.888288,
-    "geom:area_square_m":57743156981.767197,
+    "geom:area_square_m":57743155049.247093,
     "geom:bbox":"-67.005779,-18.682883,-64.188217,-15.673504",
     "geom:latitude":-17.181415,
     "geom:longitude":-65.619581,
@@ -352,17 +352,19 @@
         "gn:id":3919966,
         "gp:id":2344802,
         "hasc:id":"BO.CB",
+        "iso:code":"BO-C",
         "iso:id":"BO-C",
         "qs_pg:id":423602,
         "unlc:id":"BO-C",
         "wd:id":"Q233917",
         "wk:page":"Cochabamba Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"906f9e28678a5f572325db894b53cfaa",
+    "wof:geomhash":"e61d2b5185920a2f860a6fdd96ce55f2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -381,7 +383,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1690860298,
+    "wof:lastmodified":1695884791,
     "wof:name":"Cochabamba",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

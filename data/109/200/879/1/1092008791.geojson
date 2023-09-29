@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.429421,
-    "geom:area_square_m":5027638110.982386,
+    "geom:area_square_m":5027638616.677698,
     "geom:bbox":"-66.338065,-19.07476,-65.399698,-18.424508",
     "geom:latitude":-18.764452,
     "geom:longitude":-65.891355,
@@ -142,9 +142,10 @@
         "hasc:id":"BO.PO.CY",
         "wd:id":"Q733870"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896898,
-    "wof:geomhash":"765afd1a6abb6273e0034e841b604d8a",
+    "wof:geomhash":"924cd6f400d22380133b7d6b2376204b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1092008791,
-    "wof:lastmodified":1690860326,
+    "wof:lastmodified":1695886191,
     "wof:name":"Chayanta",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.358619,
-    "geom:area_square_m":119916078030.205017,
+    "geom:area_square_m":119916079105.587326,
     "geom:bbox":"-68.774038,-22.906568,-64.714226,-17.801214",
     "geom:latitude":-20.545905,
     "geom:longitude":-66.729627,
@@ -356,17 +356,19 @@
         "gn:id":3907580,
         "gp:id":2344807,
         "hasc:id":"BO.PO",
+        "iso:code":"BO-P",
         "iso:id":"BO-P",
         "qs_pg:id":222807,
         "unlc:id":"BO-P",
         "wd:id":"Q238079",
         "wk:page":"Potos\u00ed Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9584dc72c4ba00c199c0264cbec1c7be",
+    "wof:geomhash":"849fdd61b143998f19e34b074395ef9f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -385,7 +387,7 @@
         "que",
         "aym"
     ],
-    "wof:lastmodified":1690860294,
+    "wof:lastmodified":1695884332,
     "wof:name":"Potos\u00ed",
     "wof:parent_id":85632623,
     "wof:placetype":"region",

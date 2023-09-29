@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.438606,
-    "geom:area_square_m":5048787891.61903,
+    "geom:area_square_m":5048787427.742664,
     "geom:bbox":"-64.440734,-21.955906,-63.647594,-20.88733",
     "geom:latitude":-21.420304,
     "geom:longitude":-64.100424,
@@ -133,9 +133,10 @@
         "hasc:id":"BO.TR.OC",
         "wd:id":"Q1478034"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896954,
-    "wof:geomhash":"2f63c0f89eca328897f20b676fb0bf46",
+    "wof:geomhash":"dbd08ba5c95d5078695eb49501a9967a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1092010191,
-    "wof:lastmodified":1690860337,
+    "wof:lastmodified":1695886211,
     "wof:name":"Burnet O'Connor",
     "wof:parent_id":85669431,
     "wof:placetype":"county",

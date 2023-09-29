@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.235167,
-    "geom:area_square_m":14609302662.510607,
+    "geom:area_square_m":14609302503.239059,
     "geom:bbox":"-64.839253,-18.025218,-63.458784,-15.802045",
     "geom:latitude":-16.946673,
     "geom:longitude":-64.170618,
@@ -139,9 +139,10 @@
         "hasc:id":"BO.SC.IC",
         "wd:id":"Q1215525"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1473896936,
-    "wof:geomhash":"ff7686278f8a32554922d2c83fefc3f2",
+    "wof:geomhash":"48205c06e6f1f51a2e12ecc287c96e13",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1092009785,
-    "wof:lastmodified":1690860320,
+    "wof:lastmodified":1695886182,
     "wof:name":"Ichilo",
     "wof:parent_id":85669427,
     "wof:placetype":"county",

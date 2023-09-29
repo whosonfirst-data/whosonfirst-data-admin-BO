@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183593,
-    "geom:area_square_m":2112227328.605017,
+    "geom:area_square_m":2112227756.977583,
     "geom:bbox":"-67.72343,-21.856901,-67.134757,-21.109531",
     "geom:latitude":-21.497141,
     "geom:longitude":-67.431143,
@@ -132,12 +132,13 @@
         "qs_pg:id":349595,
         "wd:id":"Q1360868"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009053,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"053f5865ba7b0842bce6dad50c26564f",
+    "wof:geomhash":"da16e8beac705893aad15b872b64af26",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421175057,
-    "wof:lastmodified":1690860357,
+    "wof:lastmodified":1695886577,
     "wof:name":"Enrique Baldivieso",
     "wof:parent_id":85669421,
     "wof:placetype":"county",

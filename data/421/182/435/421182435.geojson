@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.238796,
-    "geom:area_square_m":2823394949.621167,
+    "geom:area_square_m":2823394591.081091,
     "geom:bbox":"-68.037518,-17.447284,-67.293685,-16.662547",
     "geom:latitude":-17.022381,
     "geom:longitude":-67.611875,
@@ -168,12 +168,13 @@
         "wd:id":"Q1424412",
         "wk:page":"Loayza Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BO",
     "wof:created":1459009329,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"63400aba41e61a4469d6f4c24b619ab7",
+    "wof:geomhash":"c83da3c07d4a3c9e2340432829d92bfd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":421182435,
-    "wof:lastmodified":1690860368,
+    "wof:lastmodified":1695886585,
     "wof:name":"Loayza",
     "wof:parent_id":85669409,
     "wof:placetype":"county",
