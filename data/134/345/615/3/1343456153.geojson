@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-67.52278,-10.99998,-67.52278,-10.99998",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Angostura"
@@ -80,7 +82,7 @@
         "gn:id":11504729
     },
     "wof:country":"BO",
-    "wof:geomhash":"291f892aeccfa9c7991e950aaff2df92",
+    "wof:geomhash":"36d52daccebe7ed5a8b41269d8df4a0e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -91,20 +93,22 @@
         }
     ],
     "wof:id":1343456153,
-    "wof:lastmodified":1566615960,
+    "wof:lastmodified":1706239330,
     "wof:name":"Angostura",
     "wof:parent_id":1092008329,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276864289
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -67.52278000000001,
+    -67.52278,
     -10.99998,
-    -67.52278000000001,
+    -67.52278,
     -10.99998
 ],
-  "geometry": {"coordinates":[-67.52278000000001,-10.99998],"type":"Point"}
+  "geometry": {"coordinates":[-67.52278,-10.99998],"type":"Point"}
 }

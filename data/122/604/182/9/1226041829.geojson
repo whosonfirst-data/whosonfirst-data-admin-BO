@@ -43,8 +43,13 @@
     "wof:concordances":{
         "gn:id":3912890
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3966324
+        ]
+    },
     "wof:country":"BO",
-    "wof:geomhash":"7284ba777c9b3705fb559cfc15dde272",
+    "wof:geomhash":"6b5c63ef9ae32b3761df9f51673a3580",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -55,20 +60,22 @@
         }
     ],
     "wof:id":1226041829,
-    "wof:lastmodified":1566618026,
+    "wof:lastmodified":1706239330,
     "wof:name":"Estancia Kente",
     "wof:parent_id":1092008039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310204159
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -68.52131999999999,
+    -68.52132,
     -18.69825,
-    -68.52131999999999,
+    -68.52132,
     -18.69825
 ],
-  "geometry": {"coordinates":[-68.52131999999999,-18.69825],"type":"Point"}
+  "geometry": {"coordinates":[-68.52132,-18.69825],"type":"Point"}
 }
