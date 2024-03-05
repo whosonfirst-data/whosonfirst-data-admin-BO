@@ -32,6 +32,9 @@
     "name:spa_x_preferred":[
         "Chajaya"
     ],
+    "name:und_x_variant":[
+        "Cantaya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3921450
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3922195
+        ]
     },
     "wof:country":"BO",
     "wof:geomhash":"8d9b0e83a84da83775d1b84e6e27ab5e",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1259986091,
-    "wof:lastmodified":1566617832,
+    "wof:lastmodified":1706239330,
     "wof:name":"Chajaya",
     "wof:parent_id":1092006969,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293493911
+    ],
     "wof:tags":[]
 },
   "bbox": [

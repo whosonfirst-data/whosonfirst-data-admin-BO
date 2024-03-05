@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-67.69557,-19.88979,-67.69557,-19.88979",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pueblo Detahua"
@@ -45,7 +47,7 @@
         "gn:id":3903686
     },
     "wof:country":"BO",
-    "wof:geomhash":"dc4ca5d7a39465fac4d0a713c0ac8af1",
+    "wof:geomhash":"f423fc046e92dba9298c656a5d51d121",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,20 +58,22 @@
         }
     ],
     "wof:id":1343382329,
-    "wof:lastmodified":1566615754,
+    "wof:lastmodified":1706239330,
     "wof:name":"Tahua",
     "wof:parent_id":421177659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193009909
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -67.69556999999999,
+    -67.69557,
     -19.88979,
-    -67.69556999999999,
+    -67.69557,
     -19.88979
 ],
-  "geometry": {"coordinates":[-67.69556999999999,-19.88979],"type":"Point"}
+  "geometry": {"coordinates":[-67.69557,-19.88979],"type":"Point"}
 }

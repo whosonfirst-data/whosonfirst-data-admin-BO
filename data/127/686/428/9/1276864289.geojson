@@ -79,6 +79,11 @@
     "wof:concordances":{
         "gn:id":11504086
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11504729
+        ]
+    },
     "wof:country":"BO",
     "wof:geomhash":"d85b7b86dfed8524734241011d103023",
     "wof:hierarchy":[
@@ -91,13 +96,15 @@
         }
     ],
     "wof:id":1276864289,
-    "wof:lastmodified":1566616385,
+    "wof:lastmodified":1706239331,
     "wof:name":"Angostura",
     "wof:parent_id":1092008329,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343456153
+    ],
     "wof:tags":[]
 },
   "bbox": [

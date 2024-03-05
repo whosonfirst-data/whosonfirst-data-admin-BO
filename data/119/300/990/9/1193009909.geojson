@@ -11,6 +11,7 @@
     "geom:longitude":-67.69542,
     "gn:admin1_code":"7.0",
     "gn:asciiname":"Tahua",
+    "gn:cc2":"BO",
     "gn:country_code":"BO",
     "gn:dem":3688,
     "gn:feature_class":"P",
@@ -46,6 +47,11 @@
     "wof:concordances":{
         "gn:id":3903687
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3903686
+        ]
+    },
     "wof:country":"BO",
     "wof:geomhash":"f068c9f7f0c1efe3abf2af3d2a7e1917",
     "wof:hierarchy":[
@@ -58,13 +64,15 @@
         }
     ],
     "wof:id":1193009909,
-    "wof:lastmodified":1566616933,
+    "wof:lastmodified":1706239330,
     "wof:name":"Tahua",
     "wof:parent_id":421177659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343382329
+    ],
     "wof:tags":[]
 },
   "bbox": [

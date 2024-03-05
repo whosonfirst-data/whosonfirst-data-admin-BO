@@ -35,11 +35,29 @@
     "name:deu_x_preferred":[
         "Umala"
     ],
+    "name:ita_x_preferred":[
+        "Umala"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10db\u10d0\u10da\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Umala"
+    ],
+    "name:que_x_preferred":[
+        "Umala munisipyu"
+    ],
     "name:sco_x_preferred":[
+        "Umala"
+    ],
+    "name:spa_x_preferred":[
         "Umala"
     ],
     "name:swe_x_preferred":[
         "Umala"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e3\u10db\u10d0\u10da\u10d0\u10e8 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,8 +71,16 @@
         "gn:id":3902068,
         "wk:page":"Umala"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3902067
+        ],
+        "wk:page":[
+            "Umala_Municipality"
+        ]
+    },
     "wof:country":"BO",
-    "wof:geomhash":"92c1f5e0065de793bd74f3e90c1fbc73",
+    "wof:geomhash":"c63d60dc2c1cee4918c1f3d98524f899",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -65,20 +91,22 @@
         }
     ],
     "wof:id":1242601655,
-    "wof:lastmodified":1566617684,
+    "wof:lastmodified":1706239330,
     "wof:name":"Umala",
     "wof:parent_id":1092006923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327437415
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -68.02176999999999,
+    -68.02177,
     -17.37561,
-    -68.02176999999999,
+    -68.02177,
     -17.37561
 ],
-  "geometry": {"coordinates":[-68.02176999999999,-17.37561],"type":"Point"}
+  "geometry": {"coordinates":[-68.02177,-17.37561],"type":"Point"}
 }
